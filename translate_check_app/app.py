@@ -65,7 +65,7 @@ def main():
             unsafe_allow_html=True,
         )
         if st.button("Make Changes"):
-            new_row = df.loc[index]
+            new_row = df.iloc[index]
             new_row["transate_v1"] = new_value
             new_df = pd.DataFrame([new_row])
             new_csv = "./app/data/translate_v1.csv"
