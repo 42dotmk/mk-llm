@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  translate-check-app:
+    container_name: translate-check-app
+    build: 
+      context: ""
+    volumes:
+      - ./data:/app/data
+    ports:
+      - 8501:8501
