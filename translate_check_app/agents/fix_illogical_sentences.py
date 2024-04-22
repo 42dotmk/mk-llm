@@ -42,7 +42,7 @@ fix_illogical_sentences_prompt = PromptTemplate(template=FIX_ILLOGICAL_SENTENCES
 
 
 def get_chain(model='gpt-4-turbo-2024-04-09'):
-    model = ChatOpenAI(model=model, temperature=0.5,max_tokens=4000)
+    model = ChatOpenAI(model=model, temperature=0.1,max_tokens=4000)
     return fix_illogical_sentences_prompt | model | fixed_illogical_sentences_parser
 
 

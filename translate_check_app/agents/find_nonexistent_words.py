@@ -9,6 +9,7 @@ TRANSLATED_TEXT:
 {translated_text}
 
 Which words in the text dont exist in the Macedonian language or are translated badly?
+Include only the words you are certain about. 
 Answer in a json format  and include a short explanation."""
 
 prompt = PromptTemplate(template=PROMPT_TEMPLATE,
