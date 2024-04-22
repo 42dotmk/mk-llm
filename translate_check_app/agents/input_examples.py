@@ -1,49 +1,48 @@
-ENGLISH_TEXT="""Title: Michigan Man's Rocket Sled Stunt Ends in a Fiery Fiasco
+ENGLISH_TEXT="""William set up the wickets while he got the bats.
 
-A recent incident in which a Michigan man's impromptu rocket sled stunt went horribly wrong has sent shockwaves through the local community. Authorities reported that the man, known for hosting events filled with eccentric and daring deeds, was sledding downhill with an attached homemade rocket when it suddenly exploded. This calamity serves as a stark reminder of the perils that accompany some of the most audacious and seemingly harmless stunts.
+Enthusiastic about their weekend cricket practice, Brett eagerly took charge of the field while William went to gather the necessary equipment. As William rummaged through his cricket bag in search of the bats, he became momentarily lost in thought about his recent batting performance. During the last few practices, he had noticed a considerable improvement in his technique, but he still struggled with consistency.
 
-According to reports, the incident took place on a Saturday afternoon at the man's residence in a quiet Michigan neighborhood. His home, often the site of numerous boisterous gatherings, attracted a crowd expecting yet another sensational and unforgettable performance. Little did they know that the party would take a dramatic and unfortunate turn.
+As he zipped up his cricket bag containing the bats, William noticed a small cricket handbook tucked away in the corner near his gloves. It was titled "Mastering Your Cricket Game: The Ultimate Guide to Improving Batting, Bowling, and Fielding Skills." He recalled purchasing it last summer, after an especially disappointing performance at a local tournament. Seeing it reignited his determination to master his skills.
 
-The victim, whose identity has not been disclosed, had a reputation for doing what locals called "crazy things" at his parties. Among friends and family, he was known as a thrill-seeker, always pushing the limits of his own abilities to entertain. Onlookers that day anticipated an adrenaline-pumping, top-notch performance, but instead, they witnessed an alarming real-life disaster.
+Having located the perfect bats for both him and Brett, William decided to take a quick glance at the book before joining his friend on the field. As he flipped through the pages, he found a section on improving batting consistency. The tips in the manuscript seemed tailor-made for his situation. The section outlined strategies like breaking down the batting technique into smaller components and focusing on specific areas that could use improvement.
 
-The incident began when the man revealed his latest creation: a makeshift sled attached to a homemade rocket. The purpose of the contraption was ostensibly to provide him and his guests with an exhilarating ride down a steep hill adjacent to his property.
+Bolstered by renewed conviction, William made his way back to the cricket field, bat in hand. He noticed that Brett had already completed setting up the wickets and was now waiting at the edge of the pitch, eager to get started.
 
-Undeterred by the inherent risks of his endeavor, the man began his descent. However, as he gained speed, something went wrong. Witnesses described the scene as "chaotic" and "terrifying" when the rocket suddenly exploded, engulfing the sled and the man in flames.
+"I found these new tips in my cricket guide," William said excitedly, showing Brett the handbook. "I think it might help us both become more consistent hitters."
 
-First responders quickly arrived at the scene, extinguishing the fire and rushing the victim to a nearby hospital. Authorities confirmed that the man sustained serious injuries, but his current condition remains undisclosed.
+Brett inspected the book and nodded in approval. "Why not give it a try?" he responded. "You never know – it might just be the game-changer we both need!"
 
-Upon investigating the cause of the accident, authorities discovered that the homemade rocket had been constructed using dangerously unstable materials. Paired with the victim's inadequate preparation and insufficient safety measures, the situation had all the makings of a catastrophic outcome.
+As the two friends warmed up, they decided to integrate the tips from the handbook one at a time. Each suggestion, from maintaining a stable stance to focusing on the proper grip and follow-through, seemed to have an immediate impact on their batting performance. Even Brett, who was more experienced and was usually a more consistent hitter than William, found himself benefiting from the advice.
 
-As news of the tragedy spread, the community's response was one of shock and sadness. Locals expressed concern for the victim's wellbeing and extended support to his family. However, some residents also criticized the man's reckless behavior and the danger he imposed on his friends, family, and neighbors.
+As the sun began its slow descent, bathing the cricket field in a warm, golden light, the two friends continued practicing their batting skills, one ball at a time. With newfound confidence and determination, they persevered, pushing themselves to make the most of every practice session.
 
-The aftermath of this disastrous event brings to light the pressing issue of safety and the dire consequences of ignoring it. While adrenaline-inducing activities may provide a temporary rush, the reality is that the risks they present often outweigh the momentary benefits.
+As days turned into weeks, the duo's progress became increasingly noticeable, not only to themselves but also to their teammates and coaches. Word spread about the mysterious cricket guidebook, and soon, their teammates were clamoring to borrow William's special resource.
 
-In today's world, where individuals often engage in risk-taking behavior, either for personal satisfaction or social media notoriety, this tragic episode reminds us all of the importance of prioritizing safety and adopting responsible practices even in pursuit of thrills.
+In the end, the magical combination of hard work, dedication, and the tips in the "Mastering Your Cricket Game" guidebook paid off. William and Brett went on to become integral members of their cricket team, leading their squad to victory in a number of local and regional tournaments.
 
-The Michigan man's rocket sled stunt may have ended in a blaze, but it also sparked a crucial conversation about the inherent dangers of reckless behavior and the significance of valuing personal and public safety above all else."""
+While scaling the ladder of success, the two friends cherished their afternoons on the cricket field – where it all began, with the wickets, the bats, and, of course, that unassuming little handbook that had become their trusted companion."""
 
 
-INITIAL_TRANSLATED_TEXT="""Наслов: Јурнавата со ракетен рендар на Мичиген завршува со огнена фијаско
+INITIAL_TRANSLATED_TEXT="""Вилијам ги наместил викетовите додека ги земал лилјаците.
 
-Неодамнешниот инцидент каде што импровизираната јурнава со ракетен рендар на еден маж од Мичиген страшно излета по зло има предизвикано шокантни бранувања низ локалната заедница. Властите известија дека мажот, познат по организирањето настани исполнети со ексцентрични и смели дела, се лизгал надолу со прикачен рачно изработен ракетен рендар кога тој одненадеж експлодирал. Оваа катастрофа служи како сурово потсетување за опасностите што ги придружуваат некои од најсмелите и наизглед безопасни јурнави.
+Ентузијастичен во врска со нивната вежба за крикет во текот на викендот, Брет со нетрпение ја презеде контролата на полето додека Вилијам отиде да ја собере неопходната опрема. Додека Вилијам копал низ својата торба за крикет во потрага по лилјаците, тој за момент се изгубил размислувајќи за својата неодамнешна изведба. Во текот на последните неколку практики, тој забележал значително подобрување во својата техника, но сепак се борел со доследност.
 
-Според извештаите, инцидентот се случил во сабота попладне на резиденцијата на мажот во една тивка населба во Мичиген. Неговиот дом, често место на бројни бучави собири, привлекол толпа која очекувала уште една сензационална и незаборавна изведба. Малку знаеле дека забавата ќе земе драматичен и несреќен свртување.
+Додека ја закопчувал својата торба за крикет со лилјаците, Вилијам забележал еден мал прирачник за крикет сокриен во аголот близу до неговите ракавици. Насловен е како "Си ја одржуваш својата игра на крикет: Ултиматскиот водич кон докажување на батингот, куглањето и вежбањето." Тој се потсети дека го купил минатото лето, по особено разочарувачки настап на локалниот турнир. Со оглед на тоа, тој бил решен да ги совлада своите вештини.
 
-Жртвата, чиј идентитет не е откриен, имала репутација за правење на она што локалците го нарекувале "лудачки работи" на своите забави. Меѓу пријателите и семејството, бил познат како љубител на возбуда, секогаш ги туркал границите на своите сопствени способности за да забавува. Набљудувачите тој ден очекувале пумпана со адреналин, врвна изведба, но наместо тоа, станале сведоци на алармантна вистинска катастрофа.
+Бидејќи ги нашол совршените лилјаци и за него и за Брет, Вилијам решил набрзина да ја разгледа книгата пред да му се придружи на својот пријател на теренот. Додека ги разгледувал страниците, нашол еден дел за подобрување на доследноста на удирањето. На совети во ракописот се чинеше кројачки направи за својата ситуација. Одделот ги изнесе стратегиите како што е разбивање на техниката за удирање во помали компоненти и фокусирање на специфични области кои би можеле да имаат корист од подобрување.
 
-Инцидентот започнал кога мажот ја откри својата најнова креација: импровизиран рендар прикачен на рачно изработена ракета. Целта на тој направата наводно била да им обезбеди на него и на гостите негови возбудлива јурнава низ стрмен рид во близина на неговиот имот.
+Засилен од обновеното уверување, Вилијам се вратил во полето за крикет, лилјак во рака. Забележал дека Брет веќе завршил со поставувањето на куките и дека сега чека на работ на теренот, нестрплив да почне.
 
-Не плашејќи се од присутните ризици од неговото потфат, мажот почнал да се спушта. Меѓутоа, додека добивал брзина, нешто тргнало налошо. Сведоците ја опишале сцената како "хаотична" и "застрашувачка" кога ракетата одненадеж експлодирала, завиткувајќи го рендарот и мажот во пламен.
+"Ги најдов овие нови совети во мојот крикет водич," рече Вилијам возбудено, покажувајќи му го прирачникот на Брет. "Мислам дека тоа може да ни помогне на двајцата да станеме поконзистентни убијци."
 
-Првите екипи за итни случаи брзо пристигнале на местото на настанот, го изгаснале пожарот и ја пренеле жртвата во оближна болница. Властите потврдија дека мажот задобил сериозни повреди, но неговата моментална состојба останува необјавена.
+Брет ја прегледал книгата и кимнал со главата во знак на одобрување. "Зошто да не се обидеме?" одговори тој. "Никогаш не се знае дека тоа може да биде само промена на играта која на двајцата ни треба!"
 
-При истражувањето на причината за несреќата, властите откриле дека рачно изработената ракета била конструирана со користење на опасно нестабилни материјали. Спарено со неадекватната подготовка на жртвата и несоодветните безбедносни мерки, ситуацијата имала сите составни делови за катастрофален исход.
+Како што се загревале, двајцата пријатели решиле да ги интегрираат информациите од прирачникот еден по еден. Секој предлог, од одржување стабилен став до фокусирање на соодветниот стисок и следење, се чинеше дека има итно влијание врз нивните резултати на бирање. Дури и Брет, кој бил поискусен и обично бил попостојан убиец од Вилијам, извлекол корист од советот.
 
-Додека вестите за трагедијата се ширеле, реакцијата на заедницата била шок и тага. Локалците изразиле загриженост за добросостојбата на жртвата и пружиле поддршка на семејството негово. Сепак, некои жители исто така го критикувале неговото несмасно однесување и опасноста која ја наметнал на своите пријатели, семејство и соседи.
+Кога сонцето почнало полека да се спушта, капејќи го полето на крикет во топла, златна светлина, двајцата пријатели продолжиле да ги вежбаат своите удирачки вештини, едно по едно топче. Со новопронајдена доверба и одлучност, тие истрајале, напрегајќи се да ја искористат секоја вежба.
 
-Последиците од оваа катастрофална случка ја отсликуваат присутната прашина за безбедност и сериозните последици од игнорирањето истата. Иако активностите што предизвикуваат адреналин можат да обезбедат привремен напон, реалноста е дека ризиците што тие ги претставуваат често ја надминуваат моменталната корист.
+Како што деновите се претвораа во недели, напредокот на дуото станува се позабележлив, не само за себе туку и за нивните соиграчи и тренери. Се раширила веста за мистериозниот прирачник за крикет, и наскоро, нивните соиграчи барале да го позајмат специјалниот ресурс на Вилијам.
 
-Во денешниов свет, каде што поединците често се вклучуваат во ризично однесување, било за лично задоволство или популарност на социјалните медиуми, оваа трагична епизода нѐ потсетува на важноста да се дава приоритет на безбедноста и усвојувањето на одговорни практики дури и при потрагата по возбуда.
+На крајот, магичната комбинација од напорна работа, посветеност, и совети во водичот за "Зачувување на твојата крикет игра" се исплатеше. Вилијам и Брет станаа членови на нивниот крикет тим, водејќи го својот тим во победа на голем број локални и регионални турнири.
 
-Јурнавата со ракетниот рендар на Мичиген може да заврши во пламен, но исто така ја поттикна и клучната дискусија за присутните опасности од несмасното однесување и значењето да се вреднува личната и јавната безбедност над сѐ друго.
-"""
+Додека ја скалираа скалата на успехот, двајцата пријатели ги ценеа своите попладневи на полето на крикетот каде што започна сето тоа, со брчки, лилјаци, и, се разбира, дека unassuming малку прирачник кој стана нивниот доверлив придружник."""

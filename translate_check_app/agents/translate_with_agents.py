@@ -13,6 +13,10 @@ def fix_translation(original_text=ENGLISH_TEXT, translated_text=INITIAL_TRANSLAT
     iteration = 0  # STOP the same sentences from being fixed
     while not (illogical_sentences_fixed and gramatical_errors_fixed) and iteration < max_iterations:
         nonexistent_words_result = find_nonexistent_words(original_text=original_text, translated_text=translated_text)
+        for word in nonexistent_words_result:
+            translated_text = translated_text.replace(word['word'], word['substitution_word'])
+            print(f"Word: {word['word']}, Explanation: {word['explanation']}")
+        #Replace the nonexistent words immediately in the text with the appropriate translations
         print("NONEXISTENT WORDS:")
         print(nonexistent_words_result)
 
