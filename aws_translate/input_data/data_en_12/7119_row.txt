@@ -1,0 +1,19 @@
+Question: Passage: The film was not shot in the actual Snowy Mountains but in the Victorian High Country near Mansfield, Victoria, where Burrowes' wife's family had lived for several generations, which was logistically easier. Burt Lancaster and Robert Mitchum were considered for the dual role of Harrison and Spur before Kirk Douglas was cast in the roles.
+
+Question: Based on this passage, where was a man from snowy river filmed?
+Answer: This is the relevant information: The film was not shot in the actual Snowy Mountains but in the Victorian High Country near Mansfield, Victoria, where Burrowes' wife's family had lived for several generations, which was logistically easier. Burt Lancaster and Robert Mitchum were considered for the dual role of Harrison and Spur before Kirk Douglas was cast in the roles. The answer is in the Victorian High Country near Mansfield , Victoria.
+
+Question: During the 1940s, the U.S Department of Labor, specifically the Bureau of Labor Statistics (BLS), began collecting employment information via monthly household surveys. Other data series are available back to 1912. The unemployment rate has varied from as low as 1 % during World War I to as high as 25 % during the Great Depression. More recently, it reached peaks of 10.8 % in November 1982 and 10.0 % in October 2009. Unemployment tends to rise during recessions and fall during expansions. From 1948 to 2015, unemployment averaged about 5.8 %. There is always some unemployment, with persons changing jobs and new entrants to the labor force searching for jobs. This is referred to as frictional unemployment. For this reason, the Federal Reserve targets the natural rate of unemployment or NAIRU, which was around 5 % in 2015. A rate of unemployment below this level would be consistent with rising inflation in theory, as a shortage of workers would bid wages (and thus prices) upward.
+
+Based on this passage, what is the highest unemployment rate ever in the united states?
+Answer: The relevant information to answer the above question is: The unemployment rate has varied from as low as 1 % during World War I to as high as 25 % during the Great Depression. The answer is 25 %.
+
+Question: Taylor Michel Momsen (born July 26, 1993) is an American singer, songwriter, former actress and model. She is known for portraying the character of Jenny Humphrey on the CW teen drama series Gossip Girl (2007 -- 2012) and Cindy Lou Who in the film How the Grinch Stole Christmas! (2000). She is also known for being the lead singer and frontwoman of the American rock band The Pretty Reckless.
+
+The girl that played cindy lou who in the grinch?
+Answer: To answer this question, we should know that: She is known for portraying the character of Jenny Humphrey on the CW teen drama series Gossip Girl (2007 -- 2012) and Cindy Lou Who in the film How the Grinch Stole Christmas! (2000). The answer is Taylor Michel Momsen.
+
+Question: Passage: The Brooklyn Dodgers was an American Major League baseball team, active primarily in the National League from 1884 until 1957, after which the club moved to Los Angeles, where it continues its history as the Los Angeles Dodgers. The team's name derived from the reputed skill of Brooklyn residents at evading the city's trolley streetcar network. The Dodgers played in two stadiums in South Brooklyn, each named Washington Park, and at Eastern Park in the neighborhood of Brownsville before moving to Ebbets Field in the neighborhood of Flatbush in 1913. The team is noted for signing Jackie Robinson in 1947 as the first black player in the modern major leagues.
+
+Question: Based on this passage, when did the broklyn dodgers move to la?
+Answer:

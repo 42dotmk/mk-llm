@@ -1,0 +1,22 @@
+Student A:The resort opened on May 3, 1999, with flutter of white doves, sounding trumpets and singing gondoliers, with actress Sophia Loren joining The Venetian Chairman and Owner, Sheldon G. Adelson, in dedicating the first motorized gondola. Built at a cost of $1.5 billion, it was one of the most expensive resorts of its kind when it opened.
+
+Answer this question based on the passage: when was the venetian hotel in las vegas built?
+Student B:OK... The relevant information is: The resort opened on May 3, 1999, with flutter of white doves, sounding trumpets and singing gondoliers, with actress Sophia Loren joining The Venetian Chairman and Owner, Sheldon G. Adelson, in dedicating the first motorized gondola.
+May 3 , 1999.
+
+Student A:Fiddler on the Roof is a 1971 American musical comedy-drama film produced and directed by Norman Jewison. It is an adaptation of the 1964 Broadway musical of the same name, with music composed by Jerry Bock, lyrics by Sheldon Harnick, and screenplay by Joseph Stein. Starring Topol, Norma Crane, Leonard Frey, Molly Picon, and Paul Mann, the film centers on Tevye, the father of five daughters, and his attempts to maintain his Jewish religious and cultural traditions as outside influences encroach upon the family's lives. He must cope both with the strong-willed actions of his three older daughters, who wish to marry for love -- each one's choice of a husband moves further away from the customs of his faith -- and with the edict of the Tsar that evicts the Jews from the town of Anatevka. Throughout the film, Tevye breaks the fourth wall by talking directly to the audience as well as to God. In addition to the difficulties of being poor, Tevye speaks of the Jewish community's constant fear of harassment from their non-Jewish neighbors.
+
+Based on this passage, what year was fiddler on the roof made?
+Student B:OK... The relevant information to answer the above question is: Fiddler on the Roof is a 1971 American musical comedy-drama film produced and directed by Norman Jewison.
+1971.
+
+Student A:Boaz (/ ˈboʊ. æz /; Modern Hebrew: בועז Bốʿaz; Massoretical Hebrew: בֹּ֫עַז Bṓʿaz; Hebrew pronunciation: ( ˈboːʕaz) ) is a biblical figure appearing in the Book of Ruth in the Hebrew Bible and in the genealogies of Jesus in the New Testament and also the name of a pillar in the portico of the historic Temple in Jerusalem. The word is found 24 times in the Scriptures, two being in Greek (in the form "Booz").
+
+Where is the story of boaz and ruth in the bible?
+Student B:OK... To answer the question, consider the following: Boaz (/ ˈboʊ. æz /; Modern Hebrew: בועז Bốʿaz; Massoretical Hebrew: בֹּ֫עַז Bṓʿaz; Hebrew pronunciation: ( ˈboːʕaz) ) is a biblical figure appearing in the Book of Ruth in the Hebrew Bible and in the genealogies of Jesus in the New Testament and also the name of a pillar in the portico of the historic Temple in Jerusalem.
+the Book of Ruth.
+
+Student A:Mark Lester (born Mark A. Letzer; 11 July 1958) is an English former child actor known for playing the title role in the 1968 musical film version of Oliver! and starring in a number of other British and European films of the 1960s and 1970s and in a number of television series.
+
+Based on this passage, who played oliver twist in the 1968 film?
+Student B:

@@ -1,0 +1,19 @@
+Q: Context: The Milwaukee Brewers' 1998 season was the first season for the franchise as a member of the National League. The Brewers finished in fifth in the NL Central, 28 games behind the Houston Astros, with a record of 74 wins and 88 losses. Before the 1998 regular season began, two new teams -- the Arizona Diamondbacks and Tampa Bay Devil Rays -- were added by Major League Baseball. This resulted in the American League and National League having fifteen teams. However, in order for MLB officials to continue primarily intraleague play, both leagues would need to carry a number of teams that was divisible by two, so the decision was made to move one club from the AL Central to the NL Central.
+
+Question: when did the brewers go to national league?
+A: 1998. How to explain the answer? To answer this question, we should know that: The Milwaukee Brewers' 1998 season was the first season for the franchise as a member of the National League.
+
+Q: The theory states that in a pre-existing group of lymphocytes (specifically B cells), a specific antigen only activates (i.e. selection) its counter-specific cell so that particular cell is induced to multiply (producing its clones) for antibody production. This activation occurs in secondary lymphoid organs such as the spleen and the lymph nodes. In short the theory is an explanation of the mechanism for the generation of diversity of antibody specificity. The first experimental evidence came in 1958, when Gustav Nossal and Joshua Lederberg showed that one B cell always produces only one antibody. The idea turned out to be the foundation of molecular immunology, especially in adaptive immunity.
+
+Answer this question: where does clonal selection of t cells happen?
+A: secondary lymphoid organs such as the spleen and the lymph nodes. How to explain the answer? To answer the above question, the relevant sentence is: This activation occurs in secondary lymphoid organs such as the spleen and the lymph nodes.
+
+Q: Context: The Canadian Multiculturalism Act (the Act) is a law of Canada, passed in 1988, that aims to preserve and enhance multiculturalism in Canada.
+
+Question: when was the multiculturalism policy of canada passed?
+A: 1988. How to explain the answer? The relevant information to answer the above question is: The Canadian Multiculturalism Act (the Act) is a law of Canada, passed in 1988, that aims to preserve and enhance multiculturalism in Canada.
+
+Q: Thanksgiving, or Thanksgiving Day, is a public holiday celebrated on the fourth Thursday of November in the United States. It originated as a harvest festival. Thanksgiving has been celebrated nationally on and off since 1789, after Congress requested a proclamation by George Washington. It has been celebrated as a federal holiday every year since 1863, when, during the American Civil War, President Abraham Lincoln proclaimed a national day of "Thanksgiving and Praise to our beneficent Father who dwelleth in the Heavens," to be celebrated on the last Thursday in November. Together with Christmas and the New Year, Thanksgiving is a part of the broader fall / winter holiday season in the U.S.
+
+Answer this question: when did thanks giving become a national holiday?
+A:

@@ -1,0 +1,29 @@
+## question
+First Communion is a ceremony in some Christian traditions during which a person first receives the Eucharist. It is most common in the Latin Church tradition of the Catholic Church, as well as in many parts of the Lutheran Church and Anglican Communion. In churches that celebrate First Communion, it typically occurs between the ages of seven and thirteen, often acting as a rite of passage.
+
+Based on this passage, when does a child receive first holy communion?
+## answer
+The relevant information to answer the above question is: In churches that celebrate First Communion, it typically occurs between the ages of seven and thirteen, often acting as a rite of passage.
+So the answer must be between the ages of seven and thirteen
+
+## question
+The Central Public Works Department of India (Hindi: केंद्रीय लोक निर्माण विभाग), commonly referred to as the CPWD, is a central government owned authority in charge of public sector works. The Central Public Works Department, under the Ministry of Urban Development Now MoHUA (Ministry of Housing and Urban Affairs), builds and maintains public buildings. CPWD came into existence in July 1854 when Lord Dalhousie established a central agency for execution of public works and set up Ajmer Provincial Division. It has now grown into a comprehensive construction management department, which provides services from project concept to completion, and maintenance management.
+
+Answer this question based on the passage: who started the public works department in india 1848?
+## answer
+The relevant information is: CPWD came into existence in July 1854 when Lord Dalhousie established a central agency for execution of public works and set up Ajmer Provincial Division.
+So the answer must be Lord Dalhousie
+
+## question
+Set on the fictional continents of Westeros and Essos, Game of Thrones has several plot lines and a large ensemble cast but centers on three primary story arcs. The first story arc centers on the Iron Throne of the Seven Kingdoms and follows a web of alliances and conflicts among the dynastic noble families either vying to claim the throne or fighting for independence from the throne. The second story arc focuses on the last descendant of the realm's deposed ruling dynasty, exiled and plotting a return to the throne. The third story arc centers on the longstanding brotherhood charged with defending the realm against the ancient threats of the fierce peoples and legendary creatures that lie far north, and an impending winter that threatens the realm.
+
+Based on this passage, where is game of thrones supposed to take place?
+## answer
+The relevant information to answer the above question is: Set on the fictional continents of Westeros and Essos, Game of Thrones has several plot lines and a large ensemble cast but centers on three primary story arcs.
+So the answer must be the fictional continents of Westeros and Essos
+
+## question
+A votive candle or prayer candle is a small candle, typically white or beeswax yellow, intended to be burnt as a votive offering in an act of Christian prayer, especially within the Anglican and Roman Catholic Christian denominations, among others. In Christianity, votive candles are commonplace in many churches, as well as home altars, and symbolize the "prayers the worshipper is offering for him or herself, or for other people." The size of a votive candle is often two inches tall by one and a half inches diameter, although other votive candles can be significantly taller and wider. In other religions, such as Hinduism and Buddhism, similar offerings exist, which include diyas and butter lamps.
+
+Answer this question based on the passage: what do candles symbolize in the catholic church?
+## answer

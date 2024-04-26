@@ -1,0 +1,25 @@
+First find how much money the ex made during the first 3 years by multiplying his annual earnings by the number of years: 3 years * $30,000 / year = $90,000 / . Then find how much his raise was by multiplying his salary by the percentage raise: $30,000 / year * 20% = $6,000 / year. Then add the raise to his original salary to find his new salary: $6,000 / year + $30,000 / year = $36,000 / year. Then find how much he made working at the new salary by multiplying it by the 4 years he worked: 4 years * $36,000 / year = $144,000. Add his earnings from the three years and the four years to find his total earnings: $144,000 + $90,000 = $234,000. Now multiply his total earnings by 30% to find how much he was supposed to pay: $234,000 * 30% = $70,200. Now subtract the amount he paid from this number to find how much he owes: $70,200 - $1,200 = $69,000.
+The answer: 69000
+Reverse engineering the question: Nancy's ex owes her child support. He's supposed to pay 30% of his income each year. For 3 years, he made $30,000/year, then he got a 20% raise for the next four years. If he's only ever paid $1,200, how much does he owe her?
+
+Reasoning and answer: First figure out how many tiles are in one row by dividing the kitchen's width by each tile's width: 48 inches / 6 inches / tile = 8 tiles in one row. Then figure out how many rows of tiles there are by dividing the kitchen's height by each tile's height: 72 inches / 6 inches / tile = 12 rows of tiles. Then multiply the number of rows by the number of tiles per row to find the total number of tiles Kimiko needs to buy: 8 tiles / row * 12 rows = 96 tiles.
+The answer: 96
+What was the question?
+Question: Kimiko is retiling her kitchen floor. Each tile is 6 square inches. If her kitchen is 48 inches by 72 inches, how many tiles does Kimiko need to buy?
+
+Carrie can do 2 * 45 = 90 sit - ups per minute. Jerrie can do 90 + 5 = 95 sit - ups per minute. In two minutes, Carrie would perform 90 * 2 - 180 sit - ups. And in three minutes, Jerrie would perform 3 * 95 = 285 sit - ups. Thus, in the scenario described, in total, the three would perform 45 + 180 + 285 = 510 sit - ups.
+The answer: 510
+Reverse engineering the question: Barney can perform 45 sit-ups in one minute. Carrie can do twice as many sit-ups per minute as Barney can. And Jerrie can do 5 more sit-ups per minute than Carrie can do. If Barney does sit-ups for 1 minute, and Carrie does sit-ups for two minutes, and Jerrie does sit-ups for three minutes, what would be the combined total number of sit-ups performed?
+
+Reasoning and answer: At the start, Jeremy had two times more money than the price of the computer, which means he had 2 * 3000 = $6000. The cost of the accessories stands at 3000 * 1 / 10 = $300. This leaves Jeremy with 6000 - 3000 - 300 = $2700.
+The answer: 2700
+What was the question?
+Question: Jeremy bought a computer for $3000, and some accessories for 10% of the price of the computer. How much money has Jeremy if, before the purchase, he had two times more money, than the cost of the computer itself?
+
+Chenny has a total of 10 + 4 = 14 candies. If each friend will receive 2 candies each, then she has 14 / 2 = 7 friends.
+The answer: 7
+Reverse engineering the question: Chenny has 10 pieces of candies to be given out to her friends. She realized that she needs to buy 4 more so each of her friends will receive 2 candies. How many friends does Chenny have?
+
+On Thursday 15 * 3 = 45 books were sold. On Friday 45 / 5 = 9 books were sold. Adding up all three days 15 + 45 + 9 = 69 books were sold by Friday.
+The answer: 69
+Reverse engineering the question:

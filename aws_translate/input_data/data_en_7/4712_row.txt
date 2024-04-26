@@ -1,0 +1,19 @@
+Q: Season two consisted of 22 episodes, the second season follows Alex Parrish, who has been working undercover for the FBI as a CIA recruit to uncover the rogue faction of the CIA called the AIC. Told through dual timelines up to the thirteenth episode, the narrative switches between the present, where Parrish had to confront a hostage crisis at the G-20 summit in New York City by a terrorist group, and the past, where she had been training at the CIA's mysterious training facility "The Farm" with other trainees, revealing links between the two incidents. The narrative switched to single timeline from the fourteenth episode.
+
+Answer this question: how many episodes are in quantico season 2?
+A: 22. How to explain the answer? This is the relevant information: Season two consisted of 22 episodes, the second season follows Alex Parrish, who has been working undercover for the FBI as a CIA recruit to uncover the rogue faction of the CIA called the AIC.
+
+Q: Context: The league features six regional divisions: the Northern and Southern divisions at level three of the pyramid, and below those Northern Division 1, Midlands Division 1, South East Division 1, and South West Division 1. 72 teams were members of the league before the start of the 2016 -- 17 season, divided equally into six divisions of twelve teams. At the end of the season Blackburn Rovers and Tottenham Hotspur, respectively the champions of the Northern and Southern Divisions, qualified for a playoff match against each other which Tottenham Hotspur won 3-0 thus becoming the overall league champion, and winning them promotion to FA WSL 2.
+
+Question: who won the women's premier league 2017?
+A: Tottenham Hotspur. How to explain the answer? The relevant sentence in the passage is: At the end of the season Blackburn Rovers and Tottenham Hotspur, respectively the champions of the Northern and Southern Divisions, qualified for a playoff match against each other which Tottenham Hotspur won 3-0 thus becoming the overall league champion, and winning them promotion to FA WSL 2.
+
+Q: Although the Act of Parliament defining high treason remains on the United Kingdom's statute books, during a long period of 19th-century legal reform the sentence of hanging, drawing, and quartering was changed to drawing, hanging until dead, and posthumous beheading and quartering, before being abolished in England in 1870. The death penalty for treason was abolished in 1998.
+
+When did england stop hanging drawing and quartering?
+A: 1870. How to explain the answer? The relevant information to answer the above question is: Although the Act of Parliament defining high treason remains on the United Kingdom's statute books, during a long period of 19th-century legal reform the sentence of hanging, drawing, and quartering was changed to drawing, hanging until dead, and posthumous beheading and quartering, before being abolished in England in 1870.
+
+Q: Milan Central or Milano Centrale is the main railway station of the city of Milan, Italy and one of the main railway stations in Europe. The station is a terminus and located at the northern end of central Milan. It was officially inaugurated in 1931 to replace the old central station (built 1864), which was a transit station but with a limited number of tracks and space, so could not handle the increased traffic caused by the opening of the Simplon tunnel in 1906.
+
+What is the main train station in milan?
+A:

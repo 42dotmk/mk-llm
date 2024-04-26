@@ -1,0 +1,25 @@
+Kayla made $30 less than Vika = $84 - 30 = 54. Saheed made 4 * Kayla = 4 * 54 = 216.
+The answer: 216
+Reverse engineering the question: Saheed made four times as much money as Kayla. Kayla made $30 less than Vika. Vika made $84. How many dollars did Saheed make?
+
+Reasoning and answer: During breakfast, Blanch has 15 - 4 = 11 slices left. At lunch, she still has 11 - 2 = 9 slices left. After the snack, there are still 9 - 2 = 7 slices left. Finally after dinner, Blanch has 7 - 5 = 2 slices left.
+The answer: 2
+What was the question?
+Question: Blanch has 15 slices of pizza in the fridge. During breakfast, she eats 4 slices. At lunch, Blanch eats 2 slices, then takes two slices as a snack. Finally, she consumes 5 slices for dinner. How many slices of pizza are left?
+
+Arthur spent 4 / 5 * $200 = $160. Thus he has $200 - $160 = $40 remaining.
+The answer: 40
+Reverse engineering the question: Arthur has $200 in his wallet. He spends four-fifths of that. How much does he have left?
+
+Reasoning and answer: If Eliza restocked twice the original number of ornamental rings, the number was 200 / 2 = 100 rings. The total number of ornamental rings in stock is now 200 + 100 = 300 rings. When she sells 3 / 4 of the stock, the total number of rings sold is 3 / 4 * 300 = 225 rings. The remaining stock is 300 - 225 = 75 rings. When her mother buys 300 more rings, the stock is boosted to 75 + 300 = 375 rings. She then sells out 150, reducing the stock to 375 - 150 = 225 rings.
+The answer: 225
+What was the question?
+Question: Eliza buys 200 ornamental rings to sell in their local shop, twice the number of the remaining stock. After selling 3/4 of the total stock, her mother buys 300 more ornamental rings, and after three days, sells 150. What's the total number of ornamental rings remaining in the store?
+
+Kristy earns a basic salary of $7.50 x 160 = $1200. Her total commission is $25000 x 16 / 100 = $4000. Thus, her total earning is $1200 + $4000 = $5200. Her monthly budget aside from the insurance is $5200 x 95 / 100 = $4940. Therefore, she allocated $5200 - $4940 = $260 on insurance.
+The answer: 260
+Reverse engineering the question: Kristy, a sales representative earns a basic salary of $7.50 per hour plus a 16% commission on everything she sells. This month, she worked for 160 hours and sold $25000 worth of items. Her monthly budget for food, clothing, rent, transportation, bills and savings is 95% of her total monthly earnings and the rest will be put towards insurance. How much did she allocate to insurance?
+
+Mike printed before the break 600 pamphlets per hour * 9 hours = 5400 pamphlets. The working speed of Mike after the break was 600 pamphlets per hour / 3 = 200 pamphlets per hour. Mike printed after the break 200 pamphlets per hour * 2 hours = 400 pamphlets. Leo worked third of the time that Mike worked before the break, so he worked 9 hours / 3 = 3 hours. Leo worked twice as fast as Mike before his break 600 pamphlets per hour * 2 = 1200 pamphlets per hour. Leo printed 1200 pamphlets per hour * 3 hours = 3600 pamphlets. Combining the pamphlets of Leo and Mike 5400 + 400 + 3600 = 9400 pamphlets.
+The answer: 9400
+Reverse engineering the question:

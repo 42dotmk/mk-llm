@@ -1,0 +1,39 @@
+Definition: Given a post that is a real-life anecdote of a complex ethical situation and a question asks if AUTHOR, NOBODY, EVERYBODY, or OTHER is wrong in the situation. Answer the question and classify your answers into yes or no.
+Input: Is AUTHOR wrong in the post ? POST : First of all, sorry that is typed out on mobile. I’m pretty new to this platform but.. I really needed to get this out.
+
+I’m a high schooler, and I have had a best friend Z who I’ve known since 1st grade. 
+
+Z is a lovely person most of the time. But they can be really moody and have a tendency to consider themselves on the moral high ground. I really love Z, but this side of them has been extremely frustrating to me for a long time. Z has always been out of romance scene at school, until they got a crush on a dude in the grade level above us (who has a girlfriend in college). Well call him A. We’ve really gotten closer over the last few months through this. Seeing them experience their first crush is honestly heartwarming. I thought this really helped them change their “holier than thou” attitude.
+
+I discovered it did not today.
+
+I was with Z, and our friend who I’ll call P. P is a nice person who I’ve known for a few years. They’re in the same friend circle as Z and I.
+
+So, A, P &amp; Z are involved in theater. We walked with P after school while they went to ask the teacher a question. While walking to the room, the topic of zodiac signs and astrology come up (which I personally love to talk about). P mentioned that they found out A was a Leo (to Z’s excitement). We walked in, and me being a sarcastic jack ass said.
+
+Me: hey P, give his birthday, time of birth and location and I’ll know EVERYTHING there is to know about him.
+
+P laughs, but Z looked annoyed. Then, Z went on a rant about how I have “privacy issues”. I’m “always digging through their stuff” (I snooped in their bag they brought to a swimming pool once for shits and giggles. We tease each other). They were raising their voice and the two other people in the room were looking. The teacher wasn’t paying attention. P looked very uncomfortable and was laughing awkwardly like ‘wtf..’
+
+Also, side note. I had a really bad childhood and hate, HATE when people yell at me. I have chronic depression and unresolved issues. 
+
+She kept ranting for like two minutes, projecting... and I was too shocked to even say anything.
+
+We left the room, I awkwardly brushed it off while P was around. Once we were alone, Z acted like nothing had happened and we were totally chill. When we got alone, I brought it up to Z.
+
+Me: hey, Z, can you not yell at me? In front of other people?
+
+Z: I mean.. it’s only P. It’s not a big deal
+
+Me: I just feel really shitty when people yell at me for no reason. I didn’t do anything
+
+Z: Yeah.. uh, sorry.
+
+Me: It’s just shitty for me.
+
+Z: sorry. (Didn’t sound sincere at all).
+
+Me: it’s like.. whatever. Just please don’t do that to me again.
+
+I honestly was beat down after that, but I carried myself in stride when we had to drive home together. I’m just really freaked out by this whole thing. Am I taking this too seriously? I’m not sure.I’m so frazzled and depressed right now. So here’s the question: am I an asshole for being so upset?
+Output:

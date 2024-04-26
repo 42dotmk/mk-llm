@@ -1,0 +1,29 @@
+## question
+Context: Hatshepsut (/ hætˈʃɛpsʊt /; also Hatchepsut; Egyptian: ḥ3. t-šps. wt "Foremost of Noble Ladies"; 1507 -- 1458 BC) was the fifth pharaoh of the Eighteenth Dynasty of Egypt. She was the second historically confirmed female pharaoh, the first being Sobekneferu. (Various other women may have also ruled as pharaohs regnant or at least regents before Hatshepsut, as early as Neithhotep around 1,600 years prior.) Hatshepsut came to the throne of Egypt in 1478 BC. Officially, she ruled jointly with Thutmose III, who had ascended to the throne the previous year as a child of about two years old. Hatshepsut was the chief wife of Thutmose II, Thutmose III's father. She is generally regarded by Egyptologists as one of the most successful pharaohs, reigning longer than any other woman of an indigenous Egyptian dynasty. According to Egyptologist James Henry Breasted she is also known as "the first great woman in history of whom we are informed."
+
+Question: who was one of the few female pharaohs that ruled egypt?
+## answer
+The relevant sentence in the passage is: Hatshepsut (/ hætˈʃɛpsʊt /; also Hatchepsut; Egyptian: ḥ3. t-šps. wt "Foremost of Noble Ladies"; 1507 -- 1458 BC) was the fifth pharaoh of the Eighteenth Dynasty of Egypt.
+So the answer must be Hatshepsut ( / hætˈʃɛpsʊt / ; also Hatchepsut ; Egyptian : ḥ3. t - šps. wt `` Foremost of Noble Ladies '' ; 1507 -- 1458 BC )
+
+## question
+The Real McCoys revolves around the lives of a family from the Appalachian Mountains who originally hailed from fictional Smokey Corners, West Virginia. The McCoys moved to California to live and work on a farm they inherited from a relative. The family consists of Grandpa Amos McCoy (Walter Brennan); his grandson Luke (Richard Crenna), Luke's new wife Kate (Kathleen Nolan), Luke's teenage sister Tallahassie "Hassie" (Lydia Reed), and his 11-year-old brother "Little Luke" (Michael Winkelman). The double-naming of the brothers is explained in the first full episode, when the elder Luke introduces Little Luke to Pepino Garcia (Tony Martinez) and says, "Well, you see, in the excitement of having him, Ma and Pa' plum' forgot they already had me." Only Crenna appeared in all 225 episodes.
+
+Based on this passage, who played the wife on the real mccoys?
+## answer
+To answer the question, consider the following: The family consists of Grandpa Amos McCoy (Walter Brennan); his grandson Luke (Richard Crenna), Luke's new wife Kate (Kathleen Nolan), Luke's teenage sister Tallahassie "Hassie" (Lydia Reed), and his 11-year-old brother "Little Luke" (Michael Winkelman).
+So the answer must be Kathleen Nolan
+
+## question
+Context: The play takes place on a single day in August 1912, from around 8: 30 a.m. to midnight. The setting is the seaside Connecticut home of the Tyrones' Monte Cristo Cottage. The four main characters are the semi-autobiographical representations of O'Neill himself, his older brother, and their parents.
+
+Question: where is long day journey into night set?
+## answer
+The relevant sentence in the passage is: The setting is the seaside Connecticut home of the Tyrones' Monte Cristo Cottage.
+So the answer must be the seaside Connecticut home of the Tyrones ' Monte Cristo Cottage
+
+## question
+How I Met Your Mother (often abbreviated to HIMYM) is an American sitcom that originally aired on CBS from September 19, 2005 to March 31, 2014. The series follows the main character, Ted Mosby, and his group of friends in Manhattan. As a framing device, Ted, in the year 2030, recounts to his son and daughter the events that led him to meet their mother.
+
+Who is the narrator on how i met your mother?
+## answer

@@ -1,0 +1,34 @@
+Student A:"I Want You to Want Me ... to Go to Florida" features the ballad "Ready, Set, Do n't Go" by Billy Ray Cyrus. It details his feelings concerning his daughter Miley's move to Los Angeles to star in Hannah Montana, while he stayed behind in Nashville. The episode also features the song "If Cupid Had a Heart", by Julie Griffin, and written by Gordon Pogoda. Mikayla (Selena Gomez), lip-syncs it in the episode. A soundtrack for the season featuring 10 songs sung by Miley Cyrus as Hannah Montana was released on June 26, 2007.
+
+Based on this passage, which episode of hannah montana is selena gomez in?
+Student B:OK... The relevant sentence in the passage is: Mikayla (Selena Gomez), lip-syncs it in the episode.
+I Want You to Want Me ... to Go to Florida.
+
+Problem:"Make' Em Laugh" is a song first featured in the 1952 film Singin' in the Rain, frenetically performed by Donald O'Connor. Written by Nacio Herb Brown and Arthur Freed, the song is closely based on Cole Porter's "Be a Clown". It finished at # 49 in AFI's 100 Years ... 100 Songs survey of top tunes in American cinema.
+
+Who sang make em laugh in singin in the rain?
+Solution:OK... To answer the question, consider the following: "Make' Em Laugh" is a song first featured in the 1952 film Singin' in the Rain, frenetically performed by Donald O'Connor.
+Donald O'Connor.
+
+Student A:On January 2, 2007, Steve Jobs announced iPhone at the Macworld convention, receiving substantial media attention. Jobs announced that the first iPhone would be released later that year. On June 29, 2007, the first iPhone was released.
+
+Answer this question: when was the iphone first introduced to the market?
+Student B:OK... The relevant information is: On June 29, 2007, the first iPhone was released.
+June 29 , 2007.
+
+Problem:Active quarterback Tom Brady holds the records for most wins with 220, most regular season wins with 195, and most postseason wins with 25, as of Week 16 of the 2017 NFL season. Having played the entirety of his career with the New England Patriots, each of Brady's win records also apply to wins with a single team.
+
+Who had the most wins in the nfl?
+Solution:OK... The relevant sentence in the passage is: Active quarterback Tom Brady holds the records for most wins with 220, most regular season wins with 195, and most postseason wins with 25, as of Week 16 of the 2017 NFL season.
+Tom Brady.
+
+Student A:Context: "He's Gonna Step On You Again" (a.k.a. "Step On") is a song co-written by Christos Demetriou and performed by John Kongos in 1971.
+
+Question: who sang he going to step on you again?
+Student B:OK... To answer this question, we should know that: "He's Gonna Step On You Again" (a.k.a. "Step On") is a song co-written by Christos Demetriou and performed by John Kongos in 1971.
+John Kongos.
+
+Student A:Passage: Thomas James Kenny (born July 13, 1962) is an American actor, voice artist, and comedian. He is known for voicing the title character in the SpongeBob SquarePants TV series, video games, and films. Kenny has voiced many other characters including Heffer Wolfe in Rocko's Modern Life; the Ice King in Adventure Time; the Narrator and Mayor in The Powerpuff Girls; Carl Chryniszzswics in Johnny Bravo; Dog in CatDog; and Spyro from the Spyro the Dragon video game series. His live-action work includes the comedy variety shows The Edge and Mr. Show. Kenny has won a Daytime Emmy Award and two Annie Awards for his voice work as SpongeBob SquarePants and the Ice King.
+
+Question: Based on this passage, who is the guy that does spongebob's voice?
+Student B:

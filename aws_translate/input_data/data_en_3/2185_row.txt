@@ -1,0 +1,25 @@
+q... Context: High School Musical was filmed at East High School located in Salt Lake City, Utah, the auditorium of Murray High School, and Downtown Salt Lake City. Murray High School was also the set of several other Disney productions: Take Down (1979), Read It and Weep (2006), Minutemen (2008), and High School Musical: Get in the Picture (2008). In January 2016, cast members Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel, Corbin Bleu, and Monique Coleman reunited in a Los Angeles high school gym (decorated to resemble the gym used in the film) to celebrate the film's tenth anniversary. Zac Efron was unable to attend but instead sent in a short video of himself giving acknowledgments toward the cast, crew, and fans of the film.
+
+Question: where was the first high school musical filmed?
+a... The relevant information to answer the above question is: High School Musical was filmed at East High School located in Salt Lake City, Utah, the auditorium of Murray High School, and Downtown Salt Lake City.
+The answer is East High School located in Salt Lake City , Utah , the auditorium of Murray High School , and Downtown Salt Lake City
+
+
+q... Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS (born 8 June 1955), also known as TimBL, is an English engineer and computer scientist, best known as the inventor of the World Wide Web. He is currently a professor of Computer Science at the University of Oxford. He made a proposal for an information management system in March 1989, and he implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the internet in mid-November the same year.
+
+Who is regarded as the founder of world wide web?
+a... To answer the question, consider the following: Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS (born 8 June 1955), also known as TimBL, is an English engineer and computer scientist, best known as the inventor of the World Wide Web.
+The answer is Sir Timothy John Berners - Lee
+
+
+q... The division of Korea between North and South Korea was the result of the Allied victory in World War II in 1945, ending the Empire of Japan's 35-year rule of Korea. The United States and the Soviet Union occupied the country, with the boundary between their zones of control along the 38th parallel.
+
+Answer this question based on the passage: what caused the divide between north and south korea?
+a... To answer the above question, the relevant sentence is: The division of Korea between North and South Korea was the result of the Allied victory in World War II in 1945, ending the Empire of Japan's 35-year rule of Korea.
+The answer is the Allied victory in World War II in 1945 , ending the Empire of Japan 's 35 - year rule of Korea
+
+
+q... Context: Halley's Comet or Comet Halley, officially designated 1P / Halley, is a short-period comet visible from Earth every 74 -- 79 years. Halley is the only known short-period comet that is regularly visible to the naked eye from Earth, and the only naked-eye comet that might appear twice in a human lifetime. Halley last appeared in the inner parts of the Solar System in 1986 and will next appear in mid-2061.
+
+Question: when is halley's comet coming around again?
+a...

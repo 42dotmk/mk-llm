@@ -1,0 +1,25 @@
+Orlan gave Allan 20 x 1 / 4 = 5 meters of rope. So he had 20 - 5 = 15 meters left. Then he gave 15 x 2 / 3 = 10 meters of the rope to Jack. Therefore, Orlan is left with 15 - 10 = 5 meters of rope.
+The answer: 5
+Reverse engineering the question: Orlan gave one-fourth of his 20-meter rope to Allan. He then gave two-thirds of the remaining to Jack. How many meters of rope is left to Orlan?
+
+Reasoning and answer: He uses 1 packet per cup of coffee and he has 2 cups a day so that's 1 * 2 = 2 packets. He wants enough to last him 90 days and he uses 2 packets a day so that's 90 * 2 = 180 packets. The packets come 30 to a box and he needs 180 packets so that's 180 / 30 = 6 boxes of sugar substitute. Each box costs $4.00 and he needs 6 boxes so that's 4 * 6 = $24.00.
+The answer: 24
+What was the question?
+Question: Christopher uses 1 packet of a sugar substitute in his coffee. He has 2 coffees a day. The packets come 30 to a box and cost $4.00 a box. How much will it cost him to have enough sugar substitutes to last him 90 days?
+
+His total expenditure so far is $50 + $35 + $15 = $100. To make a profit of 10%, he has to make a total of $100 + ($100 * (10 / 100) = $110 from sales. To make $110 from the sales of 10 bags, each bag should cost $110 / 10 = $11.
+The answer: 11
+Reverse engineering the question: While cultivating a small farm, a farmer spent $50 on corn seeds, $35 on fertilizers and pesticides, and $15 on labor. After a successful harvest, he was able to gather 10 bags of corn. How much should he sell each bag, if he wants to make a profit of 10%?
+
+Reasoning and answer: He releases 1 video that is 2 * 6 = 12 minutes long. So each day he releases 2 + 2 + 12 = 16 minutes of videos. That means he releases 16 * 7 = 112 minutes of videos.
+The answer: 112
+What was the question?
+Question: John releases 3 videos on his channel a day. Two of them are short 2 minute videos and 1 of them is 6 times as long. Assuming a 7-day week, how many minutes of video does he release per week?
+
+Uki earns 20 x $1.50 = $30 in selling 20 cupcakes. She earns 10 x $2 = $20 for selling 10 packets of cookies,. Additionally, she earns another 20 x $1 = $20 for selling twenty packets of biscuits. Thus, in a day, she earns an average of $30 + $20 + $20 = $70.                                    Therefore, for five days, Uki earns 5 x $70 = $350. ".
+The answer: 350
+Reverse engineering the question: Uki owns a bakery. She sells cupcakes at $1.50 each, cookies at $2 per packet, and biscuits at $1 per packet. In a day, she can bake an average of twenty cupcakes, ten packets of cookies, and twenty packets of biscuits. How much will be her total earnings for five days?
+
+On the tall hills, he sleds down 2 tall hills * 4 times per tall hill = 8 times. He sleds down the small hills half as often so he sleds down each hill 4 times per tall hill / 2 = 2 times per small hill. On the small hills, he sleds down 3 small hills * 2 times per small hill = 6 times. So in total, Wilson sled down the hills 8 times on tall hills + 6 times on small hills = 14 times.
+The answer: 14
+Reverse engineering the question:

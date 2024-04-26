@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: The Zookeeper's Wife is a non-fiction book written by the poet and naturalist Diane Ackerman. Drawing on the unpublished diary of Antonina Żabiński's, it recounts the true story of how Antonina and her husband, Jan Żabiński, director of the Warsaw Zoo, saved the lives of 300 Jews who had been imprisoned in the Warsaw Ghetto following the German invasion of Poland on September 1, 1939. The book was first published in 2007 by W.W. Norton.
+
+Question: Based on this passage, who wrote the book the zookeeper's wife?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: The Zookeeper's Wife is a non-fiction book written by the poet and naturalist Diane Ackerman.... The answer is Diane Ackerman.
+----
+Answer this question please:
+Robbie Coltrane, OBE (born Anthony Robert McMillan; 30 March 1950) is a Scottish actor and author. He is known for his roles as Rubeus Hagrid in the Harry Potter films, as Valentin Dmitrovich Zukovsky in the James Bond films GoldenEye and The World Is Not Enough, and as Dr. Eddie "Fitz" Fitzgerald in the British TV series Cracker during the 1990s.
+
+Answer this question based on the passage: who played the role of hagrid in harry potter?
+
+Stream of random thoughts: The relevant information is: He is known for his roles as Rubeus Hagrid in the Harry Potter films, as Valentin Dmitrovich Zukovsky in the James Bond films GoldenEye and The World Is Not Enough, and as Dr. Eddie "Fitz" Fitzgerald in the British TV series Cracker during the 1990s.... The answer is Robbie Coltrane , OBE.
+----
+Answer this question please:
+In basketball, a free throw is an unopposed attempt to score points from behind the free throw line. The National Basketball Association's (NBA) free throw percentage leader is the player with the highest free throw percentage in a given season. José Calderón holds the record for best free throw percentage in a season, which he accomplished with the Toronto Raptors in the 2008 -- 09 NBA season. To qualify as a free throw percentage leader, the player must have at least 125 free throws made. Aside from the strike shortened 1998 -- 99 and 2011 -- 12 seasons, this has been the entry criteria since the 1974 -- 75 season.
+
+Who has highest free throw percentage in nba history?
+
+Stream of random thoughts: The relevant information to answer the above question is: José Calderón holds the record for best free throw percentage in a season, which he accomplished with the Toronto Raptors in the 2008 -- 09 NBA season.... The answer is José Calderón.
+----
+Answer this question please:
+The 2003 World Series was the championship series of Major League Baseball's (MLB) 2003 season. The 99th edition of the World Series, it was a best-of-seven playoff between the National League (NL) champion Florida Marlins and the American League (AL) champion New York Yankees; the Marlins defeated the heavily favored Yankees, four games to two. The series was played from October 18 -- 25, 2003. This is the most recent Series in which the losing team outscored the winning team; the Yankees lost, despite outscoring the Marlins 21 -- 17 in the Series. This was the Marlins' second World Series championship win, having won their first in 1997. As of 2017, this is the Marlins' last appearance not only in the World Series, but in the postseason at all.
+
+Answer this question based on the passage: who did the marlins beat in the 2003 world series?
+

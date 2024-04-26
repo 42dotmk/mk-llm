@@ -1,0 +1,19 @@
+Q: Bile or gall is a dark green to yellowish brown fluid, produced by the liver of most vertebrates, that aids the digestion of lipids in the small intestine. In humans, bile is produced continuously by the liver (liver bile), and stored and concentrated in the gallbladder (gallbladder bile). After eating, this stored bile is discharged into the duodenum. The composition of gallbladder bile is 97 % water, 0.7 % bile salts, 0.2 % bilirubin, 0.51 % fats (cholesterol, fatty acids and lecithin), and 200 meq / l inorganic salts.
+
+Answer this question based on the passage: where is bile made and what does it do?
+A: the liver of most vertebrates. How to explain the answer? To answer the above question, the relevant sentence is: Bile or gall is a dark green to yellowish brown fluid, produced by the liver of most vertebrates, that aids the digestion of lipids in the small intestine.
+
+Q: The first season, which premiered on January 13, 2017, consists of eight episodes and adapts the first four books of the series. The second season was ordered in March 2017 and released on March 30, 2018. A Series of Unfortunate Events was renewed for a third season in April 2017, which will consist of seven episodes and adapt the remaining four books.
+
+Answer this question: when does a series of unfortunate events season 2 come out on netflix?
+A: March 30 , 2018. How to explain the answer? The relevant information is: The second season was ordered in March 2017 and released on March 30, 2018.
+
+Q: Jerome Avenue was put together as a plank road in 1874 for $375,000. It appeared on maps as Central Avenue, because it started from Macombs Dam Bridge to Jerome Park Racetrack. Borough President Louis F. Haffen selected contractors in 1897 to pave Jerome Avenue. Three sections of the road were to be remodeled, costing the Bronx about $136,505. The street was to be renamed after an unknown city alderman. Kate Hall Jerome, wife of Lawrence Jerome, was furious, replacing all the signs with the name Jerome Avenue in honor of Jerome Park Racetrack opened by her husband's financier brother, Leonard Jerome in 1866. When the subway line was commissioned, Jerome went from rural road to commercial artery.
+
+Answer this question based on the passage: who is jerome avenue in the bronx named after?
+A: Leonard Jerome. How to explain the answer? The important part for answering this question is: Kate Hall Jerome, wife of Lawrence Jerome, was furious, replacing all the signs with the name Jerome Avenue in honor of Jerome Park Racetrack opened by her husband's financier brother, Leonard Jerome in 1866.
+
+Q: "A series of tubes" is a phrase coined originally as an analogy by then-United States Senator Ted Stevens (R-Alaska) to describe the Internet in the context of opposing network neutrality. On June 28, 2006, he used this metaphor to criticize a proposed amendment to a committee bill. The amendment would have prohibited Internet Access providers such as AT&T, Comcast, Time Warner Cable, and Verizon Communications from charging fees to give some companies' data a higher priority in relation to other traffic. The metaphor has been widely ridiculed, particularly because Stevens displayed an extremely limited understanding of the Internet, even though he was in charge of regulating it. Edward Felten, Princeton University professor of computer science, pointed out the unfairness of some criticisms of Stevens' wording, while maintaining that the underlying arguments were rather weak.
+
+Answer this question based on the passage: who said the internet is a series of tubes?
+A:

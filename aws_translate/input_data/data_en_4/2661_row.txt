@@ -1,0 +1,22 @@
+Answer: the Quran. Now, what could be the question and solution-maybe?
+Ques: Muslims believe that Islam is the complete and universal version of a primordial faith that was revealed many times before through prophets including Adam, Abraham, Moses and Jesus. As for the Quran, Muslims consider it to be the unaltered and final revelation of God. Like other Abrahamic religions, Islam also teaches a final judgment with the righteous rewarded paradise and unrighteous punished in hell. Religious concepts and practices include the Five Pillars of Islam, which are obligatory acts of worship, and following Islamic law, which touches on virtually every aspect of life and society, from banking and welfare to women and the environment. The cities of Mecca, Medina and Jerusalem are home to the three holiest sites in Islam.
+
+Answer this question: what is the holy book of lslam called?
+CoT: The relevant information is: As for the Quran, Muslims consider it to be the unaltered and final revelation of God.
+
+
+Ans: In Return of the Jedi ( 1983 )
+Ques: Passage: Princess Leia Organa of Alderaan (also Senator Leia Organa or General Leia Organa) is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher. Introduced in the original Star Wars film in 1977, Leia is princess of the planet Alderaan, a member of the Imperial Senate and an agent of the Rebel Alliance. She thwarts the sinister Sith Lord Darth Vader and helps bring about the destruction of the Empire's cataclysmic superweapon, the Death Star. In The Empire Strikes Back (1980), Leia commands a Rebel base and evades Vader as she falls in love with the smuggler, Han Solo. In Return of the Jedi (1983), Leia leads the operation to rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker. The prequel film Revenge of the Sith (2005) establishes that the twins' mother is Senator (and former queen) Padmé Amidala of Naboo, who dies after childbirth. Leia is adopted by Senator Bail and Queen Breha Organa of Alderaan. In The Force Awakens (2015) and The Last Jedi (2017), Leia is the founder and General of the Resistance against the First Order. She and Han have a son named Ben, who adopted the name Kylo Ren after turning to the dark side of the Force.
+
+Question: Based on this passage, when is it revealed that luke and leia are siblings?
+CoT: To answer the above question, the relevant sentence is: In Return of the Jedi (1983), Leia leads the operation to rescue Han from the crime lord Jabba the Hutt, and is revealed to be Vader's daughter and the twin sister of Luke Skywalker.
+
+
+Ans: Barry White
+Ques: "Ca n't Get Enough of Your Love, Babe" is a song written, recorded, and produced by Barry White. Released as the first single from his album Ca n't Get Enough in 1974, the song topped the US Billboard Hot 100 and R&B charts and has since become one of his signature tunes. It was his second US chart-topper, after "Love's Theme". It became a gold record.
+
+Answer this question based on the passage: who sang can't get enough of your love baby?
+CoT: The relevant information is: "Ca n't Get Enough of Your Love, Babe" is a song written, recorded, and produced by Barry White.
+
+
+Ans: from 1861 to 1865

@@ -1,0 +1,27 @@
+Reasoning and answer: To have five 3 - piece sets, he needs to have a total of 5 * 3 = 15 shoes,. If he already owns three shoes, then he needs to buy 15 - 3 = 12 additional shoes. Since each pair of shoes includes two shoes, he needs to buy a total of 12 / 2 = 6 pairs of shoes.
+The answer: 6
+What was the question?
+Question: Codger is a three-footed sloth. He has a challenging time buying shoes because the stores only sell the shoes in pairs. If he already owns the 3-piece set of shoes he is wearing, how many pairs of shoes does he need to buy to have 5 complete 3-piece sets of shoes?
+
+The garbage truck passes through Daniel's neighborhood for 3 days. In the first week, 200 * 3 = 600 kilograms of garbage are accumulated. In the second week, half the amount of garbage is accumulated, which is 600 / 2 = 300 kg of garbage. During the 2 weeks, 600 + 300 = 900 kg of garbage are accumulated.
+The answer: 900
+Reverse engineering the question: The garbage truck passes through Daniel's neighborhood on Tuesdays, Thursdays, and Saturdays. In each garbage collection, an average of 200 kg is taken. Due to obstruction in the roads leading to Daniel's neighborhood, the garbage truck stops passing through for two weeks. During the first week, people in Daniel's neighborhood pile the extra garbage around the dumpster, during the second week they apply a policy of cutting their amount of garbage in half. How many kilograms of garbage have accumulated in Daniel's neighborhood during the 2 weeks?
+
+Reasoning and answer: Each dose is 375 * 2 = 750 mg. He takes it 24 / 6 = 4 times. So he takes 750 * 4 = 3000 mg a day.
+The answer: 3000
+What was the question?
+Question: James takes 2 Tylenol tablets that are 375 mg each, every 6 hours. How many mg does he take a day?
+
+Gordon serves 20 x 7 = 140 meals in his first restaurant per week. He serves 40 x 7 = 280 meals in his second restaurant per week. At the third restaurant, he serves 50 x 7 = 350 meals per week. Therefore, he serves 140 + 280 + 350 = 770 meals in total per week.
+The answer: 770
+Reverse engineering the question: Gordon owns 3 restaurants, his first restaurant serves 20 meals, his second restaurant serves 40 meals, and his third restaurant serves 50 meals per day. How many meals do his 3 restaurants serve per week?
+
+Reasoning and answer: Shane gave Mark 14 * 3 = 42 buttons. After that Mark had 42 + 14 = 56 buttons. Then Mark gave 56 / 2 = 28 buttons to Shane. Which left Mark with 28 buttons.
+The answer: 28
+What was the question?
+Question: Mark started the day with 14 buttons. His friend Shane gave him 3 times that amount of buttons. Then his other friend Sam asked if he could have half of Mark’s buttons. How many buttons did Mark end up with?
+
+Reasoning and answer: If the price of an additional bear drops by fifty after the first purchase, the price of each additional bear is $4.00 - $0.50 = $3.50. Since Wally bought 101 bears, he was charged fifty cents less on 101 - 1 = 100 bears. The total cost for the 100 bears is 100 * $3.50 = $350. For the 101 bears, Wally paid a total of $350 + $4 = $354.
+The answer: 354
+What was the question?
+Question:

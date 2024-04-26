@@ -1,0 +1,29 @@
+## question
+The Practice of the Presence of God is a book of collected teachings of Brother Lawrence (born Nicholas Herman), a 17th-century Carmelite monk, compiled by Father Joseph de Beaufort. The compilation includes letters, as well as records of his conversations kept by Brother Lawrence's interlocutors. The basic theme of the book is the development of an awareness of the presence of God.
+
+Who wrote the practice of the presence of god?
+## answer
+The relevant sentence in the passage is: The Practice of the Presence of God is a book of collected teachings of Brother Lawrence (born Nicholas Herman), a 17th-century Carmelite monk, compiled by Father Joseph de Beaufort.
+So the answer must be Brother Lawrence ( born Nicholas Herman ) , a 17th - century Carmelite monk
+
+## question
+Passage: This article lists various tornado records. The most "extreme" tornado in recorded history was the Tri-State Tornado, which spread through parts of Missouri, Illinois, and Indiana on March 18, 1925. It is considered an F5, though tornadoes were not ranked on any scale in that era. It holds records for longest path length at 219 miles (352 km), longest duration at about 31⁄2 hours, and fastest forward speed for a significant tornado at 73 mph (117 km / h) anywhere on Earth. In addition, it is the deadliest single tornado in United States history with 695 fatalities. It was also the third-costliest tornado in history at the time, but has been surpassed by several others non-normalized. When costs are normalized for wealth and inflation, it still ranks third today.
+
+Question: Based on this passage, what was the deadliest tornado in the united states?
+## answer
+To answer the above question, the relevant sentence is: In addition, it is the deadliest single tornado in United States history with 695 fatalities.
+So the answer must be the Tri-State Tornado
+
+## question
+"Play That Funky Music" is a song written by Rob Parissi and recorded by the band Wild Cherry. The single was the first released by the Cleveland-based Sweet City record label in April 1976 and distributed by Epic Records. The performers on the recording included lead singer Parissi, electric guitarist Bryan Bassett, bassist Allen Wentz, and drummer Ron Beitle, with session players Chuck Berginc, Jack Brndiar (trumpets), and Joe Eckert and Rick Singer (saxes) on the horn riff that runs throughout the song's verses. The single hit number one on the Billboard Hot 100 on September 18, 1976; it was also number one on the Hot Soul Singles chart. The single was certified platinum by the Recording Industry Association of America for shipments of over 2 million records and eventually sold 2.5 million in the United States alone.
+
+Who sang the hit 1976 song play that funky music?
+## answer
+The relevant information to answer the above question is: "Play That Funky Music" is a song written by Rob Parissi and recorded by the band Wild Cherry.
+So the answer must be the band Wild Cherry
+
+## question
+Context: The Blue Jackets' name and logos are inspired by Ohio's Civil War history. The Blue Jackets play their home games at Nationwide Arena in downtown Columbus, which opened in 2000. They are affiliated with the Cleveland Monsters of the AHL.
+
+Question: where did the columbus blue jackets get their name?
+## answer

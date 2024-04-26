@@ -1,0 +1,18 @@
+Passage: Mannitol salt agar or MSA is a commonly used selective and differential growth medium in microbiology. It encourages the growth of a group of certain bacteria while inhibiting the growth of others. This medium is important in medical laboratories by distinguishing pathogenic microbes in a short period of time. It contains a high concentration (about 7.5 %-10 %) of salt (NaCl), making it selective for Gram-positive bacteria (Staphylococcus and Micrococcaceae) since this level of salt is inhibitory to most other bacteria. It is also a differential medium for mannitol-fermenting staphylococci, containing carbohydrate mannitol and the indicator phenol red, a pH indicator for detecting acid produced by mannitol-fermenting staphylococci. Staphylococcus aureus produces yellow colonies with yellow zones, whereas other coagulase-negative staphylococci produce small pink or red colonies with no colour change to the medium. If an organism can ferment mannitol, an acidic byproduct is formed that causes the phenol red in the agar to turn yellow. It is used for the selective isolation of presumptive pathogenic (pp) Staphylococcus species.
+
+Question: Based on this passage, what is the role of phenol red in the mannitol salt medium? Let's do a good job answering this.
+--
+Stream of consciousness: The important part for answering this question is: It is also a differential medium for mannitol-fermenting staphylococci, containing carbohydrate mannitol and the indicator phenol red, a pH indicator for detecting acid produced by mannitol-fermenting staphylococci.... The answer is a pH indicator for detecting acid produced by mannitol - fermenting staphylococci.
+
+
+War for the Planet of the Apes is a 2017 American science fiction film directed by Matt Reeves and written by Mark Bomback and Reeves. A sequel to Rise of the Planet of the Apes (2011) and Dawn of the Planet of the Apes (2014), it is the third installment in the Planet of the Apes reboot series. The film stars Andy Serkis, Woody Harrelson and Steve Zahn, and follows a confrontation between the apes, led by Caesar, and the humans for control of Earth. Like its predecessor, its premise shares several similarities to the fifth film in the original series, Battle for the Planet of the Apes, but it is not a direct remake.
+
+Answer this question based on the passage: who directed war for the planet of the apes? Let's do a good job answering this.
+--
+Stream of consciousness: This is the relevant information: War for the Planet of the Apes is a 2017 American science fiction film directed by Matt Reeves and written by Mark Bomback and Reeves.... The answer is Matt Reeves.
+
+
+Gitlow v. New York, 268 U.S. 652 (1925), was a decision by the Supreme Court of the United States holding that the Fourteenth Amendment to the United States Constitution had extended the reach of certain limitations on federal government authority set forth in the First Amendment -- specifically the provisions protecting freedom of speech and freedom of the press -- to the governments of the individual states. It was one of a series of Supreme Court cases that defined the scope of the First Amendment's protection of free speech and established the standard to which a state or the federal government would be held when it criminalized speech or writing.
+
+When the gitlow case get to the federal supreme court the court ruled? Let's do a good job answering this.
+--

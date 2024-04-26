@@ -1,0 +1,22 @@
+Student A:Passage: Manchester United have won a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields. The club has also won three UEFA Champions Leagues, one UEFA Europa League, one UEFA Cup Winners' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup. In 1998 -- 99, the club became the first in the history of English football to achieve the treble of the Premier League, the FA Cup and the UEFA Champions League. In 2016 -- 17, by winning the UEFA Europa League, they became one of five clubs to have won all three main UEFA club competitions. In addition, they became the only professional English club to have won every ongoing honour available to the first team that is organised by a national or international governing body.
+
+Question: Based on this passage, how many times has man united won the champions league?
+Student B:OK... The relevant information is: The club has also won three UEFA Champions Leagues, one UEFA Europa League, one UEFA Cup Winners' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup.
+three.
+
+Student A:Passage: An indirect free kick is awarded to the opposing team from the place where the offence occurred, i.e. where the goalkeeper handled the ball. In practice, this offence is very rarely committed.
+
+Question: Based on this passage, what happens if goalie picks up back pass?
+Student B:OK... This is the relevant information: An indirect free kick is awarded to the opposing team from the place where the offence occurred, i.e. where the goalkeeper handled the ball.
+An indirect free kick is awarded to the opposing team from the place where the offence occurred.
+
+Student A:To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old. The story is told by the six-year-old Jean Louise Finch.
+
+Based on this passage, when was to kill a mocking bird based on?
+Student B:OK... The relevant information to answer the above question is: The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old.
+1936.
+
+Student A:Context: The 4G services were launched internally to Jio's partners, its staff and their families on 27 December 2015. Bollywood actor Shah Rukh Khan, who is also the brand ambassador of Jio, kickstarted the launch event which took place in Reliance Corporate Park in Navi Mumbai, along with celebrities like musician AR Rahman, actors Ranbir Kapoor and Javed Jaffrey, and filmmaker Rajkumar Hirani. The closed event was witnessed by more than 35000 RIL employees some of whom were virtually connected from around 1000 locations including Dallas in the US.
+
+Question: who is the brand ambassador of reliance jio?
+Student B:

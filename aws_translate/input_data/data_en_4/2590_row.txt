@@ -1,0 +1,25 @@
+q... Considered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million (some sources say $310-$330 million), the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country. Each film in the series also had special extended editions released on DVD a year after their respective theatrical releases. While the films follow the book's general storyline, they do omit some of the novel's plot elements and include some additions to and deviations from the source material.
+
+Based on this passage, where is the lord of the rings filmed?
+a... To answer the question, consider the following: Considered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million (some sources say $310-$330 million), the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country.
+The answer is New Zealand
+
+
+q... Robin is a forester in Sherwood forest. As he leaves an archery contest, someone shoots at him and only just misses. Without thinking, Robin returns fire and kills someone. Robin's friends Marian and Much convince him to become an outlaw. Robin hides in Sherwood Forest and gathers a band to oppose the tyrannous Sheriff of Nottingham. Unsurprisingly they rob the rich, give to the poor, and poach deer.
+
+Who lead a gang of outlaws in sherwood forest?
+a... To answer the question, consider the following: Robin hides in Sherwood Forest and gathers a band to oppose the tyrannous Sheriff of Nottingham.
+The answer is Robin
+
+
+q... Context: Dartmoor Zoological Park (originally Dartmoor Wildlife Park) is a 30-acre (12 ha) zoo near the village of Sparkwell, on the south-west edge of Dartmoor, in the county of Devon in the South West of England. It was opened in 1968 by Ellis Daw who ran it until its licence was revoked and it was forced to close in 2006. The zoo was bought in August 2006 by Benjamin Mee who moved in with his two children Milo and Ella and reopened the zoo in July 2007, later writing a book about his experiences called We Bought a Zoo (2008). A 2011 film of the same title was loosely based on the book.
+
+Question: where is dartmoor zoo from we bought a zoo?
+a... To answer this question, we should know that: Dartmoor Zoological Park (originally Dartmoor Wildlife Park) is a 30-acre (12 ha) zoo near the village of Sparkwell, on the south-west edge of Dartmoor, in the county of Devon in the South West of England.
+The answer is near the village of Sparkwell , on the south - west edge of Dartmoor , in the county of Devon in the South West of England
+
+
+q... SpongeBob SquarePants: The Broadway Musical (originally titled The SpongeBob Musical) is a stage musical, co-conceived and directed by Tina Landau with songs by various artists, a book by Kyle Jarrow. It is based on the Nickelodeon animated television series SpongeBob SquarePants and made its world premiere in June 2016 at the Oriental Theatre in Chicago. The musical premiered on Broadway at the Palace Theatre in December 2017.
+
+Answer this question: who wrote the music for spongebob the musical?
+a...

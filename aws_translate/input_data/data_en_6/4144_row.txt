@@ -1,0 +1,25 @@
+On Wednesday she pulled 25 * 3 = 75 weeds. On Thursday she pulled 75 / 5 = 15 weeds. On Friday she pulled 15 - 10 = 5 weeds. In total she pulled 25 + 75 + 15 + 5 = 120 weeds.
+The answer: 120
+Reverse engineering the question: Sarah decided to pull weeds from her garden. On Tuesday she pulled 25 weeds. The next day she pulled three times the number of weeds she did the day before. On Thursday her allergies bothered her and she could only pull up one-fifth of the weeds she pulled on the day before. Finally, on Friday it rained for half the day and she managed to pull up 10 fewer weeds than she did on Thursday. In total, how many weeds did she pull up?
+
+Reasoning and answer: The cost of the films is 9 × $5 = $45. The cost of the books is 4 × $4 = $16. The cost of the CDs is 6 × $3 = $18. Josh spent $45 + $16 + $18 = $79 in total.
+The answer: 79
+What was the question?
+Question: Josh went to the shopping center. He bought 9 films and 4 books. He also bought 6 CDs. Each film cost $5, each book cost $4 and each CD cost $3. How much did Josh spend in all?
+
+Maria has $120 and received $250 from her mother. So she has 120 + 250 = $370. As the price of the bike stands at $600, Maria needs 600 – 370 = $230 more to buy the bike.
+The answer: 230
+Reverse engineering the question: Maria wants to buy a brand new bike. The retail price at the bike shop stands at $600. She saved $120 toward the purchase. As this was not enough, she asked her mother to give her the remaining amount. Her mother offered her $250 and told her that she needs to earn the rest working during the holidays. How much money must Maria earn to be able to buy the bike she wants?
+
+Reasoning and answer: The gum cost $1.5 / 2 = $.75 per pack. So he pays $.75 * 2 = $1.5 for the gum. He pays $1.5 * 3 = $4.5 for the candy bars. So in total, he pays $1.5 + $4.5 = $6.
+The answer: 6
+What was the question?
+Question: John buys 2 packs of gum and 3 candy bars. Each stick of gum cost half as much as the candy bar. If the candy bar cost $1.5 each, how much did he pay in total?
+
+He is washing 10 ounces of shirts because 2 x 5 = 10. He is washing 6 ounces of socks because 3 x 2 = 6. He is already washing 34 ounces of clothes because 10 + 10 + 8 + 6 = 34. He can wash 16 more ounces because 50 - 34 = 16. He can wash 4 pairs of underwear because 16 / 4 = 4.
+The answer: 4
+Reverse engineering the question: Tony's dad is very strict about the washing machine and family members are only allowed to wash 50 total ounces of clothing at a time. Tony doesn't want to break the rules, so he weighs his clothes and finds that a pair of socks weighs 2 ounces, underwear weighs 4 ounces, a shirt weighs 5 ounces, shorts weigh 8 ounces, and pants weigh 10 ounces. Tony is washing a pair of pants, 2 shirts, a pair of shorts, and 3 pairs of socks. How many more pairs of underwear can he add to the wash and not break the rule?
+
+At the end of his first week, Brian now has doubled his initial time of 10 seconds to 10 * 2 = 20 seconds. At the end of his second week, Brian doubled the previous week's time of 20 seconds to 20 * 2 = 40 seconds. At the end of his third week of practice, Brian adds another 50% of 40 seconds to his time so 40 * .5 = 20 seconds added. Having added 20 seconds to his time from his second week, Brian can now hold his breath for 40 + 20 = 60 seconds.
+The answer: 60
+Reverse engineering the question:

@@ -1,0 +1,29 @@
+## question
+Context: Hong Kong International Airport (IATA: HKG, ICAO: VHHH) is the main airport in Hong Kong. It is located on the island of Chek Lap Kok, which largely comprises land reclaimed for the construction of the airport itself. The airport is also colloquially known as Chek Lap Kok Airport (赤 鱲 角 機場), to distinguish it from its predecessor, the closed Kai Tak Airport.
+
+Question: where is the airport in hong kong located?
+## answer
+To answer this question, we should know that: It is located on the island of Chek Lap Kok, which largely comprises land reclaimed for the construction of the airport itself.
+So the answer must be the island of Chek Lap Kok
+
+## question
+Johnston (or Johnston Sans) is a sans-serif typeface designed by and named after Edward Johnston. The typeface was commissioned in 1913 by Frank Pick, commercial manager of the Underground Electric Railways Company of London (also known as' The Underground Group'), as part of his plan to strengthen the company's corporate identity. Johnston was originally created for printing (with a planned height of 1 inch or 2.5 cm), but it rapidly became used for the enamel station signs of the Underground system as well.
+
+Answer this question: what font is used for london underground signs?
+## answer
+The relevant information is: Johnston was originally created for printing (with a planned height of 1 inch or 2.5 cm), but it rapidly became used for the enamel station signs of the Underground system as well.
+So the answer must be Johnston
+
+## question
+"You're So Vain" is a song written and performed by Carly Simon and released in November 1972. The song is a critical profile of a self-absorbed lover about whom Simon asserts "You're so vain, you probably think this song is about you." The title subject's identity has long been a matter of speculation, with Simon stating that the song refers to three men, only one of whom she has named publicly, actor Warren Beatty. The song is ranked at # 82 on Billboard's Greatest Songs of All-Time. "You're So Vain" was voted # 216 in RIAA's Songs of the Century, and in August 2014, the UK's Official Charts Company crowned it the ultimate song of the 1970s.
+
+Based on this passage, who is you're so vain written for?
+## answer
+The relevant sentence in the passage is: The title subject's identity has long been a matter of speculation, with Simon stating that the song refers to three men, only one of whom she has named publicly, actor Warren Beatty.
+So the answer must be three men , only one of whom she has named publicly , actor Warren Beatty
+
+## question
+When a meteoroid, comet, or asteroid enters Earth's atmosphere at a speed typically in excess of 20 km / s (72,000 km / h; 45,000 mph), aerodynamic heating of that object produces a streak of light, both from the glowing object and the trail of glowing particles that it leaves in its wake. This phenomenon is called a meteor or "shooting star". A series of many meteors appearing seconds or minutes apart and appearing to originate from the same fixed point in the sky is called a meteor shower. If that object withstands ablation from its passage through the atmosphere as a meteor and impacts with the ground, it is then called a meteorite.
+
+Based on this passage, what do you call a meteor that has fallen to earth?
+## answer

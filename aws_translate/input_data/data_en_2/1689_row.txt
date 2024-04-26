@@ -1,0 +1,19 @@
+Question: Capital punishment is a legal penalty in the United States, currently used by 31 states and the federal government. Its existence can be traced to the beginning of the American colonies. The United States is the only Western country currently applying the death penalty, one of 57 countries worldwide applying it, and was the first to develop lethal injection as a method of execution, which has since been adopted by five other countries.
+
+How many states in usa have death penalty?
+Answer: To answer the question, consider the following: Capital punishment is a legal penalty in the United States, currently used by 31 states and the federal government. The answer is 31 states.
+
+Question: Passage: The lowest velocities are near the base of the glacier and along valley sides where friction acts against flow, causing the most deformation. Velocity increases inward toward the center line and upward, as the amount of deformation decreases. The highest flow velocities are found at the surface, representing the sum of the velocities of all the layers below.
+
+Question: Based on this passage, in a cross-section of a glacier the greatest flow velocities (speeds) occur?
+Answer: To answer the above question, the relevant sentence is: The highest flow velocities are found at the surface, representing the sum of the velocities of all the layers below. The answer is at the surface.
+
+Question: Passage: Two Weeks Notice was followed by the 2003 ensemble comedy, Love Actually, headlined by Grant as the British Prime Minister. A Christmas release by Working Title Films, the film was promoted as "the ultimate romantic comedy" and accumulated $246 million at the international box office. It marked the directorial debut of Richard Curtis, who told the New York Times that Grant adamantly tempered the characterisation of the role to make his character more authoritative and less haplessly charming than earlier Curtis incarnations. Roger Ebert claimed that "Grant has flowered into an absolutely splendid romantic comedian" and has "so much self-confidence that he plays the British prime minister as if he took the role to be a good sport." Film critic Rex Reed, on the contrary, called Grant's performance "an oversexed bachelor spin on Tony Blair" as the star "flirted with himself in the paroxysm of self-love that has become his acting style."
+
+Question: Based on this passage, who played the prime minister in love actually?
+Answer: This is the relevant information: Two Weeks Notice was followed by the 2003 ensemble comedy, Love Actually, headlined by Grant as the British Prime Minister. The answer is Grant.
+
+Question: As of 2016, the Peace Prize has been awarded to 104 individuals and 23 organizations. Sixteen women have won the Nobel Peace Prize, more than any other Nobel Prize. Only two recipients have won multiple Prizes: the International Committee of the Red Cross has won three times (1917, 1944, and 1963) and the Office of the United Nations High Commissioner for Refugees has won twice (1954 and 1981). Lê Đức Thọ is the only person who refused to accept the Nobel Peace Prize.
+
+Based on this passage, which organisation got 3 times nobel prize for peace?
+Answer:

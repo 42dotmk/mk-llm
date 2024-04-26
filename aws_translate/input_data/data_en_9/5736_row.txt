@@ -1,0 +1,25 @@
+Roque takes 2 * 3 = 6 hours a week to walk to work. Roque takes 6 * 2 = 12 hours a week to walk to and from work. Roque takes 1 * 2 = 2 hours a week to bike to work. Roque takes 2 * 2 = 4 hours a week to bike to and from work. In total, Roque takes 12 + 4 = 16 hour a week to go to and from work.
+The answer: 16
+Reverse engineering the question: It takes Roque two hours to walk to work and one hour to ride his bike to work. Roque walks to and from work three times a week and rides his bike to and from work twice a week. How many hours in total does he take to get to and from work a week with walking and biking?
+
+Reasoning and answer: He is washing 10 ounces of shirts because 2 x 5 = 10. He is washing 6 ounces of socks because 3 x 2 = 6. He is already washing 34 ounces of clothes because 10 + 10 + 8 + 6 = 34. He can wash 16 more ounces because 50 - 34 = 16. He can wash 4 pairs of underwear because 16 / 4 = 4.
+The answer: 4
+What was the question?
+Question: Tony's dad is very strict about the washing machine and family members are only allowed to wash 50 total ounces of clothing at a time. Tony doesn't want to break the rules, so he weighs his clothes and finds that a pair of socks weighs 2 ounces, underwear weighs 4 ounces, a shirt weighs 5 ounces, shorts weigh 8 ounces, and pants weigh 10 ounces. Tony is washing a pair of pants, 2 shirts, a pair of shorts, and 3 pairs of socks. How many more pairs of underwear can he add to the wash and not break the rule?
+
+Let H = Hezekiah's age. Ryanne = H + 7. 2H + 7 = 15. 2H = 8. H = 4. Hezekiah is 4 years old.
+The answer: 4
+Reverse engineering the question: Ryanne is 7 years older than Hezekiah. Together Ryanne's and Hezekiah's ages equal 15 years. How many years old is Hezekiah?
+
+Reasoning and answer: First find how many kids from Riverside High are rejected: 20% * 120 kids = 24 kids. Then find how many kids from West Side High are rejected: 70% * 90 kids = 63 kids. Then find how many kids from Mountaintop High are rejected: 50 kids / 2 = 25 kids. Then add the number of kids from each school to find the total number of kids: 120 kids + 90 kids + 50 kids = 260 kids. Then subtract all the kids who were rejected from the total number of kids to find the number who got in: 260 kids - 24 kids - 63 kids - 25 kids = 148 kids.
+The answer: 148
+What was the question?
+Question: Fern is checking IDs to get into an R-rated movie. She denied 20% of the 120 kids from Riverside High, 70% of the 90 kids from West Side High, and half the 50 kids from Mountaintop High. How many kids got into the movie?
+
+Catherine gave eight pens to each of her seven friends, a total of 8 * 7 = 56 pens. She remained with 60 - 56 = 4 pens. When she also gave 6 pencils to each of her seven friends, she gave away 6 * 7 = 42 pencils. Since she had the same number of pencils as pens, she remained with 60 - 42 = 18 pencils. The total number of pens and pencils that Catherine remained with is 4 + 18 = 22.
+The answer: 22
+Reverse engineering the question: Catherine had an equal number of pencils and pens. If she had 60 pens and gave eight pens and 6 pencils to each of her seven friends and kept the rest for herself, how many pens and pencils did she have left?
+
+Sebastian in the percussion section makes 1 person. The brass section has 4 + 2 + 1 = 7 people. The strings section has 3 + 1 + 1 = 5 people. The woodwinds section has 3 + 4 = 7 people. The maestro is 1 person. Thus, the orchestra has 1 + 7 + 5 + 7 + 1 = 21 people in it.
+The answer: 21
+Reverse engineering the question:

@@ -1,0 +1,17 @@
+To address the inference that the Titanic didn't have proper safety protocols in place, it is important to take a closer look at the events leading up to the tragedy, the safety measures in place at the time, and the prevailing standards in maritime safety in the early 20th century.
+
+The RMS Titanic was considered the epitome of luxury and technological advancement in the early 1900s. It was outfitted with various safety features available at the time, such as watertight doors and compartments. At the time of its construction, many thought it to be virtually unsinkable.
+
+However, the sinking of the Titanic did highlight several deficiencies in safety protocols and practices, which subsequently led to significant changes in maritime safety regulations. Some issues identified include:
+
+1. Insufficient lifeboats – The Titanic was equipped with 20 lifeboats, enough to accommodate just over 1,100 people, while there were more than 2,200 passengers and crew members aboard the ship. This deficit was partly due to outdated maritime laws that determined the number of lifeboats required on a ship based on its tonnage rather than its passenger capacity. Additionally, aesthetics and concerns about the deck appearing cluttered contributed to the lower number of lifeboats.
+
+2. Inadequate crew training – The crew aboard the Titanic was not adequately trained in handling emergencies, such as the one faced that fateful night. Many crew members were unfamiliar with the lifeboat launching procedure, which led to delays and reduced capacity utilization of the available lifeboats. Moreover, many passengers were not informed of the proper safety procedures or the locations of life jackets and lifeboats.
+
+3. Miscommunication and complacency – The Titanic received multiple ice warnings from other ships in the area before the collision but failed to take evasive action or reduce speed. Some messages were not forwarded to the bridge, while others did not result in an appropriate response. Complacency in the belief that the Titanic was "unsinkable" may also have played a role in the insufficient response to these warnings.
+
+4. Compromised construction – While the Titanic's design included many advanced safety features for its time, such as watertight compartments designed to contain flooding, a few critical design flaws contributed to its vulnerability. For example, the watertight compartments were not entirely sealed at the top, which allowed water to spill over into adjacent compartments as the ship tilted. This flaw, combined with the significant damage to its hull from the iceberg impact, compromised the Titanic's ability to stay afloat.
+
+Taking these factors into consideration, we can infer that the Titanic did lack proper safety protocols by modern standards. However, it is crucial to understand that these shortcomings were not necessarily a result of negligence by the ship's designers or crew but rather a reflection of the prevailing safety standards and practices of the time.
+
+The disaster did serve as a catalyst for significant improvements in maritime safety. Following the sinking of the Titanic, the first International Convention for the Safety of Life at Sea (SOLAS) was adopted in 1914, which established standards for lifeboat capacity, crew training, and other ship safety protocols. These regulations have been continuously revisited and updated to this day, ensuring a commitment to learning from past tragedies and constantly improving maritime safety standards.

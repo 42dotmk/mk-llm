@@ -1,0 +1,39 @@
+Title: Understanding Basic Geometry: How to Calculate the Sum of Internal Angles in a Polygon
+
+Introduction
+
+Geometry is a fundamental branch of mathematics that deals with shapes, sizes, angles, and dimensions of various objects. One of the key concepts in geometry is the polygon, a closed two-dimensional shape with straight sides. In this article, we will discuss a simple and straightforward method to calculate the sum of internal angles of any given polygon using a popular technique known as triangulation. We will first define what a polygon is, and then, step by step, we will guide you through the entire process of finding the sum of its angles.
+
+Defining the Polygon
+
+A polygon is a closed two-dimensional geometric figure with at least three straight sides and angles, which are formed when two sides meet at the vertices, or corners, of the shape. Some common examples of polygons include triangles (3 sides), quadrilaterals (4 sides), pentagons (5 sides), and hexagons (6 sides). Every polygon has a specific number of vertices, sides, and angles, and the sum of these internal angles can provide valuable information about the shape's properties.
+
+Triangulation Technique: A Step by Step Process
+
+To calculate the sum of internal angles of the polygon, we will follow the steps described in the task, which relies on the principle of triangulation. This method divides the polygon into a set of non-overlapping triangles, whose angles' sum is equal to the sum of the polygon's angles.
+
+Step 1: Draw the Polygon
+
+First and foremost, sketch the given polygon on a piece of paper or on any available drawing platform. It is essential to ensure that the polygon is drawn accurately, with all its sides connected and forming a closed shape.
+
+Step 2: Choose a Vertex
+
+Select one vertex within the polygon that will serve as a point of reference or the center of triangulation. This vertex is commonly referred to as Point A. make sure it is clearly marked.
+
+Step 3: Draw Straight Lines
+
+From Point A, draw straight lines to each of the other vertices in the polygon, excluding the vertices that are directly adjacent to Point A as they already form a triangle with it. These lines essentially create multiple non-overlapping triangles within the context of the polygon.
+
+Step 4: Count the Number of Triangles
+
+Once all the triangles have been created, count the total number of triangles formed within the polygon. This number will be directly correlated to the number of sides (n) in the polygon, with the number of triangles being equal to n-2.
+
+Step 5: Multiply by 180
+
+Since the sum of angles in every triangle is always equal to 180 degrees, multiply the number of triangles obtained in the previous step by 180. The resulting value represents the sum of the internal angles of the polygon.
+
+Final Thoughts
+
+In conclusion, finding the sum of internal angles in a polygon is a straightforward process that relies on the principle of triangulation. By following the mentioned steps of drawing the polygon, choosing a vertex, making straight lines to other vertices, counting the triangles, and multiplying by 180, one can easily acquire the desired sum.
+
+This knowledge opens up a world of possibilities when exploring the properties of various polygons in geometry. It serves as a foundation for understanding various geometric concepts and shapes and is vital for anyone studying geometry, architecture, or any field that deals with shapes and measurements.

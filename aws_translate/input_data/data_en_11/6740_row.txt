@@ -1,0 +1,36 @@
+Ans: supervising offenders released from prison or sentenced to non-custodial sanctions such as community service
+Ques: Parole officers and probation officers play a role in the criminal justice systems by supervising offenders released from prison or sentenced to non-custodial sanctions such as community service. In some jurisdictions parole or probation officers are involved in presenting reports on offenders and making sentencing recommendation to courts of law.
+
+What is the role of a probation and parole officer?
+CoT: To answer this question, we should know that: Parole officers and probation officers play a role in the criminal justice systems by supervising offenders released from prison or sentenced to non-custodial sanctions such as community service.
+
+
+Answer: Jack Keil. Now, what could be the question and solution-maybe?
+Ques: The first television advertisement, "Stop a Crime", debuted in February 1980. The full 60 second advertisement features McGruff (voiced by Jack Keil) entering an unlocked house and telling the viewer, "All crime needs is a chance. Do n't give it a chance" before giving tips on preventative measures. These measure included locking doors, turning on exterior lights, securing windows, asking neighbors to watch the house during long absences, and putting lights on timers.
+
+Who does the voice of mcgruff the dog?
+CoT: The relevant sentence in the passage is: The full 60 second advertisement features McGruff (voiced by Jack Keil) entering an unlocked house and telling the viewer, "All crime needs is a chance.
+
+
+Ans: Ashish Sharma
+Ques: Chandragupta Maurya (Devanagari: चन्द्रगुप्त मौर्य) is an Indian historical drama being broadcast on Dangal TV, based on the life of Chandragupta Maurya, one of the major Indian Emperors of ancient India. It premiered on 20 December 2014. It is being re-aired on Dangal TV after Imagine TV was shut-down for unknown reasons. Chandragupta Maurya was first aired in March 2011 on Imagine TV. Ashish Sharma played the role of Chandragupta Maurya.
+
+Answer this question based on the passage: who is playing the role of chandragupta maurya?
+CoT: This is the relevant information: Ashish Sharma played the role of Chandragupta Maurya.
+
+
+Ans: Melissa Pam Ordway Gaston
+Ques: Melissa Pam Ordway Gaston (born March 31, 1983) is an American actress and model. She has modeled in many campaigns and acted in such films as 17 Again and on television in Privileged. She currently portrays the character of Abby Newman on the drama series The Young and the Restless.
+
+Answer this question based on the passage: who plays abby in the young and the restless?
+CoT: This is the relevant information: She currently portrays the character of Abby Newman on the drama series The Young and the Restless.
+
+
+Answer: the Boston Red Sox defeating the Los Angeles Dodgers. Now, what could be the question and solution-maybe?
+Ques: The 2018 Major League Baseball season began on March 29, 2018. The regular season ended on October 1, extended a day for tiebreaker games to decide the winners of the National League Central and National League West divisions. The postseason began on October 2. The 2018 World Series began on October 23, and ended on October 28 with the Boston Red Sox defeating the Los Angeles Dodgers in five games to win their ninth World Series championship.
+
+Who's playing in the world series 2018?
+CoT: To answer this question, we should know that: The 2018 World Series began on October 23, and ended on October 28 with the Boston Red Sox defeating the Los Angeles Dodgers in five games to win their ninth World Series championship.
+
+
+Ans: 86 guest rooms

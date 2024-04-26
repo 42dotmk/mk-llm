@@ -1,0 +1,22 @@
+Student A:Passage: Alice Braga as Teresa Mendoza Veronica Falcon as Doña Camila Vargas, Don Epifanio's estranged wife and head of the American chapter of the Vargas Cartel in Dallas, Texas Justina Machado as Brenda Parra, Teresa's best friend, Chino's wife, and Tony's mother (Season 1) Peter Gadiot as James Valdez, Camila's right-hand man Hemky Madera as Pote Galvez, a lieutenant in the Vargas Cartel Gerardo Taracena as Cesar "Batman" Guemes, Don Epifanio Vargas' right-hand man (Season 1-2) Joaquim de Almeida as Don Epifanio Vargas, Camilla Vargas' husband, head of the Vargas Cartel (see: Sinaloa Cartel), and a candidate for the governor of the Mexican state of Sinaloa (Seasons 1-2) Jon-Michael Ecker as Raymundo "El Güero" Davila (Season 2, recurring season 1) Nick Sagar as DEA agent Alonzo Loya
+
+Question: Based on this passage, who plays camilla vargas in queen of the south?
+Student B:OK... The important part for answering this question is: Veronica Falcon as Doña Camila Vargas, Don Epifanio's estranged wife and head of the American chapter of the Vargas Cartel in Dallas, Texas
+Veronica Falcon.
+
+Student A:Passage: It was also in his inaugural address that John F. Kennedy spoke his famous words, "ask not what your country can do for you, ask what you can do for your country." This use of chiasmus can be seen even as a thesis statement of his speech -- a call to action for the public to do what is right for the greater good.
+
+Question: Based on this passage, who said this quote ask not what your country can do for you?
+Student B:OK... This is the relevant information: It was also in his inaugural address that John F. Kennedy spoke his famous words, "ask not what your country can do for you, ask what you can do for your country."
+John F. Kennedy.
+
+Student A:Passage: "Heaven Is a Place on Earth" is a song recorded by American singer Belinda Carlisle for her second studio album Heaven on Earth (1987). Written by Rick Nowels and Ellen Shipley, the power ballad was released as the album's lead single in September 1987, and it hit number one on the US Billboard Hot 100 on December 5, 1987, becoming Carlisle's only US chart-topper. A month later it hit number one in the United Kingdom, where it held the top spot of the UK Singles Chart for two weeks.
+
+Question: Based on this passage, who sings the song blue heaven is a place on earth?
+Student B:OK... To answer the above question, the relevant sentence is: "Heaven Is a Place on Earth" is a song recorded by American singer Belinda Carlisle for her second studio album Heaven on Earth (1987).
+American singer Belinda Carlisle.
+
+Student A:The franchise began in 1977 with the release of the film Star Wars (later subtitled Episode IV: A New Hope in 1981), which became a worldwide pop culture phenomenon. It was followed by the successful sequels The Empire Strikes Back (1980) and Return of the Jedi (1983); these three films constitute the original Star Wars trilogy. A prequel trilogy was released between 1999 and 2005, which received mixed reactions from both critics and fans. A sequel trilogy began in 2015 with the release of Star Wars: The Force Awakens and continued in 2017 with the release of Star Wars: The Last Jedi. The first eight films were nominated for Academy Awards (with wins going to the first two films released) and have been commercial successes, with a combined box office revenue of over US $8.5 billion, making Star Wars the second highest-grossing film series. Spin-off films include the animated Star Wars: The Clone Wars (2008) and Rogue One (2016), the latter of which is the first in a planned series of anthology films.
+
+Answer this question based on the passage: when was the first stars wars movie released?
+Student B:

@@ -1,0 +1,34 @@
+Problem:Overall, thirty-two different drivers have won the Championship, with Richard Petty, Dale Earnhardt, and Jimmie Johnson hold the record for most titles at seven. Johnson has the record for most consecutive Drivers' Championships, winning five from 2006 to 2010. Thus far, every champion has originated from the United States.
+
+Based on this passage, who has won the most championships in nascar?
+Solution:OK... The relevant sentence in the passage is: Overall, thirty-two different drivers have won the Championship, with Richard Petty, Dale Earnhardt, and Jimmie Johnson hold the record for most titles at seven.
+Richard Petty.
+
+Student A:Context: As of July 24, 2017, 39 episodes of Counting On have aired, concluding the fifth season. Season 6 premiered on September 11, 2017.
+
+Question: when is season 6 of counting on coming out?
+Student B:OK... The relevant sentence in the passage is: Season 6 premiered on September 11, 2017.
+September 11 , 2017.
+
+Problem:After completing tryouts in Houston, Beauty and the Beast premiered on Broadway on April 18, 1994, starring Susan Egan and Terrence Mann as the eponymous Belle and Beast, respectively. The musical opened to mixed reviews from theatre critics, but was a massive commercial success and well received by audiences. Beauty ran on Broadway for 5,461 performances between 1994 and 2007, becoming Broadway's tenth longest-running production in history. The musical has grossed more than $1.4 billion worldwide and played in thirteen countries and 115 cities. It has also become a popular choice for high school productions.
+
+Answer this question: when did beauty and the beast the musical come out?
+Solution:OK... To answer the above question, the relevant sentence is: After completing tryouts in Houston, Beauty and the Beast premiered on Broadway on April 18, 1994, starring Susan Egan and Terrence Mann as the eponymous Belle and Beast, respectively.
+April 18 , 1994.
+
+Student A:Passage: The sixth and final season will air in August 2018.
+
+Question: Based on this passage, when does a place to call home return in 2018?
+Student B:OK... This is the relevant information: The sixth and final season will air in August 2018.
+August.
+
+Problem:"All by Myself" is a song by American artist Eric Carmen released in 1975. The verse is based on the second movement (Adagio sostenuto) of Sergei Rachmaninoff's Piano Concerto No. 2 in C minor, Opus 18. The chorus is borrowed from the song "Let's Pretend", which Carmen wrote and recorded with the Raspberries in 1972.
+
+Based on this passage, when did the song all by myself come out?
+Solution:OK... To answer this question, we should know that: "All by Myself" is a song by American artist Eric Carmen released in 1975.
+1975.
+
+Problem:While the show initially enjoyed high ratings, the average rating of the show at the end of its first season dropped to 52nd out of 94 programs. Unhappy with the show's ratings, NBC threatened to cancel the show during its second season. The show's fan base, led by Bjo Trimble, conducted an unprecedented letter-writing campaign, petitioning the network to keep the show on the air. NBC renewed the show, but moved it from primetime to the "Friday night death slot", and substantially reduced its budget. In protest Roddenberry resigned as producer and reduced his direct involvement in Star Trek, which led to Fred Freiberger becoming producer for the show's third and final season. Despite another letter-writing campaign, NBC cancelled the series after three seasons and 79 episodes.
+
+Answer this question: how many episodes of star trek in total?
+Solution:

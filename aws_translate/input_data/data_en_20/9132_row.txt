@@ -1,0 +1,159 @@
+Definition: In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+Input: “For those that would speculate otherwise, let me be clear that I have no ulterior motives,” Rep. Jason Chaffetz (R-Utah) said of his decision not to seek reelection in 2018. | AP Photo Chaffetz won't run for reelection in 2018 'I have made a personal decision to return to the private sector.' 
+  
+ House Oversight Chairman Jason Chaffetz (R-Utah) said Wednesday he will not run for reelection next year, ending a fast-rising political career, at least for now. 
+  
+ “After long consultation with my family and prayerful consideration, I have decided I will not be a candidate for any office in 2018,” he wrote on Facebook. “I have made a personal decision to return to the private sector.” 
+  
+ Story Continued Below 
+  
+ The move by the highly ambitious politician came as a shock to many in Washington. Chaffetz defeated a more moderate GOP incumbent in a 2008 primary and rose to prominence as a fierce inquisitor of President Barack Obama and Secretary of State Hillary Clinton. He also was seen as a possible candidate for the Senate. 
+  
+ “I have long advocated public service should be for a limited time and not a lifetime or full career,” he wrote. “After more than 1,500 nights away from my home, it is time. I may run again for public office, but not in 2018.” 
+  
+ Asked whether he would run for governor in 2020 in an interview with Utah’s KSL Newsradio, Chaffetz said, “Maybe,” adding, “I’m not trying to close the door or open the door to anything in the future… a couple years from now you can make that decision.” 
+  
+ Chaffetz also pre-emptively dismissed speculation about why he would leave Congress. 
+  
+ “For those that would speculate otherwise, let me be clear that I have no ulterior motives,” he wrote. “I am healthy. I am confident I would continue to be re-elected by large margins. I have the full support of Speaker [Paul] Ryan to continue as Chairman of the Oversight and Government Reform Committee.” 
+  
+ In the radio interview, he encouraged listeners that hear any rumors about him to "put that aside." 
+  
+ "I love serving in Congress, but I love my family more," Chaffetz said. "I didn't want to go there forever, I really meant it when I said I wanted to get in, serve, and get out." 
+  
+ He added that the contentious political environment had nothing to do with his decision to leave Capitol Hill, and he touted his work on the powerful Oversight Committee, including his controversial investigations of the Benghazi attacks, Hillary Clinton’s private email server and the IRS. 
+  
+ Democrats responded to Chaffetz's announcement by accusing him of failing to investigate the Trump administration's improprieties. 
+  
+ "Chaffetz refused to hold Trump and his family accountable for using the presidency to pad their bank accounts at the expense of Americans," said DNC Deputy Communications Director Adrienne Watson. She said DNC Chairman Tom Perez and Sen. Bernie Sanders are heading to Salt Lake City on Friday to campaign against Trump. 
+  
+ Chaffetz's 3rd District in Utah, which runs from the Salt Lake City suburbs to the state's southern and eastern borders, is one of the most Republican in the country: Neither Obama nor Clinton scored even a quarter of the vote there in 2012 or 2016, and Chaffetz has won reelection with at least 70 percent of the vote four times in a row. 
+  
+ Breaking News Alerts Get breaking news when it happens — in your inbox. Email Sign Up By signing up you agree to receive email newsletters or alerts from POLITICO. You can unsubscribe at any time. 
+  
+ The district has not been open for two decades and could draw a large crowd of interested Republican office-seekers as a result. 
+  
+ A Democratic physician, Kathryn Allen, raised a whopping $561,000 in the first quarter to run against Chaffetz, but she will face that built-in partisan disadvantage in a general election. 
+  
+ Aidan Quigley and Scott Bland contributed to this report. ||||| On Capitol Hill, Mr. Chaffetz has shown an opportunistic streak, often rushing toward television cameras with an eager smile. During the election, he vacillated several times before backing President Trump. He said he would not be able to look his teenage daughter in the eye should he vote for Mr. Trump after revelations arose that Mr. Trump had boasted in 2005 of sexually assaulting women. Then he voted for him. And he vowed to investigate Hillary Clinton whether she won or not. 
+  
+ With a ready foil in Mrs. Clinton, whose brushes with controversy have sustained many Republican congressional careers, Mr. Chaffetz appeared primed to emerge as a chief tormentor for a new Democratic White House. 
+  
+ Instead, as much as perhaps any member of Congress, his fortunes turned with Mr. Trump’s victory. 
+  
+ During his time heading the committee, Mr. Chaffetz has focused often on two pet issues: criticizing the Secret Service for security lapses and holding Mrs. Clinton to account. 
+  
+ After the F.B.I. director, James B. Comey, announced in July that the bureau would recommend that Mrs. Clinton not be charged over her use of a private email account when she was secretary of state, Mr. Chaffetz led House Republicans in rejecting Mr. Comey’s conclusion. 
+  
+ Five days after the announcement, Mr. Chaffetz asked the Justice Department to investigate whether Mrs. Clinton had lied in her testimony before Congress about the 2012 attacks in Benghazi, Libya. Mr. Chaffetz had been one of the first lawmakers to raise questions about the Obama administration’s role in Benghazi, traveling to Libya less than a month after the attacks to evaluate security standards. 
+  
+ “It’s the nature of being the committee chairman to conduct oversight of the administration,” he said last year, describing his role as a pursuit of facts, not a political agenda. 
+  
+ But with Mr. Trump’s surprise victory in November, Mr. Chaffetz found himself in an uncomfortable position: a watchdog who often sounded disinclined to watch over a fellow Republican. ||||| When receiving donations of more than $200, candidates must report who gave, how much they gave and when. Of those bigger, itemized donations to Allen — some $66,300 — about 82 percent came from people outside of Utah. Boasting of 15,194 donors, Allen said she got at least one contribution from a resident in every state (as well as some foreign funds, which, according to campaign finance law, had to be returned). 
+  
+ None of Allen's contributions came from political action committees (PACs), though a few celebrities, including Nancy Sinatra, donated. 
+  
+ "I think people underestimate me and underestimate other Democrats," said Allen, a 63-year-old physician and resident of Cottonwood Heights. 
+  
+ Her campaign went viral in early March when in less than a week, Allen went from $20,000 in an exploratory account to declaring her candidacy with $410,000 in donations. The reason for the spike? Chaffetz appeared on national television and remarked that "rather than get that new iPhone," low-income Americans may have to prioritize spending on health care. Though he later sought to clarify the comment, angry people from across the country jumped on the fundraising site CrowdPac and flooded Allen with money. 
+  
+ It also catapulted Chaffetz, chairman of the House Oversight Committee, into action. The congressman had raised just $29,550 from the start of the year until the end of February. Then, beginning on March 6, his fundraising picked up significantly. He collected $123,050 in the last three weeks of the reporting period. 
+  
+ His campaign seized on Allen's success, sending emails to constituents encouraging them to rally around him. The messages warned that "this campaign is going to be unlike any other that I've ever seen," and some focused on Rosie O'Donnell, a television star who has feuded with President Donald Trump in the past. 
+  
+ Chaffetz, with an active campaign team, spent all of the money he raised in the quarter and dipped into his reserves for $6,000 more. Still, he said his $402,700 in the bank is "plenty." 
+  
+ "We're right where we need to be," Chaffetz said. "This has never been a problem for me. The election is still a long time away." 
+  
+ None of the five Democrats that Chaffetz has faced and demolished since his first win in 2008 spent more than $60,000, and the congressman also has never captured less than 65 percent of the vote in his largely Republican district. Allen's well-funded candidacy is unique and so is Chaffetz's dipping approval ratings. Just 52 percent of Chaffetz's constituents — far below previous ratings — approve of his performance, according to a March poll from Utah Policy. 
+  
+ Allen looks to capitalize on that "dissatisfaction," particularly the tumult following the congressman's town hall in February and what residents see as unmet demands for him to investigate Trump as the House Oversight Committee chairman. 
+  
+ "The game has changed," Allen said. "I think [my donations] reflect sentiments against the direction our government is going — and Chaffetz is a big part of that." 
+  
+ Her experience in politics is limited to a three-year stint as a congressional aide in California, where she grew up, and two years spent working on a county housing program in the 1970s. She has worked as a doctor in Utah since the 1980s. 
+  
+ Other contenders in the congressional race include Republican Damian Kidd , who collected $15,500 in the first quarter and has spent all but $1,590 of it. 
+  
+ Chaffetz may also face a conservative challenge from former independent presidential candidate Evan McMullin (who said he might run against Chaffetz or Sen. Orrin Hatch). 
+  
+ McMullin raised $5,000 and has $10,169 in cash on hand, though his presidential account also shows a debt of nearly $670,000. 
+  
+ ctanner@sltrib.com ||||| SALT LAKE CITY — Rep. Jason Chaffetz said the raucous reception he received at Thursday evening's town hall meeting was "bullying and an attempt at intimidation" from a crowd opposed to President Donald Trump's election. 
+  
+ "You could see it online a couple days before, a concerted effort in part to just cause chaos," the Utah Republican said Friday. "Democrats are in disbelief that they have nothing but flailing and screaming to deal with this." 
+  
+ The relentless jeering at his and other recent congressional town halls around the country recall the tea party's reaction to President Barack Obama and Democrats, and comes as protests continue over Trump's policies. 
+  
+ Those protests include the women's marches held around the world that drew thousands of demonstrators to the Utah Capitol on the opening day of the 2017 Legislature last month. 
+  
+ Chris Karpowitz, co-director of BYU's Center for the Study of Elections and Democracy, sees the parallels with the tea party movement, but he said it's too soon to say what impact the unrest coming from the left will have at the ballot box. 
+  
+ "I think there is a sense of unease and frustration about the Trump administration, and that concern is coming out in a variety of different ways, including in big demonstrations in major cities. But it's also touching us here in Utah," he said. 
+  
+ That such strong anti-Trump sentiment is coming from one of the most Republican states in the country is surprising, said Tim Hagle, a University of Iowa political science professor and an active member of the GOP. 
+  
+ "The fact that it's happening in Utah as well as a lot of places signals there are a lot of people on the left who are still angry and energized," Hagle said. "They're saying they want to be heard." 
+  
+ Jason Perry, head of the University of Utah's Hinckley Institute of Politics, said politicians need to pay attention. 
+  
+ "I think for a while this is going to be the new norm, people inserting themselves in the process and demanding some accountability from elected officials," Perry said. 
+  
+ He, too, said it's unclear what that means for candidates in GOP-dominated Utah, where the tea party was able to unseat longtime Sen. Bob Bennett, a Republican, in 2010. 
+  
+ "I would not say there's reasons for Republicans right now to be concerned," Perry said. "But there are reasons for them to continue to listen." 
+  
+ Chaffetz said the crowd that filled the auditorium at Brighton High School in Cottonwood Heights and spilled over into a protest outside included people brought in from other states to disrupt the meeting. 
+  
+ "Absolutely. I know there were," he said, suggesting it was "more of a paid attempt to bully and intimidate" than a reflection of the feelings of his 3rd District constituents. 
+  
+ Asked who would foot the bill to fill the audience with outside agitators, Chaffetz said, "do some reporting" and described how one participant made it a point to say he was not being paid by a national Democratic organization. 
+  
+ But Rep. Marie Poulson, D-Cottonwood Heights, said she believed most of the estimated 1,000 attendees inside the high school auditorium — and at least that many who protested outside — were Chaffetz's constituents. 
+  
+ "I've heard some of my colleagues (at the Utah Legislature) say here today that they had shipped in liberals to give him a bad time," Poulson said. "I serve that area and I listen to their frustrations." 
+  
+ She said when she invited her own constituents to attend a legislative gathering held in Holladay on Thursday night, many in the politically moderate area said they were going to Chaffetz's town hall meeting instead. 
+  
+ "I had so many get back to me and say, 'We've been so upset by what Rep. Chaffetz is doing. We want him to investigate equally, with as much zeal as he did in the past, with this current administration,'" Poulson said. 
+  
+ And although Poulson said she doesn't approve of what she termed "some of the disrespect" shown to Chaffetz at the town hall meeting, she does "recognize that a lot of people are upset and angry." 
+  
+ Don Peay of Utahns for Trump, who has close ties to the Trump family, said he walked out of the meeting that was punctuated by chants including "do your job" "you work for us" and "vote him out." 
+  
+ "It was an angry mob of anarchists. It wasn't just Trump. They hated everything," Peay said. "The behavior at the meeting was a hundred times worse than anything ever out of Trump's mouth." 
+  
+ Some who attended the rally have taken issue with that characterization. Trump's critics and some supporters have lashed out at him over his crude comments about women, his mocking of a handicapped reporter, his temperament, among other issues. At one point during the campaign, Chaffetz said he couldn't look his wife and daughter in the eye and vote for Trump after his crude comments from a 2005 videotape were released. Chaffetz ultimately voted for Trump. 
+  
+ Another longtime Trump supporter, Senate Majority Leader Ralph Okerlund, R-Monroe, said "some of the discontent is just a result of disappointment in the election." 
+  
+ But Okerlund said there's an edge to how that's being expressed. 
+  
+ "This is taking it to a new level. All of the demonstrations and some of the vehemence that we have not seen before," he said. "We're just seeing this continued escalation of discontent by the side that isn't in charge." 
+  
+ Much of the focus of the town hall was on whether Chaffetz, as chairman of the House Oversight and Government Reform Committee, would hold the president accountable. 
+  
+ Chaffetz said that was "ironic" since earlier Thursday he had called for "disciplinary action" against a White House counselor who apparently violated federal ethics rules by urging people to buy Ivanka Trump merchandise in a TV interview. 
+  
+ "I’ll never satisfy their desire to bring down Donald Trump. I’ll never satisfy that. It will never be good enough," he said, noting that the president is exempt from conflict of interest laws and his business interests have long been widely known. 
+  
+ "People are asking me to use the power of Congress to do a full-on fishing expedition to investigate him personally on things that are not required by law. I think my doing that would be an abuse of power," Chaffetz said. 
+  
+ The congressman said while it's "important that people have an opportunity to voice their concerns, I think they should be somewhat embarrassed by how a lot of people handled themselves." 
+  
+ Chaffetz said he was trying to provide that opportunity by holding the town hall meeting. 
+  
+ "And I did hear them, but it was hard to hear through all the shouting and yelling," including, he claimed, during the Pledge of Allegiance. 
+  
+ "That’s who these people are," he said. "We’re better than that. That’s not what the average Utahn is like." 
+  
+ A video of much of the Pledge of Allegiance posted on Facebook appears to show some members of the audience shouting at the end of the pledge, mostly emphasizing the last few words "indivisible, with liberty and justice for all" and then cheering afterward. 
+  
+ Posted by Andrew Ehninger on Saturday, February 11, 2017 
+  
+ Chaffetz said he will continue to make himself available to voters but may now avoid providing a venue "for these radicals to further intimidate." 
+  
+ On Friday, he addressed the Utah State Board of Education, joking about his warm welcome. 
+  
+ Contributing: Marjorie Cortez |||||
+Output:

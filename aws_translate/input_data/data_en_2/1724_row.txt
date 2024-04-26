@@ -1,0 +1,36 @@
+Ans: Jim Holvay
+Ques: "Kind of a Drag" is a song written by Jim Holvay and recorded by the Buckinghams. It was the title track of their debut LP. The single reached number one on the U.S. Billboard Hot 100 in February 1967, becoming the first # 1 single within the new calendar year and remaining in the top position for two weeks. It was the first of the band's three Top 10 hits in 1967, including five total Top 40 hits for that year.
+
+Answer this question based on the passage: who wrote the song kind of a drag?
+CoT: This is the relevant information: "Kind of a Drag" is a song written by Jim Holvay and recorded by the Buckinghams.
+
+
+Answer: a heart block in the electrical conduction system. Now, what could be the question and solution-maybe?
+Ques: A right bundle branch block (RBBB) is a heart block in the electrical conduction system.
+
+Right bundle branch block what does it mean?
+CoT: To answer the question, consider the following: A right bundle branch block (RBBB) is a heart block in the electrical conduction system.
+
+
+Ans: Second Lieutenant Frank Luke
+Ques: Luke Air Force Base was named after Second Lieutenant Frank Luke (1897 -- 1918). Lt Luke is a posthumous Medal of Honor recipient and the number two United States ace in World War I.
+
+Answer this question: who is luke air force base named after?
+CoT: This is the relevant information: Luke Air Force Base was named after Second Lieutenant Frank Luke (1897 -- 1918).
+
+
+Ans: 43
+Ques: It is a gentle and intelligent breed whose combination of long, powerful legs, deep chest, flexible spine and slim build allows it to reach average race speeds exceeding 64 kilometres per hour (40 mph). The Greyhound can reach a full speed of 70 kilometres per hour (43 mph) within 30 metres (98 ft), or six strides from the boxes, traveling at almost 20 metres per second (66 ft / s) for the first 250 metres (820 ft) of a race.
+
+Answer this question: how fast can a greyhound run in mph?
+CoT: To answer the above question, the relevant sentence is: The Greyhound can reach a full speed of 70 kilometres per hour (43 mph) within 30 metres (98 ft), or six strides from the boxes, traveling at almost 20 metres per second (66 ft / s) for the first 250 metres (820 ft) of a race.
+
+
+Answer: 12 December 1991. Now, what could be the question and solution-maybe?
+Ques: Abuja (/ əˈbuːdʒə /) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400-metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792-metre (2,598 ft) monolith, lies just north of the city on the expressway to Kaduna.
+
+When was the federal capital territory moved to abuja?
+CoT: The relevant sentence in the passage is: It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991.
+
+
+Ans: 0.03 % or 30 μl alcohol in 100 ml blood

@@ -1,0 +1,27 @@
+Reasoning and answer: Last month Brad read thrice 6 books for a total of 3 * 6 = 18 books. This month Williams read twice 8 books for a total of 2 * 8 = 16 books. Across the 2 months Brad has read 18 + 8 = 26 books. Across the 2 months William has read 6 + 16 = 22 books. Brad has read 26 - 22 = 4 more books.
+The answer: 4
+What was the question?
+Question: William read 6 books last month and Brad read thrice as many books as William did. This month, in an effort to catch up, Williams read twice as much as Brad, who read 8 books. Who has read more across the two months, and by how much?
+
+They earned 6 x $3 = $18 for the shoes they sold. They earned 18 x $2 = 36 for the shirts they sold. So, they earned $18 + $36 = $54 in total for the clothing they sold. Therefore, Sab and Dane earned $54 / 2 = $27 each.
+The answer: 27
+Reverse engineering the question: Sab and Dane sold 6 pairs of shoes that cost $3 each and 18 shirts that cost $2. How much will each of them earn if they divided their total earning?
+
+Reasoning and answer: The students bought $6 * 20 = $120 worth of tickets. The adults bought $8 * 12 = $96 worth of tickets. Together $120 + $96 = $216 worth of tickets were sold.
+The answer: 216
+What was the question?
+Question: Tickets to the school play cost $6 for students and $8 for adults. If 20 students and 12 adults bought tickets, how many dollars' worth of tickets were sold?
+
+Martin invited 5 * 2 = 10 people from his school. People from the sports club got 5 + 10 = 15 invitations. So in total from the sports club, hometown and school, Martin invited 5 + 10 + 15 = 30 people. All other invitations are 20% of the previous total, which means 20 / 100 * 30 = 6. That means Martin invited to his party 30 + 6 = 36 people.
+The answer: 36
+Reverse engineering the question: Martin is organizing a party, and he invited many of his colleagues. He invited 5 people from his hometown and twice as many people from his school. Martin invited also as many people from his sports club as the sum of people invited from his hometown and his school. The remaining invitations represent 20% of the total previously mentioned. How many people can potentially come to the party Martin is organizing?
+
+Reasoning and answer: A dietitian ate three - fourths of her lunch during her lunch break, containing 3 / 4 * 40 = 30 calories. If the recommended calorie intake by the FDA is 25, the dietitian ate 30 - 25 = 5 more calories than the recommended amount.
+The answer: 5
+What was the question?
+Question: A dietitian ate three-fourths of her lunch during her lunch break. If the total amount of food she had prepared for lunch had 40 calories, and the recommended calorie intake by the FDA is 25, how many more calories than the recommended amount did she eat?
+
+Reasoning and answer: First find the total number of people by adding the number of passengers and flight crew: 30 people + 5 people = 35 people. Then find the total number of bags by doubling the total number of people: 35 people * 2 bags / person = 70 bags. Then find the fuel increase caused by the people by multiplying their number by the fuel increase per person: 35 people * 3 gallons / mile / person = 105 gallons / mile. Then multiply the number of bags by the fuel increase per bag to find the total fuel increase they cause: 70 bags * 2 gallons / mile / bag = 140 gallons / mile. Now add the fuel increases to the base fuel consumption to find the total fuel needed per mile: 140 gallons / mile + 105 gallons / mile + 20 gallons / mile = 265 gallons / mile. Now multiply the fuel consumption per mile by the number of miles flown to find the total amount of fuel needed: 265 gallons / mile * 400 miles = 106,000 gallons of fuel.
+The answer: 106000
+What was the question?
+Question:

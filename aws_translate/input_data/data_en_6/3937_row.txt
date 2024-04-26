@@ -1,0 +1,27 @@
+Reasoning and answer: Yesterday before her rock collecting trip, she had 48 - 6 = 42 mineral samples. She has 1 / 2 the number of gemstones, so she has 42 / 2 = 21 gemstone samples.
+The answer: 21
+What was the question?
+Question: Joan collects rocks. In her collection of rock samples, she had half as many gemstones as minerals yesterday. Today, she went on a rock collecting trip and found 6 more mineral samples. If she has 48 minerals now, how many gemstone samples does she have?
+
+First find how much more Jerry charges to pierce one person's ears than their nose: $20 * 50% = $10. Then add that amount to the cost of nose piercing to find the total cost: $10 + $20 = $30. Then multiply that price by the number of ears he pierces to find his total earnings from ear - piercing: $30 / ear * 9 ears = $270. Then multiply the price of nose - piercing by the number of noses pierced: $20 / nose * 6 noses = $120. Then add the money from nose - piercing to the money from ear - piercing to find Jerry's total income: $120 + $270 = $390.
+The answer: 390
+Reverse engineering the question: Jerry charges $20 to pierce someone's nose and 50% more to pierce their ears. If he pierces 6 noses and 9 ears, how much money does he make?
+
+Reasoning and answer: If Rover has 46 spots, then half as many spots as Rover has is 46 / 2 = 23 spots. If Cisco has 5 less than half as many spots as Rover has, then Cisco has 23 - 5 = 18 spots. If Granger has five times as many spots as Cisco, then Rover has 18 * 5 = 90 spots. Thus, the total combined number of spots that Rover and Cisco have is 90 + 18 = 108 spots.
+The answer: 108
+What was the question?
+Question: Granger has five times as many spots as his brother, Cisco. But Cisco has 5 less than half as many spots as his cousin, Rover. If Rover has 46 spots, how many spots do Granger and Cisco have combined?
+
+For the buns, Frank paid 10 * 0.1 = $1. He bought two bottles of milk, for $2 each, so he paid for them 2 * 2 = $4. One carton of eggs was three times more expensive than one bottle of milk, so it cost 3 * 2 = $6. So for all his shopping Frank had to pay 1 + 4 + 6 = $11.
+The answer: 11
+Reverse engineering the question: Frank went to a shop to buy some food for his breakfast. He bought 10 buns for $0.1 each, two bottles of milk, for $2 each, and a carton of eggs, which was three times more expensive than one bottle of milk. How much did Frank pay for his breakfast shopping?
+
+Reasoning and answer: 25% of men at the job don't have a college degree because 100 - 75 = 25. There are 32 men at the company because 8 / .25 = 32. 40% of the employees are men because 100 - 60 = 40. The company has 80 workers because 32 / .4 = 80. There are 48 women at the company because 80 - 32 = 48.
+The answer: 48
+What was the question?
+Question: At Sarah's job 60% of the employees are women and the rest are men. Of the men, 75% have a college degree and 8 do not. How many women work at Sarah's company?
+
+Reasoning and answer: If the two men each bought 30 apples, together they bought 2 * 30 = 60 apples. Since the two men each bought 30 apples, 20 less than the total number of apples bought by each woman, each woman bought 20 + 30 = 50 apples. The total number of apples bought by the women is 3 * 50 = 150. Altogether, the two men and three women bought 60 + 150 = 210 apples.
+The answer: 210
+What was the question?
+Question:

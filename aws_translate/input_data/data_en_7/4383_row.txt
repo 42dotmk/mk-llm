@@ -1,0 +1,22 @@
+Student A:The episode marked the final regular performances of actors David Costabile and Jeremiah Bitsui as Gale and Victor. Gilligan considered changing the episode based on audience responses to the third-season finale, "Full Measure", on whether Gale would be killed or not, but ultimately decided against it. During a twist scene in "Box Cutter", Gus slices his loyal henchman Victor's throat with a utility knife right before Walt and Jesse's eyes. Esposito said he was concerned about filming the scene "without really hurting my spirit and my soul", and he concentrated so hard that he remained silent and focused during filming, rarely speaking to others on set. The scene was so bloody it made Cranston's daughter faint during a screening.
+
+Who did gus kill with a box cutter?
+Student B:OK... To answer the question, consider the following: During a twist scene in "Box Cutter", Gus slices his loyal henchman Victor's throat with a utility knife right before Walt and Jesse's eyes.
+his loyal henchman Victor.
+
+Student A:Context: At night, a black bear pokes around the tent while the two sleep and eats the food stored in a bag outside. The couple find the torn cans in the morning, and Alex tells her it must have been a raccoon he saw last night. They hike almost an entire day, trying to find their way out, and stumble across signs of a bear. They try to hike as far as possible before dark, and then camp for the night. The bear attacks the following morning, making its way into the tent and lashing Jenn's arm before biting into Alex's shin. It retreats momentarily from Jenn's bear mace before dragging Alex outside and eating him alive. Jenn escapes the battered tent while the bear is occupied with Alex, taking the engagement ring before running away.
+
+Question: what kind of bear was in the movie backcountry?
+Student B:OK... The relevant sentence in the passage is: At night, a black bear pokes around the tent while the two sleep and eats the food stored in a bag outside.
+a black bear.
+
+Student A:The United States Attorney General (A.G.) is the head of the United States Department of Justice per 28 U.S.C. § 503, concerned with legal affairs, and is the chief lawyer of the United States government. Also in cases of the federal death penalty, the power to seek the death penalty rests with the Attorney General.
+
+Answer this question: which department in the presidents cabinet is led by the attorney general?
+Student B:OK... The important part for answering this question is: The United States Attorney General (A.G.) is the head of the United States Department of Justice per 28 U.S.C. § 503, concerned with legal affairs, and is the chief lawyer of the United States government.
+the United States Department of Justice.
+
+Student A:In 1983, she said it is not about Mick Jagger, who contributed uncredited backing vocals to the song. In a 1993 book, Angie Bowie claimed to be the "wife of a close friend" mentioned in "You're So Vain", and that Jagger, for a time, had been "obsessed" with her. Simon made another comment about the subject's identity as a guest artist on Janet Jackson's 2001 single, "Son of a Gun (I Betcha Think This Song Is About You)", which sampled "You're So Vain". Simon said about the song, "The apricot scarf was worn by Nick (Delbanco). Nothing in the words referred to Mick."
+
+Answer this question: who sang backing vocals on you're so vain?
+Student B:

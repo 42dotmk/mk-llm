@@ -1,0 +1,34 @@
+Student A:The Drug-Free Workplace Act of 1988 (41 U.S.C. 81) is an act of the United States which requires some Federal contractors and all Federal grantees to agree that they will provide drug-free workplaces as a precondition of receiving a contract or grant from a Federal agency.
+
+What is the purpose of the drug-free workplace act of 1988?
+Student B:OK... To answer this question, we should know that: The Drug-Free Workplace Act of 1988 (41 U.S.C. 81) is an act of the United States which requires some Federal contractors and all Federal grantees to agree that they will provide drug-free workplaces as a precondition of receiving a contract or grant from a Federal agency.
+requires some Federal contractors and all Federal grantees to agree that they will provide drug - free workplaces as a precondition of receiving a contract or grant from a Federal agency.
+
+Problem:Goldie Jeanne Hawn (born November 21, 1945) is an American actress, producer, and occasional singer. She rose to fame on the NBC sketch comedy program Rowan & Martin's Laugh-In (1968 -- 70) before going on to receive the Academy Award for Best Supporting Actress and the Golden Globe Award for Best Supporting Actress for her performance in Cactus Flower (1969).
+
+Based on this passage, what movie did goldie hawn won an academy award for?
+Solution:OK... The relevant sentence in the passage is: She rose to fame on the NBC sketch comedy program Rowan & Martin's Laugh-In (1968 -- 70) before going on to receive the Academy Award for Best Supporting Actress and the Golden Globe Award for Best Supporting Actress for her performance in Cactus Flower (1969).
+Cactus Flower ( 1969 ).
+
+Student A:Babies "R" Us operates as a specialty baby products retailer and has grown to approximately 260 locations in the United States. The stores offers an assortment of products for newborns, infants, and toddlers.
+
+Answer this question: how many babies r us stores in usa?
+Student B:OK... The important part for answering this question is: Babies "R" Us operates as a specialty baby products retailer and has grown to approximately 260 locations in the United States.
+approximately 260.
+
+Problem:Passage: The Battle of San Jacinto, fought on April 21, 1836, in present-day Harris County, Texas, was the decisive battle of the Texas Revolution. Led by General Sam Houston, the Texian Army engaged and defeated General Antonio López de Santa Anna's Mexican army in a fight that lasted just 18 minutes.
+
+Question: Based on this passage, when did the battle of san jacinto start and end?
+Solution:OK... To answer the above question, the relevant sentence is: The Battle of San Jacinto, fought on April 21, 1836, in present-day Harris County, Texas, was the decisive battle of the Texas Revolution.
+April 21 , 1836.
+
+Student A:Context: Sebaceous glands are part of the body's integumentary system and serve to protect the body against germs. Sebaceous glands secrete acids that form the acid mantle. This is a very fine, slightly acidic film on the surface of the skin that acts as a barrier to bacteria, viruses, and other potential contaminants that might penetrate the skin. The pH of the skin is between 4.5 and 6.2, and this acidity helps to neutralise the primarily alkaline nature of contaminants.
+
+Question: the sebaceous glands are part of what system?
+Student B:OK... The relevant information to answer the above question is: Sebaceous glands are part of the body's integumentary system and serve to protect the body against germs.
+integumentary system.
+
+Student A:The thoracic cavity consists of three cavities that fill the interior area of the chest.
+
+Where is the thoracic cavity located in the body?
+Student B:

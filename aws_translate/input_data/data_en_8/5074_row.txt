@@ -1,0 +1,22 @@
+Student A:The United States House of Representatives is the lower chamber of the United States Congress, the Senate being the upper chamber. Together they compose the legislature of the United States.
+
+Based on this passage, what is another name for the house of representatives?
+Student B:OK... To answer the question, consider the following: The United States House of Representatives is the lower chamber of the United States Congress, the Senate being the upper chamber.
+the lower chamber of the United States Congress.
+
+Student A:Passage: The eighth child of the Jackson family, Michael made his professional debut in 1964 with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5. He began his solo career in 1971 while at Motown Records. In the early 1980s, Jackson became a dominant figure in popular music. His music videos, including those of "Beat It", "Billie Jean", and "Thriller" from his 1982 album Thriller, are credited with breaking racial barriers and transforming the medium into an art form and promotional tool. The popularity of these videos helped bring the television channel MTV to fame. Jackson's 1987 album Bad spawned the U.S. Billboard Hot 100 number-one singles "I Just Ca n't Stop Loving You", "Bad", "The Way You Make Me Feel", "Man in the Mirror", and "Dirty Diana", becoming the first album to have five number-one singles in the nation. He continued to innovate with videos such as "Black or White" and "Scream" throughout the 1990s, and forged a reputation as a touring solo artist. Through stage and video performances, Jackson popularized a number of complicated dance techniques, such as the robot and the moonwalk, to which he gave the name. His distinctive sound and style has influenced numerous artists of various music genres.
+
+Question: Based on this passage, for which group did michael jackson perform as a child star?
+Student B:OK... This is the relevant information: The eighth child of the Jackson family, Michael made his professional debut in 1964 with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5.
+the Jackson 5.
+
+Student A:Passage: The 2001 FIFA World Player of the Year award was won by Luís Figo by the slim margin of 12 points. David Beckham was again forced into second place.
+
+Question: Based on this passage, who won the fifa world best player 2001?
+Student B:OK... To answer the above question, the relevant sentence is: The 2001 FIFA World Player of the Year award was won by Luís Figo by the slim margin of 12 points.
+Luís Figo.
+
+Student A:Mine That Bird (foaled May 10, 2006) is an American Thoroughbred racehorse who had a racing career in both Canada and the United States from 2008 to 2010. He is best known for pulling off a monumental upset, at 50-to-1 odds, by winning the Kentucky Derby in 2009. He became one of only nine geldings to win the Kentucky Derby and the second gelding to win the race since 1929. He continued to have success in the two remaining races of the American Triple Crown of Thoroughbred Racing by finishing second in the 2009 Preakness Stakes and third in the 2009 Belmont Stakes. On November 6, 2010, Mine That Bird was retired from racing after being winless in nine starts since the Kentucky Derby. He amassed $2,228,637 in earnings and won five of eighteen starts during his three-year racing career.
+
+Answer this question based on the passage: when did mine that bird win the kentucky derby?
+Student B:

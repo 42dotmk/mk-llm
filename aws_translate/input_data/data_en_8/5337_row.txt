@@ -1,0 +1,36 @@
+Ans: on the Milwaukee Riverwalk just south of Wells Street in downtown Milwaukee , Wisconsin
+Ques: The Bronze Fonz is a public artwork by American artist Gerald P. Sawyer located on the Milwaukee Riverwalk just south of Wells Street in downtown Milwaukee, Wisconsin. The Bronze Fonz depicts Henry Winkler as the Happy Days TV show character Arthur Fonzarelli, also known as the Fonz. Fonzie stands in his typical costume, which consists of a leather jacket and jeans. He is giving a two-handed thumbs up.
+
+Answer this question: where is the fonz statue located in milwaukee?
+CoT: To answer the above question, the relevant sentence is: The Bronze Fonz is a public artwork by American artist Gerald P. Sawyer located on the Milwaukee Riverwalk just south of Wells Street in downtown Milwaukee, Wisconsin.
+
+
+Answer: 1960. Now, what could be the question and solution-maybe?
+Ques: To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old.
+
+Based on this passage, when did to kill a mockingbird come out?
+CoT: To answer this question, we should know that: To Kill a Mockingbird is a novel by Harper Lee published in 1960.
+
+
+Ans: five
+Ques: Passage: Brazil is the most successful national team in the history of the World Cup, having won five titles, earning second-place, third-place and fourth-place finishes twice each. Brazil is one of the countries besides Argentina, Spain and Germany to win a FIFA World Cup away from its continent (Sweden 1958, Mexico 1970, USA 1994 and South Korea / Japan 2002). Brazil is the only national team to have played in all FIFA World Cup editions without any absence or need for playoffs. Brazil also has the best overall performance in World Cup history in both proportional and absolute terms with a record of 73 victories in 109 matches played, 124 goal difference, 237 points and only 18 losses.
+
+Question: Based on this passage, how many times has brazil won the wold cup?
+CoT: The relevant information is: Brazil is the most successful national team in the history of the World Cup, having won five titles, earning second-place, third-place and fourth-place finishes twice each.
+
+
+Ans: August
+Ques: Passage: The sixth and final season will air in August 2018.
+
+Question: Based on this passage, when does a place to call home return in 2018?
+CoT: This is the relevant information: The sixth and final season will air in August 2018.
+
+
+Answer: casein protein ( a longer - lasting protein ). Now, what could be the question and solution-maybe?
+Ques: Cottage cheese is popular among dieters and some health food devotees. It is a favorite food among bodybuilders, runners, swimmers and weightlifters for its high content of casein protein (a longer-lasting protein) while being relatively low in fat. Pregnant women are advised that cottage cheese is safe to eat, whereas some cheese products are not recommended during pregnancy.
+
+Answer this question: what kind of protein is in cottage cheese?
+CoT: This is the relevant information: It is a favorite food among bodybuilders, runners, swimmers and weightlifters for its high content of casein protein (a longer-lasting protein) while being relatively low in fat.
+
+
+Ans: Color TV Game

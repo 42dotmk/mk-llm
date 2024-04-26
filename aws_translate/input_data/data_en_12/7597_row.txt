@@ -1,0 +1,22 @@
+Student A:Context: Bob the Builder is a British children's animated television show created by Keith Chapman. In the original series, Bob appears in a stop motion animated programme as a building contractor, specialising in masonry, along with his colleague Wendy, various neighbours and friends, and their gang of anthropomorphised work-vehicles and equipment. The show is broadcast in many countries, but originates from the United Kingdom where Bob is voiced by English actor Neil Morrissey. The show was later created using CGI animation starting with the spin-off series Ready, Steady, Build!.
+
+Question: who did the voice of bob the builder?
+Student B:OK... To answer the question, consider the following: The show is broadcast in many countries, but originates from the United Kingdom where Bob is voiced by English actor Neil Morrissey.
+Neil Morrissey.
+
+Student A:Carbohydrate loading is generally recommended for endurance events lasting longer than 90 minutes. Many endurance athletes prefer foods with low glycemic indices for carbo-loading due to their minimal effect on serum glucose levels. Low glycemic foods commonly include fruits, vegetables, whole wheat pasta, and grains. Many marathoners and triathlon participants have large pasta dinners the night before the race. Since muscles also use amino acids extensively when functioning within aerobic limits, meals should also include adequate protein. Large portions before a race can, however, decrease race-day performance if the digestive system has not had the time to process the food regimen.
+
+Answer this question based on the passage: when is carbohydrate loading recommended to be used?
+Student B:OK... To answer the above question, the relevant sentence is: Carbohydrate loading is generally recommended for endurance events lasting longer than 90 minutes.
+for endurance events lasting longer than 90 minutes.
+
+Student A:The Hughes H-4 Hercules (also known as the Spruce Goose; registration NX37602) is a prototype strategic airlift flying boat designed and built by the Hughes Aircraft Company. Intended as a transatlantic flight transport for use during World War II, it was not completed in time to be used in the war. The aircraft made only one brief flight on November 2, 1947, and the project never advanced beyond the single example produced. Built from wood because of wartime restrictions on the use of aluminum and concerns about weight, it was nicknamed by critics the Spruce Goose, although it was made almost entirely of birch. The Hercules is the largest flying boat ever built, and it has the largest wingspan of any aircraft that has ever flown. The aircraft remains in good condition. After being displayed to the public for almost 11 years in Long Beach, California from 1980 to 1991, it is now displayed at the Evergreen Aviation & Space Museum in McMinnville, Oregon, United States.
+
+Based on this passage, what was the spruce goose made out of?
+Student B:OK... To answer this question, we should know that: Built from wood because of wartime restrictions on the use of aluminum and concerns about weight, it was nicknamed by critics the Spruce Goose, although it was made almost entirely of birch.
+wood.
+
+Student A:Jaime Murray (born 21 July 1976) is an English actress, known for playing Stacie Monroe in the BBC series Hustle and Lila West in the Showtime series Dexter. She is also known for her recurring roles as Gaia in the Starz miniseries Spartacus: Gods of the Arena, as Olivia Charles in The CW series Ringer, as Helena G. Wells in the Syfy series Warehouse 13, as Stahma Tarr in the Syfy series Defiance, and as the Black Fairy in Once Upon a Time.
+
+Based on this passage, who plays the dark fairy on once upon a time?
+Student B:

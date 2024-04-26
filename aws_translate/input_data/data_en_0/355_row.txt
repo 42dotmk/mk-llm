@@ -1,0 +1,27 @@
+Reasoning and answer: Sale from coffee is 7 x $5 = $35. Sale from tea is 8 x $4 = $32. Total sales is $35 + $32 = $67.
+The answer: 67
+What was the question?
+Question: At a coffee shop, 7 customers order coffee at $5 each and 8 customers order tea at $4 each. How much money did the coffee shop make?
+
+If each sandwich comes with 4 strips of pepper, and each pepper makes 8 slices, then each sandwich uses 4 / 8 = 0.5 pepper. If the Sandwich Shop serves a sandwich every 5 minutes, then per hour the Shop serves 60 / 5 = 12 sandwiches. Thus, per hour, the Shop uses 12 * 0.5 = 6 jalapeno peppers. And in an 8 - hour day, the Sandwich Shop uses 8 * 6 = 48 jalapeno peppers.
+The answer: 48
+Reverse engineering the question: The Eat "N Go Mobile Sausage Sandwich Shop specializes in the sale of spicy sausage sandwiches served on a toasted bun. Each sausage sandwich comes with four strips of jalapeno pepper, one sausage patty, and a tablespoon of Stephen's famous special sauce. If a single jalapeno pepper makes 8 slices, and the Sandwich Shop serves a sandwich every 5 minutes, how many jalapeno peppers are required by the Sandwich Shop to serve all customers during an 8-hour day?
+
+Reasoning and answer: Stacy bought 2 * 240 = 480 sheets of paper. At 80 pages per day, the printer paper will last her office 480 / 80 = 6 days.
+The answer: 6
+What was the question?
+Question: Stacy bought two packs of printer paper for the office. Each pack has 240 sheets of paper. Her office prints 80 one-page documents per day. How many days will the printer paper last her office?
+
+If there were 4000 whales in the sea three years ago, and their number doubled this year, then there are 2 * 4000 = 8000 whales in the sea this year. If the predictions come true, there will be 8000 + 800 = 8800 whales in the water next year.
+The answer: 8800
+Reverse engineering the question: The total number of whales in the sea this year is double what it was last year. If the World Animals Organization predicts that there will be 800 more whales in the sea next year, and the number of whales in the sea last year was 4000, calculate the total number of whales in the sea next year if the predictions are accurate.
+
+Reasoning and answer: The total revenue from the adults is 183 x $26 = $4758. The ticket price for children is $26 / 2 = $13. The total revenue from the children is 28 x $13 = $364. The total revenue of the concert is $4758 + $364 = $5122.
+The answer: 5122
+What was the question?
+Question: The music festival of Bassompierre begins tonight with a concert by the string orchestra "PIANISSIMO". The ticket price for adults is $26; for children, the price is half. The show starts at 9 pm and goes very well. At about 11:00 pm, the concert organizer made his accounts. There were 183 adults and 28 children who attended the show. What was the total revenue of the concert?
+
+Reasoning and answer: First find how many MB are left to download: 880 MB - 310 MB = 570 MB. Then divide that number by the download speed to find the download time: 570 MB / 3 MB / minute = 190 minutes.
+The answer: 190
+What was the question?
+Question:

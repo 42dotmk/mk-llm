@@ -1,0 +1,19 @@
+Question: Context: Kimball was born and raised in Westchester County, New York, the son of Mary Alice White and Edward Norris Kimball. The family had a cabin in southwestern Vermont.
+
+Question: where is christopher kimball from cook's country?
+Answer: The relevant information to answer the above question is: Kimball was born and raised in Westchester County, New York, the son of Mary Alice White and Edward Norris Kimball. The answer is Westchester County , New York.
+
+Question: Context: The Mississippi River is the chief river of the second-largest drainage system on the North American continent, second only to the Hudson Bay drainage system. Flowing entirely in the United States (although its drainage basin reaches into Canada), it rises in northern Minnesota and meanders slowly southwards for 2,320 miles (3,730 km) to the Mississippi River Delta at the Gulf of Mexico. With its many tributaries, the Mississippi's watershed drains all or parts of 31 U.S. states and 2 Canadian provinces between the Rocky and Appalachian Mountains. The Mississippi ranks as the fourth-longest and fifteenth-largest river in the world by discharge. The river either borders or passes through the states of Minnesota, Wisconsin, Iowa, Illinois, Missouri, Kentucky, Tennessee, Arkansas, Mississippi, and Louisiana.
+
+Question: where does the mississippi river start and stop?
+Answer: To answer the question, consider the following: Flowing entirely in the United States (although its drainage basin reaches into Canada), it rises in northern Minnesota and meanders slowly southwards for 2,320 miles (3,730 km) to the Mississippi River Delta at the Gulf of Mexico. The answer is rises in northern Minnesota and meanders slowly southwards for 2,320 miles ( 3,730 km ) to the Mississippi River Delta at the Gulf of Mexico.
+
+Question: Rondo played two years of college basketball for the Kentucky Wildcats before he was drafted 21st overall by the Phoenix Suns in the 2006 NBA draft. He was subsequently traded to the Celtics where he played a supporting role during his rookie season. He established himself as the starting point guard for the Celtics during the 2007 -- 08 season, helping the franchise record their 17th NBA championship playing alongside All-Stars Ray Allen, Kevin Garnett and Paul Pierce. His breakout performance came during the 2009 NBA Playoffs, where he averaged a near triple-double, and helped his team take the eventual Eastern Conference champion Orlando Magic to seven games in the Conference Semifinals. Rondo is considered to be one of the premier triple-double threats in the NBA. He ranks 12th in NBA history in career regular season triple-doubles (28), and fourth in career playoff triple-doubles (10).
+
+Based on this passage, how many triple doubles does rondo have in his career?
+Answer: The relevant information to answer the above question is: He ranks 12th in NBA history in career regular season triple-doubles (28), and fourth in career playoff triple-doubles (10). The answer is career regular season triple - doubles ( 28 ) , and fourth in career playoff triple - doubles ( 10 ).
+
+Question: Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as one of the main protagonists of the 1999 film Star Wars: Episode I -- The Phantom Menace.
+
+Who does liam neeson play in star wars 1?
+Answer:

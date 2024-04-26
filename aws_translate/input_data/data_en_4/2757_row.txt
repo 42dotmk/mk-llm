@@ -1,0 +1,19 @@
+Q: Apple unveiled fourth generation 13-and 15-inch MacBook Pro models during a press event at their headquarters on October 27, 2016. The models introduced the Touch Bar, a multi-touch enabled OLED strip built into the top of the keyboard in place of the function keys. They include a sapphire-glass covered Touch ID sensor at the right end of the Touch Bar which doubles as a power button. The models also introduce a "second-generation" butterfly mechanism keyboard that provided more travel than the first iteration implemented on the Retina MacBook. The 13-inch model has a trackpad that is 46 % larger than its predecessor while the 15-inch model has a trackpad twice as large as the prior generation.
+
+Answer this question based on the passage: when was the most recent macbook pro released?
+A: October 27 , 2016. How to explain the answer? This is the relevant information: Apple unveiled fourth generation 13-and 15-inch MacBook Pro models during a press event at their headquarters on October 27, 2016.
+
+Q: The omentum are specialized folds of peritoneum that enclose nerves, blood vessels, lymph channels, fatty tissue, and connective tissue. There are two omenta. First, is the greater omentum that hangs off of the transverse colon and greater curvature of the stomach. The other is the lesser omentum that extends between the stomach and the liver.
+
+Answer this question based on the passage: name the membrane that connects the stomach with the liver?
+A: the lesser omentum. How to explain the answer? The important part for answering this question is: The other is the lesser omentum that extends between the stomach and the liver.
+
+Q: Encyclopædia Britannica states: "according to Western church tradition, Balthasar is often represented as a king of Arabia, Melchior as a king of Persia, and Gaspar as a king of India." These names apparently derive from a Greek manuscript probably composed in Alexandria around 500, and which has been translated into Latin with the title Excerpta Latina Barbari. Another Greek document from the 8th century, of presumed Irish origin and translated into Latin with the title Collectanea et Flores, continues the tradition of three kings and their names and gives additional details.
+
+Answer this question: what were the names of the 3 wise kings?
+A: Balthasar is often represented as a king of Arabia , Melchior as a king of Persia , and Gaspar as a king of India. How to explain the answer? To answer the above question, the relevant sentence is: Encyclopædia Britannica states: "according to Western church tradition, Balthasar is often represented as a king of Arabia, Melchior as a king of Persia, and Gaspar as a king of India."
+
+Q: "What a Wonderful World" is a pop ballad written by Bob Thiele (as "George Douglas") and George David Weiss. It was first recorded by Louis Armstrong and released in 1967 as a single, which topped the pop charts in the United Kingdom. Thiele and Weiss were both prominent in the music world (Thiele as a producer and Weiss as a composer / performer). Armstrong's recording was inducted in the Grammy Hall of Fame in 1999. The publishing for this song is controlled by Memory Lane Music Group, Carlin Music Corp. and BMG Rights Management.
+
+Who wrote the song it's a wonderful world?
+A:

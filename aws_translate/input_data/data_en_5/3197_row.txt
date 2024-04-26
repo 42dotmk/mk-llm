@@ -1,0 +1,25 @@
+Julie caught half the amount of Tabitha's 22 pieces so 22 / 2 = 11 pieces of candy caught by Julie. Carlos caught twice the amount of candy as Stan's 13 pieces so 2 * 13 = 26 pieces of candy caught by Carlos. All together, Tabitha caught 22 pieces, Stan had 13, Julie had 11 and Carlos had 26, so there were a total of 22 + 13 + 11 + 26 = 72 pieces of candy.
+The answer: 72
+Reverse engineering the question: Tabitha and her friends were excited to go to the Christmas parade because they knew candy would be thrown to the crowd from the floats. Tabitha caught 22 pieces of candy. Stan caught 13 pieces. Julie caught half the amount of candy as Tabitha caught and Carlos caught twice as much candy as Stan. How many pieces in total did the friends catch?
+
+Reasoning and answer: If 1 year is 250 days, and each year is divided into 5 equal - length seasons, then each season is 250 / 5 = 50 days long. If an astronaut stays on the planet for three seasons, then they remain there for 3 * 50 = 150 days.
+The answer: 150
+What was the question?
+Question: On the planet Orbius-5, there are 250 days per year, and each year is equally divided into 5 seasons. If an astronaut from earth lands on planet Orbius-5 and stays there for 3 seasons before returning to earth, what is the number of days the astronaut will spend on Orbius-5?
+
+The value of the games increased to 200 * 3 = $600. So he sold 600 * .4 = $240 worth of games.
+The answer: 240
+Reverse engineering the question: Tom bought his games for $200. They tripled in value and he then sold 40% of them. How much did he sell the games for?
+
+Reasoning and answer: - 36 + 13 + ( - 15) + ( - 10) =  - 48 degrees Fahrenheit. - 48 / 4 =  - 12 degrees Fahrenheit. The average temperature was - 12 degrees Fahrenheit.
+The answer: -12
+What was the question?
+Question: Four days' temperatures were recorded for Wayupnorth, Canada. The temperatures were: -36 degrees Fahrenheit, +13 degrees Fahrenheit, -15 degrees Fahrenheit, and -10 degrees Fahrenheit. What was the average number of degrees (Fahrenheit) in Wayupnorth, Canada on the 4 days recorded?
+
+He orders 3 shirts at $12.00 each for a total of 3 * 12 = $36.00. He orders 2 pair of shorts for $15.00 each for a total of 2 * 15 = $30.00. He spends $36.00 on shirts, $5.00 on socks, $30.00 on shorts and $14.00 on a pair of swim trunks for a total of 36 + 5 + 30 + 14 = $85.00. His order is over $50.00 so he will be charged 20% shipping on his $85.00 order so he'll pay .20 * 85 = $17.00 in shipping. His order is $85.00 and he's paying $17.00 in shipping for a total bill of 85 + 17 = $102.00.
+The answer: 102
+Reverse engineering the question: An online website offers a flat rate shipping price of $5.00 if the purchase is below $50.00. If it's above $50.00 then they will charge 20% of the purchase price for shipping. Thomas orders 3 shirts for $12.00 each, a pack of socks for $5.00, 2 pairs of shorts for $15.00 each and a pair of swim trunks for $14.00 How much will his total bill be, including shipping?
+
+The walls take away 2 * 1 = 2 inches from each dimension. So the longer sides are 26 - 2 = 24 inches. That is 24 / 12 = 2 feet. The smaller dimension is 14 - 2 = 12 inches. That is 12 / 12 = 1 foot. So the internal volume is 2 * 2 * 1 = 4 cubic feet.
+The answer: 4
+Reverse engineering the question:

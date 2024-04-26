@@ -1,0 +1,26 @@
+Answer this question please:
+Ohio was won by Donald Trump by a margin of 8.1 points. Prior to the election, most news organizations considered the Buckeye State as leaning Republican, due to his appeal to blue collar voters in the rust belt. Ohio kept its streak of voting for the winner (a bellwether state) since 1964, as it voted for Trump, who won nationally. Having voted Democratic in 2012 and 2008, the win margin was the second largest of the states Trump flipped Red (after Iowa). It is also the largest victory margin since George H.W. Bush defeated Michael Dukakis in 1988. Ohio was an unprecedented 10 points more Republican-leaning than the nation in 2016.
+
+Answer this question based on the passage: who won ohio in the 2016 presidential election?
+
+Stream of random thoughts: This is the relevant information: Ohio was won by Donald Trump by a margin of 8.1 points.... The answer is Donald Trump.
+----
+Answer this question please:
+In Miami, James won his first NBA championship in 2012, and followed that with another title a year later. He was named league MVP and NBA Finals MVP in both championship years. In 2014, James opted out of his contract with Miami after four seasons to re-sign with the Cavaliers. In 2016, James led the Cavaliers to their first NBA championship by defeating the Golden State Warriors to end Cleveland's 52-year professional sports title drought. In 2018, he opted out of his Cleveland contract to sign with the Lakers.
+
+Answer this question based on the passage: what season did lebron win his first championship?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: In Miami, James won his first NBA championship in 2012, and followed that with another title a year later.... The answer is 2012.
+----
+Answer this question please:
+Context: The 2017 Major League Baseball season began on April 2, 2017 with three games, including the 2016 World Series champions Chicago Cubs facing off against the St. Louis Cardinals, and ended on October 1. The postseason began on October 3. The 2017 World Series began October 24 and Game 7 was played on November 1, in which the Houston Astros defeated the Los Angeles Dodgers, 5-1, to capture their first World Series championship in franchise history.
+
+Question: when does the world series start in baseball?
+
+Stream of random thoughts: The relevant sentence in the passage is: The 2017 World Series began October 24 and Game 7 was played on November 1, in which the Houston Astros defeated the Los Angeles Dodgers, 5-1, to capture their first World Series championship in franchise history.... The answer is October 24.
+----
+Answer this question please:
+The Ninth Ward or 9th Ward is a distinctive region of New Orleans, Louisiana, which is located in the easternmost downriver portion of the city. It is geographically the largest of the seventeen Wards of New Orleans. On the south, the Ninth Ward is bounded by the Mississippi River. On the western or "upriver" side, the Ninth Ward is bounded by (going from the River north to Lake Pontchartrain) Franklin Avenue, then Almonaster Avenue, then People's Avenue. From the north end of People's Avenue the boundary continues on a straight line north to Lake Pontchartrain; this line is the boundary between the Ninth and the city's Eighth Ward. The Lake forms the north and northeastern end of the ward. Saint Bernard Parish is the boundary to the southeast, Lake Borgne farther southeast and east, and the end of Orleans Parish to the east at the Rigolets.
+
+Where is the 9th ward in new orleans?
+

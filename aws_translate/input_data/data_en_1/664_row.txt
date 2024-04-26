@@ -1,0 +1,19 @@
+Question: Making amends for years of underperforming V-twins, Honda set out to produce a cruiser with the biggest CID ever and so designed a big bike with a muscular looking body that was long and low to the ground, featuring significant rake and trail. Honda claimed that the 1800 put out 159 N m (117 lbf ft) of torque at only 3000 rpm and 75 kW (101 hp) at 5000 rpm, making the VTX1800 one of the most powerful production V-twin motorcycles of its time. (See infobox for measured horsepower and torque values.)
+
+Answer this question based on the passage: how much horsepower does a honda vtx 1800 have?
+Answer: This is the relevant information: Honda claimed that the 1800 put out 159 N m (117 lbf ft) of torque at only 3000 rpm and 75 kW (101 hp) at 5000 rpm, making the VTX1800 one of the most powerful production V-twin motorcycles of its time. The answer is 101.
+
+Question: The Adventures of the Wilderness Family (a.k.a. The Wilderness Family) is a 1975 family movie that stars Robert Logan, George Buck Flower and Susan Damante-Shaw. The film had two sequels: The Further Adventures of the Wilderness Family (1978, a.k.a. Adventures of the Wilderness Family 2) and Mountain Family Robinson (1979, a.k.a. Adventures of the Wilderness Family 3). The filming location was the Gunnison National Forest in the state of Colorado.
+
+Where was the adventures of the wilderness family filmed?
+Answer: To answer this question, we should know that: The filming location was the Gunnison National Forest in the state of Colorado. The answer is the Gunnison National Forest in the state of Colorado.
+
+Question: "If I Said You Had a Beautiful Body Would You Hold It Against Me" is a song written by David Bellamy, and recorded by American country music duo The Bellamy Brothers. It was released in March 1979 as the second single from the album The Two and Only. The song became their first number 1 hit on the Billboard magazine Hot Country Singles chart and their second number one overall, after their 1976 pop hit "Let Your Love Flow". The title as shown on the original single was "If I Said You Have a Beautiful Body Would You Hold It Against Me", but on the album and subsequent releases, the title is shown as "... Had ...".
+
+Answer this question based on the passage: who wrote if i said you had a beautiful body lyrics?
+Answer: The important part for answering this question is: "If I Said You Had a Beautiful Body Would You Hold It Against Me" is a song written by David Bellamy, and recorded by American country music duo The Bellamy Brothers. The answer is David Bellamy.
+
+Question: The Radcliffe Line was the boundary demarcation line between India and Pakistan published on 17 August 1947 upon the Partition of India. It was named after its architect, Sir Cyril Radcliffe, who, as chairman of the Border Commissions, was charged with equitably dividing 175,000 square miles (450,000 km) of territory with 88 million people. Today its western side still serves as the Indo-Pakistani border and the eastern side serves as the India-Bangladesh border.
+
+Answer this question: who draw the border between india and pakistan?
+Answer:

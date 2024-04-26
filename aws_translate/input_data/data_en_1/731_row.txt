@@ -1,0 +1,25 @@
+the minimum is 5 more than 100 so 100 + 5 = 105. the maximum weight of a robot is twice the minimum 105 * 2 = 210.
+The answer: 210
+Reverse engineering the question: OpenAI runs a robotics competition that limits the weight of each robot. Each robot can be no more than twice the minimum weight and no less than 5 pounds heavier than the standard robot. The standard robot weighs 100 pounds. What is the maximum weight of a robot in the competition?
+
+Reasoning and answer: Since 1 kilometer is equal to 1000 meters, then 3 kilometers is 3 x 1000 = 3000 meters. Since an hour has 60 minutes, then 2 hours is equal to 2 x 60 = 120 minutes. Therefore, her speed is 3000 meters / 120 hours = 25 meters per minute.
+The answer: 25
+What was the question?
+Question: Jane runs 3 kilometers in two hours. What is her speed in meters per minute?
+
+There have been 450 puzzles because 15 x 30 = 450. It would take 1,350 minutes to find all the Waldo's because 450 x 3 = 1,350.
+The answer: 1350
+Reverse engineering the question: There have been 15 "Where's Waldo?" books published. Each book has 30 puzzles to find Waldo. The average person takes 3 minutes to find Waldo in a puzzle. How long would it take to find every Waldo?
+
+Reasoning and answer: Each week, Rex is taking 2 hour - long lessons * 2 times a week = 4 lessons. After 6 weeks, he has done 4 lessons per week * 6 weeks = 24 lessons. So Rex still needs 40 total lessons – 24 lessons taken = 16 lessons. He will therefore need lessons for another 16 lessons / 4 lessons per week = 4 weeks.
+The answer: 4
+What was the question?
+Question: Rex is taking lessons for his driver’s license. He wants to take 40 hour-long lessons before his test, and decides to have two-hour sessions twice a week until he has done his test. After 6 weeks, how many more weeks will Rex need to continue taking lessons to reach his goal?
+
+5 pm - 6 pm is one hour and they measure service in 15 - minute blocks so 60 / 15 = 4 15 min blocks. At peak times, they serve 12 cars every 15 minutes so they serve 12 * 4 = 48 cars in 60 minutes. Off peak times, 4pm - 5 pm, they serve 8 cars every 15 minutes so they serve 8 * 4 = 32 cars in 60 minutes. From 4pm - 5 pm they serve 32 cars and from 5pm - 6 pm they serve 48 cars so they serve 32 + 48 = 80 cars.
+The answer: 80
+Reverse engineering the question: At peak hours, 11 am - 1 pm and 5 pm - 6 pm, the local fast-food restaurant serves 12 cars every 15 minutes. Off-peak times, they serve 8 cars every 15 minutes. From 4 pm - 6 pm, how many customers do they serve?
+
+If on the return journey to its home, the alligator took 2 more hours than it took to travel to the Nile Delta, Paul took 4 + 2 = 6 hours to travel back to its home. The total time Paul took to travel from its home to the Nile Delta and back is 6 + 4 = 10. On his return journey, Paul traveled with six other alligators, and since each alligator traveled for six hours up the Nile to their home, they took a total of 6 * 6 = 36 hours to do so. Together with Paul, all the alligators took 10 + 36 = 46 hours traveling between Nile Delta and up the Nile.
+The answer: 46
+Reverse engineering the question:

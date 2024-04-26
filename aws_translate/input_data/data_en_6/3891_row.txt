@@ -1,0 +1,32 @@
+News article: AstraZeneca Is Launching a Massive Gene Hunt With This Genome Pioneer
+
+AstraZeneca, working with genome pioneer Craig Venter, is launching a massive gene hunt in the most comprehensive bet yet by a pharmaceutical firm on the potential of genetic variations to unlock routes to new medicines.
+
+The initiative, announced on Friday, involves sequencing up to 2 million human genomes—the complete set of genetic code that acts as the software of life—including 500,000 DNA samples collected by AstraZeneca in global clinical trials.
+
+Financial details of the 10-year project were not disclosed but Mene Pangalos, head of early drug development, said the company would be investing “hundreds of millions of dollars.”
+
+AstraZeneca azncf aims to identify rare genetic mutations involved in every kind of disease by scanning DNA from volunteers who agreed to have their genomes sequenced and to provide access to detailed medical records.
+
+The project is made possible by a dramatic fall in the cost of genetic sequencing. It took government-funded scientists $3 billion and 13 years to sequence the first human genome by 2003. Today, it costs around $1,000 and takes just three days.
+
+AstraZeneca will work with Venter’s U.S. company Human Longevity Inc (HLI), which will sequence the genomes, including 1 million from HLI’s database, and use machine-learning software to find patterns in genetic variations.
+
+The British group, which is establishing an in-house Centre for Genomics Research in Cambridge, where it is relocating its global headquarters, has also partnered with the Wellcome Trust Sanger Institute and Finland’s Institute for Molecular Medicine.
+
+AstraZeneca is not the first drugmaker to start amassing troves of human DNA in this way but Venter, one of the first scientists to sequence the human genome, said it was the biggest commitment to date by any pharmaceutical company.
+
+Regeneron Pharmaceuticals signed a deal with Pennsylvania’s Geisinger Health System two years ago to sequence partial genomes of some 250,000 volunteers, while Roche’s Genentech unit signed a deal last year for HLI to sequence tens of thousands of genomes.
+
+“The big thing here is the magnitude of what we are trying to do,” Pangalos said. “This takes it to a completely different level and I think it is going to be relevant of every therapeutic area.”
+
+Until now, the field of genomics has largely failed to live up to the hype of hoped-for medical breakthroughs, although more recently genetic understanding has been crucial in the development of some cancer treatments.
+
+Now, thanks to industrial-scale sequencing and advances in gene editing that allow scientists to quickly test the effects of genetic variations, progress is expected to accelerate.
+
+Venter believes it could also unleash a new era of forensics, with HLI trying to predict what people might look like from their DNA.
+
+AstraZeneca’s decision to embed genomics across its research and development follows a push last year by the company to expand gene testing into areas including heart disease and asthma.
+
+“I believe we really have finally turned the corner and genomics will become central in drug development efforts,” said David Goldstein, a genetics expert from Columbia University, who chairs AstraZeneca’s Genomics Advisory Board.
+What are the most important parts of this news article?

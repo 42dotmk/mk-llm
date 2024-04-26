@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: Primitive Technology is a YouTube channel run by and starring John Plant. Based in Far North Queensland, Australia, the series demonstrates the process of making tools and buildings using only materials found in the wild. Created in May 2015, the channel has gained over 8 million subscribers and over 560 million views as of May 2018.
+
+Question: Based on this passage, who is the guy in the primitive technology videos?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: Primitive Technology is a YouTube channel run by and starring John Plant.... The answer is John Plant.
+----
+Answer this question please:
+All episodes are named after American country music songs, predominantly Kenny Chesney in part one, George Strait in part two, Tim McGraw in part three, and Garth Brooks in part four: the first ten episodes premiered on April 1, 2016, the second batch of ten episodes premiered on October 7, 2016. In April 2016, Netflix renewed The Ranch for a second season of 20 episodes, the first half of which premiered on June 16, 2017, and the second half was released on December 15, 2017.
+
+Answer this question based on the passage: when does the second season of the ranch come out?
+
+Stream of random thoughts: The relevant information is: In April 2016, Netflix renewed The Ranch for a second season of 20 episodes, the first half of which premiered on June 16, 2017, and the second half was released on December 15, 2017.... The answer is June 16 , 2017.
+----
+Answer this question please:
+Context: The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy. Events depicted throughout the series include news of the sinking of the Titanic in the first series; the outbreak of the First World War, the Spanish influenza pandemic, and the Marconi scandal in the second series; the Irish War of Independence leading to the formation of the Irish Free State in the third series; the Teapot Dome scandal in the fourth series; and the British general election of 1923, the Jallianwala Bagh massacre, and the Beer Hall Putsch in the fifth series. The sixth and final series introduces the rise of the working class during the interwar period and hints towards the eventual decline of the British aristocracy.
+
+Question: where is downton abbey supposed to be located?
+
+Stream of random thoughts: To answer this question, we should know that: The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy.... The answer is in the fictional Yorkshire country estate of Downton Abbey.
+----
+Answer this question please:
+Under The Coinage Act, 1906, the Government of India is charged with the production and supply of coins to the Reserve Bank of India (RBI). The RBI places an annual indent for this purpose and the Government of India draws up the production programme for the India Government Mints on the basis of the indent.
+
+Who has the right to mint coins in india?
+

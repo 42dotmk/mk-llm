@@ -1,0 +1,19 @@
+Question: In the federal Congress, the role of the Majority Leader of the United States House of Representatives and the Majority Leader of the United States Senate differ slightly. In the United States Senate, the majority leader is the chief spokesperson for the majority party, as the president of the Senate is also the Vice-President of the United States, and the President pro tempore, though technically a substitute for the president of the Senate, is in reality a largely ceremonial position (albeit powerful nonetheless, being third in line of succession to the presidency).
+
+Answer this question based on the passage: what power does the senate majority leader have?
+Answer: The important part for answering this question is: In the United States Senate, the majority leader is the chief spokesperson for the majority party, as the president of the Senate is also the Vice-President of the United States, and the President pro tempore, though technically a substitute for the president of the Senate, is in reality a largely ceremonial position (albeit powerful nonetheless, being third in line of succession to the presidency). The answer is the chief spokesperson for the majority party.
+
+Question: Red beans and rice is an emblematic dish of Louisiana Creole cuisine (not originally of Cajun cuisine) traditionally made on Mondays with red beans, vegetables (bell pepper, onion, and celery), spices (thyme, cayenne pepper, and bay leaf) and pork bones as left over from Sunday dinner, cooked together slowly in a pot and served over rice. Meats such as ham, sausage (most commonly andouille and Chaurice), and tasso ham are also frequently used in the dish. The dish is customary-ham was traditionally a Sunday meal and Monday was washday. A pot of beans could sit on the stove and simmer while the women were busy scrubbing clothes. The dish is now fairly common throughout the Southeast. Similar dishes are common in Latin American cuisine, including moros y cristianos and gallo pinto.
+
+Where does red beans and rice come from?
+Answer: The relevant sentence in the passage is: Red beans and rice is an emblematic dish of Louisiana Creole cuisine (not originally of Cajun cuisine) traditionally made on Mondays with red beans, vegetables (bell pepper, onion, and celery), spices (thyme, cayenne pepper, and bay leaf) and pork bones as left over from Sunday dinner, cooked together slowly in a pot and served over rice. The answer is Louisiana Creole cuisine.
+
+Question: Context: The NBA Championship ring is an annual award given by the National Basketball Association to the team that wins the NBA Finals. Rings are presented to the team's players, coaches, and members of the executive front office. Red Auerbach has the most rings overall with 16. Phil Jackson has the most as coach and Bill Russell has the most as a player (11 each)
+
+Question: when a team wins a championship who gets rings?
+Answer: To answer this question, we should know that: Rings are presented to the team's players, coaches, and members of the executive front office. The answer is the team 's players , coaches , and members of the executive front office.
+
+Question: Passage: Alexandra Borgia is a fictional character, played by Annie Parisse, who appeared on the long-running NBC drama series Law & Order from 2005 to 2006. Appearing in only 33 episodes, she is the shortest serving ADA in the series' history.
+
+Question: Based on this passage, who played ada borgia on law and order?
+Answer:

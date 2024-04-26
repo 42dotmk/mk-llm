@@ -1,0 +1,34 @@
+Student A:Passage: Four-year-old James Henry Trotter lives with his loving parents in a beautiful cottage by the sea in the south of England, until his parents are killed by an escaped rhinoceros during a shopping trip in London.
+
+Question: Based on this passage, what killed james parents in james and the giant peach?
+Student B:OK... To answer the above question, the relevant sentence is: Four-year-old James Henry Trotter lives with his loving parents in a beautiful cottage by the sea in the south of England, until his parents are killed by an escaped rhinoceros during a shopping trip in London.
+an escaped rhinoceros.
+
+Problem:Blood plasma is a yellowish coloured liquid component of blood that normally holds the blood cells in whole blood in suspension; this makes plasma the extracellular matrix of blood cells. It makes up about 55 % of the body's total blood volume. It is the intravascular fluid part of extracellular fluid (all body fluid outside cells). It is mostly water (up to 95 % by volume), and contains dissolved proteins (6 -- 8 %) (i.e. -- serum albumins, globulins, and fibrinogen), glucose, clotting factors, electrolytes (Na, Ca, Mg, HCO, Cl, etc.), hormones, carbon dioxide (plasma being the main medium for excretory product transportation) and oxygen. Plasma also serves as the protein reserve of the human body. It plays a vital role in an intravascular osmotic effect that keeps electrolytes in balanced form and protects the body from infection and other blood disorders.
+
+Answer this question: what percentage of blood is composed of plasma?
+Solution:OK... The important part for answering this question is: It makes up about 55 % of the body's total blood volume.
+55 %.
+
+Student A:"Wish You Were Here" is the title track on Pink Floyd's 1975 album Wish You Were Here. David Gilmour and Roger Waters collaborated to write the music, and Gilmour sang the lead vocal.
+
+Answer this question based on the passage: who sang wish you were here pink floyd?
+Student B:OK... This is the relevant information: David Gilmour and Roger Waters collaborated to write the music, and Gilmour sang the lead vocal.
+Gilmour.
+
+Problem:Pixel 2 and Pixel 2 XL are Android smartphones designed, developed and marketed by Google. They were announced during a Google event on October 4, 2017, as the successors to the Pixel and Pixel XL. They were released on October 19, 2017, and serve as the second set of smartphones in the Google Pixel hardware line.
+
+Based on this passage, when did the pixel 2 xl come out?
+Solution:OK... To answer the question, consider the following: They were released on October 19, 2017, and serve as the second set of smartphones in the Google Pixel hardware line.
+October 19 , 2017.
+
+Student A:"Mind Your Own Business" is a 1949 song written and originally performed by Hank Williams.
+
+Based on this passage, who sang the song mind your own business?
+Student B:OK... The relevant information to answer the above question is: "Mind Your Own Business" is a 1949 song written and originally performed by Hank Williams.
+Hank Williams.
+
+Student A:As originally enacted, the Voting Rights Act also suspended the use of literacy tests in all jurisdictions in which less than 50 % of voting-age residents were registered as of November 1, 1964, or had voted in the 1964 presidential election. In 1970, Congress amended the Act and expanded the ban on literacy tests to the entire country. The Supreme Court then upheld the ban as constitutional in Oregon v. Mitchell (1970), but just for federal elections. The Court was deeply divided in this case, and a majority of justices did not agree on a rationale for the holding.
+
+Based on this passage, when did congress outlaw literacy tests altogether as a prerequisite to voter registration?
+Student B:

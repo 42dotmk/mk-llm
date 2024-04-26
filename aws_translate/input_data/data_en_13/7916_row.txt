@@ -1,0 +1,34 @@
+Problem:Context: "Separation of church and state" is paraphrased from Thomas Jefferson and used by others in expressing an understanding of the intent and function of the Establishment Clause and Free Exercise Clause of the First Amendment to the Constitution of the United States which reads: "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof ..."
+
+Question: where is the expression of separation of church and state found in the constitution?
+Solution:OK... The relevant information to answer the above question is: "Separation of church and state" is paraphrased from Thomas Jefferson and used by others in expressing an understanding of the intent and function of the Establishment Clause and Free Exercise Clause of the First Amendment to the Constitution of the United States which reads: "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof ..."
+the Establishment Clause and Free Exercise Clause of the First Amendment.
+
+Student A:Liverpool Football Club is a professional football club in Liverpool, England, that competes in the Premier League, the top tier of English football. The club has won 5 European Cups, more than any other English club, 3 UEFA Cups, 3 UEFA Super Cups, 18 League titles, 7 FA Cups, 8 League Cups, and 15 FA Community Shields.
+
+Based on this passage, how many times has liverpool won the premier league title?
+Student B:OK... To answer the question, consider the following: The club has won 5 European Cups, more than any other English club, 3 UEFA Cups, 3 UEFA Super Cups, 18 League titles, 7 FA Cups, 8 League Cups, and 15 FA Community Shields.
+18.
+
+Problem:Deepwater Horizon is a 2016 American disaster film based on actual events. It was directed by Peter Berg from a screenplay by Matthew Michael Carnahan and Matthew Sand. It stars Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O'Brien and Kate Hudson. It is based on a 2010 article by David Barstow, David Rohde and Stephanie Saul on the Deepwater Horizon explosion and oil spill in the Gulf of Mexico.
+
+Answer this question based on the passage: who starred in the movie deep water horizon?
+Solution:OK... The relevant information is: It stars Mark Wahlberg, Kurt Russell, John Malkovich, Gina Rodriguez, Dylan O'Brien and Kate Hudson.
+Mark Wahlberg.
+
+Student A:Passage: Following his playing career, Keough worked for the Angels both as a minor league coach and executive from 1992 to 1999. After that, he scouted for the Tampa Bay Devil Rays and is currently an executive for the Oakland Athletics.
+
+Question: Based on this passage, what does matt keough do for a living?
+Student B:OK... To answer the above question, the relevant sentence is: After that, he scouted for the Tampa Bay Devil Rays and is currently an executive for the Oakland Athletics.
+an executive for the Oakland Athletics.
+
+Problem:Aquatic respiration is the process whereby an aquatic animal obtains oxygen from water.
+
+Where does sea water fish get their supply of oxygen?
+Solution:OK... The relevant sentence in the passage is: Aquatic respiration is the process whereby an aquatic animal obtains oxygen from water.
+Aquatic respiration.
+
+Problem:Surrealism is a cultural movement that began in the early 1920s, and is best known for its visual artworks and writings. Artists painted unnerving, illogical scenes with photographic precision, created strange creatures from everyday objects, and developed painting techniques that allowed the unconscious to express itself. Its aim was to "resolve the previously contradictory conditions of dream and reality into an absolute reality, a super-reality".
+
+Which artistic movements were impacted by theories of the unconscious?
+Solution:

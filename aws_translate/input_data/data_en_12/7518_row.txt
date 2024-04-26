@@ -1,0 +1,36 @@
+Ans: Evaluation and management coding
+Ques: Evaluation and management coding (commonly known as E / M coding or E&M coding) is a medical coding process in support of medical billing. Practicing health care providers in the United States must use E / M coding to be reimbursed by Medicare, Medicaid programs, or private insurance for patient encounters.
+
+What does e/m stand for in medical terms?
+CoT: The relevant sentence in the passage is: Evaluation and management coding (commonly known as E / M coding or E&M coding) is a medical coding process in support of medical billing.
+
+
+Ans: Dr. Miles Bronson , an American Baptist Missionary
+Ques: Hemkosh is the second dictionary of Assamese language. The first Assamese dictionary was compiled by Dr. Miles Bronson, an American Baptist Missionary. His dictionary, published in 1867 at the American Baptist Mission Press, Sibsagar, is out of print. Bronson's work did not pretend to be an etymological dictionary but contained a very considerable collection of words from the people themselves without recording derivations.
+
+Who compiled and publised the first assamese dictionary?
+CoT: To answer this question, we should know that: The first Assamese dictionary was compiled by Dr. Miles Bronson, an American Baptist Missionary.
+
+
+Answer: President Idi Amin. Now, what could be the question and solution-maybe?
+Ques: The film tells the fictional story of Nicholas Garrigan (James McAvoy), a young Scottish doctor who travels to Uganda and becomes the personal physician of President Idi Amin (Forest Whitaker). The film is based on events of Amin's rule, and the title comes from a reporter in a press conference who wishes to verify whether Amin, who was known to adopt fanciful imperial titles for himself, declared himself the King of Scotland. The film has an approval rating of 87 % at Rotten Tomatoes, and Whitaker won Best Actor at the Academy Awards, among others.
+
+Answer this question based on the passage: who was the last king of scotland based on?
+CoT: The important part for answering this question is: The film is based on events of Amin's rule, and the title comes from a reporter in a press conference who wishes to verify whether Amin, who was known to adopt fanciful imperial titles for himself, declared himself the King of Scotland.
+
+
+Ans: Perry Farrell
+Ques: Passage: Jane's Addiction is an American rock band from Los Angeles, formed in 1985. The band consists of vocalist Perry Farrell, guitarist Dave Navarro, drummer Stephen Perkins and bassist Chris Chaney.
+
+Question: Based on this passage, who is the lead singer of jane's addiction?
+CoT: To answer the above question, the relevant sentence is: The band consists of vocalist Perry Farrell, guitarist Dave Navarro, drummer Stephen Perkins and bassist Chris Chaney.
+
+
+Ans: Sir Peter Blake
+Ques: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup. In 2017, skippered by Glenn Ashby, they went on to retake the America's Cup.
+
+Who led the successful america's cup campaign in 1995?
+CoT: The relevant information to answer the above question is: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup.
+
+
+Answer: metals such as magnesite , zinc , tungsten , and iron. Now, what could be the question and solution-maybe?

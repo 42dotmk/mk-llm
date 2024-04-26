@@ -1,0 +1,133 @@
+Sonitus Technologies 
+  
+ In the future, communicating in combat could be as simple as speaking into the microphone on your teeth. 
+  
+ On Tuesday the US Department of Defense sealed a multimillion dollar investment into a futuristic two-way communications system dubbed the "Molar Mic," slated for use by the US Air Force. 
+  
+ Developed by California company Sonitus Technologies, the mouthpiece snaps onto the upper back molars (it's custom fit to each user) and has a wireless rechargeable battery, a waterproof microphone and a bone conduction speaker built in. The mouthpiece sends and receives communications via a wireless "tactical neckloop" that connects to traditional radios and phones. 
+  
+ "Parachuting from high-altitude aircraft, working under a hovering helicopter, swimming in open water, and similar conditions, interfere with traditional communication devices precisely when they are needed most," Sonitus says. 
+  
+ Instead, the Molar Mic's bone conduction speaker relays audio straight to the wearer's inner ear without preventing them from hearing other noise or encumbering them with gear, according to Sonitus. 
+  
+ "The result is an unobstructed head and face, clear communication, higher comfort, enhanced situational awareness and the ability to add or remove personal protective equipment without breaking communication," Sonitus says. 
+  
+ The Molar Mic is set to be deployed first by the US Air Force (with other branches of the military potentially following suit), but Sonitus says the tech could also be used by security personnel, industrial workers or first responders. ||||| U.S. Air Force is first to leverage audio interface system that enables clear communication in the harshest conditions; performing underwater, in free-fall, and when using full-face life support masks 
+  
+ San Mateo, Calif. — September 11, 2018 
+  
+ Sonitus Technologies announced today that it has been awarded Phase II of its contract with the U.S. Department of Defense (DOD) which is structured to provide the U.S. Air Force with a novel new personal communication system that Air Force personnel have nicknamed the ‘Molar Mic.’ The innovative two-way, personal communication system, ATAC™, fits a miniaturized traditional headset into a device that clips to a user’s back teeth. 
+  
+ The DOD, via its Defense Innovation Unit (DIU), has contracted Sonitus for a multi-million dollar, multi-year agreement, to complete development of the Molar Mic for purposes of transition to Fielding and Deployment of the system upon successful conclusion of the first segment of the contract which is funded by the U.S Air Force. Subsequently, other qualified branches of the U.S. defense community may leverage the technology as part of the DOD’s program to enhance communications capabilities and operational safety of its personnel. Sonitus was introduced to the DOD by In-Q-Tel, the not-for-profit strategic investor that identifies and partners with startup companies developing innovative technologies that protect and preserve U.S. security. 
+  
+ “Sonitus Technologies is honored to bring this game changing technology to our country’s elite military, making them safer and more effective by enabling them to communicate clearly – even in the most extreme situations,” said Peter Hadrovic, CEO of Sonitus Technologies. “The voice interface sustains communications in dangerous and challenging environments. The Molar Mic is the first in our family of solutions that conventional approaches are unable to address.” 
+  
+ Pararescuemen (commonly known as PJs) from the Air National Guard 131st Rescue Squadron based at Moffett Field in Mountain View, CA, participated in early field testing of the Sonitus prototypes, including rescue operations during Hurricane Harvey last summer in Houston. 
+  
+ “The ability to communicate by radio is crucial for our mission,” said a PJ and DIU Warrior in Residence. “It enables us to execute in extreme conditions and save lives. But despite having amazing technology, communication still commonly breaks down because of the extreme environments where we operate.” 
+  
+ In one case during Hurricane Harvey, a PJ was involved in airlifting an injured civilian into a helicopter hovering directly overhead and was attempting communication with the helicopter flight engineer and pilot using the Sonitus system. The crew was amazed that they could clearly hear the PJ in these conditions. 
+  
+ Parachuting from high-altitude aircraft, working under a hovering helicopter, swimming in open water, and similar conditions, interfere with traditional communication devices precisely when they are needed most. What is needed is an entirely new approach. 
+  
+ Sonitus Receives DOD/DIU Contract 
+  
+ Sonitus Technologies uses a patented audio interface and near-field magnetic induction (NFMI) technology to achieve its performance. The recent award followed DOD-funded field-testing of prototypes by military personnel from all of the major service branches with extensive field experimentation. Testing included multiple scenarios, with and without personal protective equipment, all with extreme noise and without loss of communication. 
+  
+ The Sonitus solution creates a unique wireless audio interface by embedding both a tiny microphone for talking and a speaker-transducer for hearing in a compact custom-fit mouth-piece that snaps comfortably around a user’s back teeth. This allows the user to both talk and hear without external devices attached to the head. The placement on the teeth uses the body itself to block external noise when speaking and leverages the user’s teeth and jawbone to create a new auditory path for hearing. The result is an unobstructed head and face, clear communication, higher comfort, enhanced situational awareness and the ability to add or remove personal protective equipment without breaking communication. 
+  
+ Security personnel, first responders, and industrial workers such as those in the energy sector are evaluating the Sonitus solution for their market applications. 
+  
+ For more information about the Sonitus wireless personal communication system and its technical specifications, visit how it works. 
+  
+ About Sonitus Technologies 
+  
+ Sonitus Technologies is the developer of miniaturized wireless personal communication solutions designed for use in harsh commercial and security environments. Developed with, and proven by, the world’s most demanding customers, the Sonitus solution sustains two-way voice connectivity in communication networks critical to personal safety and performance across defense, public safety, aerospace, power, oil & gas, and professional applications. The patented two-way Sonitus solution is a new audio interface – using near-field magnetic induction (NFMI) technology – which makes voice communication immune to a user’s operating environment and decouples it from protective equipment. A small wireless, hands-free, ears-free device clips to a user’s back teeth and creates an unbreakable personal communication link for speaking and hearing that is compatible with existing radio, phone or intercom solutions. The new audio path eliminates the need for ear pieces, microphones and wires on the head. Initial investors in Sonitus include In-Q-Tel, Panasonic, KCK and Tsuha. The company is based in San Mateo, CA, and is led by a team of proven executives from within the technology, government and medical device markets. For more information visit www.sonitustechnologies.com. 
+  
+ About DIU 
+  
+ DIU is an entity within the Department of Defense charged with accelerating and streamlining the process by which commercial technology is sourced and integrated across the U.S. military to ensure our national defense. For more information visit www.diux.mil. 
+  
+ Media Contact: 
+  
+ Rich Moore 
+  
+ rbmoore7@gmail.com 
+  
+ 415-608-7441 ||||| Communications devices have taken over our pockets and our wrists, but soon the gadgets may go even deeper. Patrick Tucker at Defense One reports that the Air Force has signed a $10 million deal with a California company to continue development of a communication device that is fitted to a users’ teeth. 
+  
+ Dubbed the “Molar Mic,” the gadget is being designed by San Mateo-based Sonitus Technologies. Officially called the ATAC system, the two-way communication system consists of a small microphone that clips to a users back teeth. This enables them to hear communications through their cranial bones which transmit the sound to the auditory nerve. Users also wear a low-profile transmitter loop around their neck that connects to the Molar Mic via near-field magnetic induction, a system similar to Bluetooth that can be encrypted and also passes through water. The loop then connects with with a phone, walkie-talkie or other communications device. 
+  
+ Communicating via the teeth takes a little getting used to. “Essentially, what you are doing is receiving the same type of auditory information that you receive from your ear, except that you are using a new auditory pathway — through your tooth, through your cranial bones — to that auditory nerve. You can hear through your head as if you were hearing through your ear,” Sonitus CEO Peter Hadrovic tells Tucker. “Over the period of three weeks, your brain adapts and it enhances your ability to process the audio [but even] out of the gate, you can understand it.” 
+  
+ Why put the mic inside the mouth? According to a press release, the mic removes the need for headsets and other equipment that could get fouled up, allowing users to continue communicating during dangerous or active situations, such as parachuting out of an airplane, working near noisy helicopters, swimming in open water, or during rescue missions or firefights. Because it is hidden in the mouth, it can also be used discreetly by security personnel or undercover agents. 
+  
+ The system has already been tested in the field. Tucker reports that airmen in Afghanistan tried it for 14 months while deployed, though not in active missions. Pararescuemen from the Air National Guard's 131st Rescue Squadron based at Moffett Field in Mountain View, California, also tested the device in Houston last year during Hurricane Harvey. The team faced high water, noisy helicopters and other external noises that make traditional communication difficult. 
+  
+ “This guy is standing in neck-deep water, trying to hoist a civilian up into a helicopter above. He says, ‘There is no way I would be able to communicate with the crew chief and the pilot if I was not wearing your product,” Hadrovic tells Tucker. 
+  
+ But communication is just the first step. The company says in the future the platform could integrate other functions like keeping tabs on a soldier’s vital signs or location. Collecting biophysical data on soldiers is a goal of the military, which wants to use the data to figure out how stress, fatigue and other factors impact soldiers. 
+  
+ The project is being supported by the Pentagon's Defense Innovation Unit, which was created in 2015 to keep the often slow-moving and cumbersome defense technology programs up to date with the latest advances coming out of Silicon Valley and the tech world. The agency now has offices in Boston, Washington D.C. and Austin. The Molar Mic isn’t its first successful technology transfer. In 2017, the unit helped negotiate a $750 million five year deal between cybersecurity firm Tanium and the Army. 
+  
+ Jennings Brown at Gizmodo reports that Sonitus says it will not begin work on commercial versions of the Molar Mic until it finishes it military contract, meaning it will be a few years before we get to listen accept calls directly through our skull bones. ||||| Image: Sonitus 
+  
+ A new communication device that is supposed to go inside military service members’ heads gives us a hint at the sort of technology a new Defense Department accelerator program is funding. 
+  
+ Former Secretary of Defense Ash Carter created the Defense Innovation Unit Experimental (DIUx) in 2015 with the mission of helping the military industrial complex catch up to the speed of Silicon Valley, especially with the development of drones, communication systems, and cybersecurity. But, as Gizmodo has pointed out before, the arduous bureaucracy of government agencies isn’t congruous with the disruption ethos of Big Tech. 
+  
+ Advertisement 
+  
+ The Trump Administration continues to support the Obama-era venture, but the DIUx has faced criticism and pushback from Republican Congress members who believe it could overlap with DARPA. 
+  
+ Now one of the benefactors of this program, Sonitus, announced it has received a multi-million dollar contract to develop two-way communication devices that clip to the users’ teeth. The technology, dubbed “Molar Mic,” is supposed to be provided for U.S. Air Force service members first, but it might eventually be used by other military branches. Defense One reports that Sonitus was awarded about $10 million for the project. 
+  
+ Sonitus CEO Peter Hadrovic explained to Defense One that using the Molar Mic is similar to hearing the sounds of cereal crunch inside your head, using the “auditory pathway” of your teeth. He said users can understand the audio as soon as they put it in, but it gets easier with use. “Over the period of three weeks, your brain adapts and it enhances your ability to process the audio,” Hadrovic told Defense One. 
+  
+ Advertisement 
+  
+ The device uses near-field magnetic induction to sync with a transmitter, similarly to Bluetooth. It’s custom-fit to the user’s mouth, then snaps into their molars. The microphone and wirelessly rechargeable battery are obviously built to be waterproof. 
+  
+ The current prototype looks like it would be irritating and a choking hazard. But it would certainly be more convenient than a handheld device for people who are, say, jumping out of aircraft and swimming as apart of rescue missions and combat. 
+  
+ Photo: Sonitus 
+  
+ Advertisement 
+  
+ Sonitus began developing the technology using funds from the CIA-focused non-profit venture capital group In-Q-Tel (a reference to Q, the fictional head of research and development behind James Bond’s gadgets and weapons). But Hadrovic would not tell Defense One if the CIA had used the technology. Sonitus reportedly did give prototypes to pararescue members in the Air National Guard’s 131st Rescue Squadron at Moffett Field in Mountain View, California, through the DIUx “warriors in residence” program. And Hadrovic said some of those service members took Molar Mic prototypes to Afghanistan and provided feedback. Another group of pararescue members reportedly used Molar Mics during rescue operations in Texas after Hurricane Harvey. 
+  
+ A spokesperson for Sonitus told Gizmodo the company won’t speculate about when the technology will be available for commercial, industrial, or consumer markets—and the company wont scale beyond military use until it completes the contract the Department of Defense just awarded them. 
+  
+ So, we probably have at least a few years before civilians start lodging phones into their throats. 
+  
+ Advertisement 
+  
+ [Sonitus, Defense One] ||||| The future of battlefield communications is resting comfortably near your back gums. 
+  
+ Next time you pass someone on the street who appears to be talking to themselves, they may literally have voices inside their head…and be a highly trained soldier on a dangerous mission. The Pentagon has inked a roughly $10 million contract with a California company to provide secure communication gear that’s essentially invisible. 
+  
+ Dubbed the Molar Mic, it’s a small device that clips to your back teeth. The device is both microphone and “speaker,” allowing the wearer to transmit without any conspicuous external microphone and receive with no visible headset or earpiece. Incoming sound is transmitted through the wearer’s bone matter in the jaw and skull to the auditory nerves; outgoing sound is sent to a radio transmitter on the neck, and sent to another radio unit that can be concealed on the operator. From there, the signal can be sent anywhere. 
+  
+ “Essentially, what you are doing is receiving the same type of auditory information that you receive from your ear, except that you are using a new auditory pathway — through your tooth, through your cranial bones — to that auditory nerve. You can hear through your head as if you were hearing through your ear,” said Peter Hadrovic, CEO of Molar Mic creator Sonitus Technologies. He likened the experience to what happens when you eat a crunchy breakfast cereal — but instead of hearing that loud (delightfully marketable) chewing noise, you’re receiving important communications from your operations team. 
+  
+ Your ability to understand conversations transmitted through bone improves with practice. “Over the period of three weeks, your brain adapts and it enhances your ability to process the audio,” said Hadrovic. But even “out of the gate, you can understand it,” he said. (more below) 
+  
+ The Molar Mic connects to its transmitter via near-field magnetic induction. It’s similar to Bluetooth, encryptable, but more difficult to detect and able to pass through water. 
+  
+ Sonitus received early funding from In-Q-Tel, the nonprofit investment arm of the CIA, to develop the concept. Hadrovic declined to say whether CIA operatives had used the device in intelligence gathering. But the Molar Mic has seen the dust of Afghanistan and even played a role in rescue operations in the United States. 
+  
+ In Aug, 2016, a connection Hadrovic met through In-Q-Tel introduced the company to the Defense Innovation Unit Experimental, or DIUx (since rebranded simply DIU). They linked Sonitus to their “warrior in residence” and several other pararescuemen, or PJs, from the Air National Guard’s 131st Rescue Squadron at Moffett Field in Mountain View, California, near the DIU headquarters. Pararescuemen airdrop behind enemy lines to rescue downed aircrews. 
+  
+ A few of the airmen took prototypes of the device on deployment to Afghanistan. Although they didn’t use it during missions, they were able to test it repeatedly and offer feedback. Hadrovic said the 14 months of testing were critical to improving the product for use by the military. 
+  
+ In 2017, a few of the PJs from the 131st brought Molar Mic along when they deployed to Texas to help with rescue operations for Hurricane Harvey. Hadrovic said the airmen were pleased with its performance during complicated operations involving water, helicopters, and a lot of external noise. 
+  
+ “This guy is standing in neck-deep water, trying to hoist a civilian up into a helicopter above. He says, ‘There is no way I would be able to communicate with the crew chief and the pilot if I was not wearing your product.’” (More below) 
+  
+ A graph illustrating the communications network of the “Molar Mic” from Sonitus. 
+  
+ The same technology holds the potential for far more rich biometric communication between operators and their commanders, allowing soldiers in the field and their team to get a timely sense of how the soldier is responding to pressure or injury, without him or her having to communicate all of that explicitly. It’s something that the military is working toward. 
+  
+ “As we look to the future human-machine interface… the human creates a lot of information, some of it intentional, some of it unintentional. Speaking is one form of information creation,” says Hadrovic. “Once you’ve made something digital, the information can be interspersed…We have a tremendous wealth of opportunities to communicate out of the person and back to the person, information that can be either collected from them and processed offline and given back in a nice feedback loop. What we’ve done is invested in the platform that will support these future elements.” |||||
+
+Write a summary.

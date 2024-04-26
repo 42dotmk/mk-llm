@@ -1,0 +1,25 @@
+Gary can bake 4 / 0.5 = 8 cakes from the 4 pounds of flour. He can bake 2 / 1 / 5 = 10 cupcakes from the 2 pounds of flour. So, he will earn $2.5 x 8 = $20 from the cakes. Hence, Gary will earn a total of $20 + $10 = $30 from baking 8 cakes and 10 cupcakes.
+The answer: 30
+Reverse engineering the question: Gary has 6 pounds of flour. He will use 4 pounds of flour to make cakes which require 0.5 pounds of flour each. The remaining 2 pounds of flour will be used to bake cupcakes, which require 1/5 pounds of flour. He plans to sell the cakes for $2.5 each and the cupcakes for $1 each in the school's bake sale. How much will Gary earn?
+
+Reasoning and answer: If Judson paid $500, Kenny contributed 20 / 100 * $500 = $100 more than Judson. In total, Kenny contributed $500 + $100 = $600. Kenny and Judson contributed a total of $600 + $500 = $1100. If Camilo contributed $200 more than Kenny, then he contributed $600 + $200 = $800. The total amount of money the three contributed for the house painting is $1100 + $800 = $1900.
+The answer: 1900
+What was the question?
+Question: Judson, Camilo, and Kenny decided to contribute money to paint their house. Judson contributed $500, Kenny contributed 20% more money than Judson, and Camilo contributed $200 more than Kenny. How much was the cost of painting the house?
+
+If Each of the roads has 250 street lights on each opposite side, the total number of street lights on one road is 250 * 2 = 500. Since each neighborhood has four roads passing through it, the total number of street lights in one neighborhood is 500 * 4 = 2000 street lights. The town has ten neighborhoods, and since each neighborhood has 2000 street lights on all its roads, there are 2000 * 10 = 20000 street lights in the town.
+The answer: 20000
+Reverse engineering the question: A town has ten neighborhoods, each having four roads passing through them. Each of the roads has 250 street lights on each opposite side. Calculate the total number of street lights on all the roads of the neighborhoods in the town.
+
+Reasoning and answer: She was able to earn 24 x 3 = $72 after selling 24 slices. She earned 15 x 3 = $45 after selling 3 whole pizzas. Therefore, she earned a total of $72 + $45 = $117.
+The answer: 117
+What was the question?
+Question: Susie opens a pizza store. She charges $3 per slice and $15 for a whole pizza. If she was able to sell 24 slices of pizza and 3 whole pizzas, how much money did she earn?
+
+If Lisa's surplus of 18 dresses is taken away from the total, they will have 48 - 18 = 30 dresses in total. They would each have the same number of dresses from these 30 i.e. 30 / 2 = 15 dresses which is the number of dresses that Ana actually has.
+The answer: 15
+Reverse engineering the question: Lisa has 18 more dresses than Ana. If the number of their dresses combined is 48, how many dresses does Ana have?
+
+Melissa made 30 x 4 = 120 muffins. Together, Melissa and Sasha made 30 + 120 = 150 muffins. Tiffany made 150 / 2 = 75 muffins. Altogether, they made 150 + 75 = 225 muffins. They contributed 225 x $4 = $900 to the fundraiser.
+The answer: 900
+Reverse engineering the question:

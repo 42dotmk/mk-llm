@@ -1,0 +1,25 @@
+Jacob earns $20 per hour * 10 hours = $200 for working. So he earns $4 each * 24 = $96 for the cookies. So far he has earned $200 + $96 = $296. He buys a lottery ticket so $296 - $10 = $286 was left in his money. After winning in a lottery, he had a total of $500 + $286 = $786. He gets $500 * 2 per sister = $1000 from her sisters. So he has so far $1000 + $786 = $1786. He needs $5000 - $1786 = $3214.
+The answer: 3214
+Reverse engineering the question: Jacoby wants to save money for a trip to Brickville. He needs to have $5000 total to go on his trip. He works a job earning $20 per hour and works 10 hours. He then finds he can sell cookies for $4 each, and he sells 24 pieces of cookies. With the money he has so far, he buys a lottery ticket for $10 and wins $500. Finally, he gets $500 from both of his sisters as a gift. How much more, in dollars, does Jacob need to go to Brickville?
+
+Reasoning and answer: Phoebe is having 20 guests and Monica charges $25.00 per person so that’s 20 * 25 = $500.00. Phoebe is a repeat customer so she gets 10% off of $500.00 so that’s .10 * 500 = $50.00 discount. Monica is charging $500.00 minus the repeat customer discount of $50.00 so she will make 500 - 50 = $450.00.
+The answer: 450
+What was the question?
+Question: Monica charges $25.00 per person when catering a dinner party. For repeat customers, she offers a 10% discount. Phoebe is a repeat customer who is having a dinner party for 20 guests. How much will Monica make from the party?
+
+If a paint mixer takes three days to make 18 drums of paint in a day, he makes 18 / 3 = 6 drums of paint. The number of days it will take for him to make 360 drums of paint, making 6 drums a day, is 360 / 6 = 60 days.
+The answer: 60
+Reverse engineering the question: Making an equal number of drums of paint each day, a paint mixer takes three days to make 18 drums of paint. How many days will it take for him to make 360 drums of paint?
+
+Reasoning and answer: First find the percentage of ads that aren't interesting: 100% - 20% = 80%. Then multiply that percentage by the percentage of ads that don't get blocked to find the percentage of ads that meet both criteria: 80% * 20% = 16%.
+The answer: 16
+What was the question?
+Question: Hannah's AdBlock blocks all but 20% of ads, and 20% of the ads it doesn't block are actually interesting. What percentage of ads aren't interested and don't get blocked?
+
+If "x" is the number of European swallows, then, for every one European swallow, there would be 2x American swallows. Thus, the total number of swallows would be 2x + x = 90 swallows. Thus, the number of European swallows x = 30. And the number of American swallows is 90 - 30 = 60. A European swallow can carry twice what an American swallow can carry, or 2 * 5 = 10 pounds. 30 European swallows can carry a maximum of 30 * 10 = 300 pounds. 60 American swallows can carry a maximum of 60 * 5 = 300 pounds. Thus, a flock of 90 birds, with 30 European and 60 American swallows, can carry 300 + 300 = 600 pounds.
+The answer: 600
+Reverse engineering the question: The American swallow can lift into the air and carry a maximum of 5 pounds of weight, while the European swallow can lift and carry twice the weight as the American swallow. If there was a flock of 90 swallows, containing twice as many American as European swallows, what is the maximum combined weight the flock can carry?
+
+1 hour is 60 minutes, so 120 minutes is 120 / 60 = 2 hours. During one hour a fox can make 50 kilometers, so during two hours, he would be able to run 50 * 2 = 100 kilometers.
+The answer: 100
+Reverse engineering the question:

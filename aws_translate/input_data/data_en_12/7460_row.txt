@@ -1,0 +1,19 @@
+Q: Omnivore / ˈɒmnivɔːr / is a consumption classification for animals that have the capability to obtain chemical energy and nutrients from materials originating from plant and animal origin. Often, omnivores also have the ability to incorporate food sources such as algae, fungi, and bacteria into their diet as well.
+
+Based on this passage, an animal that eat both plants and animals?
+A: Omnivore. How to explain the answer? The relevant information to answer the above question is: Omnivore / ˈɒmnivɔːr / is a consumption classification for animals that have the capability to obtain chemical energy and nutrients from materials originating from plant and animal origin.
+
+Q: Passage: This is a list of the schools in Division II of the National Collegiate Athletic Association (NCAA) in the United States and Canada that have football as a varsity sport. In the 2017 season, there are a total of 169 Division II football programs.
+
+Question: Based on this passage, how many teams are in division 2 football?
+A: 169. How to explain the answer? This is the relevant information: In the 2017 season, there are a total of 169 Division II football programs.
+
+Q: Context: Most shots on goal, career: Ray Bourque, 6,206 Most shots on goal, playoffs career: Ray Bourque, 812 Most shots on goal, one season: Phil Esposito (1970 -- 71), 550 Most shots on goal, one playoff season: Henrik Zetterberg, 116 Most shots on goal, one game: Ray Bourque (March 21, 1991), 19 Most shots on goal, one playoff game: Daniel Briere (April 22, 2006), 14
+
+Question: nhl record for shots on goal in a game?
+A: Ray Bourque. How to explain the answer? The relevant sentence in the passage is: Most shots on goal, one game: Ray Bourque (March 21, 1991), 19
+
+Q: In Service Aircraft First flight Note Antonov An-225 Mriya 19881221! 21 December 1988 Generally acknowledged as the largest airplane in the world, the single Antonov An-225 is the world's heaviest aircraft ever (maximum takeoff weight greater than 640 tons) and the largest heavier-than-air aircraft (in length and wingspan) ever entering operational service. Airbus A380-800 20050427! 27 April 2005 The largest passenger aircraft ever made. Capable of carrying 850 passengers Airbus A340-600 20010423! 23 April 2001 The A340-600 has been in production since 2001, with a length of 75.30 m, the longest commercial aircraft, until surpassed by the Boeing 747-8. Antonov An-124 19820000! 26 December 1982 Was the largest mass-produced aircraft in the world until the Airbus A380 was produced. Remains the world's largest military aircraft currently in service. Antonov An-22 19650227! 27 February 1965 World's largest turboprop-powered airplane Boeing 747-8 20100208! 8 February 2010 (F variant) Lengthened version of 747 with increased wingspan. World's longest passenger aircraft at 76.4 m (0.9 m / 3 ft longer than Airbus A340) capacity of 650 passengers. Boeing 747 19690209! 9 February 1969 Highest-capacity passenger aircraft until surpassed by Airbus A380 Boeing 747 "Dreamlifter" 20060909! 9 September 2006 747 with enlarged fuselage for transporting Boeing 787 Dreamliner sub-assemblies (1,800 cubic metres ( 65,000 cu ft) ) Tupolev Maksim Gorki 19340519! 19 May 1934 Physically the largest aircraft, and heaviest land-based aircraft of the 1930s era (63 meter / 206.7 ft wingspan, 53 tonne MTOW), required eight 900 hp Mikulin V12 engines for flight Dornier Do X 19290712! 12 July 1929 Largest successful flying boat and heaviest aircraft in the world from 1929 until 1942 when the Boeing B-29 Superfortress first flew. Antonov An-2 19470831! 31 August 1947 Largest mass-produced single-engine biplane.
+
+Based on this passage, which one is the biggest airplane in the world?
+A:

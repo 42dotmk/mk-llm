@@ -1,0 +1,29 @@
+## question
+Passage: Pale Rider is a 1985 American western film produced and directed by Clint Eastwood, who also stars in the lead role. The title is a reference to the Four Horsemen of the Apocalypse, as the rider of a pale horse is Death. The film, which took in nearly $41 million at the box office, became the highest grossing Western of the 1980s.
+
+Question: Based on this passage, who was the pale rider supposed to be?
+## answer
+This is the relevant information: The title is a reference to the Four Horsemen of the Apocalypse, as the rider of a pale horse is Death.
+So the answer must be Death
+
+## question
+Context: It begins on Palm Sunday and continues on through to Black Saturday. Many communities observe Spanish-influenced Catholic rituals such as processions, that have been syncretised with elements of pre-Hispanic beliefs. This is evident in some ritual practices not sanctioned by the universal Church and the many superstitions associated with the occasion.
+
+Question: when is holy week celebrated in the philippines?
+## answer
+To answer this question, we should know that: It begins on Palm Sunday and continues on through to Black Saturday.
+So the answer must be Palm Sunday and continues on through to Black Saturday
+
+## question
+Émilie du Châtelet (1706 -- 1749) proposed and tested the hypothesis of the conservation of total energy, as distinct from momentum. Inspired by the theories of Gottfried Leibniz, she repeated and publicized an experiment originally devised by Willem' s Gravesande in 1722 in which balls were dropped from different heights into a sheet of soft clay. Each ball's kinetic energy-as indicated by the quantity of material displaced-was shown to be proportional to the square of the velocity. The deformation of the clay was found to be directly proportional to the height the balls were dropped from, equal to the initial potential energy. Earlier workers, including Newton and Voltaire, had all believed that "energy" (so far as they understood the concept at all) was not distinct from momentum and therefore proportional to velocity. According to this understanding, the deformation of the clay should have been proportional to the square root of the height from which the balls were dropped from. In classical physics the correct formula is E k = 1 2 m v 2 (\ displaystyle E_ ( k) = (\ frac ( 1) (2) ) mv ^ (2) ), where E k (\ displaystyle E_ ( k) ) is the kinetic energy of an object, m (\ displaystyle m) its mass and v (\ displaystyle v) its speed. On this basis, Châtelet proposed that energy must always have the same dimensions in any form, which is necessary to be able to relate it in different forms (kinetic, potential, heat ...).
+
+Who made the law of conservation of energy?
+## answer
+To answer the question, consider the following: Émilie du Châtelet (1706 -- 1749) proposed and tested the hypothesis of the conservation of total energy, as distinct from momentum.
+So the answer must be Émilie du Châtelet
+
+## question
+This goose breeds north of the timberline in Greenland, Canada, Alaska, and the northeastern tip of Siberia, and spends winters in warm parts of North America from southwestern British Columbia through parts of the United States to Mexico. They fly as far south as Texas and Mexico during winter, and return to nest on the Arctic tundra each spring. It is a rare vagrant to Europe, but a frequent escape from collections and an occasional feral breeder. Snow geese are visitors to the British Isles where they are seen regularly among flocks of barnacle, Brent and Greenland white-fronted geese. There is also a feral population in Scotland from which many vagrant birds in Britain seem to derive.
+
+Where do snow geese go for the winter?
+## answer

@@ -1,0 +1,27 @@
+Reasoning and answer: She walks .5 miles to school and back 4 times a day so that's .5 * 4 = 2 miles. She walks 2 miles a day for 5 days so that's 2 * 5 = 10 miles. Over 4 weeks of walking 10 miles per week she walks 4 * 10 = 40 miles.
+The answer: 40
+What was the question?
+Question: Wanda walks her daughter .5 miles to school in the morning and then walks .5 miles home. She repeats this when she meets her daughter after school in the afternoon. They walk to school 5 days a week. How many miles does Wanda walk after 4 weeks?
+
+In 20 minutes, she happy tweets for 20 * 18 = 360 times. In 20 minutes, she hungry - tweets for 20 * 4 = 80 times. In 20 minutes, she tweets at her reflection 20 * 45 = 900 times. Altogether, she tweets 360 + 80 + 900 = 1340 times.
+The answer: 1340
+Reverse engineering the question: Polly the parakeet tweets all day long. When she is happy, she tweets 18 times per minute. When she is hungry, she tweets 4 times per minute. And when she watches herself in the mirror, she tweets 45 times per minute. During a time period where she is happy for 20 minutes, hungry for 20 minutes, and watches her reflection for 20 minutes, what is the total number of times she will tweet?
+
+Reasoning and answer: To purchase a book for each student, Sally needs: 30 x $12 = $360. She thus needs to pay $360 - $320 = $40 out of pocket.
+The answer: 40
+What was the question?
+Question: Sally teaches elementary school and is given $320 to spend on books for her students. A reading book costs $12 and there are 30 students in her class. Unfortunately, if the money she is given by the school to pay for books is not sufficient, she will need to pay the rest out of pocket. How much money does Sally need to pay out of pocket, to buy every student a reading book?
+
+After painting the red and blue pebbles, Shawn had a remainder of 40 - 9 - 13 = 18 pebbles. He painted 18 / 3 = 6 pebbles yellow. The difference between the number of blue and yellow pebbles is 13 - 6 = 7.
+The answer: 7
+Reverse engineering the question: Shawn collected 40 plain pebbles. He painted 9 pebbles red and 13 pebbles blue. He then divided the remaining pebbles equally into 3 groups, and painted them purple, yellow, and green. What is the difference between the number of blue and yellow pebbles?
+
+Reasoning and answer: In a week, he orders 10 * 300 = 3000 apples. When 3 / 4 of the stock is sold, the total amount of apples sold becomes 3 / 4 * 3000 = 2250 apples. The amount of apples remaining is 3000 - 2250 = 750 apples.
+The answer: 750
+What was the question?
+Question: Kohen has a business selling apples. Once a week, he orders 10 boxes of apples to add to his stock. If each box has 300 apples and he sells 3/4 of his stock in a certain week, what total number of apples is not sold?
+
+Reasoning and answer: On Monday, there were 50 visitors. On Tuesday, there were twice as many, so 2 * 50 = 100 visitors. The total number of visitors after Tuesday will be 100 + 50 = 150 visitors. For the remaining 5 days, an average of 20 visitors attended, giving a total of 5 * 20 = 100 visitors. The total number of visitors who visited the library for the week was 100 + 150 = 250 visitors.
+The answer: 250
+What was the question?
+Question:

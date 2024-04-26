@@ -1,0 +1,25 @@
+q... Castellanos is a Spanish habitational surname with the meaning "(from a place founded or inhabited by) Castilians". Notable people with the surname include:
+
+Answer this question based on the passage: where does the last name castellanos originate from?
+a... The relevant information is: Castellanos is a Spanish habitational surname with the meaning "(from a place founded or inhabited by) Castilians".
+The answer is Spanish
+
+
+q... The Pro Football Hall of Fame Game is an annual National Football League exhibition game that is held the weekend of the Pro Football Hall of Fame's induction ceremonies. The game is played at Tom Benson Hall of Fame Stadium, which is located adjacent to the Hall of Fame building in Canton, Ohio. It is traditionally the first game in the NFL's preseason, marking the end of the NFL's six-month offseason.
+
+What is a nfl hall of fame game?
+a... The relevant sentence in the passage is: The Pro Football Hall of Fame Game is an annual National Football League exhibition game that is held the weekend of the Pro Football Hall of Fame's induction ceremonies.
+The answer is an annual National Football League exhibition game that is held the weekend of the Pro Football Hall of Fame 's induction ceremonies
+
+
+q... The franchise began in 1977 with the release of the film Star Wars (later subtitled Episode IV: A New Hope in 1981), which became a worldwide pop culture phenomenon. It was followed by the successful sequels The Empire Strikes Back (1980) and Return of the Jedi (1983); these three films constitute the original Star Wars trilogy. A prequel trilogy was released between 1999 and 2005, which received mixed reactions from both critics and fans. A sequel trilogy began in 2015 with the release of Star Wars: The Force Awakens and continued in 2017 with the release of Star Wars: The Last Jedi. The first eight films were nominated for Academy Awards (with wins going to the first two films released) and have been commercial successes, with a combined box office revenue of over US $8.5 billion, making Star Wars the second highest-grossing film series. Spin-off films include the animated Star Wars: The Clone Wars (2008) and Rogue One (2016), the latter of which is the first in a planned series of anthology films.
+
+Answer this question based on the passage: when was the first stars wars movie released?
+a... This is the relevant information: The franchise began in 1977 with the release of the film Star Wars (later subtitled Episode IV: A New Hope in 1981), which became a worldwide pop culture phenomenon.
+The answer is 1977
+
+
+q... Glycogen functions as one of two forms of long-term energy reserves, with the other form being triglyceride stores in adipose tissue (i.e., body fat). In humans, glycogen is made and stored primarily in the cells of the liver and skeletal muscle. In the liver, glycogen can make up from 5 -- 6 % of the organ's fresh weight and the liver of an adult weighing 70 kg can store roughly 100 -- 120 grams of glycogen. In skeletal muscle, glycogen is found in a low concentration (1 -- 2 % of the muscle mass) and the skeletal muscle of an adult weighing 70 kg can store roughly 400 grams of glycogen. The amount of glycogen stored in the body -- particularly within the muscles and liver -- mostly depends on physical training, basal metabolic rate, and eating habits. Small amounts of glycogen are also found in other tissues and cells, including the kidneys, red blood cells, white blood cells, and glial cells in the brain. The uterus also stores glycogen during pregnancy to nourish the embryo.
+
+Answer this question based on the passage: where is most glycogen in the body stored?
+a...

@@ -1,0 +1,19 @@
+Question: The Cheshire Cat is now largely identified with the character of the same name in Lewis Carroll's novel Alice's Adventures in Wonderland. Alice first encounters the Cheshire Cat at the Duchess's house in her kitchen, and later on the branches of a tree, where it appears and disappears at will, and engages Alice in amusing but sometimes perplexing conversation. The cat sometimes raises philosophical points that annoy or baffle Alice; but appears to cheer her when it appears suddenly at the Queen of Hearts' croquet field; and when sentenced to death, baffles everyone by having made its head appear without its body, sparking a debate between the executioner and the King and Queen of Hearts about whether a disembodied head can indeed be beheaded. At one point, the cat disappears gradually until nothing is left but its grin, prompting Alice to remark that "she has often seen a cat without a grin but never a grin without a cat".
+
+Answer this question: when does the cheshire cat appear in alice in wonderland?
+Answer: The relevant information is: Alice first encounters the Cheshire Cat at the Duchess's house in her kitchen, and later on the branches of a tree, where it appears and disappears at will, and engages Alice in amusing but sometimes perplexing conversation. The answer is at the Duchess 's house in her kitchen.
+
+Question: Slow-wave sleep (SWS), often referred to as deep sleep, consists of stage three (combined stages 3 and 4) of non-rapid eye movement sleep. Initially, SWS consisted of both Stage 3, which has 20-50 percent delta wave activity, and Stage 4, which has more than 50 percent delta wave activity. However, as of 2008, the American Academy of Sleep Medicine (AASM) has discontinued the use of Stage four as a separate stage. Thus, the two stages are now combined as "Stage three" or N3. An epoch (30 seconds of sleep) which consists of 20 % or more slow-wave (delta) sleep is now considered to be stage three.
+
+Which stage of sleep is represented by delta waves?
+Answer: The relevant information to answer the above question is: An epoch (30 seconds of sleep) which consists of 20 % or more slow-wave (delta) sleep is now considered to be stage three. The answer is three.
+
+Question: Passage: Brazil is the most successful national team in the history of the World Cup, having won five titles, earning second-place, third-place and fourth-place finishes twice each. Brazil is one of the countries besides Argentina, Spain and Germany to win a FIFA World Cup away from its continent (Sweden 1958, Mexico 1970, USA 1994 and South Korea / Japan 2002). Brazil is the only national team to have played in all FIFA World Cup editions without any absence or need for playoffs. Brazil also has the best overall performance in World Cup history in both proportional and absolute terms with a record of 73 victories in 109 matches played, 124 goal difference, 237 points and only 18 losses.
+
+Question: Based on this passage, how many times has brazil won the wold cup?
+Answer: The relevant information is: Brazil is the most successful national team in the history of the World Cup, having won five titles, earning second-place, third-place and fourth-place finishes twice each. The answer is five.
+
+Question: Michael Buffer (born November 2, 1944) is an American ring announcer for boxing and professional wrestling matches. He is known for his trademarked catchphrase, "Let's get ready to rumble!", and for pioneering a distinct announcing style in which he rolls certain letters and adds other inflections to a fighter's name. His half-brother is UFC announcer Bruce Buffer.
+
+Who trademarked let's get ready to rumble?
+Answer:

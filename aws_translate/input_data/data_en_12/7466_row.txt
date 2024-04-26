@@ -1,0 +1,23 @@
+Choose the next sentence for this paragraph.
+
+(CNN)Singapore Changi Airport has been crowned the best in the world for the second year in a row at the World Airport Awards, announced Wednesday in Barcelona, Spain. Changi, which also won the award for best airport leisure amenities, beat out second-place Incheon International Airport in South Korea and third-place Munich Airport in Germany. The awards are based on surveys conducted by Skytrax, an international travel research and consultants firm, which polled 12.85 million passengers across 110 nationalities about 395 airports worldwide. 7 of the world's most entertaining airports "Changi Airport offers a travel experience in itself and continues to develop its quality standards to be named the world's favourite airport again," Edward Plaisted, CEO of Skytrax, said in a news release.
+
+"
+
+OPTIONS:
+- Asian is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Barcelona is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- CNN is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Changi is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Changi Airport is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Edward Plaisted is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- European is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Germany is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Incheon International Airport is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Munich Airport is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- North American is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Singapore Changi Airport is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Skytrax is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- South Korea is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- Spain is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.
+- World Airport Awards is a well-known leader and innovator for the airport industry and genuinely delights and surprises travellers who are lucky enough to enjoy the airport facilities.

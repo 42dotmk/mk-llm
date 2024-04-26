@@ -1,0 +1,79 @@
+Summarize this article:
+
+If you happen to have a box of spaghetti in your pantry, try this experiment: Pull out a single spaghetti stick and hold it at both ends. Now bend it until it breaks. How many fragments did you make? If the answer is three or more, pull out another stick and try again. Can you break the noodle in two? If not, you’re in very good company. 
+  
+ The spaghetti challenge has flummoxed even the likes of famed physicist Richard Feynman ’39, who once spent a good portion of an evening breaking pasta and looking for a theoretical explanation for why the sticks refused to snap in two. 
+  
+ Feynman’s kitchen experiment remained unresolved until 2005, when physicists from France pieced together a theory to describe the forces at work when spaghetti — and any long, thin rod — is bent. They found that when a stick is bent evenly from both ends, it will break near the center, where it is most curved. This initial break triggers a “snap-back” effect and a bending wave, or vibration, that further fractures the stick. Their theory, which won the 2006 Ig Nobel Prize, seemed to solve Feynman’s puzzle. But a question remained: Could spaghetti ever be coerced to break in two? 
+  
+ The answer, according to a new MIT study, is yes — with a twist. In a paper published this week in the Proceedings of the National Academy of Sciences, researchers report that they have found a way to break spaghetti in two, by both bending and twisting the dry noodles. They carried out experiments with hundreds of spaghetti sticks, bending and twisting them with an apparatus they built specifically for the task. The team found that if a stick is twisted past a certain critical degree, then slowly bent in half, it will, against all odds, break in two. 
+  
+ The researchers say the results may have applications beyond culinary curiosities, such as enhancing the understanding of crack formation and how to control fractures in other rod-like materials such as multifiber structures, engineered nanotubes, or even microtubules in cells. 
+  
+ “It will be interesting to see whether and how twist could similarly be used to control the fracture dynamics of two-dimensional and three-dimensional materials,” says co-author Jörn Dunkel, associate professor of physical applied mathematics at MIT. “In any case, this has been a fun interdisciplinary project started and carried out by two brilliant and persistent students — who probably don’t want to see, break, or eat spaghetti for a while.” 
+  
+ The two students are Ronald Heisser ’16, now a graduate student at Cornell University, and Vishal Patil, a mathematics graduate student in Dunkel’s group at MIT. Their co-authors are Norbert Stoop, instructor of mathematics at MIT, and Emmanuel Villermaux of Université Aix Marseille. 
+  
+ Experiments (above) and simulations (below) show how dry spaghetti can be broken into two or more fragments, by twisting and bending. 
+  
+ A deep dish dive 
+  
+ Heisser, together with project partner Edgar Gridello, originally took up the challenge of breaking spaghetti in the spring of 2015, as a final project for 18.354 (Nonlinear Dynamics: Continuum Systems), a course taught by Dunkel. They had read about Feynman’s kitchen experiment, and wondered whether spaghetti could somehow be broken in two and whether this split could be controlled. 
+  
+ “They did some manual tests, tried various things, and came up with an idea that when he twisted the spaghetti really hard and brought the ends together, it seemed to work and it broke into two pieces,” Dunkel says. “But you have to twist really strongly. And Ronald wanted to investigate more deeply.” 
+  
+ So Heisser built a mechanical fracture device to controllably twist and bend sticks of spaghetti. Two clamps on either end of the device hold a stick of spaghetti in place. A clamp at one end can be rotated to twist the dry noodle by various degrees, while the other clamp slides toward the twisting clamp to bring the two ends of the spaghetti together, bending the stick. 
+  
+ Heisser and Patil used the device to bend and twist hundreds of spaghetti sticks, and recorded the entire fragmentation process with a camera, at up to a million frames per second. In the end, they found that by first twisting the spaghetti at almost 360 degrees, then slowly bringing the two clamps together to bend it, the stick snapped exactly in two. The findings were consistent across two types of spaghetti: Barilla No. 5 and Barilla No. 7, which have slightly different diameters. 
+  
+ Experiments (above) and simulations (below) show how dry spaghetti can be broken into two or more fragments, by twisting and bending. 
+  
+ Noodle twist 
+  
+ In parallel, Patil began to develop a mathematical model to explain how twisting can snap a stick in two. To do this, he generalized previous work by the French scientists Basile Audoly and Sebastien Neukirch, who developed the original theory to describe the “snap-back effect,” in which a secondary wave caused by a stick’s initial break creates additional fractures, causing spaghetti to mostly snap in three or more fragments. 
+  
+ Patil adapted this theory by adding the element of twisting, and looked at how twist should affect any forces and waves propagating through a stick as it is bent. From his model, he found that, if a 10-inch-long spaghetti stick is first twisted by about 270 degrees and then bent, it will snap in two, mainly due to two effects. The snap-back, in which the stick will spring back in the opposite direction from which it was bent, is weakened in the presence of twist. And, the twist-back, where the stick will essentially unwind to its original straightened configuration, releases energy from the rod, preventing additional fractures. 
+  
+ “Once it breaks, you still have a snap-back because the rod wants to be straight,” Dunkel explains. “But it also doesn’t want to be twisted.” 
+  
+ Just as the snap-back will create a bending wave, in which the stick will wobble back and forth, the unwinding generates a “twist wave,” where the stick essentially corkscrews back and forth until it comes to rest. The twist wave travels faster than the bending wave, dissipating energy so that additional critical stress accumulations, which might cause subsequent fractures, do not occur. 
+  
+ “That’s why you never get this second break when you twist hard enough,” Dunkel says. 
+  
+ The team found that the theoretical predictions of when a thin stick would snap in two pieces, versus three or four, matched with their experimental observations. 
+  
+ “Taken together, our experiments and theoretical results advance the general understanding of how twist affects fracture cascades,” Dunkel says. 
+  
+ For now, he says the model is successful at predicting how twisting and bending will break long, thin, cylindrical rods such as spaghetti. As for other pasta types? 
+  
+ “Linguini is different because it’s more like a ribbon,” Dunkel says. “The way the model is constructed it applies to perfectly cylindrical rods. Although spaghetti isn’t perfect, the theory captures its fracture behavior pretty well,” 
+  
+ The research was supported, in part, by the Alfred P. Sloan Foundation and the James S. McDonnell Foundation. ||||| If you hold a piece of dry spaghetti at two ends and try to snap it, it almost never breaks cleanly into two. Seriously—try it. The strand splits into two long pieces, and one or more smaller chunks of pasta usually ping away from the break. 
+  
+ In case you were wondering, mathematicians have finally figured out a technique to ensure the long-coveted two-piece break. The secret isn’t bend and snap, it’s bend and twist. 
+  
+ Believe it or not, the mysteries of spaghetti have long troubled the great minds of science. Theoretical physicist Richard Feynman—more famous for his Nobel Prize-winning quantum electrodynamics research and his work on the atomic bomb—reportedly puzzled over the problem. 
+  
+ In 2005, researchers finally explained the mystery of why the pasta never seems to snap into two. When you bend a long, thin rod like a piece of spaghetti, it breaks near the middle. This is the most curved region of the rod. Basile Audoly and Sebastien Neukirch worked out this causes a snap-back, where a vibration races through the stick and causes other breaks. 
+  
+ Their revelatory research was recognized with 2006’s Ig Nobel prize for physics. Other winners of that year's awards—which celebrate improbable research—include Nic Svenson and Piers Barnes, who won the mathematics prize for working out how many photos you need to take to ensure nobody’s blinking in a group photo. 
+  
+ Taking this work to its logical conclusion, Ronald Heisser, Vishal Patil and other researchers snapped hundreds more sticks of spaghetti to figure out how to achieve a two-piece break. Their findings were published online Monday in Proceedings of the National Academy of Sciences of the United States of America. 
+  
+ “They did some manual tests, tried various things, and came up with an idea that when he twisted the spaghetti really hard and brought the ends together, it seemed to work and it broke into two pieces,” said co-author Jörn Dunkel, associate professor of physical applied mathematics at MIT in a statement. “But you have to twist really strongly. And [Heisser] wanted to investigate more deeply.” 
+  
+ Heisser constructed a mechanical fracture device to twist the sticks with more precision. He and Patil filmed the device break hundreds of spaghetti sticks to crack the recipe for a perfect break. 
+  
+ First, they discovered, you have to twist the spaghetti at an angle of nearly 360 degrees. Then slowly draw the clamps holding each end of the strand together until it snaps. The technique works for both Barilla No 5 and Barilla No 7 spaghetti variations, the researchers reported. 
+  
+ Patil figured out why this technique preserved the integrity of the strands using mathematics. “Once [spaghetti] breaks, you still have a snap-back because the rod wants to be straight,” Dunkel explained. “But it also doesn’t want to be twisted.” 
+  
+ MIT/Heisser et al 
+  
+ A “twist wave” generated by the unraveling strand moves faster than the vibration from the “snap-back.” This dissipates the potentially destructive energy and stops it fracturing the spaghetti any further. “That’s why you never get this second break when you twist hard enough,” Dunkel said. 
+  
+ Of course, if you don’t have a tailored spaghetti-snapping machine, you can always try it by hand. Twist your strand of spaghetti really hard and slowly bend, and maybe you too will achieve a perfect two-piece break. 
+  
+ Basile Audoly and Sebastien Neukirch did not immediately respond to a request for comment. |||||
+
+Summary:

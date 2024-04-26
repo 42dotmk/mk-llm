@@ -1,0 +1,19 @@
+Q: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup. In 2017, skippered by Glenn Ashby, they went on to retake the America's Cup.
+
+Who led the successful america's cup campaign in 1995?
+A: Sir Peter Blake. How to explain the answer? The relevant information to answer the above question is: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup.
+
+Q: Yellowstone is an American drama television series created by Taylor Sheridan and John Linson that premiered on June 20, 2018 on Paramount Network. It stars Kevin Costner, Wes Bentley, Kelly Reilly, Luke Grimes, Cole Hauser, Dave Annable and Gil Birmingham. The series follows the conflicts along the shared borders of a large cattle ranch, an Indian reservation, land developers and Yellowstone National Park. On July 24, 2018, it was announced that Paramount Network had renewed the series for a second season to air in 2019.
+
+Answer this question based on the passage: when is the tv show yellowstone coming on?
+A: 2019. How to explain the answer? The important part for answering this question is: On July 24, 2018, it was announced that Paramount Network had renewed the series for a second season to air in 2019.
+
+Q: Brian Robeson is a thirteen-year-old son of divorced parents. As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies. Brian tries to land the plane, but ends up crash-landing into a lake in the forest. He must learn to survive on his own with nothing but his hatchet -- a gift his mother gave him shortly before his plane departed.
+
+Answer this question based on the passage: where was brian going in the book hatchet?
+A: the oil fields in Northern Canada. How to explain the answer? The relevant information is: As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies.
+
+Q: "If I Said You Had a Beautiful Body Would You Hold It Against Me" is a song written by David Bellamy, and recorded by American country music duo The Bellamy Brothers. It was released in March 1979 as the second single from the album The Two and Only. The song became their first number 1 hit on the Billboard magazine Hot Country Singles chart and their second number one overall, after their 1976 pop hit "Let Your Love Flow". The title as shown on the original single was "If I Said You Have a Beautiful Body Would You Hold It Against Me", but on the album and subsequent releases, the title is shown as "... Had ...".
+
+Answer this question based on the passage: who wrote if i said you had a beautiful body lyrics?
+A:

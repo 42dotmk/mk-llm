@@ -1,0 +1,34 @@
+Detailed Instructions: In this task, you are given commands (in terms of logical operations) to select relevant rows from the given table. Your job is to classify the command into one of these seven categories: (1) majority, (2) unique, (3) superlative, (4) count, (5) comparative, (6) aggregation, and (7) ordinal. 
+ Here are the defications of each category: 
+ 1. majority: Describing the majority values (most or all) over one column, with the scope of all table rows or a subset of rows 
+ 2. unique: Describing one unique row, regarding one column, with the scope of all table rows or a subset of rows 
+ 3. Superlative: Describing the maximum or minimum value in a column, with the scope of all table rows or a subset of rows 
+ 4. Ordinal: Describing the n-th maximum or minimum value in a column, with the scope of all table rows or a subset of rows 
+ 5. Comparative: Comparing two rows in the table, regarding their values in one column 
+ 6. Count: counting some rows in the table based on the values in one column, with the scope of all table rows or a subset of rows 
+ 7. Aggregation: Describing the sum or average value over a column, with the scope of all table rows or a subset of rows. 
+ Here are the definitions of logical operators for understanding of command: 
+ 1. count: returns the number of rows in the view. 
+ 2. only: returns whether there is exactly one row in the view. 
+ 3. hop: returns the value under the header column of the row. 
+ 4. and: returns the boolean operation result of two arguments. 
+ 5. max/min/avg/sum: returns the max/min/average/sum of the values under the header column. 
+ 6. nth_max/nth_min: returns the n-th max/n-th min of the values under the header column. 
+ 7. argmax/argmin: returns the row with the max/min value in header column. 
+ 8. nth_argmax/nth_argmin: returns the row with the n-th max/min value in header column. 
+ 9. eq/not_eq: returns if the two arguments are equal. 
+ 10. round_eq: returns if the two arguments are roughly equal under certain tolerance. 
+ 11. greater/less: returns if the first argument is greater/less than the second argument. 
+ 12. diff: returns the difference between two arguments. 
+ 13. filter_eq/ filter_not_eq: returns the subview whose values under the header column is equal/not equal to the third argument. 
+ 14. filter_greater/filter_less: returns the subview whose values under the header column is greater/less than the third argument. 
+ 15. filter_greater_eq /filter_less_eq: returns the subview whose values under the header column is greater/less or equal than the third argument. 
+ 16. filter_all: returns the view itself for the case of describing the whole table 
+ 17. all_eq/not_eq: returns whether all the values under the header column are equal/not equal to the third argument. 
+ 18. all_greater/less: returns whether all the values under the header column are greater/less than the third argument. 
+ 19. all_greater_eq/less_eq: returns whether all the values under the header column are greater/less or equal to the third argument. 
+ 20. most_eq/not_eq: returns whether most of the values under the header column are equal/not equal to the third argument. 
+ 21. most_greater/less: returns whether most of the values under the header column are greater/less than the third argument. 
+ 22. most_greater_eq/less_eq: returns whether most of the values under the header column are greater/less or equal to the third argument.
+Q: eq { count { filter_eq { filter_greater { all_rows ; crowd ; 20000 } ; away team score ; 13.11 } } ; 2 }
+A:

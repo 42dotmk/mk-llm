@@ -1,0 +1,25 @@
+q... Sputnik 2 reentered the Earth's atmosphere 14 April 1958, at approximately 0200 hrs, on a line that stretched from New York to the Amazon. Its track was plotted by British ships and 3 "Moon Watch Observations", from New York. It was said to be glowing and did not develop a tail until it was at latitudes south of 20 degrees North. Estimates put the average length of the tail at about 50 nautical miles. The satellite burned up in the atmosphere.
+
+Answer this question: when did sputnik 2 come back to earth?
+a... To answer the above question, the relevant sentence is: Sputnik 2 reentered the Earth's atmosphere 14 April 1958, at approximately 0200 hrs, on a line that stretched from New York to the Amazon.
+The answer is 14 April 1958
+
+
+q... The thermosphere is the layer of the Earth's atmosphere directly above the mesosphere. The exosphere is above that but is a minor layer of the atmosphere. Within this layer of the atmosphere, ultraviolet radiation causes photoionization / photodissociation of molecules, creating ions in the ionosphere. The radiative properties of UV rays cause an imbalance of positive and negative energy, creating ions. Taking its name from the Greek θερμός (pronounced thermos) meaning heat, the thermosphere begins about 85 kilometres (53 mi) above the Earth. At these high altitudes, the residual atmospheric gases sort into strata according to molecular mass (see turbosphere). Thermospheric temperatures increase with altitude due to absorption of highly energetic solar radiation. Temperatures are highly dependent on solar activity, and can rise to 2,000 ° C (3,630 ° F). Radiation causes the atmosphere particles in this layer to become electrically charged (see ionosphere), enabling radio waves to be refracted and thus be received beyond the horizon. In the exosphere, beginning at 500 to 1,000 kilometres (310 to 620 mi) above the Earth's surface, the atmosphere turns into space, although by the criteria set for the definition of the Kármán line, the thermosphere itself is part of space.
+
+The source of heating in the thermosphere is the absorption of?
+a... To answer the question, consider the following: Thermospheric temperatures increase with altitude due to absorption of highly energetic solar radiation.
+The answer is highly energetic solar radiation
+
+
+q... The 2017 United States federal budget is the United States federal budget for fiscal year 2017, which lasts from October 1, 2016 to September 30, 2017. President Barack Obama submitted a budget proposal to the 114th Congress on February 9, 2016. The 2017 fiscal year overlaps the end of the Obama administration and the beginning of the Trump administration.
+
+Based on this passage, when does a president's fiscal year start?
+a... To answer this question, we should know that: The 2017 United States federal budget is the United States federal budget for fiscal year 2017, which lasts from October 1, 2016 to September 30, 2017.
+The answer is October 1 , 2016
+
+
+q... Context: Washington, D.C., is located in the mid-Atlantic region of the U.S. East Coast. Due to the District of Columbia retrocession, the city has a total area of 68.34 square miles (177.0 km), of which 61.05 square miles (158.1 km) is land and 7.29 square miles (18.9 km) (10.67 %) is water. The District is bordered by Montgomery County, Maryland, to the northwest; Prince George's County, Maryland, to the east; and Arlington and Alexandria, Virginia, to the south and west.
+
+Question: where's washington dc located on a map?
+a...

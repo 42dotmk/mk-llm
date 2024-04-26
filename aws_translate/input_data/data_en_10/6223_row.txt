@@ -1,0 +1,36 @@
+Ans: Helen Keller
+Ques: The Story of My Life, first published in 1903, is Helen Keller's autobiography detailing her early life, especially her experiences with Anne Sullivan. Portions of it were adapted by William Gibson for a 1957 Playhouse 90 production, a 1959 Broadway play, a 1962 Hollywood feature film, and Sanjay Leela Bhansali's Black featuring Amitabh Bachchan in the role of Anne Sullivan. The book is dedicated to inventor Alexander Graham Bell. The dedication reads, "TO ALEXANDER GRAHAM BELL; Who has taught the deaf to speak and enabled the listening ear to hear speech from the Atlantic to the Rockies, I DEDICATE This Story of My Life."
+
+Answer this question: who wrote the book the story of my life?
+CoT: To answer the above question, the relevant sentence is: The Story of My Life, first published in 1903, is Helen Keller's autobiography detailing her early life, especially her experiences with Anne Sullivan.
+
+
+Ans: Tabitha Lupien
+Ques: David Gallagher and Tabitha Lupien portray Mikey and Julie respectively. Unlike the previous films, it does not feature the voiceover talents of Bruce Willis, Roseanne Barr, Damon Wayans, Joan Rivers, or Mel Brooks as their interior monologues; rather, Danny DeVito and Diane Keaton provide voiceover roles for their newly acquired dogs, Rocks and Daphne, respectively, and it focuses more on their life.
+
+Who played julie on look whos talking now?
+CoT: The relevant information to answer the above question is: David Gallagher and Tabitha Lupien portray Mikey and Julie respectively.
+
+
+Answer: Louise `` Liberty '' Williams. Now, what could be the question and solution-maybe?
+Ques: "Bugsy Malone" -- Paul Williams "Fat Sam's Grand Slam" -- Paul Williams "Tomorrow" "Bad Guys" "I'm Feeling Fine" "My Name Is Tallulah"-Louise "Liberty" Williams "So You Wanna Be a Boxer?" "Ordinary Fool" "Down and Out" "You Give a Little Love" -- Paul Williams
+
+Answer this question: who sang my name is tallulah in bugsy malone?
+CoT: The important part for answering this question is: "My Name Is Tallulah"-Louise "Liberty" Williams
+
+
+Ans: in the borough of Manhattan in New York City , between Central Park / Fifth Avenue , 59th Street , the East River , and 96th Street
+Ques: The Upper East Side is a neighborhood in the borough of Manhattan in New York City, between Central Park / Fifth Avenue, 59th Street, the East River, and 96th Street. The area incorporates several smaller neighborhoods, including Lenox Hill, Carnegie Hill, and Yorkville. Once known as the Silk Stocking District, it is now one of the most affluent neighborhoods in New York City.
+
+Answer this question based on the passage: where is the upper east side of nyc?
+CoT: The relevant information is: The Upper East Side is a neighborhood in the borough of Manhattan in New York City, between Central Park / Fifth Avenue, 59th Street, the East River, and 96th Street.
+
+
+Ans: the Rolling Stones
+Ques: Context: "Ruby Tuesday" is a song recorded by the Rolling Stones in 1966, released in January 1967. The song, coupled with "Let's Spend the Night Together", was a number-one hit in the United States and reached number three in the United Kingdom. The song was included in the American version of Between the Buttons (in the UK, singles were often excluded from studio albums).
+
+Question: who was the original singer of ruby tuesday?
+CoT: The relevant information to answer the above question is: "Ruby Tuesday" is a song recorded by the Rolling Stones in 1966, released in January 1967.
+
+
+Answer: The President. Now, what could be the question and solution-maybe?

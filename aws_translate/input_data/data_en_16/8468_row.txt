@@ -1,0 +1,53 @@
+Write a summary based on this article:
+
+2. OkCupid works by asking people a series of questions about their personality then matching similar people with similar answers using an algorithm. 
+  
+ You are given a percentage match for each eligible partner. But the chances of being matched with someone who’s perfect for you (or whom you like) is quite slim. 
+  
+ Out of the thousands of personality questions you might get asked, what if there was a way to find out which questions mattered to the women he might be interested in and just answer those? ||||| Mathematician Chris McKinlay hacked OKCupid to find the girl of his dreams. Emily Shur 
+  
+ Chris McKinlay was folded into a cramped fifth-floor cubicle in UCLA’s math sciences building, lit by a single bulb and the glow from his monitor. It was 3 in the morn­ing, the optimal time to squeeze cycles out of the supercomputer in Colorado that he was using for his PhD dissertation. (The subject: large-scale data processing and parallel numerical methods.) While the computer chugged, he clicked open a second window to check his OkCupid inbox. 
+  
+ McKinlay, a lanky 35-year-old with tousled hair, was one of about 40 million Americans looking for romance through websites like Match.com, J-Date, and e-Harmony, and he’d been searching in vain since his last breakup nine months earlier. He’d sent dozens of cutesy introductory messages to women touted as potential matches by OkCupid’s algorithms. Most were ignored; he’d gone on a total of six first dates. 
+  
+ On that early morning in June 2012, his compiler crunching out machine code in one window, his forlorn dating profile sitting idle in the other, it dawned on him that he was doing it wrong. He’d been approaching online matchmaking like any other user. Instead, he realized, he should be dating like a mathematician. 
+  
+ OkCupid was founded by Harvard math majors in 2004, and it first caught daters’ attention because of its computational approach to matchmaking. Members answer droves of multiple-choice survey questions on everything from politics, religion, and family to love, sex, and smartphones. 
+  
+ On average, respondents select 350 questions from a pool of thousands—“Which of the following is most likely to draw you to a movie?” or “How important is religion/God in your life?” For each, the user records an answer, specifies which responses they’d find acceptable in a mate, and rates how important the question is to them on a five-point scale from “irrelevant” to “mandatory.” OkCupid’s matching engine uses that data to calculate a couple’s compatibility. The closer to 100 percent—mathematical soul mate—the better. 
+  
+ But mathematically, McKinlay’s compatibility with women in Los Angeles was abysmal. OkCupid’s algorithms use only the questions that both potential matches decide to answer, and the match questions McKinlay had chosen—more or less at random—had proven unpopular. When he scrolled through his matches, fewer than 100 women would appear above the 90 percent compatibility mark. And that was in a city containing some 2 million women (approximately 80,000 of them on OkCupid). On a site where compatibility equals visibility, he was practically a ghost. 
+  
+ He realized he’d have to boost that number. If, through statistical sampling, McKinlay could ascertain which questions mattered to the kind of women he liked, he could construct a new profile that honestly answered those questions and ignored the rest. He could match every woman in LA who might be right for him, and none that weren’t. 
+  
+ Chris McKinlay used Python scripts to riffle through hundreds of OkCupid survey questions. He then sorted female daters into seven clusters, like “Diverse” and “Mindful,” each with distinct characteristics. Maurico Alejo 
+  
+ Even for a mathematician, McKinlay is unusual. Raised in a Boston suburb, he graduated from Middlebury College in 2001 with a degree in Chinese. In August of that year he took a part-time job in New York translating Chinese into English for a company on the 91st floor of the north tower of the World Trade Center. The towers fell five weeks later. (McKinlay wasn’t due at the office until 2 o’clock that day. He was asleep when the first plane hit the north tower at 8:46 am.) “After that I asked myself what I really wanted to be doing,” he says. A friend at Columbia recruited him into an offshoot of MIT’s famed professional blackjack team, and he spent the next few years bouncing between New York and Las Vegas, counting cards and earning up to $60,000 a year. 
+  
+ The experience kindled his interest in applied math, ultimately inspiring him to earn a master’s and then a PhD in the field. “They were capable of using mathema­tics in lots of different situations,” he says. “They could see some new game—like Three Card Pai Gow Poker—then go home, write some code, and come up with a strategy to beat it.” 
+  
+ Now he’d do the same for love. First he’d need data. While his dissertation work continued to run on the side, he set up 12 fake OkCupid accounts and wrote a Python script to manage them. The script would search his target demographic (heterosexual and bisexual women between the ages of 25 and 45), visit their pages, and scrape their profiles for every scrap of available information: ethnicity, height, smoker or nonsmoker, astrological sign—“all that crap,” he says. 
+  
+ To find the survey answers, he had to do a bit of extra sleuthing. OkCupid lets users see the responses of others, but only to questions they’ve answered themselves. McKinlay set up his bots to simply answer each question randomly—he wasn’t using the dummy profiles to attract any of the women, so the answers didn’t mat­ter—then scooped the women’s answers into a database. 
+  
+ McKinlay watched with satisfaction as his bots purred along. Then, after about a thousand profiles were collected, he hit his first roadblock. OkCupid has a system in place to prevent exactly this kind of data harvesting: It can spot rapid-fire use easily. One by one, his bots started getting banned. 
+  
+ He would have to train them to act human. 
+  
+ He turned to his friend Sam Torrisi, a neuroscientist who’d recently taught McKinlay music theory in exchange for advanced math lessons. Torrisi was also on OkCupid, and he agreed to install spyware on his computer to monitor his use of the site. With the data in hand, McKinlay programmed his bots to simulate Torrisi’s click-rates and typing speed. He brought in a second computer from home and plugged it into the math department’s broadband line so it could run uninterrupted 24 hours a day. 
+  
+ After three weeks he’d harvested 6 million questions and answers from 20,000 women all over the country. McKinlay’s dissertation was relegated to a side project as he dove into the data. He was already sleeping in his cubicle most nights. Now he gave up his apartment entirely and moved into the dingy beige cell, laying a thin mattress across his desk when it was time to sleep. 
+  
+ For McKinlay’s plan to work, he’d have to find a pattern in the survey data—a way to roughly group the women according to their similarities. The breakthrough came when he coded up a modified Bell Labs algorithm called K-Modes. First used in 1998 to analyze diseased soybean crops, it takes categorical data and clumps it like the colored wax swimming in a Lava Lamp. With some fine-tuning he could adjust the viscosity of the results, thinning it into a slick or coagulating it into a single, solid glob. 
+  
+ He played with the dial and found a natural resting point where the 20,000 women clumped into seven statistically distinct clusters based on their questions and answers. “I was ecstatic,” he says. “That was the high point of June.” 
+  
+ He retasked his bots to gather another sample: 5,000 women in Los Angeles and San Francisco who’d logged on to OkCupid in the past month. Another pass through K-Modes confirmed that they clustered in a similar way. His statistical sampling had worked. 
+  
+ Now he just had to decide which cluster best suited him. He checked out some profiles from each. One cluster was too young, two were too old, another was too Christian. But he lingered over a cluster dominated by women in their mid-twenties who looked like indie types, musicians and artists. This was the golden cluster. The haystack in which he’d find his needle. Somewhere within, he’d find true love. 
+  
+ Actually, a neighboring cluster looked pretty cool too—slightly older women who held professional creative jobs, like editors and designers. He decided to go for both. He’d set up two profiles and optimize one for the A group and one for the B group. 
+  
+ He text-mined the two clusters to learn what interested them; teaching turned out to be a popular topic, so he wrote a bio that emphasized his work as a math professor. The important part, though, would be the survey. He picked out the 500 questions that were most popular with both clusters. He’d already decided he would fill out his answers honestly—he didn’t want to build his future relationship on a foundation of computer-generated lies. But he’d let his computer figure out how much importance to assign each question, using a machine-learning algorithm called adaptive boosting to derive the best weightings. |||||
+
+Summary:

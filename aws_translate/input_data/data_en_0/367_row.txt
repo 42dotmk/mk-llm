@@ -1,0 +1,36 @@
+Answer: `` Last Forever '' , the series finale. Now, what could be the question and solution-maybe?
+Ques: The story of how Ted met The Mother is the framing device behind the series; many facts about her are revealed throughout the series, including the fact that Ted once unwittingly owned her umbrella before accidentally leaving it behind in her apartment. Ted and The Mother meet at the Farhampton train station following Barney Stinson and Robin Scherbatsky's wedding; this scene is shown in "Last Forever", the series finale. The Mother's death from an unspecified terminal illness in 2024, also revealed in the series finale, received a mixed reaction from fans.
+
+Answer this question: in what episode does ted meet their mother?
+CoT: To answer the above question, the relevant sentence is: Ted and The Mother meet at the Farhampton train station following Barney Stinson and Robin Scherbatsky's wedding; this scene is shown in "Last Forever", the series finale.
+
+
+Ans: Benedict Cumberbatch
+Ques: The Grinch (Benedict Cumberbatch) hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
+
+Answer this question: who plays the grinch in the new movie?
+CoT: The relevant information is: The Grinch (Benedict Cumberbatch) hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
+
+
+Ans: Howard Jerome Morris
+Ques: Context: Howard Jerome Morris (September 4, 1919 -- May 21, 2005) was an American actor, voice actor and director who was best known for his role in The Andy Griffith Show as Ernest T. Bass.
+
+Question: who was the actor that played ernest t bass?
+CoT: To answer the question, consider the following: Howard Jerome Morris (September 4, 1919 -- May 21, 2005) was an American actor, voice actor and director who was best known for his role in The Andy Griffith Show as Ernest T. Bass.
+
+
+Answer: the Maroons. Now, what could be the question and solution-maybe?
+Ques: Passage: After a match involving intense all-in brawling, the Maroons won the first state of origin game 20-10.
+
+Question: Based on this passage, who won the first state of origin in 1980?
+CoT: The relevant information is: After a match involving intense all-in brawling, the Maroons won the first state of origin game 20-10.
+
+
+Ans: seems to be of Spanish origin , versions of which began to appear in English in the first half of the 17th century
+Ques: Context: "The pot calling the kettle black" is a proverbial idiom that seems to be of Spanish origin, versions of which began to appear in English in the first half of the 17th century. It is glossed in the original sources as being used of a person who is guilty of the very thing of which they accuse another and is thus an example of psychological projection.
+
+Question: where does the saying calling the kettle black come from?
+CoT: The relevant information to answer the above question is: "The pot calling the kettle black" is a proverbial idiom that seems to be of Spanish origin, versions of which began to appear in English in the first half of the 17th century.
+
+
+Ans: Sam Cooke

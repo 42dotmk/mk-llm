@@ -1,0 +1,19 @@
+Q: Space probes have yet to reach the area of the Oort cloud. Voyager 1, the fastest and farthest of the interplanetary space probes currently leaving the Solar System, will reach the Oort cloud in about 300 years and would take about 30,000 years to pass through it. However, around 2025, the radioisotope thermoelectric generators on Voyager 1 will no longer supply enough power to operate any of its scientific instruments, preventing any exploration by Voyager 1. The other four probes currently escaping the Solar System either are already or are predicted to be non-functional when they reach the Oort cloud; however, it may be possible to find an object from the cloud that has been knocked into the inner Solar System.
+
+Answer this question based on the passage: how long will it take voyager to pass through the oort cloud?
+A: about 30,000 years. How to explain the answer? The relevant information is: Voyager 1, the fastest and farthest of the interplanetary space probes currently leaving the Solar System, will reach the Oort cloud in about 300 years and would take about 30,000 years to pass through it.
+
+Q: In modern times, the Ides of March is best known as the date on which Julius Caesar was assassinated in 44 BC. Caesar was stabbed to death at a meeting of the Senate. As many as 60 conspirators, led by Brutus and Cassius, were involved. According to Plutarch, a seer had warned that harm would come to Caesar no later than the Ides of March. On his way to the Theatre of Pompey, where he would be assassinated, Caesar passed the seer and joked, "The Ides of March are come", implying that the prophecy had not been fulfilled, to which the seer replied "Aye, Caesar; but not gone." This meeting is famously dramatised in William Shakespeare's play Julius Caesar, when Caesar is warned by the soothsayer to "beware the Ides of March." The Roman biographer Suetonius identifies the "seer" as a haruspex named Spurinna.
+
+Answer this question based on the passage: who was told beware the ides of march?
+A: Julius Caesar. How to explain the answer? The important part for answering this question is: This meeting is famously dramatised in William Shakespeare's play Julius Caesar, when Caesar is warned by the soothsayer to "beware the Ides of March."
+
+Q: Context: Term limits, also referred to as rotation in office, restrict the number of terms of office an officeholder may hold. For example, according to the 22nd Amendment, the President of the United States can serve two four-year terms and serve no more than 10 years.
+
+Question: what is the maximum term a us president can serve?
+A: two four - year terms and serve no more than 10 years. How to explain the answer? To answer this question, we should know that: For example, according to the 22nd Amendment, the President of the United States can serve two four-year terms and serve no more than 10 years.
+
+Q: Context: Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. These contrast with benign tumors, which do not spread to other parts of the body. Possible signs and symptoms include a lump, abnormal bleeding, prolonged cough, unexplained weight loss, and a change in bowel movements. While these symptoms may indicate cancer, they may have other causes. Over 100 types of cancers affect humans.
+
+Question: cancer is a disease that usually results when?
+A:

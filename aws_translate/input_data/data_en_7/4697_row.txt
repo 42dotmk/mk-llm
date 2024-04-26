@@ -1,0 +1,22 @@
+Student A:Doug Jones (born May 24, 1960) is an American actor and former contortionist known for roles in the science fiction, fantasy, and horror genres, often wearing heavy makeup to play nonhuman characters. He is perhaps best known for his collaborations with filmmaker Guillermo del Toro, starring in Mimic, as Abe Sapien in Hellboy and Hellboy II: The Golden Army, the Faun and the Pale Man in Pan's Labyrinth, Crimson Peak and The Asset in The Shape of Water, respectively. He has appeared in films such as Tank Girl, Hocus Pocus and The Bye Bye Man. He also portrayed the titular Silver Surfer in the superhero film Fantastic Four: Rise of the Silver Surfer, as well as appearing in the TV series Falling Skies, Buffy the Vampire Slayer and del Toro's The Strain. He is currently a series regular in Star Trek: Discovery, as Lt. Saru.
+
+Based on this passage, who plays the faun in pan's labyrinth?
+Student B:OK... To answer the question, consider the following: He is perhaps best known for his collaborations with filmmaker Guillermo del Toro, starring in Mimic, as Abe Sapien in Hellboy and Hellboy II: The Golden Army, the Faun and the Pale Man in Pan's Labyrinth, Crimson Peak and The Asset in The Shape of Water, respectively.
+Doug Jones.
+
+Student A:The half hour series premiere debuted on December 17, 1989 with "Simpsons Roasting on an Open Fire" a Christmas special. The next episode "Bart the Genius" was the first to feature the series' full title sequence, including the chalkboard gag and couch gag. Matt Groening developed the lengthy sequence in order to cut down on the animation necessary for each episode, but devised the two gags as compensation for the repeated material each week. Groening, who had not paid much attention to television since his own childhood, was unaware that title sequences of such length were uncommon by that time. As the finished episodes became longer, the production team were reluctant to cut the stories in order to allow for the long title sequence, so shorter versions of it were developed.
+
+Answer this question: when was the first episode of simpsons aired?
+Student B:OK... To answer the above question, the relevant sentence is: The half hour series premiere debuted on December 17, 1989 with "Simpsons Roasting on an Open Fire" a Christmas special.
+December 17 , 1989.
+
+Student A:Passage: Three and a half thousand people applied for the competition, and 12 were selected. Each episode was filmed over two 14-hour days. The competition was won by Joanne Wheatley.
+
+Question: Based on this passage, who won the second series of the great british bake off?
+Student B:OK... This is the relevant information: The competition was won by Joanne Wheatley.
+Joanne Wheatley.
+
+Student A:The Sklar brothers have also appeared in television shows such as CSI, Comedy Bang! Bang!, Mighty Med, Childrens Hospital, Law & Order, Becker, Providence, The Oblongs (as conjoined twin brothers Biff and Chip Oblong), Entourage, Grey's Anatomy (as conjoined twin brothers Peter and Jake Weitzman), Curb Your Enthusiasm (Jason only), and It's Always Sunny in Philadelphia (as dance marathon DJs on the episode "The Gang Dances Their Asses Off"). They recently appeared on season 3 of Better Call Saul as the owners of a music shop called ABQ In Tune. The Sklars have appeared in the films My Baby's Daddy, Bubble Boy, Wild Hogs, and The Comebacks.
+
+Who are the twins in better call saul?
+Student B:

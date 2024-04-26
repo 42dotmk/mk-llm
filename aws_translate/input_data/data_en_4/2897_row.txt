@@ -1,0 +1,19 @@
+Q: Passage: The Gandhi Irwin Pact was a political agreement signed by Mahatma Gandhi and the then Viceroy of India, Lord Irwin on 5 March 1931 before the second Round Table Conference in London. Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931.
+
+Question: Based on this passage, who offered dominion status for india in 1929?
+A: the viceroy Lord Irwin. How to explain the answer? The relevant information is: Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931.
+
+Q: The 2007 model year brought a complete redesign of the Jeep Wrangler, and also a four-door model. The TJ chassis was replaced by an all new JK platform. This next-generation Wrangler was noticeably wider than the previous model, with a 3.4-inch (86 mm) wider track; and though the two-door model has a 2-inch (51 mm) longer wheelbase, it is actually 2.5 inches (64 mm) shorter in overall length than the TJ, allowing for a 44.3 ° approach angle and a 40.4 ° departure angle. With a larger factory available tire size of 32 inches, the breakover angle on the Rubicon is increased from 22.6 ° to 25.4 °. The four-door Unlimited model has an over 20-inch (510 mm) longer wheelbase at 116 in (2,950 mm) to offer much improved rear seating room, but is nevertheless only 2.4-inch (61 mm) longer than the 2006 TJ Unlimited.
+
+When did they start making 4 door jeep wrangler?
+A: 2007. How to explain the answer? The relevant information to answer the above question is: The 2007 model year brought a complete redesign of the Jeep Wrangler, and also a four-door model.
+
+Q: "You've Got a Friend in Me" is a song by Randy Newman. Used as the theme song for the 1995 Disney / Pixar animated film Toy Story, it has since become a major musical component for its sequels, Toy Story 2 (1999) and Toy Story 3 (2010) as well as a musical leitmotif throughout the whole Toy Story franchise. The song was nominated for both the Academy Award for Best Original Song and the Golden Globe Award for Best Original Song, but lost both to "Colors of the Wind" from Disney's Pocahontas.
+
+Who sings the song you got a friend in me?
+A: Randy Newman. How to explain the answer? The relevant information to answer the above question is: "You've Got a Friend in Me" is a song by Randy Newman.
+
+Q: Passage: After physiological and safety needs are fulfilled, the third level of human needs are seen to be interpersonal and involves feelings of belongingness. This need is especially strong in childhood and it can override the need for safety as witnessed in children who cling to abusive parents. Deficiencies within this level of Maslow's hierarchy -- due to hospitalism, neglect, shunning, ostracism, etc. -- can adversely affect the individual's ability to form and maintain emotionally significant relationships in general.
+
+Question: Based on this passage, the basic need associated with the third level of maslow's hierarchy of needs is?
+A:

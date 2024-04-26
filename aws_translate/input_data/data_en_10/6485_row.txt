@@ -1,0 +1,19 @@
+Question: In the United States, the Food and Drug Administration lists castoreum extract as a generally recognized as safe (GRAS) food additive. In 1965, the Flavor and Extract Manufacturers Association's GRAS program (FEMA 2261 and 2262) added castoreum extract and castoreum liquid. Product ingredient lists often refer to it simply as a "natural flavoring." While it is mainly used in foods and beverages as part of a substitute vanilla flavor, it is less commonly used as a part of a raspberry or strawberry flavoring. The annual industry consumption is very low, around 300 pounds, whereas vanillin is over 2.6 million pounds annually.
+
+Answer this question based on the passage: where does artificial strawberry and raspberry flavoring come from?
+Answer: This is the relevant information: While it is mainly used in foods and beverages as part of a substitute vanilla flavor, it is less commonly used as a part of a raspberry or strawberry flavoring. The answer is castoreum.
+
+Question: Passage: In human anatomy, the subclavian arteries are paired major arteries of the upper thorax, below the clavicle. They receive blood from the aortic arch. The left subclavian artery supplies blood to the left arm and the right subclavian artery supplies blood to the right arm, with some branches supplying the head and thorax. On the left side of the body, the subclavian comes directly off the aortic arch, while on the right side it arises from the relatively short brachiocephalic artery when it bifurcates into the subclavian and the right common carotid artery.
+
+Question: Based on this passage, where does blood from the subclavian artery go?
+Answer: The relevant information is: The left subclavian artery supplies blood to the left arm and the right subclavian artery supplies blood to the right arm, with some branches supplying the head and thorax. The answer is The left subclavian artery supplies blood to the left arm and the right subclavian artery supplies blood to the right arm , with some branches supplying the head and thorax.
+
+Question: Under the Constitution, the vice president serves as President of the Senate. He or she may vote in the Senate (ex officio, for he or she is not an elected member of the Senate) in the case of a tie, but is not required to. For much of the nation's history the task of presiding over Senate sessions was one of the vice president's principal duties (the other being to receive from the states the tally of electoral ballots cast for president and vice president and to open the certificates "in the Presence of the Senate and House of Representatives," so that the total votes could be counted). Since the 1950s, vice presidents have presided over few Senate debates. Instead, they have usually presided only on ceremonial occasions, such as joint sessions, or at times to announce the result of significant legislation or nomination, or when a tie vote on an important issue is anticipated.
+
+Based on this passage, when does the president of the senate vote?
+Answer: To answer this question, we should know that: He or she may vote in the Senate (ex officio, for he or she is not an elected member of the Senate) in the case of a tie, but is not required to. The answer is in the case of a tie.
+
+Question: Pokhran-II was the series of five nuclear bomb test explosions conducted by India at the Indian Army's Pokhran Test Range in May 1998. It was the second Indian nuclear test; the first test, code-named Smiling Buddha, was conducted in May 1974.
+
+Answer this question based on the passage: when did india conduct the nuclear test at pokhran?
+Answer:

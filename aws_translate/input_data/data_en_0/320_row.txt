@@ -1,0 +1,25 @@
+A bag of feed is enough for 10 chickens because 20 / 2 = 10. Each chicken costs $.2 to raise because 2 / 10 = .2. Each chicken results in $1.3 of profit because 1.5 - .2 = 1.3. He sells 50 chickens because 65 / 1.3 = 50.
+The answer: 50
+Reverse engineering the question: Lao is farming chickens. He can sell each chicken for $1.50. A bag of chicken feed weighs 20 pounds and costs $2. Each chicken will need 2 pounds of feed from the time it hatches to the time he sells it. If he makes $65 profit from selling chickens, how many did he sell?
+
+Reasoning and answer: Last week, she used 15 gallons * 0.2 = 3 gallons less fuel than she used this week. This means that she used 15 gallons – 3 gallons = 12 gallons of fuel last week. In total, Mary used 15 gallons + 12 gallons = 27 gallons of fuel.
+The answer: 27
+What was the question?
+Question: Mary used 15 gallons of fuel this week. Last week she used 20% less. How much fuel did she use in total for the two weeks?
+
+The second earthquake caused 2 * 4 = 8 buildings to collapse. The third earthquake caused 2 * 8 = 16 buildings to collapse. The fourth earthquake caused 16 * 2 = 32 buildings to collapse. Including the first earthquake, the earthquakes caused 4 + 8 + 16 + 32 = 60 buildings to collapse.
+The answer: 60
+Reverse engineering the question: An earthquake caused four buildings to collapse. Experts predicted that each following earthquake would have double the number of collapsing buildings as the previous one, since each one would make the foundations less stable. After three more earthquakes, how many buildings had collapsed including those from the first earthquake?
+
+Reasoning and answer: He walks 1.5 miles in the morning and 1.5 miles in the evening so that’s 1.5 + 1.5 = 3 miles. If he walks 3 miles everyday, for 30 days then he walks 3 * 30 = 90 miles in 30 days.
+The answer: 90
+What was the question?
+Question: If Clover goes for a 1.5-mile walk in the morning and another 1.5-mile walk in the evening, every day, how many miles does he walk in 30 days?
+
+Valerie has to send a thank you card to each of 3 people, so she has 3 * 1 = 3 thank you cards to mail. She has 2 bills to mail. She has 3 more rebates than bills, so 3 + 2 = 5 mail - in rebates to mail. She has twice as many job applications as rebates, so she has 2 * 5 = 10 applications to mail. She has 3 + 2 + 5 + 10 = 20 pieces of mail to send. The electric bill needs an extra stamp, so she needs 20 + 1 = 21 stamps.
+The answer: 21
+Reverse engineering the question: Valerie needs to put stamps on the envelopes she is about to mail. She has thank you cards for each of her grandmother, uncle and aunt for the birthday presents they sent. She also has to pay the water bill and the electric bill separately. She wants to send three more mail-in rebates than she does bills and she has twice as many job applications as rebates to mail. How many stamps does she need if everything needs 1 stamp except the electric bill, which needs 2?
+
+Each grandchild gets 2 * 80 = $160 a year. So that means they get a total of 3 * 160 = $480.
+The answer: 480
+Reverse engineering the question:

@@ -1,0 +1,21 @@
+a: The relevant information is: In the United States, a medallion signature guarantee is a special signature guarantee for the transfer of securities.
+for the transfer of securities
+q: In the United States, a medallion signature guarantee is a special signature guarantee for the transfer of securities. It is a guarantee by the transferring financial institution that the signature is genuine and the financial institution accepts liability for any forgery. Signature guarantees protect shareholders by preventing unauthorized transfers and possible investor losses. They also limit the liability of the transfer agent who accepts the certificates. Not all MSG stamps are of equal value. A special coded prefix is given to each stamp, and this prefix determines how much monetary value can be guaranteed. For instance if the MSG is required for $400,000 worth of value, at least a C prefix is required, which is good for up to $500,000 value. If a D prefix stamp is submitted, the transaction will be rejected, because a D stamp is only good for guarantee up to $250,000. Often ComputerShare paperwork only informs of a need for a MSG, but does not specify anything about the necessity of certain prefixes.
+
+Answer this question: when do you need a medallion signature guarantee?
+
+a: To answer the above question, the relevant sentence is: The fourth season of Jane the Virgin premiered on The CW on October 13, 2017.
+October 13 , 2017
+q: The fourth season of Jane the Virgin premiered on The CW on October 13, 2017. The season will consist of 17 episodes and stars Gina Rodriguez as a young Latina university student accidentally artificially inseminated with her boss' sperm, Rafael Solano (Justin Baldoni). In this season, Jane deals with her romantic feelings for Rafael while reuniting with an ex-boyfriend while Rafael loses ownership of the Marbella and gets back together with his ex-wife, Petra Solano (Yael Grobglas). Also, Rogelio de la Vega (Jaime Camil), Jane's father, is expecting a baby with an ex-girlfriend and marries Jane's mother, Xiomara Villanueva (Andrea Navedo).
+
+Answer this question: when is new season of jane the virgin coming out?
+
+a: To answer the above question, the relevant sentence is: He worked on the Shrek series as an associate editor and voice of the Three Blind Mice and Thelonious, Lord Farquad's Henchman.
+Christopher Knights
+q: Christopher Knights is an English voice actor, film editor and camera operator best known for providing the voice of Private the Penguin in Madagascar. He worked on several DreamWorks films Shrek, Shrek 2, Shrek the Third and Shrek 4-D. He started his filming career at Amblimation studios and worked on We're Back! A Dinosaur's Story and Balto. When he joined DreamWorks he not only started his editing career but also his acting career. He worked on the Shrek series as an associate editor and voice of the Three Blind Mice and Thelonious, Lord Farquad's Henchman. He worked many times with another English cameraman and voice actor, Simon J. Smith.
+
+Answer this question: who plays the three blind mice in shrek?
+
+a: This is the relevant information: "Rude" is the debut single by Canadian band Magic!
+Magic !
+q:

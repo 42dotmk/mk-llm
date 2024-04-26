@@ -1,0 +1,26 @@
+Answer this question please:
+"Up the Ladder to the Roof" is a 1970 hit single recorded by The Supremes for the Motown label. It was the first Supremes single to feature new lead singer Jean Terrell in place of Diana Ross, who officially left the group for a solo career two weeks before the recording of this song in January 1970. This song also marks a number of other firsts: it is the first Supremes single since "The Happening" in 1967 to be released under the name "The Supremes" instead of "Diana Ross & the Supremes", the first Supremes single solely produced by Norman Whitfield associate Frank Wilson, and the first Supremes single to make the United Kingdom Top 10 since "Reflections" in 1967.
+
+Answer this question based on the passage: who sings up the ladder to the roof?
+
+Stream of random thoughts: The relevant information is: "Up the Ladder to the Roof" is a 1970 hit single recorded by The Supremes for the Motown label.... The answer is The Supremes.
+----
+Answer this question please:
+Context: The Lieutenant Governor of Alberta / lɛfˈtɛnənt / is the viceregal representative in Alberta of the Canadian monarch, Queen Elizabeth II. The Lieutenant Governor of Alberta is appointed in the same manner as the other provincial viceroys in Canada and is similarly tasked with carrying out most of the monarch's constitutional and ceremonial duties. The present, and 18th, Lieutenant Governor of Alberta is Lois Mitchell, who has served in the role since 12 June 2015.
+
+Question: what is the role of the lieutenant governor of alberta?
+
+Stream of random thoughts: The relevant sentence in the passage is: The Lieutenant Governor of Alberta is appointed in the same manner as the other provincial viceroys in Canada and is similarly tasked with carrying out most of the monarch's constitutional and ceremonial duties.... The answer is carrying out most of the monarch 's constitutional and ceremonial duties.
+----
+Answer this question please:
+Passage: It is generally accepted that Agra was both an ancient city from the times of the Mahabharata (see above) and yet nevertheless Sultan Sikandar Lodī, the Muslim ruler of the Delhi Sultanate, founded Agra in the year 1504. After the Sultan's death, the city passed on to his son, Sultan Ibrāhīm Lodī. He ruled his Sultanate from Agra until he fell fighting to Mughal Badshah Bābar in the First battle of Panipat fought in 1526.
+
+Question: Based on this passage, who established the city of agra at its present location?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: It is generally accepted that Agra was both an ancient city from the times of the Mahabharata (see above) and yet nevertheless Sultan Sikandar Lodī, the Muslim ruler of the Delhi Sultanate, founded Agra in the year 1504.... The answer is Sultan Sikandar Lodī , the Muslim ruler of the Delhi Sultanate.
+----
+Answer this question please:
+In the federal Congress, the role of the Majority Leader of the United States House of Representatives and the Majority Leader of the United States Senate differ slightly. In the United States Senate, the majority leader is the chief spokesperson for the majority party, as the president of the Senate is also the Vice-President of the United States, and the President pro tempore, though technically a substitute for the president of the Senate, is in reality a largely ceremonial position (albeit powerful nonetheless, being third in line of succession to the presidency).
+
+Answer this question based on the passage: what power does the senate majority leader have?
+

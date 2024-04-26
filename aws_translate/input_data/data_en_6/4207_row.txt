@@ -1,0 +1,17 @@
+Glaucoma is a medical condition that primarily affects the eye, specifically the optic nerve, which is responsible for transmitting visual information from the retina to the brain. It is a group of diseases that can cause progressive damage to the optic nerve, resulting in diminished vision, and ultimately, if left untreated, blindness.
+
+The critical factor contributing to glaucoma is often an increased pressure within the eye, known as intraocular pressure (IOP). This increased pressure occurs when the fluid, called aqueous humor, which normally circulates in the front part of the eye between the cornea and the lens, builds up. The buildup is usually a result of either inadequate drainage or overproduction of the fluid. As pressure within the eye increases, it exerts unwanted stress on the optic nerve, leading to nerve damage and vision loss.
+
+There are several types of glaucoma, with the most common forms being the following:
+
+1. Primary Open-Angle Glaucoma (POAG): This is the most prevalent form of glaucoma, characterized by a slow and almost unnoticeable increase in intraocular pressure. The drainage angle (where the aqueous humor exits the eye) appears to be open and normal, but the fluid drains too slowly. This gradual increase in eye pressure can damage the optic nerve without noticeable symptoms initially, gradually affecting peripheral vision and eventually central vision if left untreated.
+
+2. Angle-Closure Glaucoma (ACG): A more severe and less frequent form of glaucoma, angle-closure glaucoma occurs when the drainage angle (where the aqueous humor exits the eye) becomes blocked abruptly, leading to a sudden rise in intraocular pressure. This type of glaucoma can lead to severe pain, nausea, vomiting, blurred vision, and redness in the affected eye. It is considered a medical emergency and requires urgent treatment to prevent permanent vision loss.
+
+3. Normal-Tension Glaucoma (NTG): In this form of glaucoma, optic nerve damage occurs with intraocular pressure within the standard range. The exact cause of normal-tension glaucoma is still unknown, although some experts believe that certain individuals might be more susceptible to optic nerve damage from regular IOP due to genetic factors or decreased blood flow.
+
+4. Secondary Glaucoma: This type of glaucoma develops as a secondary effect of another eye-related condition or an underlying disease, such as inflammation, trauma, or a tumor. Treatment depends on addressing the primary cause along with managing the increased intraocular pressure.
+
+5. Congenital Glaucoma: This is a rare form of glaucoma that occurs in infants and is typically inherited, resulting from congenital abnormalities in the eye's drainage system. Symptoms may include tearing, sensitivity to light, and cloudiness of the cornea. If diagnosed early, congenital glaucoma is often treatable through surgery or medication.
+
+While anyone can develop glaucoma, specific risk factors include being over 60 years old, having a family history of the condition, being of African, Hispanic, or Asian descent, having high blood pressure, diabetes, nearsightedness, or a previous eye injury. Regular eye exams with an ophthalmologist can help detect glaucoma early, and if diagnosed, appropriate therapies, such as prescription eye drops, laser treatment, or surgery, can slow or prevent further optic nerve damage and vision loss.

@@ -1,0 +1,36 @@
+Answer: Thomas Patrick Cavanagh. Now, what could be the question and solution-maybe?
+Ques: Thomas Patrick Cavanagh (born October 26, 1963) is a Canadian actor and director best known for a variety of roles on American television, including starring roles in Ed (2000 -- 2004), Love Monkey (2006) and Trust Me (2009), and recurring roles on Providence and Scrubs. Since 2014, Cavanagh has served as a series regular on The Flash, portraying various versions of Harrison Wells.
+
+Answer this question based on the passage: who plays dr harrison wells in the flash?
+CoT: The important part for answering this question is: Since 2014, Cavanagh has served as a series regular on The Flash, portraying various versions of Harrison Wells.
+
+
+Ans: London and Paris
+Ques: Context: A Tale of Two Cities (1859) is a novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to life in London with his daughter Lucie, whom he had never met; Lucie's marriage and the collision between her beloved husband and the people who caused her father's imprisonment; and Monsieur and Madame Defarge, sellers of wine in a poor suburb of Paris. The story is set against the conditions that led up to the French Revolution and the Reign of Terror.
+
+Question: where does a tale of two cities take place?
+CoT: To answer this question, we should know that: A Tale of Two Cities (1859) is a novel by Charles Dickens, set in London and Paris before and during the French Revolution.
+
+
+Ans: Castile and León
+Ques: Passage: Segovia (/ sɪˈɡoʊviə /; Spanish pronunciation: ( seˈɣoβja) ) is a city in the autonomous region of Castile and León, Spain, famous for its magnificent Roman aqueduct and for its cathedral, one of the last Gothic temples to be built in Europe. It is the capital of Province of Segovia.
+
+Question: Based on this passage, in which region of spain is the city of segovia located?
+CoT: To answer the above question, the relevant sentence is: Segovia (/ sɪˈɡoʊviə /; Spanish pronunciation: ( seˈɣoβja) ) is a city in the autonomous region of Castile and León, Spain, famous for its magnificent Roman aqueduct and for its cathedral, one of the last Gothic temples to be built in Europe.
+
+
+Answer: women 's ice hockey , curling and snowboarding. Now, what could be the question and solution-maybe?
+Ques: 72 nations and 2,176 participants contested in 7 sports and 68 events at 15 venues. The Games saw the introduction of women's ice hockey, curling and snowboarding. National Hockey League players were allowed to participate in the men's ice hockey.
+
+What became a winter olympic sport in 1998?
+CoT: To answer the question, consider the following: The Games saw the introduction of women's ice hockey, curling and snowboarding.
+
+
+Ans: Ranjitsinhji , who was also known as `` Ranji ''
+Ques: The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional and state cricket associations. The competition currently consists of 37 teams, with all 29 states in India and two of the seven union territories having at least one representation. The competition is named after first Indian cricketer who played international cricket, Ranjitsinhji, who was also known as "Ranji".
+
+Answer this question based on the passage: in whose memory is the ranji trophy tournament played?
+CoT: The important part for answering this question is: The competition is named after first Indian cricketer who played international cricket, Ranjitsinhji, who was also known as "Ranji".
+
+
+Ans: Winnie - the - Pooh

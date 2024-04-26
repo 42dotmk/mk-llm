@@ -1,0 +1,22 @@
+Task Explanation: You are given a music product review in the German language. You need to classify the review as "POS" if the overall sentiment is positive or as "NEG" if the overall sentiment is negative.
+
+Guidelines:
+1. Read the given review in German.
+2. Understand the overall sentiment of the review.
+3. Classify the sentiment as "POS" if it is positive, or as "NEG" if it is negative.
+
+Review in German: 
+Some kind of Bulls*** . Ich schreibe diese Zeilen während ich gerade Harvester of Sorrow Vom and Justice for all Album höre und könnte gerade vor der Genialität dieses Songs niederknien. Doch meine Begeisterung verfliegt schnell wenn ich an die Personen denke die einst solche Quantensprünge hinlegten als wäre es das selbstverständlichste auf der Welt. Als ich Anfang 2003 in einem Interview mit James Hetfield las das Metallica zu ihren Wurzeln zurückkehren wollen wurde ich hellhörig. Hetfield sagte sogar das sie an die and Justice for all Ära anknüpfen wollen und quasi mit dem neuen Album (St. Anger) dort einsteigen wo and Justice for all aufgehört hat. Um ehrlich zu sein stieg meine Euphorie auf ein neues Hoch wie ich es selten erlebt habe. Doch dieses mal war ich vorsichtiger als bei Load (das ich blind gekauft habe), dieses mal wollte ich hören was die vier Jungs da fabriziert haben und mir verschlug es fast die Sprache. Nicht vor Begeisterung, sondern eher wegen dem Schock wie tief diese ehemaligen guten Musiker gesunken waren. Ab diesem Zeitpunkt war mir klar: Metallica sind endgültig Tod! Als ich mir dann noch den Film Some Kind of Monster ansah wurde mir klar warum Metallica musikalisch nichts mehr auf die Reihe bringen und nur noch ein Haufen labiler und abgehobener Rockstars sind. R.I.P. Metallica 1983 - 1988
+
+Translation into English:
+Some kind of Bulls***. I am writing these lines while listening to Harvester of Sorrow from the Justice for all album and could kneel down in front of the ingeniousness of this song. But my enthusiasm quickly fades when I think of the people who once made quantum leaps as if it were the most natural thing in the world. When I read in an interview with James Hetfield in early 2003 that Metallica wanted to return to their roots, I became curious. Hetfield even said that they wanted to connect to the and Justice for all era and that the new album (St. Anger) would pick up where and Justice for all left off. To be honest, my euphoria rose to a new high that I have rarely experienced. But this time I was more cautious than with Load (which I bought blindly), this time I wanted to hear what the four guys had produced and it almost took my breath away. Not out of enthusiasm, but rather because of the shock of how low these former good musicians had sunk. From this point on, it was clear to me: Metallica are finally dead! When I watched the movie Some Kind of Monster, it became clear to me why Metallica can no longer achieve anything musically and are now just a bunch of unstable and aloof rock stars. R.I.P. Metallica 1983 - 1988
+
+Sentiment Analysis:
+- The reviewer expresses initial admiration for a song from Metallica's Justice for All album.
+- The reviewer then shares their disappointment in how the band has changed and their dissatisfaction with the St. Anger album.
+- The review ends with the statement that Metallica is dead and a RIP message for the band.
+
+Based on the guidelines provided:
+
+Solution:
+The overall sentiment of the review is negative. Therefore, the classification should be "NEG".

@@ -1,0 +1,29 @@
+Summarize this article in one sentence.
+
+The social network refused to confirm or deny the software's existence, but said in a statement it was "spending time understanding and learning more" about China.
+No decisions about the company's approach in the country had yet been made, a spokeswoman said.
+The Electronic Frontier Foundation, a group which campaigns for better privacy online, told the BBC the project sounded "extremely disturbing".
+"Kudos to the Facebook employees who brought this to the attention of the New York Times," said the EFF's global policy analyst Eva Galperin.
+"It's very nice to know there are some principled people still working there."
+The sources quoted by the New York Times - both current and former employees - stressed that like many pieces of software worked on internally, it may never be implemented.
+Censorship concessions
+Since 2009, the only way to access Facebook in China has been via a virtual private network - software designed to “spoof” your real location and avoid local internet restrictions.
+Facebook, which has 1.8 billion active users, is aggressively looking to expand in parts of the world beyond its existing markets.
+In the developing world, that means experimenting with new technology to connect rural areas.
+And in China, it appears the site is at the very least considering making concessions to China’s notoriously tightly-monitored internet.
+According to employees quoted anonymously by the New York Times’ reporter Mike Isaac, Facebook founder Mark Zuckerberg was questioned about the plans in an all-staff meeting earlier this summer.
+"It’s better for Facebook to be a part of enabling conversation, even if it’s not yet the full conversation,” he is reported to have said while stressing it was early days.
+Facebook’s spokeswoman would not confirm or deny the quote was accurate.
+Mr Zuckerberg recently spent time with China's leader, Xi Jinping, as well as taking time to learn Mandarin.
+Third-party company
+Facebook regularly removes content from the network at the request of governments.
+It makes this process relatively public with a yearly report detailing the quantity and nature of take-down requests.
+Where this software would differ is in that it would enable a third-party, likely a Chinese company working with Facebook, to prevent messages from appearing in the first place.
+The range of topics censored in mainland China is vast. Most famously, searches related to the Tiananmen Square yield no results relating to the 1989 massacre.
+Facebook isn’t the first first Silicon Valley giant to grapple with the moral maze of doing business in China.
+Google famously pulled out of mainland China after a backlash surrounding the censorship of search results. It now routes all traffic to Google Hong Kong.
+LinkedIn, the network for professionals, does censor some content - although as the firm isn't typically seen as a host of public debate, the move is not seen as being nearly as contentious.
+If Facebook follows LinkedIn’s lead, the EFF’s Ms Galperin said "Facebook would be trading in their principles in exchange for access to the market. It would have tremendous implications for human rights."
+Follow Dave Lee on Twitter @DaveLeeBBC and on Facebook
+
+Summary:

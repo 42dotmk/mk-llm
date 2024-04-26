@@ -1,0 +1,165 @@
+Teacher:In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Teacher: Now, understand the problem? Solve this instance: SECTION 1. ONE-TIME DISTRIBUTION FROM RETIREMENT PLANS TO FUND HEALTH 
+              SAVINGS ACCOUNTS.
+
+    (a) In General.--Section 402 of the Internal Revenue Code of 1986 
+(relating to taxability of beneficiary of employees' trust) is amended 
+by adding at the end the following new subsection:
+    ``(l) HSA Funding Distribution.--
+            ``(1) In general.--In the case of an employee who is an 
+        eligible individual and who elects the application of this 
+        subsection for a taxable year, gross income of the employee for 
+        the taxable year does not include a qualified HSA funding 
+        distribution.
+            ``(2) Qualified hsa funding distribution.--For purposes of 
+        this subsection, the term `qualified HSA funding distribution' 
+        means a distribution from an eligible retirement plan of the 
+        employee to the extent that such distribution is contributed to 
+        the health savings account of the employee not later than the 
+        60th day after the day on which the employee receives such 
+        distribution or in a direct trustee-to-trustee transfer.
+            ``(3) Limitation.--
+                    ``(A) Maximum dollar limitations based on coverage 
+                in effect at time of contribution.--The amount excluded 
+                from gross income by paragraph (1) shall not exceed--
+                            ``(i) in the case of an individual who has 
+                        self-only coverage under a high deductible 
+                        health plan as of the first day of the month in 
+                        which the qualified HSA funding distribution is 
+                        contributed to the health savings account of 
+                        the employee, the lesser of--
+                                    ``(I) the amount specified under 
+                                clause (i) of section 223(b)(2)(A), or
+                                    ``(II) the amount in effect for the 
+                                taxable year under clause (ii) of 
+                                section 223(b)(2)(A) (determined 
+                                without regard to paragraphs (3) and 
+                                (4)(C) of section 223(b)), reduced by 
+                                any amount contributed to such account 
+                                for such taxable year before the date 
+                                of the qualified HSA funding 
+                                distribution contribution, and
+                            ``(ii) in the case of an individual who has 
+                        family coverage under a high deductible health 
+                        plan as of the first day of the month in which 
+                        the qualified HSA funding distribution is 
+                        contributed to the health savings account of 
+                        the employee, the lesser of--
+                                    ``(I) the amount specified under 
+                                clause (i) of section 223(b)(2)(B), or
+                                    ``(II) the amount in effect for the 
+                                taxable year under clause (ii) of 
+                                section 223(b)(2)(B) (determined 
+                                without regard to paragraphs (3) and 
+                                (4)(C) of section 223(b)), reduced by 
+                                any amount contributed to such account 
+                                for such taxable year before the date 
+                                of the qualified HSA funding 
+                                distribution contribution.
+                    ``(B) One-time transfer.--The election under 
+                paragraph (1) shall apply to the taxable year for which 
+                made and all subsequent taxable years. Such an 
+                election, once made, shall be irrevocable.
+            ``(4) Distributions must otherwise be includible.--
+                    ``(A) In general.--An amount shall be treated as a 
+                distribution for purposes of paragraph (1) only to the 
+                extent that such amount would be includible in gross 
+                income without regard to paragraph (1).
+                    ``(B) Application of section 72.--Notwithstanding 
+                section 72, in determining the extent to which an 
+                amount is treated as a distribution for purposes of 
+                subparagraph (A), the aggregate amounts distributed 
+                from an eligible retirement plan in a taxable year 
+                shall be treated as includible in gross income (without 
+                regard to subparagraph (A)) to the extent that such 
+                amount does not exceed the aggregate amount which would 
+                have been so includible if all amounts distributed from 
+                all eligible retirement plans were treated as 1 
+                contract for purposes of determining the inclusion of 
+                such distribution under section 72. Proper adjustments 
+                shall be made in applying section 72 to other 
+                distributions in such taxable year and subsequent 
+                taxable years.
+            ``(5) Definitions.--For purposes of this subsection--
+                    ``(A) Eligible retirement plan.--The term `eligible 
+                retirement plan' has the meaning given such term by 
+                subsection (c)(8)(B), except that such term shall also 
+                include an eligible deferred compensation plan 
+                maintained by an eligible employer described in section 
+                457(e)(1)(B).
+                    ``(B) Eligible individual.--The term `eligible 
+                individual' has the meaning given such term by section 
+                223(c)(1).
+            ``(6) Special rules.--For purposes of this subsection--
+                    ``(A) Related plans treated as 1.--All eligible 
+                retirement plans of an employer shall be treated as a 
+                single plan.
+                    ``(B) Surviving spouses, dependents, and alternate 
+                payees.--With respect to an eligible retirement plan of 
+                an employer, a surviving spouse, a dependent of the 
+                surviving spouse, or alternate payee (as defined in 
+                section 414(p)(8)) of a former employee shall be 
+                treated in the same manner as the former employee.''.
+    (b) Coordination With Limitation on Contributions to Health Savings 
+Accounts.--Section 223(b)(4) of such Code (relating to coordination 
+with other contributions) is amended by striking ``and'' at the end of 
+subparagraph (A), by striking the period at the end of subparagraph (B) 
+and inserting ``, and'', and by inserting after subparagraph (B) the 
+following new subparagraph:
+                    ``(C) the aggregate amount contributed to health 
+                savings accounts of such individual for such taxable 
+                year under section 402(l) (and such amount shall not be 
+                allowed as a deduction under subsection (a)).''.
+    (c) 10-Percent Penalty on Early Distributions not to Apply.--
+Section 72(t)(2)(A) of such Code (relating to subsection not to apply 
+to certain distributions) is amended by striking ``or'' at the end of 
+clause (vi), by striking the period at the end of clause (vii) and 
+inserting ``, or'', and by inserting after clause (vii) the following 
+new clause:
+                            ``(viii) a qualified HSA funding 
+                        distribution (as defined by section 402(l)).''.
+    (d) Conforming Amendments.--
+            (1) Section 401(k)(2)(B)(i) of such Code (relating to cash 
+        or deferred arrangements) is amended by striking ``or'' at the 
+        end of subclause (III), by striking ``and'' at the end of 
+        subclause (IV) and inserting ``or'', and by inserting after 
+        subclause (IV) the following new subclause:
+                                    ``(V) the funding of a health 
+                                savings account under section 402(l), 
+                                and''.
+            (2) Section 402(c)(4) of such Code (relating to rules 
+        applicable to rollovers from exempt trusts) is amended by 
+        striking ``and'' at the end of subparagraph (B), by striking 
+        the period at the end of subparagraph (C) and inserting ``, 
+        and'', and by inserting after subparagraph (C) the following 
+        new subparagraph:
+                    ``(D) any qualified HSA funding distribution (as 
+                defined by subsection (l)).''.
+            (3) Section 403(a) of such Code (relating to taxability of 
+        beneficiary under a qualified annuity plan) is amended by 
+        inserting after paragraph (1) the following new paragraph:
+            ``(2) Special rule for qualified hsa funding 
+        distribution.--To the extent provided in section 402(l), 
+        paragraph (1) shall not apply to the amount distributed under 
+        the contract which is otherwise includible in gross income 
+        under this subsection.''.
+            (4) Section 403(b) of such Code (relating to taxability of 
+        beneficiary under annuity purchased by section 501(c)(3) 
+        organization or public school) is amended by inserting after 
+        paragraph (1) the following new paragraph:
+            ``(2) Special rule for qualified hsa funding 
+        distribution.--To the extent provided in section 402(l), 
+        paragraph (1) shall not apply to the amount distributed under 
+        the contract which is otherwise includible in gross income 
+        under this subsection.''.
+            (5) Section 457(a) of such Code (relating to year of 
+        inclusion in gross income) is amended by adding at the end the 
+        following new paragraph:
+            ``(3) Special rule for qualified hsa funding 
+        distribution.--To the extent provided in section 402(l), 
+        paragraph (1) shall not apply to amounts otherwise includible 
+        in gross income under this subsection.''.
+    (e) Effective Date.--The amendments made by this section shall 
+apply to distributions in taxable years beginning after December 31, 
+2004.
+Student:

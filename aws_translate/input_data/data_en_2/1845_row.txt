@@ -1,0 +1,29 @@
+## question
+Passage: Jesus at the home of Martha and Mary (also referred to as Christ in the House of Martha and by other variant names) refers to an episode in the life of Jesus which appears only in Luke's Gospel (Luke 10: 38 -- 42), and can be read immediately after the Parable of the Good Samaritan (Luke 10: 25 -- 37). Jesus visits the home of Lazarus, Martha and Mary of Bethany, the latter typically conflated in Catholic medieval tradition with Mary Magdalene, though the New Testament probably means a different person.
+
+Question: Based on this passage, where in the bible does it talk about mary and martha?
+## answer
+The relevant information is: Jesus at the home of Martha and Mary (also referred to as Christ in the House of Martha and by other variant names) refers to an episode in the life of Jesus which appears only in Luke's Gospel (Luke 10: 38 -- 42), and can be read immediately after the Parable of the Good Samaritan (Luke 10: 25 -- 37).
+So the answer must be Luke 10 : 38 -- 42
+
+## question
+Love & Hip Hop: Hollywood is the third installment of the Love & Hip Hop reality television franchise. It premiered on September 15, 2014 on VH1 and chronicles the lives of several people in the Hollywood area, involved with hip hop music. On April 13, 2017, VH1 announced the show's return for a fourth season, which premiered on July 24, 2017.
+
+Where is love and hip hop hollywood filmed?
+## answer
+The relevant sentence in the passage is: It premiered on September 15, 2014 on VH1 and chronicles the lives of several people in the Hollywood area, involved with hip hop music.
+So the answer must be Hollywood
+
+## question
+According to a Rasmussen poll conducted in 2007, six presidents -- George Washington, Abraham Lincoln, Thomas Jefferson, Theodore Roosevelt, Franklin D. Roosevelt, and John F. Kennedy -- were rated favorably by at least 80 % of Americans.
+
+Answer this question: who is rated the best president of the united states?
+## answer
+The relevant information is: According to a Rasmussen poll conducted in 2007, six presidents -- George Washington, Abraham Lincoln, Thomas Jefferson, Theodore Roosevelt, Franklin D. Roosevelt, and John F. Kennedy -- were rated favorably by at least 80 % of Americans.
+So the answer must be George Washington
+
+## question
+Ek Veer Ki Ardaas ... Veera (English: A Brother's Prayer ... Veera) is an Indian television soap opera, that aired from Star Plus. The entire series is available on hotstar. The series premiered on 29 October 2012 to 8 August 2015, A dubbed version of the serial was telecast in Tamil Language as En Anbu Thangaikku on Vijay TV and discontinued shockingly even though more than 400 episodes were aired on TV. Moreover, a dubbed Malayalam Language version has launched in Asianet Plus as Manasaveera also now on streaming Hotstar and Starred Digangana Suryavanshi, Shivin Narang, Vishal Vashishtha, and Farnaz Shetty, replacing child actors Harshita Ojha, Bhavesh Balchandani, Devish Ahuja, and Arishfa Khan respectively after a 15 year leap. The show got replaced by the show Mohi. The series has been re-aired on Star Utsav.
+
+Answer this question based on the passage: ek veer ki ardaas veera meaning in english?
+## answer

@@ -1,0 +1,25 @@
+The number of girls in the classroom is 20 * 40% = 8 girls. Before new boys join, the number of boys in the classroom is 20 - 8 = 12 boys. If 5 new boys join, the new number of boys is 12 + 5 = 17 boys and the new total is 20 + 5 = 25 total people. The new percentage of girls in the class is 8 girls / 25 total people = 32%.
+The answer: 32
+Reverse engineering the question: A 20 person classroom is filled with 40% girls. If 5 new boys join the classroom, what is the new percentage of girls in the class?
+
+Reasoning and answer: The number of cows and foxes in the yacht is 20 + 15 = 35. Mr. Bodhi also has three times as many zebras as foxes in the yacht, equal to 3 * 15 = 45 zebras. The number of animals in the yacht so far is 35 + 45 = 80. To balance the yacht, Mr. Bodhi needs to add 100 - 80 = 20 sheep.
+The answer: 20
+What was the question?
+Question: Mr. Bodhi is transporting some animals using a yacht across a river. He has 20 cows, 15 foxes and three times as many zebras as foxes. To balance the yacht to ensure a smooth sail across the river, the total number of animals in the yacht needs to be 100. If he decides to add sheep to the yacht to make the yacht sail-worthy, how many sheep did he add to the yacht?
+
+Micah had to buy 6 * 2 = 12 stamps for 6 envelopes less than 5 pounds. He has 52 - 12 = 40 more stamps to buy. There are 40 / 5 = 8 envelopes that weigh more than 5 pounds. Micah needed to buy 8 + 6 = 14 envelopes.
+The answer: 14
+Reverse engineering the question: Micah bought envelopes to send, and depending on the weight of the envelope he will need more stamps. If an envelope weighs more than 5 pounds, he will need 5 stamps. If it weighs less than that, it will only need 2 stamps. If he bought 52 stamps with 6 envelopes that weigh less than 5 pounds, how many envelopes in total did Micah need to buy?
+
+Reasoning and answer: Half of the 400 vehicles for sale on the lot are Dodges, or a total of 400 / 2 = 200 Dodge vehicles. Since there are half as many Hyundai vehicles on the lot as there are Dodge vehicles, then there are 200 / 2 = 100 Hyundai vehicles on the lot. Since the remainder of the vehicles are Kias, then there are 400 - 200 - 100 = 100 Kia vehicles for sale on the lot.
+The answer: 100
+What was the question?
+Question: Louie sells Dodge, Hyundai, and Kia vehicles, and his company has 400 vehicles for sale on the store's parking lot. Half of the vehicles on the lot are Dodge, and there are half as many Hyundai vehicles on the lot as there are Dodge vehicles. How many Kia vehicles are on the lot?
+
+He trains 2 * 60 = 120 minutes a day. That means he played 200 * 120 = 24000 beats per day. So he played 24000 * 3 = 72000 beats.
+The answer: 72000
+Reverse engineering the question: John can play 200 beats per minute. If he plays 2 hours a day for 3 days how many beats does he play?
+
+Roque takes 2 * 3 = 6 hours a week to walk to work. Roque takes 6 * 2 = 12 hours a week to walk to and from work. Roque takes 1 * 2 = 2 hours a week to bike to work. Roque takes 2 * 2 = 4 hours a week to bike to and from work. In total, Roque takes 12 + 4 = 16 hour a week to go to and from work.
+The answer: 16
+Reverse engineering the question:

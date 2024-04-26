@@ -1,0 +1,25 @@
+Four long - sleeved jerseys cost $15 x 4 = $60. So the striped jerseys amount to $80 - $60 = $20. Hence, Justin bought $20 / $10 = 2 striped jerseys.
+The answer: 2
+Reverse engineering the question: Justin bought some jerseys. He bought four long-sleeved ones that cost $15 each, and some striped ones that cost $10 each. How many striped jerseys did Justin buy if he spent a total of $80?
+
+Reasoning and answer: Andy has 6 x 4 = 24 white socks. He loses 24 / 2 = 12 white socks. He still has 12 - 6 = 6 white socks more than black socks.
+The answer: 6
+What was the question?
+Question: Andy has 4 times as many white socks as he has black socks. If he loses half his white socks, how many more white socks does he still have than black socks if he has 6 black socks?
+
+If the bakery can make 12 pies, this means there would be 12 * 3 = 36 pie pieces. For all the pieces the bakery would make 36 * 4 = $144. The cost of making 12 pies is 12 * 0.5 = $6. That means the bakery would make 144 - 6 = $138.
+The answer: 138
+Reverse engineering the question: One pie costs $4 for a piece. Each pie is having 3 pieces. During one hour the bakery can make 12 pies. Creating one pie costs the bakery $0.5. Considering the bakery would be able to sell all pie pieces, how much money would it make?
+
+Reasoning and answer: Let S be the number of people on the first hundred years’ ship. The second hundred years’ ship had twice as many as the first, so it had 2S people. The third hundred years’ ship had twice as many as the second, so it had 2 * 2S = 4S people. All the ships had S + 2S + 4S = 7S = 847 people. Thus, the ship that the monster ate in the first hundred years had S = 847 / 7 = 121 people on it.
+The answer: 121
+What was the question?
+Question: A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?
+
+If the company was producing 7000 toilet paper per day, when it ramped up its toilet paper production three times per day, it produced 3 * 7000 = 21000 more per day. The total toilet production by the company increased to 7000 + 21000 = 28000. In March, with 31 days, the company produced a total of 28000 * 31 = 868000 toilet papers.
+The answer: 868000
+Reverse engineering the question: During the outbreak of the coronavirus, a company had to ramp up its toilet paper production three times more to cover the increased demand. If the company was producing 7000 toilet paper per day, calculate its total toilet paper production during March of 2020 after increasing its production.
+
+The band played 5 + 7 = 12 songs in their first two sets. They have 30 - 12 = 18 songs left for the third set, fourth set and encore. Since they played 2 songs in the encore, they have 18 - 2 = 16 songs to play on the third and fourth sets. They will play 16 / 2 = 8 songs on average over the third and fourth sets.
+The answer: 8
+Reverse engineering the question:

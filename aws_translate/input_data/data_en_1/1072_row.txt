@@ -1,0 +1,19 @@
+The correct answer to the question, "Which of these features of Earth's crust are caused by the shifting of tectonic plates?" is:
+
++ mid-ocean ridges
+
+A brief on each of the given choices helps us determine the correct answer by understanding how they are formed and their relation to tectonic plates:
+
+1. Mid-Ocean Ridges:
+Mid-ocean ridges are underwater mountain ranges, formed by the interaction of tectonic plates. These geological features are the result of the process known as seafloor spreading, where new oceanic crust is created by the upwelling of magma at the boundary of two diverging tectonic plates. As molten material emerges from the mantle and solidifies, it pushes the older crust on either side of the ridge apart, causing the plates to move apart. This continuous process can cause earthquakes and the formation of volcanoes along the ridge. Some examples of mid-ocean ridges include the Mid-Atlantic Ridge, the East Pacific Rise, and the Indian Ocean Ridge.
+
+2. Desert Sand Dunes:
+Desert sand dunes are wind-blown sand formations that develop over time in arid environments. While tectonic plate movement can have an indirect influence on the formation of deserts by altering global weather patterns and the location of landmasses, it is not the primary cause of sand dunes themselves. Instead, sand dune formation is controlled by local wind and sediment supply conditions. Examples of desert sand dunes can be seen in the Sahara Desert, Arabian Desert, and the Great Basin Desert in North America.
+
+3. U-Shaped Valleys:
+U-shaped valleys are large, glacier-carved valleys with a distinct U-shaped cross-sectional profile. The formation of U-shaped valleys is the result of a glacier eroding its way through a previously V-shaped river valley, typically during an ice age. As the glacier flows through the valley, it deepens and widens the landscape, creating the signature U-shape. While tectonic plate movements and the resulting changes in climate can influence the formation of glaciers, the actual shaping of U-shaped valleys is caused by the erosional forces of glaciers. Examples of U-shaped valleys can be found in the Alps, the Canadian Rockies, and the Himalayas.
+
+4. Continental Shelves:
+Continental shelves are the submerged, relatively shallow parts of continents that slope gradually seaward. They extend from the coastline to the point where they slope sharply downward to the deep ocean floor, called the shelf break. Continental shelves are formed by the accumulation of sediments brought by rivers or through coastal erosion, as well as being a part of the continental crust. The formation of continental shelves is impacted by various factors, including sea level variation and the geological processes of the continental crust, but it is not directly caused by the shifting of tectonic plates. Notable continental shelves include the Siberian Shelf, Sunda Shelf, and the Grand Banks, off the coast of Newfoundland, Canada.
+
+In conclusion, among the given choices, mid-ocean ridges are the features of Earth's crust that are directly caused by the shifting of tectonic plates, making it the correct answer to the question.

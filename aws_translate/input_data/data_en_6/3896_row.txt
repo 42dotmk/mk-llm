@@ -1,0 +1,22 @@
+Student A:Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the eighteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and stars Chadwick Boseman as T'Challa / Black Panther, alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker, and Andy Serkis. In Black Panther, T'Challa returns home and is crowned king of Wakanda but finds his sovereignty challenged by a new adversary, in a conflict with global consequences.
+
+Answer this question: name of the king in black panther movie?
+Student B:OK... The relevant information is: In Black Panther, T'Challa returns home and is crowned king of Wakanda but finds his sovereignty challenged by a new adversary, in a conflict with global consequences.
+T'Challa.
+
+Student A:Passage: The Fate of the Furious premiered on April 4, 2017 in Berlin, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally. The film received mixed reviews from critics, who praised the action sequences and performances, while criticizing the storyline. The film has grossed over $1.2 billion worldwide, making it the thirtieth film (and the second in the franchise, after Furious 7) to gross over $1 billion, the second highest-grossing film of 2017 and the eleventh highest-grossing film of all time. The film grossed $532 million worldwide during its opening weekend, setting the record for the highest-grossing opening of all time, ahead of Star Wars: The Force Awakens ($529 million). A sequel is scheduled to be released on April 19, 2019.
+
+Question: Based on this passage, when was the fate of the furious released?
+Student B:OK... The relevant information is: The Fate of the Furious premiered on April 4, 2017 in Berlin, and was theatrically released in the United States on April 14, 2017, playing in 3D, IMAX 3D and 4DX internationally.
+April 14 , 2017.
+
+Student A:The Petrarchan sonnet is a sonnet form not developed by Petrarch himself, but rather by a string of Renaissance poets. Because of the structure of Italian, the rhyme scheme of the Petrarchan sonnet is more easily fulfilled in that language than in English. The original Italian sonnet form divides the poem's 14 lines into two parts, the first part being an octave and the second being a sestet.
+
+What is the structure of an italian sonnet?
+Student B:OK... The relevant information to answer the above question is: The original Italian sonnet form divides the poem's 14 lines into two parts, the first part being an octave and the second being a sestet.
+divides the poem 's 14 lines into two parts , the first part being an octave and the second being a sestet.
+
+Student A:Context: Goodfellas (stylized as GoodFellas) is a 1990 American crime film directed by Martin Scorsese. It is an adaptation of the 1986 non-fiction book Wiseguy by Nicholas Pileggi, who co-wrote the screenplay with Scorsese. The film narrates the rise and fall of mob associate Henry Hill and his friends and family over a period from 1955 to 1980.
+
+Question: what is the movie goodfellas based off of?
+Student B:

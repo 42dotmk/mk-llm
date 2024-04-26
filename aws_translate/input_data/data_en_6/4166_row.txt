@@ -1,0 +1,22 @@
+Student A:Bushidō (武士道, "the way of warriors") is a Japanese collective term for the many codes of honour and ideals that dictated the samurai way of life, loosely analogous to the concept of chivalry in Europe.
+
+Answer this question based on the passage: which class in japanese society followed the code of bushido?
+Student B:OK... To answer the above question, the relevant sentence is: Bushidō (武士道, "the way of warriors") is a Japanese collective term for the many codes of honour and ideals that dictated the samurai way of life, loosely analogous to the concept of chivalry in Europe.
+the samurai.
+
+Student A:Hikkim village has a post office situated at an elevation of 4,400 m (14,400 ft) and this post office is the highest post office in the world. The post office connects small villages in this isolated region to the rest of the world. It receives and sends postal letters. It also acts as a savings bank where villagers can deposit money in their savings accounts or withdraw money. Intrepid travellers make it this far to Hikkim village to take pride in mailing their letters from the highest post office on Earth. The Postal Index Number or PIN of the village is 172114.
+
+Where is the world’s highest post office located?
+Student B:OK... To answer the question, consider the following: Hikkim village has a post office situated at an elevation of 4,400 m (14,400 ft) and this post office is the highest post office in the world.
+Hikkim village.
+
+Student A:The series is set in the Tipton Hotel in Boston and centers on Zack Martin and Cody Martin (Dylan and Cole Sprouse), troublesome twins who live at the Tipton Hotel. The series' other main characters include the Tipton hotel's ditzy heiress London Tipton (Brenda Song), the hotel's candy counter girl Maddie Fitzpatrick (Ashley Tisdale), the manager, Mr. Marion Moseby (Phill Lewis), and the boys' single mother who is also the Hotel's lounge singer, Carey Martin (Kim Rhodes). The series is the third Disney Channel Original to have more than 65 episodes, after That's So Raven and Kim Possible. Reruns aired on Disney XD and on the Watch Disney XD app. Reruns of the show aired on Disney Channel until April 14, 2017.
+
+Answer this question: who plays maddie in the suite life of zack and cody?
+Student B:OK... To answer the above question, the relevant sentence is: The series' other main characters include the Tipton hotel's ditzy heiress London Tipton (Brenda Song), the hotel's candy counter girl Maddie Fitzpatrick (Ashley Tisdale), the manager, Mr. Marion Moseby (Phill Lewis), and the boys' single mother who is also the Hotel's lounge singer, Carey Martin (Kim Rhodes).
+Ashley Tisdale.
+
+Student A:The Hershey Company, known until April 2005 as the Hershey Foods Corporation and commonly called Hershey's, is an American company and one of the largest chocolate manufacturers in the world. Its headquarters are in Hershey, Pennsylvania, which is also home to Hershey's Chocolate World. It was founded by Milton S. Hershey in 1894 as the Hershey Chocolate Company, a subsidiary of his Lancaster Caramel Company. Hershey's products are sold in over 60 countries worldwide. In addition, Hershey is a member of the World Cocoa Foundation. It is also associated with the Hersheypark Stadium and the Giant Center.
+
+Answer this question based on the passage: where is the hershey's chocolate factory located?
+Student B:

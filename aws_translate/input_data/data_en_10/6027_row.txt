@@ -1,0 +1,19 @@
+Q: Active quarterback Tom Brady holds the records for most wins with 220, most regular season wins with 195, and most postseason wins with 25, as of Week 16 of the 2017 NFL season. Having played the entirety of his career with the New England Patriots, each of Brady's win records also apply to wins with a single team.
+
+Who had the most wins in the nfl?
+A: Tom Brady. How to explain the answer? The relevant sentence in the passage is: Active quarterback Tom Brady holds the records for most wins with 220, most regular season wins with 195, and most postseason wins with 25, as of Week 16 of the 2017 NFL season.
+
+Q: The highest paid player in Major League Baseball (MLB) from the 2013 season is New York Yankees' third baseman Alex Rodriguez with an annual salary of $29,000,000, $4 million higher than the second-highest paid player, Cliff Lee. MLB does not have a hard salary cap, instead employing a luxury tax which applies to teams whose total payroll exceeds certain set thresholds for a given season. Free agency did not exist in MLB prior to the end of the reserve clause in the 1970s, allowing owners before that time to wholly dictate the terms of player negotiations and resulting in significantly lower salaries. Babe Ruth, widely regarded as one of the greatest baseball players ever, earned an estimated $910,696 ($14,341,967 inflation-adjusted from 1931 dollars) over his entire playing career. When asked whether he thought he deserved to earn $80,000 a year ($1,146,932 inflation-adjusted), while the president, Herbert Hoover, had a $75,000 salary, Ruth famously remarked, "What the hell has Hoover got to do with it? Besides, I had a better year than he did."
+
+Based on this passage, who is the highest paid baseball player today?
+A: New York Yankees ' third baseman Alex Rodriguez. How to explain the answer? The relevant sentence in the passage is: The highest paid player in Major League Baseball (MLB) from the 2013 season is New York Yankees' third baseman Alex Rodriguez with an annual salary of $29,000,000, $4 million higher than the second-highest paid player, Cliff Lee.
+
+Q: An Indian reservation is a legal designation for an area of land managed by a federally recognized Native American tribe under the U.S. Bureau of Indian Affairs rather than the state governments of the United States in which they are physically located. Each of the 326 Indian reservations in the United States is associated with a particular Native American nation. Not all of the country's 567 recognized tribes have a reservation -- some tribes have more than one reservation, while some share reservations. In addition, because of past land allotments, leading to some sales to non-Native Americans, some reservations are severely fragmented, with each piece of tribal, individual, and privately held land being a separate enclave. This jumble of private and public real estate creates significant administrative, political, and legal difficulties.
+
+Based on this passage, how many indian reservations are in the us?
+A: 326. How to explain the answer? The relevant information to answer the above question is: Each of the 326 Indian reservations in the United States is associated with a particular Native American nation.
+
+Q: The Gambia (/ ˈɡæmbiə / ( listen) ), officially the Republic of the Gambia, is a country in West Africa that is entirely surrounded by Senegal except for its coastline on the Atlantic Ocean at its western end. It is the smallest country on mainland Africa.
+
+Based on this passage, where is gambia located on the world map?
+A:

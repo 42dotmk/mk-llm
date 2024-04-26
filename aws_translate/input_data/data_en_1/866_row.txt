@@ -1,0 +1,19 @@
+Q: Passage: Jean Parker Shepherd, Jr. (July 26, 1921 -- October 16, 1999) was an American storyteller, radio and TV personality, writer and actor. He was often referred to by the nickname Shep. With a career that spanned decades, Shepherd is known to modern audiences for the film A Christmas Story (1983), which he narrated and co-scripted, based on his own semi-autobiographical stories.
+
+Question: Based on this passage, who did the voiceover in a christmas story?
+A: Jean Parker Shepherd , Jr .. How to explain the answer? The relevant information is: With a career that spanned decades, Shepherd is known to modern audiences for the film A Christmas Story (1983), which he narrated and co-scripted, based on his own semi-autobiographical stories.
+
+Q: Context: He is voiced by Tim Allen in the Toy Story films, few video games, the upcoming video game Kingdom Hearts III, and the Buzz Lightyear movie, Patrick Warburton in the TV series, and by Pat Fraley for the video games and the attractions in Disney Parks.
+
+Question: who does the voice of buzz lightyear in toy story?
+A: Tim Allen. How to explain the answer? The relevant sentence in the passage is: He is voiced by Tim Allen in the Toy Story films, few video games, the upcoming video game Kingdom Hearts III, and the Buzz Lightyear movie, Patrick Warburton in the TV series, and by Pat Fraley for the video games and the attractions in Disney Parks.
+
+Q: Passage: The show is primarily centered on five characters living in Pasadena, California: Leonard Hofstadter and Sheldon Cooper, both physicists at Caltech, who share an apartment; Penny, a waitress and aspiring actress who later becomes a pharmaceutical representative and who lives across the hall; and Leonard and Sheldon's similarly geeky and socially awkward friends and co-workers, aerospace engineer Howard Wolowitz and astrophysicist Raj Koothrappali. The geekiness and intellect of the four men are contrasted for comic effect with Penny's social skills and common sense.
+
+Question: Based on this passage, where is big bang theory supposed to take place?
+A: Pasadena , California. How to explain the answer? The relevant information is: The show is primarily centered on five characters living in Pasadena, California: Leonard Hofstadter and Sheldon Cooper, both physicists at Caltech, who share an apartment; Penny, a waitress and aspiring actress who later becomes a pharmaceutical representative and who lives across the hall; and Leonard and Sheldon's similarly geeky and socially awkward friends and co-workers, aerospace engineer Howard Wolowitz and astrophysicist Raj Koothrappali.
+
+Q: Passage: Christie Hennessy (born Edward Christopher Ross; 19 November 1945 -- 11 December 2007) was an Irish folk singer-songwriter. Although Hennessy was unable to read or write due to severe dyslexia, he still wrote his own songs such as "Roll back the Clouds" and "All the lies that you told me". He sang "All the lies that you told me" with his daughter Hermione, but the song was made famous by Frances Black rather than Hennessy and his daughter.
+
+Question: Based on this passage, who wrote all the lies that you told me?
+A:

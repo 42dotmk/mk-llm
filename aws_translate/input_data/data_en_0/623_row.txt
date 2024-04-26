@@ -1,0 +1,22 @@
+Student A:One Flew Over the Cuckoo's Nest is a 1975 American comedy-drama film directed by Miloš Forman, based on the 1962 novel One Flew Over the Cuckoo's Nest by Ken Kesey. The film stars Jack Nicholson, and features a supporting cast of Louise Fletcher, William Redfield, Will Sampson, and Brad Dourif.
+
+Who wrote one flew over the coocoos nest?
+Student B:OK... To answer this question, we should know that: One Flew Over the Cuckoo's Nest is a 1975 American comedy-drama film directed by Miloš Forman, based on the 1962 novel One Flew Over the Cuckoo's Nest by Ken Kesey.
+Ken Kesey.
+
+Student A:Context: The melting pot is a monocultural metaphor for a heterogeneous society becoming more homogeneous, the different elements "melting together" into a harmonious whole with a common culture or vice versa, for a homogeneous society becoming more heterogeneous through the influx of foreign elements with different cultural background with a potential creation of disharmony with the previous culture. Historically, it is often used to describe the assimilation of immigrants to the United States. The melting-together metaphor was in use by the 1780s. The exact term "melting pot" came into general usage in the United States after it was used as a metaphor describing a fusion of nationalities, cultures and ethnicities in the 1908 play of the same name.
+
+Question: what process is the central idea behind americas melting pot?
+Student B:OK... To answer this question, we should know that: Historically, it is often used to describe the assimilation of immigrants to the United States.
+assimilation.
+
+Student A:Context: Armed conflict began in 1775. In 1776, the Second Continental Congress declared the independence of the colonies as the United States of America. Led by General George Washington, it won the Revolutionary War with large support from France. The peace treaty of 1783 gave the new nation the land east of the Mississippi River (except Canada and Florida). The Articles of Confederation established a central government, but it was ineffectual at providing stability, as it could not collect taxes and had no executive officer. A convention in 1787 wrote a new Constitution that was adopted in 1789. In 1791, a Bill of Rights was added to guarantee inalienable rights. With Washington as the first president and Alexander Hamilton his chief adviser, a strong central government was created. Purchase of the Louisiana Territory from France in 1803 doubled the size of the United States. A second and final war with Britain was fought in 1812, which solidified national pride.
+
+Question: when did we become the united states of america?
+Student B:OK... To answer this question, we should know that: In 1776, the Second Continental Congress declared the independence of the colonies as the United States of America.
+1776.
+
+Student A:The Battle of Galveston was a naval and land battle of the American Civil War, when Confederate forces under Major Gen. John B. Magruder expelled occupying Union troops from the city of Galveston, Texas on January 1, 1863.
+
+Who won the battle of galveston in the civil war?
+Student B:

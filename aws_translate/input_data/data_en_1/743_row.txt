@@ -1,0 +1,22 @@
+Student A:Context: The explosion of the print culture, which started in the 15th century with Johannes Gutenberg's printing press, was both a result of and a cause of the increase in literacy. The number of books published in the period of the Enlightenment increased dramatically due to the increase in demand for books, which resulted from the increased literacy rates and the declining cost and easier availability of books made possible by the printing press. There was a shift in the percentages of books printed in various categories during the 17th century.
+
+Question: who developed a method of printing that greatly stimulated the growth of literacy?
+Student B:OK... The relevant sentence in the passage is: The explosion of the print culture, which started in the 15th century with Johannes Gutenberg's printing press, was both a result of and a cause of the increase in literacy.
+Johannes Gutenberg.
+
+Student A:The gold dollar was produced from 1849 to 1889. 1849 to 1853 gold dollar coins were 13 mm across and are called Type I. Type II gold dollars were thinner but larger at 15 mm diameter and were produced from 1854 to 1855. The most common gold dollar are the Type III and started in 1856 until 1889. Production US $1 gold dollars was high until the Civil War and by 1863, only the larger value gold coins were produced in large quantities. Most gold coins produced from 1863 and onward were produced for imports to pay for enormous amounts of war material and interest on some U.S. Government bonds. Many of these coins from the Civil War and after (silver coins included) are in excellent condition since they saw very limited circulation with greenbacks and postage currency taking their place.
+
+Answer this question: when was the first gold dollar coin made?
+Student B:OK... The important part for answering this question is: The gold dollar was produced from 1849 to 1889.
+1849.
+
+Student A:Panic! at the Disco is an American rock band from Las Vegas, Nevada, formed in 2004 by childhood friends Brendon Urie, Ryan Ross, Spencer Smith and Brent Wilson. Since 2015, vocalist Urie is the only official member in the band, supported on tours by guitarist Kenneth Harris, drummer Dan Pawlovich, and bassist Nicole Row. Panic! at the Disco recorded its first demos while its members were in high school. Shortly after, the band recorded and released its debut studio album, A Fever You Ca n't Sweat Out (2005). Popularized by the second single, "I Write Sins Not Tragedies," the album was certified double platinum in the US. In 2006, founding bassist Brent Wilson was fired from the band during an extensive world tour and subsequently replaced by Jon Walker.
+
+When did kenny join panic at the disco?
+Student B:OK... To answer the question, consider the following: Since 2015, vocalist Urie is the only official member in the band, supported on tours by guitarist Kenneth Harris, drummer Dan Pawlovich, and bassist Nicole Row.
+2015.
+
+Student A:The song was used in the 2007 film Transformers, playing on the radio in Sam Witwicky's car, Bumblebee.
+
+Answer this question: what movie has the song drive by the cars?
+Student B:

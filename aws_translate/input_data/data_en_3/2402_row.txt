@@ -1,0 +1,36 @@
+Answer: Robert Andrew `` Robbie '' Kay. Now, what could be the question and solution-maybe?
+Ques: Robert Andrew "Robbie" Kay (born 13 September 1995) is an English actor whose credits include Fugitive Pieces, Heroes Reborn, Pinocchio, Pirates of the Caribbean: On Stranger Tides, and Peter Pan in the Once Upon a Time television series.
+
+Who plays peter pan on once upon a time?
+CoT: The relevant sentence in the passage is: Robert Andrew "Robbie" Kay (born 13 September 1995) is an English actor whose credits include Fugitive Pieces, Heroes Reborn, Pinocchio, Pirates of the Caribbean: On Stranger Tides, and Peter Pan in the Once Upon a Time television series.
+
+
+Ans: the British singer - songwriter Chris Rea
+Ques: "Fool (If You Think It's Over)" is the title of a popular song originally publicly released in 1978 by the British singer-songwriter Chris Rea. Rea also wrote the words and composed the music of the song, which appears on his 1978 debut album, Whatever Happened to Benny Santini?. The single's charting success in the USA earned him a Grammy nomination as Best New Artist in 1979.
+
+Who sang fool if you think it over?
+CoT: The relevant information to answer the above question is: "Fool (If You Think It's Over)" is the title of a popular song originally publicly released in 1978 by the British singer-songwriter Chris Rea.
+
+
+Ans: in a medical malpractice United States court case in 1957
+Ques: Informed consent is a technical term first used by attorney, Paul G. Gebhard, in a medical malpractice United States court case in 1957. In tracing its history, some scholars have suggested tracing the history of checking for any of these practices:
+
+Answer this question: where did the concept of informed consent first appear officially?
+CoT: This is the relevant information: Informed consent is a technical term first used by attorney, Paul G. Gebhard, in a medical malpractice United States court case in 1957.
+
+
+Answer: Richard ' Dick ' Parry. Now, what could be the question and solution-maybe?
+Ques: Passage: Richard' Dick' Parry (born 22 December 1942 in Kentford, Suffolk, England) is an English saxophonist. He has appeared as a session musician on various albums by modern bands and artists, and is probably best known for his solo parts on the Pink Floyd songs "Money", "Us and Them", "Shine On You Crazy Diamond" and "Wearing the Inside Out". He also played on the Bloodstone album Riddle of the Sphinx.
+
+Question: Based on this passage, who played sax on money by pink floyd?
+CoT: The relevant information is: He has appeared as a session musician on various albums by modern bands and artists, and is probably best known for his solo parts on the Pink Floyd songs "Money", "Us and Them", "Shine On You Crazy Diamond" and "Wearing the Inside Out".
+
+
+Ans: The National Labor Union
+Ques: The National Labor Union (NLU), founded in 1866, was the first national labor federation in the United States. It was dissolved in 1872.
+
+Based on this passage, in 1866 the first attempt in the united states at a union for workers was called the?
+CoT: The relevant sentence in the passage is: The National Labor Union (NLU), founded in 1866, was the first national labor federation in the United States.
+
+
+Ans: Ranil Wickramasinghe

@@ -1,0 +1,25 @@
+First find the area of one side of a roof: 20 feet * 40 feet = 800 square feet. Then multiply that number by 2 to find the total area of both sides of the roof: 800 square feet / side * 2 sides = 1600 square feet. Then multiply that number by the number of roofs to find the total area of all the roofs: 1600 square feet / roof * 3 roofs = 4800 square feet. Then multiply the total area of the roofs by the number of shingles needed per square foot to find the total number of shingles needed: 4800 square feet * 8 singles / square foot = 38400 shingles.
+The answer: 38400
+Reverse engineering the question: Jerry needs to shingle 3 roofs. Each roof is made of two slanted rectangular sides measuring 20 feet by 40 feet. If he needs 8 shingles to cover one square foot of roof, how many shingles does he need total?
+
+Reasoning and answer: The kitchen took 4 * .5 = 2 hours longer than the bedrooms. So the kitchen took 4 + 2 = 6 hours. The bedrooms took 3 * 4 = 12 hours. So the kitchen and bedrooms combined took 12 + 6 = 18 hours. The living room took 18 * 2 = 36 hours. So everything took a total of 18 + 36 = 54 hours.
+The answer: 54
+What was the question?
+Question: Tom decides to renovate a house. There are 3 bedrooms and each bedroom takes 4 hours to renovate. The kitchen takes 50% longer than each bedroom. The living room took twice as much time as everything else combined. How long did everything take?
+
+Jerry has 2 x 20 = 40 dice. Therefore, they have 20 + 40 = 60 dice altogether.
+The answer: 60
+Reverse engineering the question: Ivan has 20 dice. Jerry has twice as many dice as Ivan. How many dice do they have altogether?
+
+Reasoning and answer: He splits the cost 3 + 1 = 4 ways. 100 pounds of burgers at $3 per pound makes 100 * 3 = $300. In addition to $80 for condiments and propane the total cost was 300 + 80 = $380. That means each of them paid 380 / 4 = $95. Then adding in the cost of alcohol, John spent 200 + 95 = $295.
+The answer: 295
+What was the question?
+Question: John throws a block party and splits the cost with 3 other people. They buy 100 pounds of burgers at $3 per pound. They also buy $80 of condiments and propane to cook everything. John also buys all the alcohol which costs $200. How much did John spend altogether
+
+In her old company, if she worked for three years, the total number of months she was paid for is 3 years * 12, which is the number of months in a year = 36 months. If each month she was paid $5000, her total earnings in the old company were $5000 * 36 = $180000. In her new company, she is paid 20% more, which is 20 / 100 * $5000 = $1000 per month more than what she was paid at the old company. In total, she earns $5000 + $1000 = $6000 per month in her new company. Since she's worked five months more in the new company than the old company, she has worked for 36 + 5 = 41 months in the new company. The total amount she's earned in the new company is $6000 * 41 = $246000. The combined total for both companies is $246000 + $180000 = $426000.
+The answer: 426000
+Reverse engineering the question: Cadence has worked for her new company five months longer than she worked for her old company. If she worked at her old company for 3 years earning $5000 per month, and she's now earning 20% more in the new company, calculate the total amount of money she's earned in both companies in the period she's worked for them?
+
+Pages left to read: 408 - 113 = 295 pages. 295 / 5 = 59 pages. Bekah needs to read 59 pages each day.
+The answer: 59
+Reverse engineering the question:

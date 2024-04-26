@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: Fat mass and obesity-associated protein also known as alpha-ketoglutarate-dependent dioxygenase FTO is an enzyme that in humans is encoded by the FTO gene located on chromosome 16. As one homolog in the AlkB family proteins, it is the first mRNA demethylase that has been identified. Certain variants of the FTO gene appear to be correlated with obesity in humans.
+
+Question: Based on this passage, what potential influence does the fto gene have?
+
+Stream of random thoughts: The important part for answering this question is: Certain variants of the FTO gene appear to be correlated with obesity in humans.... The answer is correlated with obesity in humans.
+----
+Answer this question please:
+The brachial plexus is a network of nerves formed by the anterior rami of the lower four cervical nerves and first thoracic nerve (C5, C6, C7, C8, and T1). This plexus extends from the spinal cord, through the cervicoaxillary canal in the neck, over the first rib, and into the armpit. It supplies afferent and efferent nerve fibers to the chest, shoulder, arm and hand.
+
+Answer this question based on the passage: where do all nerves in the arm root from?
+
+Stream of random thoughts: This is the relevant information: It supplies afferent and efferent nerve fibers to the chest, shoulder, arm and hand.... The answer is brachial plexus.
+----
+Answer this question please:
+Passage: The Sea of Galilee, also Kinneret or Kinnereth, Lake of Gennesaret, or Lake Tiberias (Hebrew: יָם כִּנֶּרֶת ‬, Judeo-Aramaic: יַמּא דטבריא; גִּנֵּיסַר Arabic: بحيرة طبريا ‎), is a freshwater lake in Israel. It is approximately 53 km (33 mi) in circumference, about 21 km (13 mi) long, and 13 km (8.1 mi) wide. Its area is 166.7 km (64.4 sq mi) at its fullest, and its maximum depth is approximately 43 m (141 feet). At levels between 215 metres (705 ft) and 209 metres (686 ft) below sea level, it is the lowest freshwater lake on Earth and the second-lowest lake in the world (after the Dead Sea, a saltwater lake). The lake is fed partly by underground springs although its main source is the Jordan River which flows through it from north to south.
+
+Question: Based on this passage, where does the sea of galilee get its water?
+
+Stream of random thoughts: The important part for answering this question is: The lake is fed partly by underground springs although its main source is the Jordan River which flows through it from north to south.... The answer is fed partly by underground springs although its main source is the Jordan River.
+----
+Answer this question please:
+The Milky Way is a barred spiral galaxy with a diameter between 100,000 and 180,000 light-years. The Milky Way is estimated to contain 100 -- 400 billion stars. There are probably at least 100 billion planets in the Milky Way. The Solar System is located within the disk, about 26,000 light-years from the Galactic Center, on the inner edge of one of the spiral-shaped concentrations of gas and dust called the Orion Arm. The stars in the inner ≈ 10,000 light-years form a bulge and one or more bars that radiate from the bulge. The very center is marked by an intense radio source, named Sagittarius A *, which is likely to be a supermassive black hole.
+
+Where is earth within the milky way galaxy?
+

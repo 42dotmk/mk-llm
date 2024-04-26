@@ -1,0 +1,19 @@
+Question: Passage: The 12-hour clock is a time convention in which the 24 hours of the day are divided into two periods: a.m. (from the Latin, ante meridiem, meaning before midday) and p.m. (post meridiem, meaning past midday). Each period consists of 12 hours numbered: 12 (acting as zero), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11. The 24 hour / day cycle starts at 12 midnight (often indicated as 12 a.m.), runs through 12 noon (often indicated as 12 p.m.), and continues to the midnight at the end of the day. The 12-hour clock was developed over time from the mid-second millennium BC to the 16th century AD.
+
+Question: Based on this passage, what is meaning of am and pm in time?
+Answer: The important part for answering this question is: The 12-hour clock is a time convention in which the 24 hours of the day are divided into two periods: a.m. (from the Latin, ante meridiem, meaning before midday) and p.m. (post meridiem, meaning past midday). The answer is ante meridiem , meaning before midday.
+
+Question: Passage: Dancing with the Stars is an American dance competition television series that premiered on June 1, 2005, on ABC. It is the US version of the UK series Strictly Come Dancing. The show is hosted by Tom Bergeron, alongside Erin Andrews, who became co-host in season eighteen. Lisa Canning was co-host in the first season, Samantha Harris co-hosted seasons two through nine and Brooke Burke-Charvet in seasons ten through seventeen. On July 24, 2018, it was announced that season 27 would premiere on September 24, 2018 and its spinoff Dancing with the Stars: Juniors would premiere on October 7, 2018.
+
+Question: Based on this passage, when did dancing with the stars start this season?
+Answer: To answer the above question, the relevant sentence is: On July 24, 2018, it was announced that season 27 would premiere on September 24, 2018 and its spinoff Dancing with the Stars: Juniors would premiere on October 7, 2018. The answer is September 24 , 2018.
+
+Question: Context: Jonathan Holmes as Mr. William Barry Dalmar Abuzeid as Sebastian Lacroix Helen Johns as Mrs. Eliza Barry Ryan Kiera Armstrong as Minnie May Barry Deborah Grover as Josephine Barry Wayne Best as John Blythe Phillip Williams as Thomas Lynde David Ingram as Mr. Harmon Andrews Janet Porter as Mrs. Andrews Christian Martyn as Billy Andrews Lia Pappas-Kemps as Jane Andrews Ella Jonas Farlinger as Prissy Andrews Jim Annan as Mr. Gillis Fiona Byrne as Mrs. Gillis Kyla Matthews as Ruby Gillis Jacob Ursomarzo as Moody Spurgeon Stephen Tracey as Mr. Phillips Miranda McKeon as Josie Pye Glenna Walters as Tillie Boulter Katelyn Wells as Mary Joe Jacob Horsley as Charlie Sloane Joanna Douglas as Miss Muriel Stacy Trenna Keating as Mrs. Pye
+
+Question: who plays ruby on anne with an e?
+Answer: To answer the question, consider the following: Kyla Matthews as Ruby Gillis The answer is Kyla Matthews.
+
+Question: Dark Night of the Soul (Spanish: La noche oscura del alma) is the title given to a poem of the 16th-century, Spanish poet and Roman Catholic, Discalced Carmelite mystic, priest, and Doctor of the Church St. John of the Cross, OCD. The author did not entitle his poem, on which he wrote two book-length commentaries: The Ascent of Mount Carmel (Subida del Monte Carmelo) and The Dark Night (Noche Oscura).
+
+Who wrote the dark night of the soul?
+Answer:

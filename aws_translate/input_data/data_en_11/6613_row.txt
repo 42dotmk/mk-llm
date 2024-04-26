@@ -1,0 +1,22 @@
+Student A:Kan'ami Kiyotsugu and his son Zeami Motokiyo brought Noh to what is essentially its present-day form during the Muromachi period (1336 to 1573). Kan'ami was a renowned actor with great versatility fulfilling roles from graceful women and 12-year-old boys to strong adult males. When Kan'ami first presented his work to 17-year-old Ashikaga Yoshimitsu, Zeami was a child actor in his play, around age 12. Yoshimitsu fell in love with Zeami and his position of favor at court caused Noh to be performed frequently for Yoshimitsu thereafter.
+
+Answer this question: the most important figure in the history of japanese nō theatre is?
+Student B:OK... To answer the above question, the relevant sentence is: Kan'ami Kiyotsugu and his son Zeami Motokiyo brought Noh to what is essentially its present-day form during the Muromachi period (1336 to 1573).
+Kan'ami Kiyotsugu.
+
+Student A:Context: The song is written in the key of D minor. Vassar Clements originally wrote the basic melody an octave lower, in a tune called "Lonesome Fiddle Blues" released on Clements' self-titled 1975 album on which Charlie Daniels played guitar. The Charlie Daniels Band moved it up an octave and put words to it. The song's verses are closer to being spoken rather than sung (i.e., recitation), and tell the story of a boy named Johnny, in a variant on the classic deal with the Devil. The performances of Satan and Johnny are played as instrumental bridges. The song was the band's biggest hit, reaching number three on the Billboard Hot 100. It is featured in the 1980 film Urban Cowboy, whose choreographer, Patsy Swayze, claims that she set the song's tempo. "How fast can you dance it?" Daniels asked. "How fast can you play it?" Swayze replied, but considering that the song was recorded in December 1978 and Urban Cowboy was filmed in 1979, it would have been impossible for Swayze to set the recorded song's tempo.
+
+Question: when was the devil went down to georgia recorded?
+Student B:OK... The relevant sentence in the passage is: Swayze replied, but considering that the song was recorded in December 1978 and Urban Cowboy was filmed in 1979, it would have been impossible for Swayze to set the recorded song's tempo.
+December 1978.
+
+Student A:Passage: Super Mario Bros. is a platform video game developed and published by Nintendo for the Nintendo Entertainment System home console. Released as a sequel to the 1983 game Mario Bros., Super Mario Bros. was released in Japan and North America in 1985, and in Europe and Australia two years later. In Super Mario Bros., the player controls Mario and in a two-player game, a second player controls Mario's brother Luigi as he travels through the Mushroom Kingdom in order to rescue Princess Toadstool from the antagonist Bowser.
+
+Question: Based on this passage, when was the first super mario game made?
+Student B:OK... To answer the above question, the relevant sentence is: Released as a sequel to the 1983 game Mario Bros., Super Mario Bros. was released in Japan and North America in 1985, and in Europe and Australia two years later.
+1985.
+
+Student A:Context: The Marine Corps Core Values of Honor, Courage, and Commitment have gained increased prominence in recent years. As an emphasis on performing morally on and off duty, the concept of core values has been infiltrated into many aspects of Marine life, beginning in recruit training and continuing into combat. This "warrior ethos" provides guidance to Marines in difficult ethical situations and acts as a reminder to provide good order and discipline.
+
+Question: what are the values of the marine corps?
+Student B:

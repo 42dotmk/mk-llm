@@ -1,0 +1,27 @@
+Reasoning and answer: Porter's weekly earning is $8x5 = $40. Porter's monthly earning is $40x4 = $160. The extra amount he will earn when he works on his overtime is $8 x 50 / 100 = $4. So the amount he will earn on his overtime is $8 + $4 = $12. Since he will render overtime once every week, the total overtime pay he will earn in a month is $12 x 4 = $48. Therefore the total money he will earn in a week is $160 + $48 = $208.
+The answer: 208
+What was the question?
+Question: Porter earns $8 per day and works 5 times a week. His manager is asking him to work an extra day that promises him an extra fifty percent on top of his daily rate. How much money will he earn after a month if he renders overtime every week?
+
+Each pot will have 4 creeping jennies that cost $4.00 each so that's 4 * 4 = $16.00. Each pot will have 4 geraniums that are $3.50 each so that's 4 * 3.50 = $14.00 each. The fern is $15.00, the creeping jennies are $16.00 and the geraniums are $14.00 for a total of 15 + 16 + 14 = $45.00 per pot. He wants a planter at each corner of his rectangle pool. A rectangle has 4 corners so he needs 4 pots at $45.00 per pot for a total of 4 * 45 = $180.00.
+The answer: 180
+Reverse engineering the question: Wes wants to place a large planter pot at each corner of his rectangle-shaped pool. Each planter will have a large palm fern that is $15.00 per plant, 4 creeping jennies that costs $4.00 per plant and 4 geraniums that cost $3.50 per plant. How much will it cost to fill all the pots?
+
+Reasoning and answer: Walter has 1 / 4 * 56 bananas = 14 fewer bananas. If Jefferson has 56 bananas, then Walter has 56 bananas - 14 bananas = 42 bananas. When they combine their bananas, they have a total of 42 bananas + 56 bananas = 98 bananas. After dividing the bananas equally, Walter gets 98 bananas / 2 = 49 bananas.
+The answer: 49
+What was the question?
+Question: Jefferson has 56 bananas, while Walter, his friend, has 1/4 times fewer bananas. If they decide to combine their bananas and share them equally between themselves, how many bananas does Walter get?
+
+Carla:3(6) = 18 dozen eggs. Trisha: 6 - 4 = 2 dozen eggs. Total: 6 + 18 + 2 = 26 dozen eggs.
+The answer: 26
+Reverse engineering the question: Benjamin collects 6 dozen eggs a day. Carla collects 3 times the number of eggs that Benjamin collects. Trisha collects 4 dozen less than Benjamin. How many dozen eggs do the three collect total?
+
+Reasoning and answer: If she knit 8 sweaters on Monday and 2 more on Tuesday, she knit 8 + 2 = 10 sweaters on Tuesday. The total number of sweaters she had knit on Monday and Tuesday is 10 + 8 = 18. On Wednesday, she knit four fewer sweaters than the number she knit on Tuesday, which totals 10 - 4 = 6 sweaters. By Wednesday, she had knit 18 + 6 = 24 sweaters. On Thursday, she knit the same number of sweaters she had knit on Thursday, giving a total of 24 + 6 = 30 sweaters. On Friday, she knit half the number of sweaters she had knit on Monday, which totals 1 / 2 * 8 = 4 sweaters on Friday. So far, she has knit 30 + 4 = 34 sweaters by Friday.
+The answer: 34
+What was the question?
+Question: Kim loves to knit sweaters and can knit as many as 10 sweaters in a day if she gets the time. On a particular week, she knit 8 sweaters on Monday, 2 more sweaters on Tuesday than on Monday, 4 fewer sweaters on both Wednesday and Thursday than on Tuesday, and half the number of sweaters she had knit on Monday on Friday. Calculate the total number of sweaters she knit that week.
+
+Reasoning and answer: He picked 80 peppers because 7 + 12 + 14 + 12 + 5 + 18 + 12 = 80. 80% of the peppers are not hot because 100 - 20 = 80. He picked 64 non - hot peppers because 80 x .8 = 64.
+The answer: 64
+What was the question?
+Question:

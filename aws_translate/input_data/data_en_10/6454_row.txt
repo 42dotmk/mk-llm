@@ -1,0 +1,19 @@
+The first step of the virus infection process is the entry of the virus into the human or animal body. This usually occurs through one of the following routes:
+
+1. Respiratory transmission: In this mode of transmission, the virus is present in tiny droplets expelled when an infected person talks, coughs, or sneezes. These droplets can be inhaled by another person, allowing the virus to enter the respiratory system. For example, the influenza virus and the SARS-CoV-2 virus responsible for the COVID-19 pandemic primarily spread through respiratory transmission.
+
+2. Direct contact: Viruses can also be transmitted through direct skin-to-skin contact with an infected individual. For example, viruses causing skin infections like herpes simplex virus can transmit via direct contact.
+
+3. Indirect contact: In this case, viruses are present on contaminated surfaces or objects (called fomites), which can be touched by another person. This contaminated surface can later come into contact with a person's eyes, mouth, or nose, and thereby facilitate viral entry.
+
+4. Vector-borne transmission: In some cases, viruses are transmitted to humans or animals by a vector, which is typically a blood-sucking insect, such as a mosquito. For example, the Zika virus and dengue virus are transmitted by the Aedes mosquito vector.
+
+5. Fecal-oral transmission: Some viruses can survive in an infected person's feces and contaminate food or water supplies. If another person ingests the contaminated substance, the virus can enter their body via the digestive system. Examples include norovirus, which causes gastroenteritis, and hepatitis A virus, which can cause liver disease.
+
+6. Bloodborne transmission: Viruses can also enter the body through contact with infected blood, semen, vaginal fluids, or other bodily fluids. This can happen through shared needles, during medical procedures, or sexual contact. Examples include HIV and hepatitis B and C viruses.
+
+Once the virus gains entry into the body through any of these transmission routes, it begins the infection process by targeting the specific cells or tissues it is equipped to infect. For instance, respiratory viruses attach to cells lining the respiratory tract, while gastrointestinal viruses infect the cells of the digestive tract. The virus then binds to specific receptors on the cell's surface, using viral surface proteins like spikes or glycoproteins, which allow it to gain entry by fusing with the cell membrane or by being engulfed by the cell.
+
+After entering a cell, the virus hijacks the host cell's machinery to replicate its genetic material, produce viral proteins, and assemble new virus particles. Once a sufficient number of virus particles have been produced, they are either released back into the surrounding environment, where they can infect nearby cells or tissues, or enter the bloodstream or lymphatic system to distribute throughout the body and reach other target organs.
+
+As the viral infection progresses and spreads, the host's immune system responds by activating various defense mechanisms, including the production of antibodies and the recruitment of immune cells to the site of infection. These immune responses help to eliminate the virus, although they can also contribute to the symptoms and tissue damage associated with viral illnesses. In some cases, the immune response fails to control the infection, resulting in severe or even fatal outcomes. However, in many cases, the immune system successfully clears the virus from the body, leading to recovery and the establishment of immunity to future infections.

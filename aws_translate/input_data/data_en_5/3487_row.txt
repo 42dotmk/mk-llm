@@ -1,0 +1,22 @@
+Student A:Passage: Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824), was a landmark decision in which the Supreme Court of the United States held that the power to regulate interstate commerce, granted to Congress by the Commerce Clause of the United States Constitution, encompassed the power to regulate navigation. The case was argued by some of America's most admired and capable attorneys at the time. Exiled Irish patriot Thomas Addis Emmet and Thomas J. Oakley argued for Ogden, while U.S. Attorney General William Wirt and Daniel Webster argued for Gibbons.
+
+Question: Based on this passage, the supreme court ruled that congress had the power to regulate interstate commerce in?
+Student B:OK... The important part for answering this question is: Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824), was a landmark decision in which the Supreme Court of the United States held that the power to regulate interstate commerce, granted to Congress by the Commerce Clause of the United States Constitution, encompassed the power to regulate navigation.
+Gibbons v. Ogden , 22 U.S. ( 9 Wheat . ) 1 ( 1824 ).
+
+Student A:Johnston (or Johnston Sans) is a sans-serif typeface designed by and named after Edward Johnston. The typeface was commissioned in 1913 by Frank Pick, commercial manager of the Underground Electric Railways Company of London (also known as' The Underground Group'), as part of his plan to strengthen the company's corporate identity. Johnston was originally created for printing (with a planned height of 1 inch or 2.5 cm), but it rapidly became used for the enamel station signs of the Underground system as well.
+
+Answer this question: what font is used for london underground signs?
+Student B:OK... The relevant information is: Johnston was originally created for printing (with a planned height of 1 inch or 2.5 cm), but it rapidly became used for the enamel station signs of the Underground system as well.
+Johnston.
+
+Student A:The House passed the penultimate version of the bill on December 19, 2017, though for Senate procedural reasons small changes were needed and a revote was held in the House. The Senate passed the final version on December 20 in a 51 -- 48 vote and that final version was passed by the House of Representatives on that same day. The bill was signed into law by President Donald Trump on December 22, 2017. Most of the changes introduced by the bill went into effect on January 1, 2018 and will not affect 2017 taxes.
+
+Based on this passage, when does new tax rules go into effect?
+Student B:OK... The relevant information to answer the above question is: Most of the changes introduced by the bill went into effect on January 1, 2018 and will not affect 2017 taxes.
+January 1 , 2018.
+
+Student A:Passage: Following the reopening of the National Museum of American History on November 21, 2008, the flag is now on display in a two-story display chamber that allows it to lie at a 10-degree angle in dim light. The Smithsonian has created a permanent exhibition to document the flag's history and significance, called "The Star-Spangled Banner: The Flag that Inspired the National Anthem". Visitors are allowed a clear view of the flag, while it remains protected in a controlled environment.
+
+Question: Based on this passage, where is the original star spangled banner on display?
+Student B:

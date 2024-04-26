@@ -1,0 +1,17 @@
+Here is an article:
+
+WHEN dealing with a stroke--a loss of blood supply to the brain--time is of the essence. If the cause is a blocked artery, blood flow can often be restored using clot-busting drugs. If those drugs are swallowed too late, however, they can do more harm than good. In one of nature's crueller ironies, the metabolic changes that take place in cells after about three hours without oxygen or glucose mean that restoring blood flow becomes damaging in itself. This is called a "reperfusion" injury.
+
+Doctors have long searched for ways to extend the period during which clot-busting pills might help. They have tried drugs and even artificially induced hypothermia to help the brain protect itself from the consequences of oxygen and sugar deprivation. Now, in a paper in Nature Medicine, a group of researchers led by Alastair Buchan, a neurologist at the University of Oxford, describe a new idea.
+
+Dr Buchan's team began with an old medical mystery. It has been known since the 1920s that some nerve cells, or neurons, are more susceptible to stroke damage than others. In particular, a group of neurons called CA3 cells that live in the hippocampus--a seahorse-shaped chunk of brain tissue involved in forming memories--are much hardier than another sort called CA1 cells, even though the two types are neighbours. "Medical science is often concerned with working out why cells die," says Dr Buchan. "We thought we'd look at why some seem to survive."
+
+The researchers compared versions of both types of cells taken from rats, looking for differences in their chemistry after they had been subjected to an artificial stroke. One conspicuous difference involved a protein called hamartin, which was present in larger amounts in the hardy CA3 cells than in the fragile CA1 cells.
+
+To check whether hamartin was indeed responsible for the CA3 cells' robustness, the researchers created in a test tube a strain of rat neurons which were unable to produce the protein, and then deprived them of oxygen and sugar for three hours. Sure enough, cell deaths were about a third higher in the modified group than in the controls. Flipping the experiment around, neurons modified to produce more of the protein than usual had a "stroke" survival rate 31% higher than their unmodified counterparts. Experiments in rats themselves showed similar results.
+
+Hamartin, which is also known as a tumour suppressant, encourages a cellular recycling mechanism called autophagy. This breaks down existing bits of cellular machinery so that their chemical components can be reused elsewhere. Autophagy presumably arose long ago as a way of helping cells survive lean times. The theory is that such austerity measures also help neurons survive the hardscrabble environment of a blood-deprived brain.
+
+So far, of course, the studies have been on rats rather than people. But the hippocampus is fairly similar across all of mammaldom. Autophagy is a virtually universal property of cells in higher organisms, so it may well be worth investigating this process in other medical conditions in which organs are starved of blood, such as heart attacks. And because hamartin is already known to oncologists, some preliminary pharmaceutical groundwork has already been done. Dr Buchan and his team are a long way from human trials, let alone a usable drug. But they have turned up a promising lead.
+
+Write a title for it.

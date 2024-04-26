@@ -1,0 +1,29 @@
+## question
+Distrustful of the apes, Dreyfus arms his community using the Fort Point armory. Maintaining his distrust of humans, Koba discovers the armory and later confronts Caesar, accusing him of loving humans more than apes. In response, Caesar severely beats Koba, but refrains from killing him. Koba returns to the armory, where he takes an assault rifle and kills two guards. Returning home, he secretly kills Carver. The generator is repaired, restoring power to the city. During the celebration, Koba sets fire to the apes' home, then, unseen to anyone else, shoots Caesar, who falls from the settlement's main tree. In the subsequent panic, Koba takes charge, implicating Carver in the shooting and convincing the apes to attack the humans. He leads them into San Francisco, where they plunder the armory and charge the tower, with many casualties. The apes breach the building and imprison the humans as Dreyfus flees underground. When Ash refuses Koba's orders to kill unarmed humans, citing Caesar's teachings, Koba kills Ash and imprisons any ape still loyal to Caesar.
+
+Who shot caesar in dawn of the planet of the apes?
+## answer
+The relevant information to answer the above question is: During the celebration, Koba sets fire to the apes' home, then, unseen to anyone else, shoots Caesar, who falls from the settlement's main tree.
+So the answer must be Koba
+
+## question
+On Her Majesty's Secret Service (1969) is the sixth spy film in the James Bond series to be produced by Eon Productions. It is based on the 1963 novel of the same name by Ian Fleming. Following Sean Connery's decision to retire from the role after You Only Live Twice, Eon Productions selected an unknown actor and model, George Lazenby, to play the part of James Bond. During the making of the film, Lazenby announced that he would play the role of Bond only once.
+
+Answer this question: who played bond in on her majesty's secret service?
+## answer
+This is the relevant information: Following Sean Connery's decision to retire from the role after You Only Live Twice, Eon Productions selected an unknown actor and model, George Lazenby, to play the part of James Bond.
+So the answer must be George Lazenby
+
+## question
+I Am Number Four is a young adult science fiction novel by Pittacus Lore (the pseudonym of James Frey and Jobie Hughes) and the first book in the Lorien Legacies series. The book was published by HarperCollins on August 3, 2010, and spent seven successive weeks at # 1 on the children's chapter of the New York Times bestseller list.
+
+Who is the author of i am number four?
+## answer
+To answer the question, consider the following: I Am Number Four is a young adult science fiction novel by Pittacus Lore (the pseudonym of James Frey and Jobie Hughes) and the first book in the Lorien Legacies series.
+So the answer must be Pittacus Lore ( the pseudonym of James Frey and Jobie Hughes )
+
+## question
+The Privileges and Immunities Clause (U.S. Constitution, Article IV, Section 2, Clause 1, also known as the Comity Clause) prevents a state from treating citizens of other states in a discriminatory manner. Additionally, a right of interstate travel may plausibly be inferred from the clause.
+
+Answer this question: where is the privileges and immunities clause found?
+## answer

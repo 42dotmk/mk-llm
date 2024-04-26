@@ -1,0 +1,27 @@
+The best websites that show better examples in manual testing:
+
+1. Guru99 (https://www.guru99.com/software-testing.html)
+Guru99 is an excellent starting point for beginners in manual testing. The website provides comprehensive lessons on software testing, as well as examples of test cases, test plans, and defect report templates. It also offers quizzes to test your knowledge as you advance through the tutorials.
+
+2. Software Testing Help (https://www.softwaretestinghelp.com/)
+This website is frequently updated with articles covering a variety of topics related to manual testing. The articles provide informative content, examples, and best practices. It's an excellent resource for both beginners and experienced testers alike.
+
+3. Software Testing Fundamentals (http://softwaretestingfundamentals.com/)
+Software Testing Fundamentals offers a good foundation for manual testing concepts and techniques. The website breaks down everything, from basic concepts such as the software development life cycle to advanced topics such as test management tools. Its abundance of examples and diagrams will aid your understanding of the subject matter.
+
+4. Testing Excellence (https://www.testingexcellence.com/)
+Testing Excellence is a software testing blog that publishes articles and tutorials on manual testing. The blog's content is geared toward practical examples and real-life scenarios, making it a suitable resource for those new to manual testing.
+
+5. ISTQB (https://www.istqb.org/)
+The International Software Testing Qualifications Board (ISTQB) is a major player in software testing certification. Their website provides valuable resources, including the ISTQB syllabus, glossary, and sample exam questions to help you build a strong foundation in manual testing.
+
+To start learning about manual testing in a practical manner, follow these steps:
+
+1. Gain a solid understanding of the basic concepts of manual testing by studying the resources provided by the websites listed above.
+2. Practice writing test cases and test plans for simple applications. You can begin by using utility software, such as your computer's calculator or text editor, to develop test cases and test plans.
+3. Collaborate with other learners or join online forums and communities to discuss and share knowledge on manual testing techniques and strategies.
+4. Participate in open-source projects or find small-scale applications in need of testing. This will provide practical experience in testing real-world applications.
+5. Read books, articles, and blogs about software testing best practices to stay updated on the latest trends and techniques.
+6. Attend webinars, conferences, and workshops related to software testing to expand your network and learn from industry experts.
+
+Regarding the multi-choice problem, my answer is (i). no. The questions are related but not the same. The first question asks for the best websites to learn manual testing, while the second question seeks advice on how to learn manual testing in a practical manner. Although connected, each question has distinct information and requires different answers.

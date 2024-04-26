@@ -1,0 +1,29 @@
+## question
+The first season premiered on Netflix on June 10, 2016, and consisted of 13 episodes. The series has a 78-episode commitment from Netflix. It has been released globally in United States, Canada, United Kingdom, Australia, New Zealand, Ireland, France, Germany, Austria, Switzerland, Scandinavia, Benelux Union and Latin America. The second season premiered on Netflix on January 20, 2017, and consisted of 13 episodes. The third season premiered on Netflix on August 4, 2017, and consisted of 7 episodes while the fourth season premiered on October 13, 2017, and consisted of 6 episodes. The fifth season premiered on March 2, 2018, and consists of six episodes. The sixth season will premiere on June 15, 2018 and will consist of seven episodes. The series' success has spawned several comics, action figures, and other toys.
+
+When is season 6 of voltron coming out?
+## answer
+The relevant sentence in the passage is: The sixth season will premiere on June 15, 2018 and will consist of seven episodes.
+So the answer must be June 15 , 2018
+
+## question
+Farber was born in Moscow, Russia, but moved to Australia in 1986. His family is Jewish. He began dancing at the age of 13. When he was 17, Farber won the Australian Youth Latin Championships twice and represented Australia at the World Latin Championships. He was also featured in the 2000 Sydney Olympic Games closing ceremony and featured in the second season of the Australian Dancing with the Stars. He was also an original cast member of Broadway production of Burn the Floor. He dated fellow Dancing with the Stars member Emma Slater from 2011 to 2014. In December 2015, Farber made a post on his Instagram account confirming that he and Slater were back together. On October 4, 2016, Farber proposed to Slater during a broadcast of Dancing with the Stars after performing a dance together. The two are now engaged on February 2, 2018 Farber and fiancee Emma Slater announced that they were expecting their first child.
+
+Who is sasha on dancing with the stars engaged to?
+## answer
+To answer this question, we should know that: The two are now engaged on February 2, 2018 Farber and fiancee Emma Slater announced that they were expecting their first child.
+So the answer must be Emma Slater
+
+## question
+Context: Matthew David Lewis (born 27 June 1989) is an English film, television and stage actor, best known for playing Neville Longbottom in the Harry Potter films, Jamie Bradley in The Syndicate and Corporal Gordon "Towerblock" House in the BBC Three comedy drama Bluestone 42.
+
+Question: who is the actor who played neville longbottom?
+## answer
+To answer this question, we should know that: Matthew David Lewis (born 27 June 1989) is an English film, television and stage actor, best known for playing Neville Longbottom in the Harry Potter films, Jamie Bradley in The Syndicate and Corporal Gordon "Towerblock" House in the BBC Three comedy drama Bluestone 42.
+So the answer must be Matthew David Lewis
+
+## question
+"I Have a Dream" is a public speech delivered by American civil rights activist Martin Luther King Jr. during the March on Washington for Jobs and Freedom on August 28, 1963, in which he calls for an end to racism in the United States and called for civil and economic rights. Delivered to over 250,000 civil rights supporters from the steps of the Lincoln Memorial in Washington, D.C., the speech was a defining moment of the civil rights movement.
+
+When did i have a dream speech take place?
+## answer

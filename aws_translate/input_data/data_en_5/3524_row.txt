@@ -1,0 +1,27 @@
+Reasoning and answer: 5 out of 19 marbles are yellow so the remainder which is 19 - 5 = 14 marbles are blue and red. 14 marbles are split into blue and red in the ratio 3:4 so each "share" is 14 / (3 + 4) = 2 marbles. There are 4 "shares" of red marbles which totals to 4 * 2 = 8 red marbles. There are 8 - 5 = 3 more red marbles than yellow marbles.
+The answer: 3
+What was the question?
+Question: There are 19 marbles in a bowl, 5 of which are yellow. The remainder are split into blue marbles and red marbles in the ratio 3:4 respectively. How many more red marbles than yellow marbles are there?
+
+If the number of salmons in the river increased by ten times the number initially there, then 500 * 10 = 5000 new salmons migrated up the river. The total number of salmon in the river now is 5000 + 500 = 5500.
+The answer: 5500
+Reverse engineering the question: Because of the migration of salmon, the total number of salmon in river Trout has increased by ten times the number initially in the river. If there were 500 salmons initially, calculate the total number of fish in the river now.
+
+Reasoning and answer: Making 100 pencils a day, he made 100 pencils / day * 5 days / week = 500 pencils during the week. With the pencils from the stock, he got 500 pencils + 80 pencils = 580 pencils. Subtracting the ones he sold, he has 580 pencils - 350 pencils = 230 pencils.
+The answer: 230
+What was the question?
+Question: Paul makes pencils, making 100 pencils a day five days a week. He started the week with 80 pencils in his stock, and during the week he sold 350 pencils. How many pencils did he have in his stock at the end of the week?
+
+If each student travels with 5 others, then groups are made up of 5 + 1 = 6 students. This means there are a total of 5 groups * 6 students = 30 students in the class. Each student needs 2 sandwiches, which means the teacher will make 30 students * 2 sandwiches per student = 60 sandwiches in total. Therefore, the teachers will need 60 sandwiches * 2 pieces of bread per sandwich = 120 pieces of bread.
+The answer: 120
+Reverse engineering the question: A teacher is making packed lunches for a field trip. Each student needs 2 sandwiches, and will travel in a group with 5 other students. There are a total of 5 groups. How many pieces of bread will the teacher need to make enough sandwiches for all the students?
+
+Reasoning and answer: Archie needs $3 x 3 = $9 per day to buy 3 antibiotics. Therefore Archie needs $9 x 7 = $63 to buy antibiotics that will last for a week.
+The answer: 63
+What was the question?
+Question: Archie received his medical receipt from his doctor, and he needs to take antibiotics three times a day. If antibiotic costs $3 each and he needs to take it for a week, how much money does he need to buy the antibiotics?
+
+Reasoning and answer: First, we find their current point in time be realizing that 4 years is 4 sets of 12 months, meaning at that anniversary they will have been together 4 * 12 = 48 months. Then, we subtract their 6 month difference, finding they are at 48 - 6 = 42 months into their relationship. Since 2 years would be 2 * 12 = 24 months into the relationship. We take the larger number, 42, and subtract the smaller number, 24 to find the difference in months, meaning it is 42 - 24 = 18 months.
+The answer: 18
+What was the question?
+Question:

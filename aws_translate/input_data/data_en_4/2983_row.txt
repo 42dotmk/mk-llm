@@ -1,0 +1,21 @@
+Given the task definition and input, reply with output. In this task, you need to write an incorrect answer to the given question. Along with the question, you are also given the correct answer(s) and the associated paragraph. An incorrect answer should be closely related to the content of the paragraph and/or the question but will not truthfully answer the question. Your incorrect answers should be similar to the given correct answer such that it will pose a challenge for students to distinguish the two. A good incorrect answer should prevent those who skip the paragraph from answering the question. The incorrect answer should not be trivial, in the sense that they should not be easily eliminated without reading the paragraph.
+
+Paragraph- Sent 1: Expansion quickly peaked however, and the European powers who had carved up the New World set about testing each other in dynastic conflicts and colonial rivalry.
+Sent 2: The English were the main rivals of the Dutch on the high seas, and there were several wars between the two in the 17th and 18th centuries.
+Sent 3: In 1665–1667 the Dutch sailed up the River Medway and sank the British fleet moored there.
+Sent 4: The 18th century saw Amsterdam grow into the foremost financial center in the world, but the seeds of decline had already been planted.
+Sent 5: When the English colonies in New England rose up in revolt against the British, they found ready Ailies in the Dutch.
+Sent 6: From their colonies in the Caribbean they sent caches of arms and ammunition.
+Sent 7: The British were furious and went to war in 1780, destroying the Dutch navy and signaling a sudden decline in power and influence from which the Netherlands never recovered.
+Sent 8: Trade suffered to such an extent that in 1791 the VOC went into liquidation.
+Sent 9: In the latter part of the century there were anti-Orange demonstrations by pro-French factions in the country, and in 1795 Napoleon Bonaparte took the Netherlands in his epic march across Europe.
+Sent 10: Under the yoke of another foreign power, and with trade at an all time low, the Golden Age was truly dead.
+Sent 11: The Return of the House of Orange Napoleon installed his brother Louis as King of Holland and he chose to take the fine Town Hall on Dam Square as his palace — now the Koninklijk Palace.
+Sent 12: But only four years later he fled the city after civil disturbances broke out when he raised taxes.
+Sent 13: When Napoleon's bubble burst and French power began to wane, William of Orange emerged from exile and was proclaimed king in 1813.
+Sent 14: Amsterdam had to work its way out of economic decline, but throughout the 19th century the city grew steadily.
+Sent 15: Industrialization changed the city.
+Sent 16: With the building of the Central Station at the end of the century, Amsterdam turned its back on its seafaring past and looked towards the mechanical age for its future.
+Sent 17: The station was built over the old harbor wall and some of the oldest canals in the city center were filled in to allow better access to motorized vehicles.
+Sent 18: Dam Square was landlocked for the first time in its history. 
+Question: Did Amsterdam grow into the foremost financial center in the world before or after the Dutch sailed up the River Medway and sank a British fleet?.

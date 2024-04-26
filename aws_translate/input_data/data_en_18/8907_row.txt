@@ -1,0 +1,47 @@
+Write a summary based on this article:
+
+Sloshing of Earth’s core may spike major earthquakes 
+  
+ SEATTLE—The world doesn’t stop spinning. But every so often, it slows down. For decades, scientists have charted tiny fluctuations in the length of Earth’s day: Gain a millisecond here, lose a millisecond there. Last week at the annual meeting of the Geological Society of America here, two geophysicists argued that these minute changes could be enough to influence the timing of major earthquakes—and potentially help forecast them. 
+  
+ During the past 100 years, Earth’s slowdowns have correlated surprisingly well with periods with a global increase in magnitude-7 and larger earthquakes, according to Roger Bilham of the University of Colorado (CU) in Boulder and Rebecca Bendick at the University of Montana in Missoula. Usefully, the spike, which adds two to five more quakes than typical, happens well after the slow-down begins. “The Earth offers us a 5-years heads up on future earthquakes, which is remarkable,” says Bilham, who presented the work. 
+  
+ Most seismologists agree that earthquake prediction is a minefield. And so far, Bilham and Bendick have only fuzzy, hard-to-test ideas about what might cause the pattern they found. But the finding is too provocative to ignore, other researchers say. “The correlation they’ve found is remarkable, and deserves investigation,” says Peter Molnar, a geologist also at CU. 
+  
+ The research started as a search for synchrony in earthquake timing. Individual oscillators, be they fireflies, heart muscles, or metronomes, can end up vibrating in synchrony as a result of some kind of cross-talk—or some common influence. To Bendick, it didn’t seem a far jump to consider the faults that cause earthquakes, with their cyclical buildup of strain and violent discharge, as “really noisy, really crummy oscillators,” she says. She and Bilham dove into the data, using the only complete earthquake catalog for the past 100 years: magnitude-7 and larger earthquakes. 
+  
+ In work published in August in Geophysical Research Letters they reported two patterns: First, major quakes appeared to cluster in time—although not in space. And second, the number of large earthquakes seemed to peak at 32-year intervals. The earthquakes could be somehow talking to each other, or an external force could be nudging the earth into rupture. 
+  
+ Exploring such global forces, the researchers eventually discovered the match with the length of day. Although weather patterns such as El Nino can drive day length to vary back and forth by a millisecond over a year or more, a periodic, decades-long fluctuation of several milliseconds—in particular, its point of peak slow down about every three decades or so—lined up with the quake trend perfectly. "Of course that seems sort of crazy," Bendick says. But maybe it isn’t. When day length changes over decades, Earth’s magnetic field also develops a temporary ripple. Researchers think slight changes in the flow of the molten iron of the outer core may be responsible for both effects. Just what happens is uncertain—perhaps a bit of the molten outer core sticks to the mantle above. That might change the flow of the liquid metal, altering the magnetic field, and transfer enough momentum between the mantle and the core to affect day length. 
+  
+ Seismologists aren’t used to thinking about the planet’s core, buried 2900 kilometers beneath the crust where quakes happen. But they should, Bilham said during his talk here. The core is “quite close to us. It’s closer than New York from here,” he said. 
+  
+ At the equator, Earth spins 460 meters per second. Given this high velocity, it’s not absurd to think that a slight mismatch in speed between the solid crust and mantle and the liquid core could translate into a force somehow nudging quakes into synchrony, Molnar says. Of course, he adds, “It might be nonsense.” But the evidence for some kind of link is compelling, says geophysicist Michael Manga of the University of California, Berkeley. “I’ve worked on earthquakes triggered by seasonal variation, melting snow. His correlation is much better than what I’m used to seeing.” 
+  
+ One way or another, says James Dolan, a geologist at the University of Southern California in Los Angeles, “we’re going to know in 5 years.” That’s because Earth’s rotation began a periodic slow-down 4-plus years ago. Beginning next year, Earth should expect five more major earthquakes a year than average—between 17 to 20 quakes, compared with the anomalously low four so far this year. If the pattern holds, it will put a new spin on earthquake forecasting. ||||| Scientists have found strong evidence that 2018 will see a big uptick in the number of large earthquakes globally. Earth's rotation, as with many things, is cyclical, slowing down by a few milliseconds per day then speeding up again. 
+  
+ You and I will never notice this very slight variation in the rotational speed of Earth. However, we will certainly notice the result, an increase in the number of severe earthquakes. 
+  
+ Geophysicists are able to measure the rotational speed of Earth extremely precisely, calculating slight variations on the order of milliseconds. Now, scientists believe a slowdown of the Earth's rotation is the link to an observed cyclical increase in earthquakes. 
+  
+ To start, the research team of geologists analyzed every earthquake to occur since 1900 at a magnitude above 7.0. They were looking for trends in the occurrence of large earthquakes. What they found is that roughly every 32 years there was an uptick in the number of significant earthquakes worldwide. 
+  
+ The team was puzzled as to the root cause of this cyclicity in earthquake rate. They compared it with a number of global historical datasets and found only one that showed a strong correlation with the uptick in earthquakes. That correlation was to the slowing down of Earth's rotation. Specifically, the team noted that around every 25-30 years Earth's rotation began to slow down and that slowdown happened just before the uptick in earthquakes. The slowing rotation historically has lasted for 5 years, with the last year triggering an increase in earthquakes. 
+  
+ To add an interesting twist to the story, 2017 was the 4th consecutive year that Earth's rotation has slowed. This is why the research team believes we can expect more earthquakes in 2018, it is the last of a 5-year slowdown in Earth's rotation. 
+  
+ What Is Causing Earth's Rotation To Slow Down? 
+  
+ As with many new findings in science, this story began with the data that supports the cyclical slowdown then speed up of Earth's rotation. The research team is then tasked with the "why" to explain this phenomenon. While scientists aren't exactly sure the mechanisms that produce this variation, there are a few hypotheses. 
+  
+ One hypothesis involves Earth's outer core, a liquid metal layer of the planet that circulates underneath the solid lower mantle. The thought is that the outer core can at times "stick" to the mantle, causing a disruption in its flow. This would alter Earth's magnetic field and produce a temporary hiccup in Earth's rotation. 
+  
+ Currently, the data only notes a striking correlation, but no causation. Hence, scientists are still unsure whether this change in Earth's rotation is the cause of an uptick in earthquakes. 
+  
+ While there's no direct link between the two, the trend over the past century suggests that 2018 will be an unusually active year for earthquakes. Typically, there will be 15-20 large earthquakes (M 7.0 or greater). However, during the noted uptick in earthquakes aligning to the 5th year of Earth's rotation slowdown there are on average 25-30 large earthquakes. 
+  
+ Earthquakes remain the most difficult natural disaster to predict. They tend to occur with little to no forewarning and can thus be incredibly destructive. Often times, geologists are limited to historical trends in data to predict the likelihood an earthquake will occur. This new research provides another dataset to inform communities about the near-term risks they face. 
+  
+ Liked the article? I highly recommend reading our in-house astrophysicist's thoughts on the subject. |||||
+
+Summary:

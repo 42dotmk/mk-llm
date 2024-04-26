@@ -1,0 +1,25 @@
+First find the total number of goldfish Millie adds: 64 pretzels * 4 goldfish / pretzel = 256 goldfish. Then add the number of each kind of snack to find the total: 256 goldfish + 64 pretzels + 32 suckers = 352 snacks. Then divide the total number of snacks by the number of baggies to find the number of snacks per baggie: 352 snacks / 16 baggies = 22 snacks / baggie.
+The answer: 22
+Reverse engineering the question: MIlle is making snack packs for her kindergarten class. She's going to divide 64 pretzels, four times as many goldfish, and 32 suckers into baggies for the 16 kids in the class. How many items does each baggie have?
+
+Reasoning and answer: Jack earned from the brownies $3 per brownie * 4 brownies = $12. Jack earned from the lemon squares $2 per square * 5 squares = $10. He still needs to earn $50 - $12 - $10 = $28. He sells cookies for $4 each, so Jack still needs to sell $28 / $4 = 7 cookies.
+The answer: 7
+What was the question?
+Question: Jack is running a bake sale to help pay for his basketball team's uniforms. He's already sold 4 brownies for $3 each and 5 lemon squares for $2 each. If Jack's goal is to make $50 and he sells cookies for $4 each, how many cookies does he need to sell to reach his goal?
+
+From Monday to Tuesday, Nico reads a total of 20 + 12 = 32 pages. On Wednesday, he read a total of 51 - 32 = 19 pages.
+The answer: 19
+Reverse engineering the question: Nico borrows 3 books from the library on Monday. On Monday, he reads the first book with a total of 20 pages. On Tuesday, he reads the second book with a total of 12 pages. On Wednesday, he reads the third book. If he has read a total of 51 pages from Monday to Wednesday, how many pages did he read on Wednesday?
+
+Reasoning and answer: If yesterday the number of buyers was half the number of buyers the day before, then yesterday there were 1 / 2 * 50 = 25 buyers. Today has 40 more buyers than yesterday, so there were 40 + 25 = 65 buyers today. The total number of buyers in the store for the three days will be 65 + 25 + 50 = 140 buyers.
+The answer: 140
+What was the question?
+Question: There are 40 more buyers in the grocery store today than yesterday. There were half the number of buyers yesterday as there were the day before, and the day before had 50 buyers. Nobody visited the store on more than one day. What's the total number of buyers who've visited the store in the three days?
+
+If Maude's age is 8 by the time Anne's age is four times Emile's age, Emile will be six times as old as Maude, which totals 6 * 8 = 48 years. If Emile's age is 48 years old by the time Anne's age is twice her number, Anne will be 2 * 48 = 96 years.
+The answer: 96
+Reverse engineering the question: By the time Anne is two times as old as Emile, Emile will be six times as old as Maude. If Maude will be 8 years old, how old will Anne be?
+
+5 pansies at $2.50 each is 5 * 2.50 = $12.50. 5 petunias at $1.00 each 5 * 1 = $5.00. All total he spends 12.50 + 12.50 + 5.00 = $30.00. The sale is 10% off so 30 * .10 = $3.00. The purchase total now comes to 30 - 3 = $27.00. He pays with a $50 bill so 50 - 27 = $23.00.
+The answer: 23
+Reverse engineering the question:

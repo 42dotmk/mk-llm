@@ -1,0 +1,29 @@
+It appears that you are asking two different questions here, so I will address them separately. 
+
+1. What can I expect in Morgan Stanley Codeathon 2016 starting on 6 August 2016?
+
+Morgan Stanley Codeathon 2016 is a coding competition organized by Morgan Stanley, a leading global financial services firm. The event took place on August 6, 2016, and aimed to attract talented programmers and computer science enthusiasts. Participants were given a series of challenging algorithmic programming problems, which they had to solve within a limited time frame.
+
+During this competitive event, you could expect to experience the following:
+
+- A series of interesting and challenging algorithmic problems designed to test your programming and problem-solving skills.
+- Networking opportunities with fellow participants, who shared a passion for programming and computer science.
+- An opportunity to showcase your skills and talent to representatives from Morgan Stanley, which could potentially lead to employment or internships opportunities within the company.
+- Prizes and recognition for top performers in the competition.
+
+As this event has already taken place, you can review the problems and solutions from the competition on various coding websites and forums.
+
+2. What is the correct approach to solve the 3rd problem of the Morgan Stanley Codeathon 2016 - Samantha and Portfolio Management?
+
+Unfortunately, without the specific details of the problem statement, I am unable to provide the correct approach to solve the problem. However, I can give you general tips on how to approach competitive programming problems, which may help you tackle this problem and others like it.
+
+- Read and understand the problem statement carefully. This is crucial in determining the requirements and constraints of the problem.
+- Identify the problem type. Many competitive programming problems can be classified into categories (e.g., dynamic programming, graph theory, greedy algorithms), which will help you decide on the appropriate technique or algorithm to solve the problem.
+- Break the problem into smaller subproblems, if possible. This will make it easier to solve the overall problem and can be particularly helpful for dynamic programming problems.
+- Consider using standard algorithms or data structures that may be suitable for the problem, such as sorting algorithms, search algorithms, or data structures like stacks, queues, or linked lists. Familiarity with these algorithms and data structures is important in competitive programming.
+- Implement your solution carefully, ensuring that it meets the requirements and constraints of the problem statement. Be mindful of efficiency and complexity, as these can impact the running time of your solution and whether it meets the problem's time limits.
+- Test your solution with provided test cases, and also create additional test cases to ensure the correctness and efficiency of your solution. Evaluate edge cases and corner cases to make sure your solution is robust.
+
+Regarding the multi-choice question: These questions cannot be considered the same, because the first question seeks information about the event itself while the second question asks for guidance on solving the specific problem from that event. Therefore, the correct answer is:
+
+1) no

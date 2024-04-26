@@ -1,0 +1,22 @@
+As of now, there are five officially recognized dwarf planets in our solar system. It's important to keep in mind that this number is subject to change as our knowledge and understanding of celestial bodies evolve over time. Also, keep in mind that there could still be undiscovered dwarf planets lurking out there.
+
+The International Astronomical Union (IAU) is the organization responsible for the classification of celestial bodies, and they established the definition of a dwarf planet in 2006. According to the IAU, a dwarf planet is a celestial body that:
+
+1. Orbits the Sun.
+2. Has sufficient mass to assume a round or nearly round shape due to its own gravity.
+3. Has not cleared its orbit of other debris.
+4. Is not a satellite (moon) of another celestial body.
+
+Here is a brief description of the five recognized dwarf planets:
+
+1. Pluto: Discovered by Clyde Tombaugh in 1930, Pluto was initially classified as the ninth planet. However, in 2006, the IAU redefined the criteria for planets, which led to Pluto being reclassified as a dwarf planet. It is located in the Kuiper Belt, an area beyond Neptune's orbit that is home to numerous small celestial bodies. Pluto takes approximately 248 Earth years to orbit the Sun and has a diameter of about 2,377 kilometers (1,477 miles).
+
+2. Eris: Discovered in 2005, Eris is the largest known dwarf planet with a diameter of approximately 2,326 kilometers (1,445 miles). Its discovery led to the debate that resulted in the IAU's new definition of a planet and the reclassification of Pluto as a dwarf planet. Eris is located in a region of space called the scattered disk, beyond the Kuiper Belt. It has an extremely elliptical orbit that takes about 558 Earth years to complete.
+
+3. Haumea: Discovered in 2004, Haumea is an elongated, egg-shaped dwarf planet with dimensions of about 1,960 x 1,518 x 996 kilometers (1,218 x 944 x 619 miles). It is located in the Kuiper Belt and takes around 284 Earth years to orbit the Sun. Haumea has two known moons, Hi'iaka and Namaka, and has a unique fast rotation, completing one spin in just under four Earth hours.
+
+4. Makemake: Discovered in 2005, Makemake is another Kuiper Belt resident with an approximate diameter of 1,430 kilometers (889 miles). It has one known moon, named S/2015 (136472) 1 or MK2, and it takes about 310 Earth years to complete an orbit around the Sun.
+
+5. Ceres: Discovered in 1801, Ceres was initially classified as a planet but was later reclassified as an asteroid. It is the largest object in the asteroid belt, located between the orbits of Mars and Jupiter. Ceres was eventually reclassified as a dwarf planet in 2006 when the IAU established the new criteria. It has a diameter of about 590 miles (940 kilometers) and takes approximately 4.6 Earth years to orbit the Sun.
+
+In addition to these recognized dwarf planets, there are numerous other celestial bodies that might be classified as dwarf planets in the future. It is estimated that there could be hundreds, perhaps even thousands, of potential dwarf planets residing in various regions of our solar system, waiting to be discovered and classified.

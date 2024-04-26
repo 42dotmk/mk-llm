@@ -1,0 +1,23 @@
+Definition: Given a post that is a real-life anecdote of a complex ethical situation and an associated claim about its type, verify if the claim is true or not. The claim asks if the posts are historical or hypothetical. The posts are "HISTORICAL" when the author has already done something and they are "HYPOTHETICAL" when the author is considering doing something in the future. Say 'yes' if the claim is true otherwise say 'no'
+Input: CLAIM : The following post is HISTORICAL. POST : This is kinda long but has important details
+TL:DR at the bottom
+
+
+
+So I’m decently skilled with cars and engines. I love watching toturials and learning about cars and bikes, I’ve taken a few classes and a very close friend who is a mechanic helps me out with questions or any problems I have. But by no means am I professional.
+
+A lot of my friends when they learn this ask me to do work for them, the times I have they either offer me money upfront or after I do the work they ask how much they owe me. I don’t charge much and could even say I charge a lot less then local shops (I do all this at my house) Also important note. I don’t charge people for referring them to skilled mechanics for certain problems their car has that I can’t fix or don’t have the tools for. Also I don’t charge for looking up pr looking for parts. Never have.
+
+
+So one friend of mine we’ll call her T (because I’m drinking tea rn) learned about my mechanic skills over last summer. She asked if I could work on her car. I said sure, asked her what the problem was. She wanted her speakers replaced, a total brake job, oil change, oil filter and a few other small things. The speakers are the worst for me because I hate wiring. But we had been friends for a long time so I said sure. I helped her track down all the parts she’d need, and everything came to about 400$ she lowered the proce by buying extremely cheap speakers from China. I told her it would take me about a weekend to do the car because of everything.
+
+I brought up id be charging her for it and she asked rudlet how much? I told her I’d do everything for 200 which in my opinion is really good for everything promised. She got really upset and said her bf wpuld do the speakers. Yet he always made excuses not to. I told her that this was a whole weekend of free time being used and I thought I deserved something for doing it. She tried throwing the we’ve been friends for so long card but I said no. She didn’t talk to me for 2 months.
+
+
+About a month ago we were hanging out and her front bumper and the front end were MANGLED mostly held together by duct tape. She told me she lost control in a snow storm and hit something. She asked if I could help fix it. I said sure the bumper for her car was mounted by brackets and we could probably get one at a scrap yard or offline. She wanted a scrap yard even though the colors most likley wouldn’t be the same. She also asked me to change her headlights and get new lenses for them. I felt bad and told her I’d do all that for 100$ and even had spare headlights she could use so she didn’t have to buy them. She called that bullshit and left. We’ve barley talked since and she even bad mouthed me for that to my girlfriend.
+
+
+So AITA should I have done the work at least once for free?
+
+TL:DR Friend wants me to work on her car for free I say no.
+Output:

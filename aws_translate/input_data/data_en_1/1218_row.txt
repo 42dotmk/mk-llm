@@ -1,0 +1,21 @@
+A polarized filter, also known as a polarizer or a polarizing filter, is an optical filter that only allows light waves with a specific polarization to pass through while blocking other orientations. When unpolarized light passes through a polarized filter, it becomes partially polarized with a specific orientation, and this process generally causes a reduction in the overall intensity of the light. This reduction in intensity depends on the filter's transmission axis and the polarization composition of the incoming light waves.
+
+In order to understand how much unpolarized light a polarized filter blocks, let's first break down some essential concepts:
+
+1. Unpolarized light: Unpolarized light consists of light waves that have oscillating electric fields randomly oriented in all planes perpendicular to the direction of travel. Common examples of unpolarized light include sunlight, light from incandescent lamps, and the ambient light in a room.
+
+2. Polarized light: Polarized light consists of light waves that oscillate in a single plane perpendicular to the direction of travel. The process of transforming unpolarized light into polarized light is known as polarization.
+
+3. Polarizing filter: A polarizing filter works by selectively absorbing light waves that have a specific orientation and transmitting only the light waves with the desired polarization. The filter's transmission axis determines the orientation of the light waves that are allowed to pass through. 
+
+Now, let's examine how much unpolarized light is blocked by a polarized filter:
+
+For an ideal polarizing filter, the percentage of unpolarized light that is transmitted through the filter can be found using Malus's Law, which states:
+
+I = I₀ * cos²(θ)
+
+Here, I is the transmitted light intensity, I₀ is the initial light intensity, and θ is the angle between the transmission axis of the polarizing filter and the polarization orientation of the incoming light. Since we're dealing with unpolarized light, which consists of light waves with varying orientations, over a range of angles from 0° to 180°, the average value of cos²(θ) is 0.5. In practical terms, this means that when unpolarized light passes through an ideal polarizing filter, it loses approximately 50% of its initial intensity on average.
+
+However, it is essential to note that most real-world polarizing filters are not completely ideal. In practical applications, the actual amount of unpolarized light that is blocked can vary due to manufacturing imperfections and other factors, such as the properties of the filter materials and the thickness of the filter. Consequently, typical polarizers may transmit slightly more or less than 50% of the incoming unpolarized light.
+
+In conclusion, an ideal polarized filter blocks around 50% of unpolarized light on average. In real-world applications, this percentage may vary slightly depending on various factors such as the quality and design of the polarizer. Nevertheless, the primary function of a polarizing filter is to allow only light waves with a specific polarization orientation to pass through, effectively reducing the overall intensity of unpolarized light.

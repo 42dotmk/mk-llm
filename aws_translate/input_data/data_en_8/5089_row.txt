@@ -1,0 +1,25 @@
+q... Passage: According to historian Saul Cornell, states passed some of the first gun control laws, beginning with Kentucky's law to "curb the practice of carrying concealed weapons in 1813." There was opposition and, as a result, the individual right interpretation of the Second Amendment began and grew in direct response to these early gun control laws, in keeping with this new "pervasive spirit of individualism." As noted by Cornell, "Ironically, the first gun control movement helped give birth to the first self-conscious gun rights ideology built around a constitutional right of individual self-defense."
+
+Question: Based on this passage, when was the first gun law passed in the us?
+a... To answer the above question, the relevant sentence is: According to historian Saul Cornell, states passed some of the first gun control laws, beginning with Kentucky's law to "curb the practice of carrying concealed weapons in 1813."
+The answer is 1813
+
+
+q... Context: In the United States of America, the quantity of cigarettes in a pack must be at least 20. Certain brands, such as Export As, come in a pack of 25. For many years, half-packs of 10 (or even 14) cigarettes were commonly available.
+
+Question: how many cigarettes in a pack in the us?
+a... The relevant sentence in the passage is: In the United States of America, the quantity of cigarettes in a pack must be at least 20.
+The answer is at least 20
+
+
+q... Before Romeo meets Juliet, he loves Rosaline, Capulet's niece and Juliet's cousin. He describes her as wonderfully beautiful: "The all-seeing sun / ne'er saw her match since first the world begun." Rosaline, however, chooses to remain chaste; Romeo says: "She hath forsworn to love, and in that vow / Do I live dead that live to tell it now." This is the source of his depression, and he makes his friends unhappy; Mercutio comments: "That same pale, hard-hearted wench, that Rosaline, torments him so that he will sure run mad." Benvolio urges Romeo to sneak into a Capulet gathering where, he claims, Rosaline will look like "a crow" alongside the other beautiful women. Romeo agrees, but doubts Benvolio's assessment. After Romeo sees Juliet his feelings suddenly change: "Did my heart love till now? Forswear it, sight / For I ne'er saw true beauty till this night." Because their relationship is sudden and secret, Romeo's friends and Friar Laurence continue to speak of his affection for Rosaline throughout much of the play.
+
+Based on this passage, what family is rosaline from in romeo and juliet?
+a... The relevant sentence in the passage is: Before Romeo meets Juliet, he loves Rosaline, Capulet's niece and Juliet's cousin.
+The answer is Capulet
+
+
+q... In the United States, Medicare is a national health insurance program, now administered by the Centers for Medicaid and Medicare Services of the U.S. federal government but begun in 1966 under the Social Security Administration. United States Medicare is funded by a combination of a payroll tax, premiums and surtaxes from beneficiaries, and general revenue. It provides health insurance for Americans aged 65 and older who have worked and paid into the system through the payroll tax. It also provides health insurance to younger people with some disability status as determined by the Social Security Administration, as well as people with end stage renal disease and amyotrophic lateral sclerosis.
+
+What tax is used to provide medical services for persons over the age of 65?
+a...

@@ -1,0 +1,127 @@
+Our study provides a comprehensive, prospective analysis of the contemporary risks of death associated with cigarette smoking in the United States. The rate of death from any cause was 2 to 3 times as high among current smokers as among persons who never smoked, a finding that is consistent with the results in our previous report.3 Approximately 17% of this excess mortality was due to associations with causes that have not been formally established as attributable to smoking. 
+  
+ The rate of death from renal failure was twice as high among current smokers as among persons who never smoked, a finding that is consistent with results from case–control studies.11,12 Smoking is an important cause of the cardiovascular risk factors for renal failure but may also directly impair kidney function.12 Even in patients without underlying renal or cardiovascular diseases, urinary albumin, a marker of potential renal damage, increases in a dose-dependent manner with the number of cigarettes smoked per day.13 
+  
+ Current smoking was associated with an increased risk of death from hypertensive heart disease (according to ICD-10 coding), which is the only category of heart disease not already formally established as attributable to smoking.1 Criteria for attributing a death from heart disease to hypertensive heart disease are not well defined.14 Hypertensive heart disease can include both hypertensive heart failure and other types of heart disease. However, this association is relevant for assessing the public health burden of smoking, since a considerable number of deaths in the United States are attributed to hypertensive heart disease.15 
+  
+ Mortality from intestinal ischemia was strongly associated with current smoking in this cohort, as it was in the Million Women Study.2 The relative risk was approximately 6 among current smokers and decreased with increasing number of years since quitting. To our knowledge, no other large studies have examined this association. Smoking acutely reduces blood flow to the intestines,16 and evidence suggests that smoking causes risk factors that can often lead to intestinal ischemia, including atherosclerosis, platelet aggregation, and congestive heart failure.17 
+  
+ Mortality from infections was more than twice as high among current smokers as among persons who never smoked, and the risk increased with smoking intensity and declined with increasing number of years since cessation. Previous studies have documented higher rates of many infectious diseases among smokers.18,19 The Surgeon General has concluded that cigarette smoke adversely affects immune function and may accelerate the progression of many infectious diseases.1 
+  
+ Current smoking was associated with more than double the risk of death from diseases included in the category of other digestive diseases (ICD-10 codes K00–K54, K56–K69, and K78–K93). The Surgeon General recently concluded that the evidence linking smoking to Crohn’s disease was suggestive but still insufficient.1 Moreover, smoking is an important modifiable risk factor for peptic ulcers20,21 and acute pancreatitis.22,23 Other diseases in this group include paralytic ileus and bowel obstructions, cholelithiasis, diverticulitis, and gastrointestinal hemorrhages. Although these diseases are not common causes of death, they account for millions of hospitalizations each year.24 
+  
+ There is broad agreement that cigarette smoking causes cancers at a minimum of 12 different sites.25,26 This study updates the relative risks of death from cancer at these sites in a contemporary population. We also found additional significant associations with death from breast cancer and from prostate cancer. The Surgeon General has not yet concluded that smoking causes breast cancer.1 We found that the risk of death increased significantly with smoking intensity and declined after cessation of smoking, findings that were similar to results from previous analyses of data from the individual cohorts that were pooled for the current analysis.27-30 Numerous studies have examined the relationship between smoking and breast cancer; however, confounding by alcohol use remains a concern. An analysis of the Million Women Study showed a 13% higher risk of fatal breast cancer among current smokers after adjustment for the number of drinks per week, but no association was observed among women who consumed fewer than three drinks per week.2 In our analysis, smoking remained significantly associated with death from breast cancer among women who were not current drinkers. However, associations between smoking and death from breast cancer may also be biased by differences in screening31 or treatment32 patterns among smokers, and information on these variables was not available in this study. Additional studies with detailed information on these factors may be useful in clarifying whether smoking is causally associated with death from breast cancer. 
+  
+ Mortality from prostate cancer in this population was 43% higher among current smokers than among those who had never smoked, a finding that is consistent with most previous analyses of prostate-cancer mortality.33 The Surgeon General concluded that although there was insufficient evidence that smoking increases the incidence of prostate cancer, the available evidence suggested that current or recent smoking increases the risk of advanced-stage disease and of death from prostate cancer.1 Higher mortality from prostate cancer among smokers could be caused by delayed diagnosis owing to less intense medical surveillance or by a promoting effect of smoking on later stages of carcinogenesis and progression.34 This latter hypothesis is supported by analyses showing associations between smoking and both progression of prostate cancer35 and prostate-cancer–specific mortality among men with prostate cancer.36 Results from our analysis appear to be consistent with an influence of smoking on later stages of carcinogenesis, since we observed no increase in prostate-cancer mortality among men who had recently quit smoking. 
+  
+ We found significantly higher mortality from liver cirrhosis among smokers than among persons who never smoked but did not observe a dose–response pattern with respect to smoking intensity or years since quitting. In a recent analysis of the Million Women Study, mortality from liver cirrhosis was increased by a factor of 3, a finding that was unchanged when the analysis was restricted to women who reported consuming fewer than three drinks per week.2 In our analysis, current smoking was significantly associated with death from liver cirrhosis even among persons who were not current drinkers, although the relative risk was lower in that subgroup than in the overall study population. This association may be confounded by past alcohol use, but it could plausibly be attributed, at least in part, to smoking. Future studies should focus on the risks associated with smoking among persons who have never drunk alcohol. 
+  
+ Overall, associations between smoking and death from the 14 disease categories shown in Table 3 accounted for virtually all the excess mortality associated with smoking that was not already accounted for by diseases previously established as attributable to smoking. We think there is strong evidence for a causal association between smoking and at least 5 of these disease categories — infections, hypertensive heart disease, renal failure, intestinal ischemia, and other respiratory diseases. The associations with respiratory diseases and infections have strong biologic plausibility. Hypertensive heart disease, renal failure, and intestinal ischemia are related to poor vascular function, and the adverse effects of smoking on vascular function in general are well established.17 
+  
+ In addition to these five disease categories, smoking was associated with mortality from cancers of unknown primary site that was increased by a factor of nearly 3. No cancer that has not already been established as caused by smoking is likely to be as strongly associated with smoking as that. Therefore, the excess risk of death from these cancers is likely to have resulted from cancers already established as caused by smoking. The same holds true with respect to deaths from unknown causes. Since the great majority of deaths are from causes established as attributable to smoking, this category probably includes substantial numbers of deaths from known smoking-related diseases. Deaths from the five disease categories we consider likely to be causal combined with deaths from unknown cancers and unknown causes accounted for approximately 10% of the total excess mortality among smokers in this cohort, or about half of all the excess mortality not accounted for by diseases already established as caused by smoking. 
+  
+ Our results suggest that the Surgeon General’s recent estimate of smoking-attributable mortality may have been an underestimate. The Surgeon General’s estimate, which took into account only the 21 diseases formally established as caused by smoking, was that approximately 437,000 deaths among adults are caused each year by active smoking (not including secondhand smoke). However, the Surgeon General’s report presents an alternative estimate of 556,000 deaths among adults on the basis of the excess mortality from all causes. The difference between these two estimates is nearly 120,000 deaths.1 If, as suggested by the results in our cohort, at least half of this difference is due to associations of smoking with diseases that are causal but are not yet formally established as such, then at least 60,000 additional deaths each year among U.S. men and women may be caused by cigarette smoking. 
+  
+ The primary strength of this study is its large size, which enabled us to examine causes of death that are too rare to examine in smaller studies; nonetheless, these outcomes are responsible for a sizable number of smoking-related deaths. This analysis includes mortality data that are updated from our original report and thus provides more precise estimates of the contemporary risks of death associated with smoking. 
+  
+ A notable limitation of this study is that most members of the study population were white, and on average, they were better educated than the general population. Another limitation is that the associations observed in this study could be confounded by differences between smokers and nonsmokers with respect to risk factors including diet, physical activity, and access to medical care. The potential for confounding varies depending on the specific mortality outcome. However, in an earlier study of smoking and mortality, adjustment for demographic and behavioral factors had a minimal effect on risk estimates.37 
+  
+ In conclusion, this comprehensive examination of cause-specific mortality in a large contemporary population identified associations between smoking and increased mortality from several diseases that are not currently established as caused by smoking. Although these associations should be investigated further, our results suggest that the number of persons in the United States who die each year as a result of smoking cigarettes may be substantially greater than currently estimated. ||||| The U.S. surgeon general says about 480,000 Americans die each year as a result of smoking. But a new analysis suggests the true figure may be closer to 575,000. 
+  
+ The 21 causes of death that have been officially blamed on smoking accounted for 83% of the actual deaths among smokers who were tracked in a study published in Thursday’s edition of the New England Journal of Medicine. 
+  
+ Additional diseases -- including breast cancer, prostate cancer, hypertensive heart disease and renal failure -- were responsible for most of the rest of the observed deaths. A very small number of deaths were due to things such as accidents and suicide, which have a more tenuous link to smoking. 
+  
+ Researchers from the American Cancer Society, the National Cancer Institute and elsewhere combined data from five large, ongoing health studies: the Nurses’ Health Study I, the Women’s Health Initiative, the Health Professionals Follow-up Study, the Cancer Prevention Study II and the National Institutes of Health-AARP Diet and Health Study. The researchers included 954,029 men and women who were being tracked as of Jan. 1, 2000, and who had told interviewers about their smoking status. 
+  
+ Between 2000 and 2011, 16,475 (19%) of the 88,616 smokers died, as did 108,253 (23%) of the 469,141 former smokers and 56,649 (14.3%) of the 396,272 people who had never smoked, according to the study. 
+  
+ Smokers were more likely than nonsmokers to have died from one of the established smoking-related diseases, the researchers found. These included most kinds of heart disease; stroke; chronic obstructive pulmonary disease; pneumonia, influenza and tuberculosis; atherosclerosis; aortic aneurysms and other arterial diseases; diabetes; acute myeloid leukemia; and cancers of the lung, pancreas, colon and rectum, kidney, liver, bladder, larynx, lip and oral cavity, stomach and esophagus. 
+  
+ These diseases were responsible for the overwhelming majority of deaths among men and women who were still smoking at the end of their lives. 
+  
+ But not all of them. Another 17% of deaths among female smokers and 15% of the deaths of male smokers were traced to other causes. 
+  
+ In nearly every case, the diseases in this second group were more likely to kill current smokers than nonsmokers, according to the study. 
+  
+ For instance, female smokers were 30% more likely to die of breast cancer than their non-smoking counterparts, and men who smoked were 40% more likely to die of prostate cancer than their non-smoking peers. Rare cancers were 60% more likely to kill men if they were smokers, the researchers found. 
+  
+ The risk of death due to infections was more than twice as high for smokers than for nonsmokers. Ditto for hypertension, hypertensive renal disease and a range of digestive diseases. 
+  
+ Smokers were 2.6 to 3.6 times more likely than nonsmokers to die of liver cirrhosis and 1.9 to 2.1 times more likely to die of kidney failure. Hypertensive heart disease, some kinds of respiratory diseases and ischemic disorders of the intestines were also more likely to kill smokers than nonsmokers, the study authors calculated. 
+  
+ The more cigarettes a person smoked per day, the greater his or her risk of dying from infections, breast cancer or kidney failure. Among those who quit, the longer it had been since the last cigarette, the lower the risk of dying from infections or breast cancer, according to the report. 
+  
+ The researchers laid out the biological mechanisms that could plausibly explain why some of these diseases would be more likely to kill smokers. In the case of infections, for example, cigarette smoke is known to hinder immune function. Smoking is also known to reduce blood flow to the intestines, potentially explaining the link to intestinal and digestive diseases. 
+  
+ Compared to the U.S. population as a whole, the people included in this study were more likely to be white and to be highly educated. That limits researchers’ ability to generalize the findings to the entire country. 
+  
+ Still, the study authors didn’t hesitate to say that the surgeon general should go back and check the math. 
+  
+ “Our results suggest that the number of persons in the United States who die each year as a result of smoking cigarettes may be substantially greater than currently estimated,” they wrote. 
+  
+ For more medical news you can use, follow me on Twitter @LATkarenkaplan and "like" Los Angeles Times Science & Health on Facebook. ||||| About 42 million Americans smoke — 15 percent of women and 21 percent of men — according to the Centers for Disease Control and Prevention. Research has shown that their death rates are two to three times higher than those of people who have never smoked, and that on average, they die more than a decade before nonsmokers. Smokers are more than 20 times as likely as nonsmokers to die of lung cancer. Poor people and those with less formal education are the most likely to smoke. 
+  
+ Mr. Carter said he had been inspired to dig deeper into the causes of death in smokers after taking an initial look at data from five large health surveys being conducted by other researchers. The participants were 421,378 men and 532,651 women 55 and older, including nearly 89,000 current smokers. 
+  
+ As expected, death rates were higher among the smokers. But diseases known to be caused by tobacco accounted for only 83 percent of the excess deaths in people who smoked. 
+  
+ Photo 
+  
+ “I thought, ‘Wow, that’s really low,’ ” Mr. Carter said. “We have this huge cohort. Let’s get into the weeds, cast a wide net and see what is killing smokers that we don’t already know.” 
+  
+ The research was paid for by the American Cancer Society, and Mr. Carter worked with scientists from four universities and the National Cancer Institute. 
+  
+ The study was observational, meaning that it looked at people’s habits, like smoking, and noted statistical correlations between their behavior and their health. Correlation does not prove a cause-and-effect relationship, so this kind of research is not considered as strong as experiments in which participants are assigned at random to treatments or placebos and then compared. But people cannot ethically be instructed to smoke for a study, so a lot of the data on smoking’s effects on people comes from observational studies. 
+  
+ Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters. 
+  
+ Analyzing deaths among the participants from 2000 to 2011, the researchers found that, compared with people who had never smoked, smokers were about twice as likely to die from infections, kidney disease, respiratory ailments not previously linked to tobacco, and hypertensive heart disease, in which high blood pressure leads to heart failure. Smokers were also six times more likely to die from a rare illness caused by insufficient blood flow to the intestines. 
+  
+ Mr. Carter said he had confidence in the findings because, biologically, it made sense that those conditions were related to tobacco. Smoking can weaken the immune system, increasing the risk of infection, he said. It is also known to cause diabetes, high blood pressure and artery disease, all of which can lead to kidney problems. Artery disease can also choke off the blood supply to the intestines. Lung damage from smoke, combined with increased vulnerability to infection, can lead to multiple respiratory illnesses. 
+  
+ Advertisement Continue reading the main story 
+  
+ Two other observations supported the findings, he said. One was that the more heavily a person smoked, the greater the added risks. The second was that among former smokers, the risks diminished over time. In general, such effects, known as a dose response, suggest that an observed correlation is more than a coincidence. 
+  
+ The study also found small increases in the risks of breast and prostate cancer among smokers. Mr. Carter said those findings were not as strong as the others, adding that additional research could help determine whether there were biological mechanisms that would support a connection. 
+  
+ A 2014 report by the surgeon general’s office said the evidence for a causal connection between smoking and breast cancer was “suggestive but not sufficient.” The same report found no evidence that smoking caused prostate cancer, but it noted that in men who did have prostate cancer, smoking seemed to worsen the outcome. 
+  
+ The diseases that had previously been established by the surgeon general as caused by smoking were cancers of the esophagus, stomach, colon, liver, pancreas, larynx, lung, bladder, kidney, cervix, lip and oral cavity; acute myeloid leukemia; diabetes; heart disease; stroke; atherosclerosis; aortic aneurysm; other artery diseases; chronic lung disease; pneumonia; influenza; and tuberculosis. ||||| A new study suggests that smoking may be responsible for 60,000 to 120,000 more deaths in the U.S. each year than previously thought. 
+  
+ The examination of 181,377 fatalities logged in five large databases found that many of the excess deaths among smokers were due to causes not previously linked to smoking, such as kidney failure, infections and possibly breast and prostate cancers. 
+  
+ Until now, 21 common diseases have been associated with cigarette smoking, including diabetes, 12 cancers and six forms of cardiovascular disease. The new research, published in the New England Journal of Medicine, may expand that list. 
+  
+ "We were interested in whether smoking causes more than these diseases that are on the list. And we certainly did find some," coauthor Eric Jacobs told Reuters Health. "The fact that about 17 percent of the extra deaths that occur in smokers were due to causes that were not on the Surgeon General's list was a bit of a surprise to me." 
+  
+ If the findings are applied nationwide, he said, the number of previously-unrecognized smoking-related deaths could be greater than the total number of Americans who die each year of influenza or liver disease. 
+  
+ Until this study, about 480,000 U.S. deaths each year were believed to be attributable to cigarettes. 
+  
+ The researchers also found that the elevated risks faded as smokers stayed off cigarettes. 
+  
+ The findings derive from databases following nearly a million people over age 54 for about a decade. 
+  
+ The researchers expected to see smokers dying faster than nonsmokers, and they did. 
+  
+ But when they looked beyond conventional causes, they found that smoking doubled the risk of death from kidney failure and from various respiratory diseases. It also seemed to pose a six-fold risk of death from intestinal ischemia, where the intestine is damaged by reduced blood flow. 
+  
+ The risk of death from infections was 2.3 times higher and the likelihood of death from cirrhosis of the liver was 3.1 times higher. 
+  
+ Breast cancer deaths were 30 percent higher among the smokers. Prostate cancer death rates were elevated by 40 percent. 
+  
+ In many cases, the more people smoked, the greater the risk. That wasn't seen in prostate cancer, "but the risk of death decreased significantly as the number of years since quitting smoking increased," said Dr. Graham Colditz of the Washington University School of Medicine, St. Louis, in an editorial. 
+  
+ "It's not a surprise that smoking kills. We've known that for years," said Jacobs, who is director of pharmacoepidemiology at the American Cancer Society. "But it's important for people to realize the full impact that smoking has in terms of the national deaths. So eliminating smoking needs to be a national priority." 
+  
+ In his editorial, Colditz points out that 18 percent of the U.S. population, 42 million Americans, smoke, and public health efforts to help them quit have not done enough to change “social norms.” 
+  
+ In the U.S., smoking has become a habit of the poor and the poorly-educated, Colditz told Reuters Health. He said that "in 2013, a total of 29 percent of adults below the poverty line smoked, whereas 16 percent at or above the poverty level did. In addition, only 6 percent of adults with advanced college degrees smoked, whereas 41 percent of those with a general equivalency degree did." 
+  
+ Colditz writes in the editorial, “The Affordable Care Act provides expanded access to cessation support for many, but holes in Medicaid coverage in many states leave numerous smokers without as much evidence-based support as they need.” 
+  
+ SOURCE: bit.ly/1xJnCqb New England Journal of Medicine, online February 11, 2015. |||||
+
+Write a summary.

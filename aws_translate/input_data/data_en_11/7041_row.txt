@@ -1,0 +1,25 @@
+First find how long Milly spends studying geography by dividing her math homework time by 2: 60 minutes / 2 = 30 minutes. Now find the total amount of time Milly spent on math and geography: 30 minutes + 60 minutes = 90 minutes. Now calculate the mean amount of time Milly spends on math and geography by dividing the total time spent by the number of subjects, which is 2: 90 minutes / 2 = 45 minutes. Now add the time Milly spent on all three subjects to find the total: 45 minutes + 30 minutes + 60 minutes = 135 minutes.
+The answer: 135
+Reverse engineering the question: Milly is figuring out how long she needs to spend studying. She knows that her math homework will take 60 minutes. Her geography homework will take half as long as her math homework, and her science homework will take time equal to the mean amount of time she spent studying math and geography. How many minutes does Milly spend studying?
+
+Reasoning and answer: First find the number of pills Janet takes every day for the first 2 weeks: 2 pills / day + 3 pills / day = 5 pills / day. Then find the number of days in 2 weeks: 2 weeks * 7 days / week = 14 days. Then multiply that number by the number of pills she takes daily to find the total number of pills she takes in the first 2 weeks: 5 pills / day * 14 days = 70 pills. Then find the number of pills Janet takes every day for the last 2 weeks: 2 pills / day + 1 pill / day = 3 pills / day. Then multiply that number by the number of days in 2 weeks to find the total number of pills she takes in the last 2 weeks: 3 pills / day * 14 days = 42 pills. Then add the number of pills she took in the first and last two weeks to find the total number of pills she took: 42 pills + 70 pills = 112 pills.
+The answer: 112
+What was the question?
+Question: Janet takes two multivitamins and 3 calcium supplements every day for the first 2 weeks of the month. For the last two weeks of the month, she runs low on calcium supplements and only takes one per day. How many pills does Janet take in that month?
+
+195 - 51 = 144 = miles the 3 runners ran. 144 / 3 = 48 miles. Harriet ran 48 miles.
+The answer: 48
+Reverse engineering the question: Four runners ran a combined total of 195 miles last week. Katarina ran 51 miles. Tomas, Tyler, and Harriet all ran the same distance. How many miles did Harriet run?
+
+Reasoning and answer: He gets 150 * 10 = 1500 points. The bonus is worth 1500 * .5 = 750 points. So his total score is 1500 + 750 = 2250 points.
+The answer: 2250
+What was the question?
+Question: Tom is playing a game and gets 10 points for killing an enemy. If he kills at least 100 enemies he gets a 50% bonus to his score. What was his total score if he killed 150 enemies?
+
+Let X be the age of Cooper. So Dante is X * 2 years old and Maria is X * 2 + 1 year old. The sum of Cooper’s, Dante’s, and Maria’s ages is X + (X * 2) + (X * 2 + 1) = 31. Combining like terms, we get X * 5 + 1 = 31. Subtracting one from both sides, we get X * 5 = 30. Dividing both sides by 5, we get X = 6 years old.
+The answer: 6
+Reverse engineering the question: The sum of Cooper’s, Dante’s, and Maria’s ages is 31. Dante is twice as old as Cooper. Maria is one year older than Dante. How old is Cooper?
+
+Let's say that N is what Nada has, J is what John has, and A is what Ali has. We know that A = N - 5 and J = 4N. We also know that: N + A + J = $67. We can substitute the equations from step 1 into the equations from step 2 to get: N + 4N + (N - 5) = $67. Combining like terms gets us 6N - 5 = $67. So, N = ($67 + 5) / 6 = $12. Substituting $12 back into the equation J = 4 N, we find John has 4 x 12 = $48.
+The answer: 48
+Reverse engineering the question:

@@ -1,0 +1,25 @@
+q... Yeshwant Vishnu Chandrachud (12 July 1920 -- 14 July 2008) was the 16th Chief Justice of India, serving from 22 February 1978 to the day he retired on 11 July 1985. Born in Pune in the state of Maharashtra, he was first appointed Judge to the Supreme Court of India on 28 August 1972 and is the longest-serving Chief Justice in India's history at 7 years and 4 months. His nickname was Iron hands after his well regarded unwillingness to let anything slip past him.
+
+Answer this question based on the passage: who had the longest tenure as chief justice of india?
+a... This is the relevant information: Born in Pune in the state of Maharashtra, he was first appointed Judge to the Supreme Court of India on 28 August 1972 and is the longest-serving Chief Justice in India's history at 7 years and 4 months.
+The answer is Yeshwant Vishnu Chandrachud
+
+
+q... Context: "What Part of No" is a song written by Wayne Perry and Gerald Smith, and recorded by American country music artist Lorrie Morgan. It was released in December 1992 as the second single from her album Watch Me. The song reached Number One on the U.S. Billboard Hot Country Singles & Tracks charts dated for the week of February 27, 1993, holding the Number One position for three weeks. To date, it is Morgan's biggest hit.
+
+Question: who sang what part of no don't you understand?
+a... The relevant information to answer the above question is: "What Part of No" is a song written by Wayne Perry and Gerald Smith, and recorded by American country music artist Lorrie Morgan.
+The answer is Lorrie Morgan
+
+
+q... The General Lee (sometimes referred to as simply "the General") is a 1969 Dodge Charger driven in the television series The Dukes of Hazzard by the Duke boys, Bo and Luke, along with cousins Coy and Vance (in season 5). It is known for its signature horn, its police chases, stunts -- especially its long jumps -- and for having its doors welded shut, leaving the Dukes to climb in and out through the windows. The car appears in every episode but one ("Mary Kaye's Baby"). The car's name is a reference to American Civil War general Robert E. Lee. It bears a Confederate flag (a rectangular variant of the square battle flag of Lee's Army of Northern Virginia) on its roof, and also has a horn which plays the first twelve notes of the song "Dixie".
+
+Answer this question based on the passage: what was the car on dukes of hazzard?
+a... The important part for answering this question is: The General Lee (sometimes referred to as simply "the General") is a 1969 Dodge Charger driven in the television series The Dukes of Hazzard by the Duke boys, Bo and Luke, along with cousins Coy and Vance (in season 5).
+The answer is a 1969 Dodge Charger
+
+
+q... On June 14, 1777, the Second Continental Congress passed the Flag Resolution which stated: "Resolved, That the flag of the thirteen United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new constellation." Flag Day is now observed on June 14 of each year. While scholars still argue about this, tradition holds that the new flag was first hoisted in June 1777 by the Continental Army at the Middlebrook encampment.
+
+When was the american flag flown for the first time?
+a...

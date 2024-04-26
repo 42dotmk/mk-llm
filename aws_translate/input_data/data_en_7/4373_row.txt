@@ -1,0 +1,29 @@
+## question
+The word first occurs in the Hebrew Bible in Numbers 5: 22 when the Priest addresses a suspected adulteress and she responds "Amen, Amen". Overall, the word appears in the Hebrew Bible 30 times.
+
+Answer this question: when was amen first used in the bible?
+## answer
+The important part for answering this question is: The word first occurs in the Hebrew Bible in Numbers 5: 22 when the Priest addresses a suspected adulteress and she responds "Amen, Amen".
+So the answer must be Numbers 5 : 22 when the Priest addresses a suspected adulteress and she responds `` Amen , Amen ''
+
+## question
+Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota. As of 2017, the city's estimated population was 309,180. Saint Paul is the county seat of Ramsey County, the smallest and most densely populated county in Minnesota. The city lies mostly on the east bank of the Mississippi River in the area surrounding its point of confluence with the Minnesota River, and adjoins Minneapolis, the state's largest city. Known as the "Twin Cities", the two form the core of Minneapolis -- Saint Paul, the 16th-largest metropolitan area in the United States, with about 3.6 million residents.
+
+Answer this question: st paul is the capital of which usa state?
+## answer
+To answer the above question, the relevant sentence is: Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota.
+So the answer must be Minnesota
+
+## question
+Context: Open carry of a handgun without a permit is legal in Virginia at age 18, withstanding other applicable laws. Concealed carry of a handgun is allowed for persons who hold a valid CHP (concealed handgun permit), comply with certain restrictions, or who hold certain positions. Virginia shall issue a CHP to applicants 21 years of age or older, provided that they meet certain safety training requirements and do not have any disqualifying criminal convictions. Consuming an alcoholic beverage in ABC on-premises licensed restaurants and clubs, while carrying a concealed handgun, is prohibited; nor may any person carry a concealed handgun in a public place while under the influence of alcohol or illegal drugs. Any person permitted to carry a concealed firearm may not carry one in such manner in a public place while intoxicated. Possession of a firearm can compound the penalty for various other offenses, including illegal drug possession. Open carry while intoxicated is not addressed in the law and can presumed to be legal unless otherwise specified.
+
+Question: age to get concealed carry permit in virginia?
+## answer
+To answer this question, we should know that: Virginia shall issue a CHP to applicants 21 years of age or older, provided that they meet certain safety training requirements and do not have any disqualifying criminal convictions.
+So the answer must be 21 years of age or older
+
+## question
+Context: The music video for "Head Above Water" was filmed in Iceland (Vík í Mýrdal) and directed by Elliott Lester and it was released on September 27, 2018, on Lavigne's 34th birthday. The music video ends with an important message to join Lavigne's fight against Lyme disease by joining her namesake foundation, which supports Lyme disease prevention, treatment, and research.
+
+Question: where was avril lavigne's head above water video filmed?
+## answer

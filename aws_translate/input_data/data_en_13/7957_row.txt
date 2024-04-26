@@ -1,0 +1,75 @@
+Summarize this article:
+
+Above image by Annie Fischinger (creative commons license) 
+  
+ Guest Post by Nathaniel J. Dominy, Professor of Anthropology and Biological Sciences, Dartmouth College; OpEd Project Public Voices Fellow (Full bio below this post) 
+  
+ Robert L. May graduated from Dartmouth College in 1926 and soon afterwards published a classic monograph of animal social behavior, Rudolph the Red-nosed Reindeer. May reported observations of reindeer disporting themselves and excluding an individual, Rudolph, for having a uniquely large, red nose. The radiance of this nose, which May described as “dazzling” in daylight and “glowing” at night, later proved advantageous on Christmas Eve, when thick Arctic fog disrupted the flight preparations of Santa Claus and his team of eight reindeer. Under these conditions, Rudolph’s nose produced sufficient light for safe aviation and the global distribution of gifts (Figure 1 below). 
+  
+ This account of Rudolph’s nose and its brilliance under specific atmospheric conditions is familiar to most biologists, but it is also viewed as a spurious anatomical novelty, which could explain why the sensory ecology of luminescent noses is practically unstudied. 
+  
+ New findings on the color vision of reindeer may elucidate the potential selective advantages of a luminescent nose. For example, it was discovered recently that the vision of Arctic reindeer (Rangifer tarandus tarandus) is sensitive to ultraviolet (UV) light, a rare trait among diurnal mammals. The ecological function of this visual sensitivity is uncertain, but it could enhance the ability of reindeer to detect objects that absorb UV light, such as predators and plant foods, against a background of snow cover, which reflects UV light to different extents. The potential fitness benefits of discriminating UV-absorbing targets could be greatest in mid-winter, when the sun is low on the horizon and high atmospheric (Rayleigh) scattering produces UV-enriched light. 
+  
+ Still more surprising is the unparalleled plasticity of reindeer eyes, which change color seasonally. The tapetum lucidum of the retina (the reflective tissue responsible for “eye shine”) shifts from a rich golden color during the summer months to a deep blue color during the winter months, perhaps to increase visual sensitivity to shorter (bluer) wavelengths under dim (mesopic) conditions. Taken together, these recent findings point to a specialized visual system and ecology that is strikingly suboptimal for late-December fog. 
+  
+ Light transmission in fog 
+  
+ Fog is an aggregation of suspended water droplets or ice crystals immediately above the surface of the Earth. It forms when moist air is cooled below its dew point or frost point and some of the water vapor condenses; and, by definition, human visibility is < 1000 m. Robert May described ground fog “as thick as white fizz” and near zero visibility (it was “dark and drear“), which suggests one of two possible fog types: radiation fog or ice fog. Radiation fog is produced when the ground cools the air above it by contact. Ice fog occurs when warm air interacts with extremely cold air and the water vapor sublimates, or changes directly into a solid, to form tiny ice crystals suspended in the air. 
+  
+ The opacity of fog is wavelength-dependent. Longer (redder) wavelengths travel farthest, but the distance varies as an inverse function of droplet size. If the droplet sizes exceed the wavelength of light, then Mie scattering extinguishes all light regardless of wavelength. 
+  
+ Such scatter prevails in most fog types, rendering them optically opaque, but a red luminescent nose is predicted to outshine any other kind of nose, 
+  
+ with greater transmission in ice fog (typical ice particles: < 10 μm) than radiation fog (typical droplet sizes: 10-20 μm). To explore the extent to which Rudolph’s nose might be optimized for vision in fog, it is necessary to know the spectral composition of the radiant light. 
+  
+ The color of Rudolph’s nose 
+  
+ A clue to the color, or chromaticity, of Rudolph’s nose emerged in Barbara Hazen’s (1958) adaptation of May’s original work. In this version, Rudolph hides behind a holly hedge so that “his bright red nose blended in with the bright red berries.” Figure 2 (below) illustrates this episode and the reflectance spectra of ripe holly fruits (Ilex aquifolium). If we assume that such spectra are representative of Arctic holly fruits, and we assume a similar radiant spectrum from Rudolph’s nose, then we can estimate radiant light with spectral peak of ca. 700 nm. Such a peak is not only supremely red, but also the maximum redness visible to most mammals. 
+  
+ Such conjecture on the color of Rudolph’s nose is necessarily speculative, but it does suggest a nose that is optimized for light transmission in fog, particularly in late December when reindeer eyes are sensitized to seeing blue wavelengths that attenuate rapidly in fog. 
+  
+ Reindeer, then, appear to have greater need for a red fog light than other mammals, which could explain why Rudolph’s nose was so effective for aviation in thick fog. 
+  
+ Expected increases in efficiency and safety during long-distance flight could confer fitness benefits; however, these advantages may be offset by high thermal costs. The noses of reindeer have a rich microvascular system and are therefore quite warm, a trait that prevents freezing but results in substantial heat loss. Excessive heat radiation in his glowing nose could put Rudolph at risk of hypothermia under cold weather conditions. 
+  
+ It is therefore imperative for children to provide high-calorie foods to replenish Rudolph’s low energetic reserves on Christmas Eve. 
+  
+ On balance, the selective advantages of a red luminescent nose appear to outweigh the costs, which raises questions about the frequency of the trait in the population. It may be on the rise; however, the frequency of fog is decreasing worldwide, a pattern that may offset the occasional selective advantages of a luminescent nose. Another hypothesis holds that Rudolph’s red nose is infected with nasal parasites and simply inflamed. Such contrasting hypotheses invite testing, and it is hoped that future research on the optical properties of Arctic light and fog will shed, dare I say, new light, on the extraordinary biology and sensory ecology of reindeer. 
+  
+ For a child-friendly version of this blog post, please see: Frontiers for Young Minds. 
+  
+ Filed under: satire, holiday spirit 
+  
+ Nathaniel Dominy is a Professor in the Departments of Anthropology and Biological Sciences at Dartmouth College. His research is focused on the functional ecology and anatomy of humans and nonhuman primates, with a specific interest in how these organisms discern, acquire, and assimilate edible tissues. The present blog post, his first, was motivated by his four-year-old daughter, Eleanor, who asked, “Why don’t all reindeer have glowing noses?” ||||| Here are the scientific benefits of Rudolph’s red nose 
+  
+ by Brian Galloway 
+  
+ Rudolph the Red-Nosed reindeer absolutely had a very shiny nose, but did it really help him find his way through a foggy Christmas Eve sky? 
+  
+ The study was recently published in the journal Frontiers For Young Minds, a journal focused on answering questions aimed at children in hopes of stimulating an interest in science. Nathaniel J. Dominy is a professor of Anthroplogy at Dartmouth who claims Rudolph’s effectiveness comes from the Arctic reindeer’s special vision. 
+  
+ Dominy claims that “New findings about the color vision of reindeer could hold important clues about the value of a luminescent nose.” Reindeer can see in the ultraviolet spectrum which is invisible to humans, but it helps reindeer spot important things such as predators and food. 
+  
+ This is important because the sun’s position in the sky during an arctic winter casts much more UV-light than normal, so being able to see UV rays would allow Rudolph to lead the sleigh more effectively. 
+  
+ The reindeer’s eyes also adjust to see different types of light depending on the season—yellows and reds during the summer and blues during the winter. Fog would block out most blue light, so Rudolph’s red nose is necessary to see through the fog. 
+  
+ Such a vascular nose would lose heat very quickly in the cold winter air, so Dominy claims in a statement that “it is imperative for children to provide high-calorie foods to help Rudolph replenish his energetic reserves of Christmas Eve.” 
+  
+ So please don’t forget to put out some Christmas cookies for Santa and his team of reindeer. Dominy claims that the frequency of foggy weather is declining worldwide due to climate change, but there’s still a chance that Rudolph’s luminescent nose will be necessary on this Christmas Eve. 
+  
+ ----- 
+  
+ Feature Image: DreamWorks Classics ||||| "Rudolph the Red-Nosed Reindeer" is by the Robert L. May, Dartmouth class of 1926. Credit: Rauner Special Collections Library, Dartmouth. We're all familiar with the story of Rudolph the Red-Nosed Reindeer by Robert L. May (a class of 1926 Dartmouth alumnus) but scientifically speaking, what are the optical benefits of a shiny red nose on a foggy Christmas Eve? 
+  
+ In a paper just published by Frontiers for Young Minds, Nathaniel J. Dominy, Professor of Anthropology at Dartmouth, explores this very question. By citing research by other scientists on the unique eyes and vision of Arctic reindeer, Dominy explains why Rudolph is able to lead Santa and his team of eight tiny reindeer through the thick Arctic fog. 
+  
+ Dominy points out that Arctic reindeer (scientific name Rangifer tarandus tarandus) can see ultraviolet light, which is invisible to humans and most mammals—a trait that comes especially handy in mid-winter when the sun is low on the horizon and the high scattered light from the atmosphere is mainly blueish and ultraviolet. In addition, the reflective tissue (tapetum lucidum) in reindeer eyes changes from a rich golden color during the summer months to a deep blue color during the winter months. This tissue (which causes eye shine at night) helps nocturnal animals see in the dark, and a blue one is expected to improve their ability to see blue light. Yet, fog extinguishes blue light more readily than red light, which may make it especially difficult for Santa's reindeer to see blue effectively, never mind fly. 
+  
+ This is where Rudolph's luminescent (glowing) nose comes into play, as it serves as an excellent fog light for navigating his fellow reindeer. Given that the redness of Rudolph's nose is similar to red holly berries, Dominy was able to estimate the color of light emitted from Rudolph's nose by measuring the color of holly berries. He found that Rudolph's nose is probably the maximum level of redness that mammals are able to see, which may explain why Rudolph's nose is effective as a fog light. 
+  
+ A paper mache of Rudolph the Red-Nosed Reindeer, which once graced the Chicago lawn of his creator, Robert L. May, Dartmouth class of 1926. Credit: Eli Burakian, class of 2000, Dartmouth College. 
+  
+ According to Dominy, Rudolph's nose also poses a problem. Reindeer noses are extremely vascular, which causes them to lose body heat through their noses. A glowing nose could cause excessive heat loss for Rudolph, putting him at risk of hypothermia. "It is therefore imperative for children to provide high-calorie foods to help Rudolph replenish his energetic reserves on Christmas Eve," says Dominy. As a result of the unique properties of Rudolph, it is no wonder that with a nose so bright, he is able to effectively guide Santa's sleigh. 
+  
+ Explore further: Rudolph the Red Nosed blood vessel |||||

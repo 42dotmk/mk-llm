@@ -1,0 +1,22 @@
+Student A:Merry Clayton (born December 25, 1948) is an American soul and gospel singer and an actress. She provided a number of backing vocal tracks for major performing artists in the 1960s, most notably in her duet with Mick Jagger on the Rolling Stones song "Gimme Shelter." Clayton is featured in 20 Feet from Stardom, the Oscar-winning documentary about background singers and their contributions to the music industry. In 2013, she released The Best of Merry Clayton, a compilation of her favorite songs.
+
+Answer this question: who sang with the rolling stones on gimme shelter?
+Student B:OK... The relevant information is: She provided a number of backing vocal tracks for major performing artists in the 1960s, most notably in her duet with Mick Jagger on the Rolling Stones song "Gimme Shelter."
+Merry Clayton.
+
+Student A:The following is a listing of all 30 current National Basketball Association (NBA) teams ranked by win-loss record percentage, accurate as of the end of the 2016 -- 17 NBA season. The records do not count wins and losses recorded by a team's playing time in the American Basketball Association (ABA), despite the 1976 NBA-ABA merger. The San Antonio Spurs have the highest win-loss record percentage, with. 624. The Minnesota Timberwolves have the lowest win-loss record percentage, with. 391. The Boston Celtics have recorded the most wins, with 3,274, while the Sacramento Kings have recorded the most losses at 2,955. The Boston Celtics lead the association with the most played games, with 5,560. Conversely, the Pelicans have played the least overall games, with 1,132.
+
+What nba team has the highest winning percentage?
+Student B:OK... To answer this question, we should know that: The San Antonio Spurs have the highest win-loss record percentage, with. 624.
+The San Antonio Spurs.
+
+Student A:It is bordered on the west by the Pacific Ocean and on the north and east by the Atlantic Ocean; North America and the Caribbean Sea lie to the northwest. It includes twelve sovereign states (Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela), a part of France (French Guiana), and a non-sovereign area (the Falkland Islands, a British Overseas Territory though this is disputed by Argentina). In addition to this, the ABC islands of the Kingdom of the Netherlands, Trinidad and Tobago, and Panama may also be considered part of South America.
+
+Answer this question based on the passage: how many countries is there in south america?
+Student B:OK... The relevant information is: It includes twelve sovereign states (Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela), a part of France (French Guiana), and a non-sovereign area (the Falkland Islands, a British Overseas Territory though this is disputed by Argentina).
+twelve.
+
+Student A:In dogs and cats, chips are usually inserted below the skin at the back of the neck between the shoulder blades on the dorsal midline. According to one reference, continental European pets get the implant in the left side of the neck. The chip can often be felt under the skin. Thin layers of connective tissue form around the implant and hold it in place.
+
+Based on this passage, where do they put the chip in dogs?
+Student B:

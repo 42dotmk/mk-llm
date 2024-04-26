@@ -1,0 +1,27 @@
+Reasoning and answer: One half of a 1 / 2 - ounce liquid is (1 / 2) * (1 / 2) = 1 / 4 ounces. 1 / 4 ounce of Dawn liquid soap can make (1 / 4) * 200,000 = 50,000 bubbles. 1 / 4 ounce of Dr. Bronner's liquid soap can make 2 * (1 / 4) * 200,000 = 100,000 bubbles. Therefore, a half ounce of an equal mixture of Dawn and Dr. Bronner's liquid soaps can make 50,000 + 100,000 = 150,000 bubbles.
+The answer: 150000
+What was the question?
+Question: If 1 ounce of Dawn liquid soap can make 200,000 bubbles, and Dr. Bronner's liquid soap can make twice as many bubbles per ounce as Dawn liquid soap, then how many bubbles can be made from one half ounce of an equal mixture of Dawn and Dr. Bronner's liquid soaps?
+
+Tommy and Jessie have 3 + 3 = 6 cars. Jessie's brother has 5 + 6 = 11 cars. Altogether, they have 6 + 11 = 17 cars.
+The answer: 17
+Reverse engineering the question: Tommy has 3 toy cars. His neighbor, Jessie, has 3 cars too. Jessie's older brother has 5 more cars than Tommy and Jessie. How many cars do the three of them have altogether?
+
+Reasoning and answer: There are 7 days in a week and they're going for 2 weeks so that's 7 * 2 = 14 days. The daily rate is $125.00 and they are staying for 14 days so that's 125 * 14 = $1,750.00. There is also a $100.00 pet fee on top of their rental fee of $1,750.00 so that's 100 + 1750 = $1850.00. There is a 20% fee on the $1,850.00 so the fee comes to .20 * 1850 = $370.00. The rental will costs $1,850.00 and there is $370.00 service / cleaning fee for a total of 1850 + 370 = $2,220.00. They need to pay 50% of the entire bill as a security deposit so that will be .5 * 2220 = $1,110.00.
+The answer: 1110
+What was the question?
+Question: Lana and Mike are taking their dog and renting a cabin in the mountains for 2 weeks. The daily rate is $125.00 There is a $100.00 pet fee. There is also a 20% service/cleaning fee for the rental. They need to pay 50% of the entire bill as a security deposit. How much is their security deposit?
+
+Crossing the lake two times (back and forth) would take 4 * 2 = 8 hours. So Tom would need to pay an assistant 8 * 10 = $80.
+The answer: 80
+Reverse engineering the question: Tom decided to go on a trip. During this trip, he needs to cross a lake, which in one direction takes 4 hours. During this time, Tom needs an assistant to help him with the crossing. Hiring an assistant costs $10 per hour. How much would Tom have to pay for help with crossing the lake back and forth?
+
+Reasoning and answer: If they won 40 games in the first competition, they won 5 / 8 * 40 = 25 games in their second season. In the third competition, they won games equal to the sum of the games they won in the last two competitions, which is 25 + 40 = 65 games. Since the total number of games they won in the first two competitions is 65, and they won 65 more in the third competition, they won a total of 65 + 65 = 130 in all competitions.
+The answer: 130
+What was the question?
+Question: A basketball team won 40 games in their last competition. In the next competition, they won 5/8 times as many games as they won in their first competition. In the third competition, they won the same number of games as the sum of the first and second competition winnings. Calculate the total number of wins they had in the three competitions.
+
+Reasoning and answer: An hour has 60 minutes. If each call lasts an hour, the total amount of money charged is 60 * .05 = $3 for 1 customer. When she talks to 50 clients in a week, the total amount of money charged is 50 * 3 = $150. In a month of 4 weeks, the phone bill is 150 * 4 = $600.
+The answer: 600
+What was the question?
+Question:

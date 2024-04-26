@@ -1,0 +1,57 @@
+Instructions: In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+Input: Britney Spears bravely agrees to release un-airbrushed images of herself next to the digitally-altered versions 
+  
+  
+  
+ Celebrities, and the industry around them, are often accused of producing images that affect young people's body image. 
+  
+ Which is why it's so refreshing to see one of the world's most famous pop stars allowing all of their imperfections to be highlighted. 
+  
+ Britney Spears has allowed the pre-airbrushed images from a shoot she took part in for fashion firm Candie's to be used ALONGSIDE the digitally-altered ones, so people can see the difference. 
+  
+ Brave move: Britney Spears has allowed airbrushed images from her shoot to be released along with the original raw photos which show all her imperfections 
+  
+  
+  
+ The 29-year-old singer made the extraordinary move in order to highlight the pressure exerted on women to look perfect. 
+  
+ In the first shot, she is seen facing the camera with her arms behind her back. 
+  
+ Imperfections that can be clearly seen in the un-airbrushed shot include blemishes on her calf, her larger thighs and, if you look really closely, you can see her feet have dry skin on them. 
+  
+ The airbrushed pictures, however, tell a different story with a slimmed-down waist and flawless, skinny legs. 
+  
+ Meanwhile, in the second picture, she is seen from the back - in the un-airbrushed shot she has areas of cellulite on the back of her thighs, a tattoo on her lower back (sometimes called a 'tramp stamp') is clearly visible and her backside is a little out of shape. 
+  
+ However, in the altered photo all of these imperfections have been wiped out - and she appears to have a pert rear, unrealistically smooth skin, slimmer legs and the tattoo has vanished. 
+  
+ Shaping up: The pop star's whole body has been trimmed down with the use of a computer, even down to removing a tattoo on her back 
+  
+  
+  
+ A source told the Daily Mirror newspaper: 'Britney is proud of her body - imperfections and all.' 
+  
+ Of the experience, the singer told press: 'I had so much fun shooting the Candies for Kohl's campaign. My favorite set-up was against the gigantic wall of pink cotton candy.' ||||| First she was Unplugged - now it's Britney Spears Untouched. 
+  
+ The singer has refused to allow her latest ad campaign to be airbrushed. 
+  
+ Stunning Britney, 28, insisted none of her shots for US-based fashion firm Candie's should be digitally enhanced. 
+  
+ But she agreed for re-touched versions to be released simultaneously - highlighting the pressure on women to look perfect. 
+  
+ Advertisement - article continues below » 
+  
+ In the "raw" pictures, bruises are visible on her calf, her thighs are larger and dimpled with cellulite, and dry skin is evident on her feet. 
+  
+ In the airbrushed images her waist is slimmer and her legs flawless. 
+  
+ A source said: "Britney is proud of her body - imperfections and all." 
+  
+  
+  
+ Win 1 of 10 pairs of tickets to Grand Designs Live London 2010 with Mirror.co.uk 
+  
+  
+  
+ Cheap concert tickets are now available to see the top acts performing live in the UK. Find Noel Gallagher tickets, X Factor Live tickets, Lady GaGa tickets, Flight of the Conchords tickets, JLS tickets and Westlife tickets at the cheapest prices with Mirror Tickets. |||||
+Output:

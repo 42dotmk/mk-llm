@@ -1,0 +1,54 @@
+Article:
+This image illustrates how the study participants learned about the habitat and the diet of eight animals, such as the cytar (not its real zoological name). The set of habitat brain regions (A-green) and diet (B-red and blue) regions where the new knowledge was stored. (L refers to left hemisphere of the brain.) Courtesy of Carnegie Mellon University 
+  
+ Cutting-edge brain imaging technology has offered the first glimpse into how new concepts develop in the human brain. 
+  
+ The research, carried out at Carnegie Mellon University and published in Human Brain Mapping, involved teaching people a new concept and observing how it was coded in the same areas of the brain through neural representations. 
+  
+ The "olinguito" -- a largely fruit-eating carnivore species that lives in rainforest treetops, newly discovered in 2013 -- was initially used as a concept. Marcel Just, a professor of cognitive neuroscience in the Dietrich College of Humanities and Social Sciences, commented: "When people learned that the olinguito eats mainly fruit instead of meat, a region of their left inferior frontal gyrus -- as well as several other areas -- stored the new information according to its own code." 
+  
+ The findings revealed that this new knowledge of the olinguito was encoded in exactly the same parts of the brain by everyone who learned it, indicating that the brain may operate its own kind of universal filing system. 
+  
+ In the latest research, 16 study participants were taught information about the diet and dwelling habits of eight extinct animals, in order to study the growth of the neural representations of these concepts in their brains. Drawing on the previous findings, the team predicted where this new knowledge would be stored. 
+  
+ Just and Andrew Bauer, lead author of the study, then used functional magnetic resonance imaging (fMRI) to monitor these concepts emerging in the brain, and found that each new concept developed its own "unique activation signature". This allowed a computer program to effectively work out which of the eight animals a participant was thinking about at any given time -- essentially allowing the scientists to read their minds. 
+  
+ Don't miss 
+  
+ Interestingly, the animals with close similarities (such as habitat) had closely matched activation signatures, and once a property of an animal had been learned, it stayed intact in the brain even after new ones had been taught -- providing a new insight into the neural durability of the things we learn. 
+  
+ Bauer commented: "Each time we learn something, we permanently change our brains in a systematic way. It was exciting to see our study successfully implant the information about extinct animals into the expected locations in the brain's filing system." 
+  
+ It's hoped that the research may be able to help shape future teaching methods in schools, and also give a clearer picture of how knowledge is "lost" as a result of serious brain injuries and conditions such as dementia and Alzheimer's disease. ||||| Thanks to Carnegie Mellon University advances in brain imaging technology, we now know how specific concrete objects are coded in the brain, to the point where we can identify which object, such as a house or a banana, someone is thinking about from its brain activation signature. Now, CMU scientists are applying this knowledge about the neural representations of familiar concepts by teaching people new concepts and watching the new neural representations develop. Published in Human Brain Mapping, the scientists have - for the first time - documented the formation of a newly learned concept inside the brain and show that it occurs in the same brain areas for everyone.This image illustrates how the study participants learned about the habitat and the diet of eight animals, such as the cytar (not its real zoological name). The set of habitat brain regions (A-green) and diet (B-red and blue) regions where the new knowledge was stored. (L refers to left hemisphere of the brain.) Credit: Carnegie Mellon University Thanks to Carnegie Mellon University advances in brain imaging technology, we now know how specific concrete objects are coded in the brain, to the point where we can identify which object, such as a house or a banana, someone is thinking about from its brain activation signature. 
+  
+ Now, CMU scientists are applying this knowledge about the neural representations of familiar concepts by teaching people new concepts and watching the new neural representations develop. Published in Human Brain Mapping, the scientists have—for the first time—documented the formation of a newly learned concept inside the brain and show that it occurs in the same brain areas for everyone. 
+  
+ This novel research merges brain science and instructional innovation, two of Carnegie Mellon's university-wide initiatives—BrainHub, which focuses on how the structure and activity of the brain give rise to complex behaviors, and the Simon Initiative, which aims to measurably improve student learning outcomes by harnessing decades of learning science research. 
+  
+ Marcel Just, a leading neuroscientist, pointed to the Smithsonian Institute's 2013 announcement about the olinguito, a newly identified carnivore species that mainly eats fruits and lives by itself in the treetops of rainforests, as an example of the type of new concept that people learn. 
+  
+ 'Millions of people read the information about the olinguito and in doing so permanently changed their own brains,' said Just, the D.O. Hebb University Professor of Cognitive Neuroscience in CMU's Dietrich College of Humanities and Social Sciences. 'Our research happened to be examining this process precisely at that time in a laboratory setting. When people learned that the olinguito eats mainly fruit instead of meat, a region of their left inferior frontal gyrus—as well as several other areas—stored the new information according to its own code.' 
+  
+ Just added, 'The new knowledge gained from the Smithsonian's announcement became encoded in the same brain areas in every person that learned the new information, because all brains appear to use the same filing system.' 
+  
+ For the study, Andrew Bauer, a Ph.D. student in psychology, and Just taught 16 study participants diet and dwelling information about extinct animals to monitor the growth of the neural representations of eight new animal concepts in the participants' brains. 
+  
+ Drawing on previous findings, the research team knew 'where' to expect the new knowledge to emerge in the brains of their participants. Information about dwellings and information about eating have each been shown to reside in their own set of brain regions, regions that are common across people. 
+  
+ Over the course of an hour, the study participants were given a zoology mini-tutorial on the diets and habitats of the animals, while the scientists used functional magnetic resonance imaging (fMRI) to monitor the emergence of the concepts in the participants' brains. As the new properties were taught, the activation levels in the eating regions and the dwelling regions changed. 
+  
+ One important result was that after the zoology tutorial, each one of the eight animal concepts developed its own unique activation signature. This made it possible for a computer program to determine which of the eight animals a participant was thinking about at a given time. In effect, the program was reading their minds as they contemplated a brand-new thought. 
+  
+ But even though the animals had unique activation signatures, the animals that shared similar properties (such as a similar habitat) had similar activation signatures. That is, a resemblance between the properties of two animals resulted in a resemblance between their activation signatures. This finding shows that the activation signatures are not just arbitrary patterns, but are meaningful and interpretable. 
+  
+ 'The activation signature of a concept is a composite of the different types of knowledge of the concept that a person has stored, and each type of knowledge is stored in its own characteristic set of regions,' Just said. 
+  
+ Another important result was that once a property of an animal was learned, it remained intact in the brain, even after other properties of the animal had been learned. This finding indicates the relative neural durability of what we learn. 
+  
+ 'Each time we learn something, we permanently change our brains in a systematic way,' said Bauer, the study's lead author. 'It was exciting to see our study successfully implant the information about extinct animals into the expected locations in the brain's filing system.' 
+  
+ Just believes that the study provides a foundation for brain researchers to trace how a new concept makes its way into the brain from the words and graphics used to teach it, foreshadowing a capability to assess the progress in learning a complicated concept like those in a high-school physics lesson. fMRI pattern analyses could diagnose which aspects of a concept students misunderstand (or lack), in a way that could guide the next iteration of instruction. 
+  
+ The results from this study also indicate that it may be possible to use a similar approach to understand the 'loss' of knowledge in various brain disorders, such as dementia or Alzheimer's disease, or due to brain injuries. The loss of a concept in the brain may be the reverse of the process that the study observed. 
+  
+ Explore further: Teaching science to the brain: How the brain learns the way things work |||||Summary:

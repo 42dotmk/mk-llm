@@ -1,0 +1,19 @@
+Q: Context: Miller appeared frequently as a member of the "round table" on Chelsea Lately. He appeared as Marmaduke Brooker in Carpoolers, which ran for 13 episodes on ABC in 2007 -- 2008. In 2012, he voiced Robbie Valentino on the Disney channel cartoon Gravity Falls. On December 13, 2010, October 28, 2011, and June 14, 2012, he performed stand-up on Conan. On November 15, 2011, his stand-up special No Real Reason premiered on Comedy Central. In 2011, he hosted a special called Mash Up, which was picked up in 2012 for a full season by Comedy Central. He starred in the Fox TV series The Goodwin Games as Jimmy Goodwin.
+
+Question: who does tj miller play in gravity falls?
+A: Robbie Valentino. How to explain the answer? The relevant information to answer the above question is: In 2012, he voiced Robbie Valentino on the Disney channel cartoon Gravity Falls.
+
+Q: Taste buds contain the taste receptor cells, which are also known as gustatory cells. The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis. These structures are involved in detecting the five elements of taste perception: salty, sour, bitter, sweet and umami; through the combination of these elements we detect "flavors." A popular myth assigns these different tastes to different regions of the tongue; in reality these tastes can be detected by any area of the tongue. Via small openings in the tongue epithelium, called taste pores, parts of the food dissolved in saliva come into contact with the taste receptors. These are located on top of the taste receptor cells that constitute the taste buds. The taste receptor cells send information detected by clusters of various receptors and ion channels to the gustatory areas of the brain via the seventh, ninth and tenth cranial nerves.
+
+Answer this question based on the passage: where are taste buds located in your mouth?
+A: around the small structures known as papillae found on the upper surface of the tongue , soft palate , upper esophagus , the cheek and epiglottis. How to explain the answer? To answer the above question, the relevant sentence is: The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis.
+
+Q: Italy is one of the most successful national teams in the history of the World Cup, having won four titles (1934, 1938, 1982, 2006), just one fewer than Brazil. The team was present in 18 out of the 21 tournaments, reaching six finals, a third place and a fourth place.
+
+Answer this question based on the passage: how many times has itay won the world cup?
+A: four. How to explain the answer? This is the relevant information: Italy is one of the most successful national teams in the history of the World Cup, having won four titles (1934, 1938, 1982, 2006), just one fewer than Brazil.
+
+Q: Passage: Firstly, the glucose in the proximal tubule is co-transported with sodium ions into the proximal convoluted tubule walls via the SGLT2 cotransporter. Some (typically smaller) amino acids are also transported in this way. Once in the tubule wall, the glucose and amino acids diffuse directly into the blood capillaries along a concentration gradient. This blood is flowing, so the gradient is maintained. Lastly, sodium / potassium ion active transport pumps remove sodium from the tubule wall and the sodium is put back into the blood. This maintains a sodium concentration gradient in the proximal tubule lining, so the first step continues to happen.
+
+Question: Based on this passage, where does primary active transport of sodium occur in the proximal convoluted tubule cells?
+A:

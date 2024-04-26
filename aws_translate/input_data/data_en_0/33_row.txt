@@ -1,0 +1,25 @@
+Three times as many days as a typical person has fingers and toes is 3 * 20 = 60 days. Three days per instance of bullying is 60 / 3 = 20 instances of bullying.
+The answer: 20
+Reverse engineering the question: Kris has been suspended for bullying many times. For every instance of bullying, she was suspended for 3 days. If she has been suspended for three times as many days as a typical person has fingers and toes, how many instances of bullying is she responsible for?
+
+Reasoning and answer: Alvin needs to harvest 90 / 3 = 30 coconuts to earn $90. Therefore, the total number of trees that he has to harvest is 30 / 5 = 6.
+The answer: 6
+What was the question?
+Question: Alvin owns coconut trees that yield 5 coconuts each. If a coconut can be sold for $3 and Alvin needs $90, how many coconut trees does he have to harvest?
+
+Lauren sent 65 + 10 = 75 pieces of mail on Tuesday. He sent 75 - 5 = 70 pieces of mail on Wednesday. And sent 70 + 15 = 85 pieces of mail on Thursday. Therefore, he sent 65 + 75 + 70 + 85 = 295 pieces of mail.
+The answer: 295
+Reverse engineering the question: Lauren sent 65 pieces of mail on Monday, 10 more pieces of mail on Tuesday than on Monday, 5 fewer on Wednesday than on Tuesday, and 15 more pieces of mail on Thursday than on Wednesday. How many pieces of mail did Lauren send?
+
+Reasoning and answer: She earned $42.5 on average per week because 425 / 10 = 42.5. She earned $22.5 each week from extra chores because 42.5 - 20 = 22.5. She did 15 extra chores a week because 22.5 / 1.5 = 15.
+The answer: 15
+What was the question?
+Question: Carol gets a fixed $20 allowance each week. She can also earn $1.5 more dollars each week if she does extra chores. At the end of 10 weeks, she has 425 dollars. How many extra chores did she average each week?
+
+First Jamie wants to figure out how many calories his father needs to lose from 5 pounds x 3500 calories each = 17,500 calories to burn off. Then Jamie needs to figure out how many calories his father will burn per day if he burns 2500 calories - eating 2000 calories = burning 500 calories a day. If Jamie's father wants to burn off 17,500 calories total at 500 calories a day, 17,500 / 500 = 35 days to burn off 5 pounds.
+The answer: 35
+Reverse engineering the question: Jamie's father gained 5 pounds over the holidays that he wants to lose so his pants will not be as snug. He asks Jamie to help him keep track of his calories. Jamie's father burns 2,500 calories of fat a day by doing light exercise. There are 3,500 calories in a pound of body fat. How many days will it take for Jamie's father to burn off 5 pounds if he does light exercise and sticks to eating 2000 calories a day?
+
+If the fan works for 10 minutes each day, in a week with 7 days, it will have worked for 10 * 7 = 70 minutes. Since a minute has 60 seconds, the total time in seconds that the fan will have worked in one week is 70 * 60 = 4200 seconds. Since the fan can create an airflow of 10 liters per second, in 4200 seconds, it will create an airflow of 4200 * 10 = 42000 liters.
+The answer: 42000
+Reverse engineering the question:

@@ -1,0 +1,25 @@
+For 20 servings, Thomas needs 20 * 1 = 20 cups of chickpeas. To have 20 cups, Thomas needs 20 * 6 = 120 ounces. 120 ounces / 16 ounces = 7.5 cans of chickpeas. Since Thomas cannot buy half a can, he needs to buy 8 cans.
+The answer: 8
+Reverse engineering the question: Thomas is making hummus. One of the ingredients in a hummus recipe is chickpeas. For one serving of hummus, the recipe calls for 1 cup of chickpeas. In a can of chickpeas, there are 16 ounces of chickpeas. In one cup of chickpeas, there are 6 ounces. To make 20 servings, how many cans of chickpeas should Thomas buy?
+
+Reasoning and answer: Stella and Twinkle filled up the truck at the rate of 250 blocks per hour per person, a total of 2 * 250 = 500 blocks per hour for both. After working for four hours, Stella and Twinkle had filled 4 * 500 = 2000 blocks into the truck. The number of blocks they had to put into the truck for it to be full is 6000 - 2000 = 4000. When 6 more people joined Stella and Twinkle, a total of 2 + 6 = 8 people were filling the truck now. Working at the rate of 250 blocks per person, the eight people filled the truck with 250 * 8 = 2000 blocks in one hour. If there were 4000 blocks that still needed to be put into the truck, the 8 people took 4000 / 2000 = 2 hours to fill the truck with the blocks. The total time it took to fill up the tank is 4 + 2 = 6 hours.
+The answer: 6
+What was the question?
+Question: Stella and Twinkle are filling up a truck with a capacity of 6000 stone blocks at the rate of 250 blocks per hour per person. They work for four hours and are then joined by 6 other people who also work at the same rate. How many hours did filling the truck take?
+
+Ryan used 36 / 3 = 12 tokens on Pac - Man. Ryan used 36 / 4 = 9 tokens on Candy Crush. Ryan used a total of 12 + 9 + 7 = 28 tokens on all three games. Ryan had 36 - 28 = 8 tokens left. Ryan’s parents bought him 2 * 7 = 14 more tokens. Ryan had 8 + 14 = 22 tokens after his parents bought him some.
+The answer: 22
+Reverse engineering the question: Ryan started with 36 tokens at the arcade. Ryan wasted a third of his tokens on Pac-Man, a fourth of his tokens on Candy Crush, and 7 on Ski-ball. Then, his parents bought him seven times as many tokens as he spent on Ski-ball. How many tokens did Ryan end up with?
+
+Reasoning and answer: Adults = 10 * 8 = $80. Children = 124 - 80 = $44. Child = 44 / 11 = $4. Each child's ticket is $4.
+The answer: 4
+What was the question?
+Question: Ten adults went to a ball game with eleven children. Adult tickets are $8 each and the total bill was $124. How many dollars is one child's ticket?
+
+The total percentage the class needs to get is 18.75 because 25 x .75 = 18.75. The total percentage the class has absent the one student is 18.48. The lowest the absent student can get and still have a pizza party is 27% because (18.75 - 18.48)x 100 = 27.
+The answer: 27
+Reverse engineering the question: Ms. Mitsuko told the class that if the average score on their quiz is higher than 75% then they will get a pizza party. There are 25 students in the class. One student is absent and has to take the test the next day. The average score of the students who took the test was 77%. What is the lowest grade the absent student can get for the class to still get a pizza party?
+
+A full year has 12 months. So 2 years is 2 * 12 = 24 months. The loan amount is $6,000 that he will repay in 24 months so 6000 / 24 = $250 per month. If he paid his dad back in 5 years that 5 * 12 = 60 months. $6,000 loan spread out over 60 months is 6000 / 60 = $100 per month. To pay it off in 2 years instead of 5, Gary is paying 250 - 100 = $150 more per month.
+The answer: 150
+Reverse engineering the question:

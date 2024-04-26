@@ -1,0 +1,27 @@
+Reasoning and answer: In her first year, Tara's dad attended 20 * 0.9 = 18 games. Then, in her second year, Tara's dad attended 18 - 4 = 14 games.
+The answer: 14
+What was the question?
+Question: During her first year playing soccer, Tara's dad attended 90% of the games she played. In her second year playing soccer, Tara's dad attended 4 fewer games than he did in the previous year. If Tara played 20 games each year, how many games did Tara's dad attend in her second year playing soccer?
+
+Two boxes of crayons have 24 x 5 / 8 = 15 unused crayons from each box. So, a total of 15 x 2 = 30 unused crayons are in the two boxes. For the other 2 boxes, there are 24 x 2 / 3 = 16 used crayons from each box. Hence, there are 24 - 16 = 8 unused crayons. So, a total of 8 x 2 = 16 unused crayons are in the other two boxes. Therefore, Madeline has a total of 30 + 16 + 24 = 70 unused crayons.
+The answer: 70
+Reverse engineering the question: Madeline has 5 boxes with 24 crayons in each. She noticed that 5/8 of the crayons in the 2 boxes were not yet used. In the 2 other boxes, only 2/3 of the crayons were used while the last box was not entirely used. How many unused crayons did Madeline have?
+
+Reasoning and answer: Nurse Missy has 12 * (1 / 3) = 4 special needs patients. She has 12 - 4 = 8 standard care patients. Special needs patients take 20% longer to serve, which means serving takes 1.2 * 5 = 6 minutes per patient. To serve dinner to all of her standard care patients, it will take 5 * 8 = 40 minutes. To serve dinner to all of her special needs patients, it will take 6 * 4 = 24 minutes. In total, it will take 40 + 24 = 64 minutes to serve dinner to all of her patients.
+The answer: 64
+What was the question?
+Question: Nurse Missy is attending to the needs of 12 patients in her hospital ward. Most of her patients require standard care, but one-third of her patients have special dietary requirements, which increases the serving time by 20%. At dinner time, she brings each patient their meal. It takes 5 minutes to serve each standard care patient. How long does it take, in minutes, for Missy to serve dinner to all of her patients?
+
+Before going on vacation, Grandpa counts 36 tomatoes. After going on vacation, Grandpa has 100 * 36 = 3600 tomatoes. So in his absence, 3600 - 36 = 3564 tomatoes have grown.
+The answer: 3564
+Reverse engineering the question: In his garden, Grandpa had counted 36 small tomatoes before going on vacation. When he came back from vacation, he counted 100 times more tomatoes. How many tomatoes grew in his absence?
+
+Reasoning and answer: His income tax is 10% of 500 which is 500 * 10% = $50. His tithe costs 10% of $500 which is 500 * 10% = $50. The total expenses are 50 + 55 + 50 = $155. He is then left with $500 - $ 155 = $345.
+The answer: 345
+What was the question?
+Question: Alex gets paid $500 a week and 10% of his weekly income is deducted as tax. He also pays his weekly water bill for $55 and gives away another 10% of his weekly income as a tithe. How much money does Alex have left?
+
+Reasoning and answer: The carpenter initially has 8 x 5 = 40 blocks of wood. So he still lacks 80 - 40 = 40 blocks of wood. Therefore he still needs 40 / 5 = 8 logs of wood.
+The answer: 8
+What was the question?
+Question:

@@ -1,0 +1,19 @@
+Ans: 1997
+Ques: The coin was introduced on 15 June 1998 (coins minted 1997) after a review of the United Kingdom's coinage decided that a general-circulation £ 2 coin was needed. The new Bi-metallic coin design replaced a series of commemorative, uni-metallic coins which were issued between 1986 and 1996 to celebrate special occasions. Although legal tender, these coins have never been common in everyday circulation.
+
+Answer this question based on the passage: when was the first £2 coin minted?
+CoT: This is the relevant information: The coin was introduced on 15 June 1998 (coins minted 1997) after a review of the United Kingdom's coinage decided that a general-circulation £ 2 coin was needed.
+
+Ans: cell wall
+Ques: Ampicillin acts as an irreversible inhibitor of the enzyme transpeptidase, which is needed by bacteria to make the cell wall. It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic.
+
+Answer this question based on the passage: which cellular component in the bacterial cell is targeted by ampicillin?
+CoT: The important part for answering this question is: It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic.
+
+Ans: In the season four episode `` Pariah ''
+Ques: Chloe and Clark patch their relationship in the season three episode "Whisper", after Clark discovers that she has been helping Lionel. When Chloe stops her investigation, Lionel has her fired from the Daily Planet, and also fires her father from his job at LuthorCorp. In season three's "Forsaken", Chloe decides to assist Lex Luthor (Michael Rosenbaum), Lionel's son, with getting Lionel arrested for the murder of Lex' grandparents; Chloe's hope is to get out from under Lionel's control. In the season three finale, the F.B.I. place Chloe and her father in a safe-house until Lionel's trial; unfortunately, the safe-house explodes once Chloe and her father enter and they are presumed dead. Chloe's cousin, Lois Lane (Erica Durance), comes to Smallville to investigate Chloe's death in the fourth season premiere. In season four's "Gone", Clark and Lois team-up and discover that Lex's security team found the explosives in the safe-house, pulled Chloe and her father to safety before they detonated, and that he has been hiding her ever since. After Chloe's testimony in the same episode, Lionel is convicted of murder and sentenced to life imprisonment. In the season four episode "Pariah", Chloe discovers Clark's secret when Alicia Baker (Sarah Carter), Clark's girlfriend, decides that it needs to be exposed to the world in order for him to feel more comfortable about who he really is. Alicia hopes that Chloe will write a story exposing Clark, but Chloe decides that Clark kept his secret for a reason and decides not to write the story.
+
+When does chloe sullivan find out about clark?
+CoT: The relevant sentence in the passage is: In the season four episode "Pariah", Chloe discovers Clark's secret when Alicia Baker (Sarah Carter), Clark's girlfriend, decides that it needs to be exposed to the world in order for him to feel more comfortable about who he really is.
+
+Ans: Aubrey Frances Anderson - Emmons

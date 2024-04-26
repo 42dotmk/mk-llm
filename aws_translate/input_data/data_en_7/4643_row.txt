@@ -1,0 +1,19 @@
+Question: The Super Bowl ring is an award in the National Football League given to the winners of the league's annual championship game, the Super Bowl. Since only one Vince Lombardi Trophy is awarded to the team (ownership) itself, the Super Bowl ring offers a collectable memento for the actual players and team members to keep for themselves to symbolise their victory.
+
+Answer this question: who gets super bowl rings when a team wins?
+Answer: To answer the above question, the relevant sentence is: The Super Bowl ring is an award in the National Football League given to the winners of the league's annual championship game, the Super Bowl. The answer is the winners of the league 's annual championship game , the Super Bowl.
+
+Question: Passage: In the months following the broadcast of Part One, there was widespread debate among fans of the series as to who shot Mr. Burns. Fox offered a contest to tie in with the mystery where callers who dialed 1-800-COLLECT were eligible and they then guessed who the culprit was. It ran from August 13 to September 10 and was one of the first contests to tie together elements of television and the Internet. Fox launched a new website, www.Springfield.com, devoted to the mystery which got over 500,000 hits during the summer of 1995. The winner would be animated on an episode of the show. Due to contest regulations, a winner had to be selected out of a random sample of entries. The sample did not contain any correct answers, and so a winner (who had the wrong answer) was chosen at random. However, the winner, Fayla Gibson of Washington D.C., did not watch the show and opted to accept a cash prize in lieu of being animated.
+
+Question: Based on this passage, who won the who shot mr burns contest?
+Answer: The relevant information is: However, the winner, Fayla Gibson of Washington D.C., did not watch the show and opted to accept a cash prize in lieu of being animated. The answer is Fayla Gibson.
+
+Question: Context: Rhinorrhea or rhinorrhoea is a condition where the nasal cavity is filled with a significant amount of mucus fluid. The condition, commonly known as a runny nose, occurs relatively frequently. Rhinorrhea is a common symptom of allergies (hay fever) or certain diseases, such as the common cold. It can be a side effect of crying, exposure to cold temperatures, cocaine abuse or withdrawal, such as from opioids like methadone. Treatment for rhinorrhea is not usually necessary, but there are a number of medical treatments and preventive techniques available.
+
+Question: medical term for flow or discharge from the nose?
+Answer: To answer this question, we should know that: Rhinorrhea or rhinorrhoea is a condition where the nasal cavity is filled with a significant amount of mucus fluid. The answer is Rhinorrhea or rhinorrhoea.
+
+Question: Passage: Jesus at the home of Martha and Mary (also referred to as Christ in the House of Martha and by other variant names) refers to an episode in the life of Jesus which appears only in Luke's Gospel (Luke 10: 38 -- 42), and can be read immediately after the Parable of the Good Samaritan (Luke 10: 25 -- 37). Jesus visits the home of Lazarus, Martha and Mary of Bethany, the latter typically conflated in Catholic medieval tradition with Mary Magdalene, though the New Testament probably means a different person.
+
+Question: Based on this passage, where in the bible does it talk about mary and martha?
+Answer:

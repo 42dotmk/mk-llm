@@ -1,0 +1,22 @@
+Student A:Context: The Canadian Multiculturalism Act (the Act) is a law of Canada, passed in 1988, that aims to preserve and enhance multiculturalism in Canada.
+
+Question: when was the multiculturalism policy of canada passed?
+Student B:OK... The relevant information to answer the above question is: The Canadian Multiculturalism Act (the Act) is a law of Canada, passed in 1988, that aims to preserve and enhance multiculturalism in Canada.
+1988.
+
+Student A:Passage: A tea bag is a small, porous, sealed bag or packet containing dried plant material, which is immersed in boiling water to make a tea or an infusion. Classically these are tea leaves (Camellia sinensis), but the term is also used for herbal teas (tisanes) made of herbs or spices. Tea bags are commonly made of filter paper or food-grade plastic, or occasionally of silk. The bag contains the tea leaves while the tea is steeped, making it easier to dispose of the leaves, and performs the same function as a tea infuser. Some tea bags have an attached piece of string with a paper label at the top that assists in removing the bag while also displaying the brand or variety of tea.
+
+Question: Based on this passage, what is the tea bag made out of?
+Student B:OK... This is the relevant information: Tea bags are commonly made of filter paper or food-grade plastic, or occasionally of silk.
+filter paper or food - grade plastic , or occasionally of silk.
+
+Student A:"And did those feet in ancient time" is a poem by William Blake from the preface to his epic Milton: A Poem in Two Books, one of a collection of writings known as the Prophetic Books. The date of 1804 on the title page is probably when the plates were begun, but the poem was printed c. 1808. Today it is best known as the anthem "Jerusalem", with music written by Sir Hubert Parry in 1916. It is not to be confused with another poem, much longer and larger in scope, but also by Blake, called Jerusalem The Emanation of the Giant Albion.
+
+Answer this question based on the passage: who wrote the music for the hymn jerusalem?
+Student B:OK... The relevant information is: Today it is best known as the anthem "Jerusalem", with music written by Sir Hubert Parry in 1916.
+Sir Hubert Parry.
+
+Student A:A tablespoon is a large spoon used for serving or eating. In many English-speaking regions, the term now refers to a large spoon used for serving, however, in some regions, including parts of Canada, it is the largest type of spoon used for eating. By extension, the term is used as a measure of volume in cooking. In this capacity, it is most commonly abbreviated tbsp or T, and occasionally referred to as a tablespoonful to distinguish it from the utensil. The unit of measurement varies by region: a United States tablespoon is approximately 14.8 ml (0.50 US fl oz), a United Kingdom and Canadian tablespoon is exactly 15 ml (0.51 US fl oz), and an Australian tablespoon is 20 ml (0.68 US fl oz). The capacity of the utensil (as opposed to the measurement) is not defined by law or custom and bears no particular relation to the measurement.
+
+How much is a table spoon in ounces?
+Student B:

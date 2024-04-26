@@ -1,0 +1,18 @@
+Context: The U.S. has five territories that are permanently inhabited: Puerto Rico and the U.S. Virgin Islands in the Caribbean Sea; Guam and the Northern Mariana Islands in the Marianas archipelago in the western North Pacific Ocean; and American Samoa in the South Pacific Ocean.
+
+Question: what caribbean island is part of the united states? Let's do a good job answering this.
+--
+Stream of consciousness: The relevant information to answer the above question is: The U.S. has five territories that are permanently inhabited: Puerto Rico and the U.S. Virgin Islands in the Caribbean Sea; Guam and the Northern Mariana Islands in the Marianas archipelago in the western North Pacific Ocean; and American Samoa in the South Pacific Ocean.... The answer is Puerto Rico and the U.S. Virgin Islands.
+
+
+Context: Odd Thomas is a 2013 American supernatural mystery thriller film based on Dean Koontz's novel of the same name. It is directed, written and co-produced by Stephen Sommers and stars Anton Yelchin as Odd Thomas, with Willem Dafoe as Wyatt Porter and Addison Timlin as Stormy Llewellyn.
+
+Question: who played stormy in the movie odd thomas? Let's do a good job answering this.
+--
+Stream of consciousness: The relevant sentence in the passage is: It is directed, written and co-produced by Stephen Sommers and stars Anton Yelchin as Odd Thomas, with Willem Dafoe as Wyatt Porter and Addison Timlin as Stormy Llewellyn.... The answer is Addison Timlin.
+
+
+Anfisa Arkhipchenko (20, from Moscow, Russia) was contacted by Jorge Nava (27, from Riverside, California) via Facebook after he saw her photos online. Though Anfisa was at first resistant to his messages, Anfisa eventually agreed to meet him and Jorge ends up taking her on an expensive vacation around Europe. Shortly before Anfisa was scheduled to come to the United States, she asked Jorge for a $10,000 handbag, which Jorge declined to buy. Anfisa erased Jorge's cellphone and cancelled the flights, though the two reconciled and eventually Anfisa agreed to travel to the United States. Jorge had pleaded guilty to marijuana trafficking, which made it hard for him to rent an apartment. They move into a hotel and Anfisa is not impressed; though why exactly Jorge does not have his own place to live has not been revealed. They later move into a small apartment. Jorge does not buy an engagement ring or wedding dress for Anfisa. Jorge's friends and family are concerned about Anfisa's motives. Anfisa admits that she is indeed interested in Jorge providing for her, and she opines that while she may be using Jorge for his money, she believes that Jorge is primarily interested in her for her looks and would not want to marry her if she was ugly. At some point, Anfisa was considering going back to Russia, and Jorge considered for a while that he would not try to stop her. Later on, they get married alone in a simple courthouse ceremony, after which Jorge promises to buy the ring to Anfisa and to have a bigger ceremony later on so that her family could attend.
+
+Answer this question: what is jorge last name from 90 day fiance? Let's do a good job answering this.
+--

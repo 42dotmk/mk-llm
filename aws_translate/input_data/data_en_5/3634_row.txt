@@ -1,0 +1,19 @@
+Ans: the extent of the observable world that is seen at any given moment
+Ques: Context: The field of view is the extent of the observable world that is seen at any given moment. In the case of optical instruments or sensors it is a solid angle through which a detector is sensitive to electromagnetic radiation.
+
+Question: what does the term field of view mean?
+CoT: To answer the question, consider the following: The field of view is the extent of the observable world that is seen at any given moment.
+
+Ans: in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon
+Ques: The Grand Canyon Skywalk is a horseshoe-shaped cantilever bridge with a glass walkway in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon. USGS topographic maps show the elevation at the Skywalk's location as 4,770 ft (1,450 m) and the elevation of the Colorado River in the base of the canyon as 1,160 ft (350 m), and they show that the height of the precisely vertical drop directly under the skywalk is between 500 ft (150 m) and 800 ft (240 m).
+
+Answer this question based on the passage: where is the skywalk located in the grand canyon?
+CoT: The relevant information is: The Grand Canyon Skywalk is a horseshoe-shaped cantilever bridge with a glass walkway in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon.
+
+Ans: William Henry Christman
+Ques: At the outbreak of the Civil War, most military personnel who died in battle near Washington, D.C., were buried at the United States Soldiers' Cemetery in Washington, D.C., or Alexandria Cemetery in Alexandria, Virginia, but by late 1863 both were nearly full. On July 16, 1862, Congress passed legislation authorizing the U.S. federal government to purchase land for national cemeteries for military dead, and put the U.S. Army Quartermaster General in charge of this program. In May 1864, Union forces suffered large numbers of dead in the Battle of the Wilderness. Quartermaster General Montgomery C. Meigs ordered that an examination of eligible sites be made for the establishment for a large new national military cemetery. Within weeks, his staff reported that Arlington Estate was the most suitable property in the area. The property was high and free from floods (which might unearth graves), it had a view of the District of Columbia, and it was aesthetically pleasing. It was also the home of the leader of the armed forces of the Confederate States of America, and denying Robert E. Lee use of his home after the war was a valuable political consideration. The first military burial at Arlington, for William Henry Christman, was made on May 13, 1864, close to what is now the northeast gate in Section 27. However, Meigs did not formally authorize establishment of burials until June 15, 1864. Arlington did not desegregate its burial practices until President Harry S. Truman issued Executive Order 9981 on July 26, 1948.
+
+Based on this passage, who was the first person buried in arlington cemetery?
+CoT: The relevant information to answer the above question is: The first military burial at Arlington, for William Henry Christman, was made on May 13, 1864, close to what is now the northeast gate in Section 27.
+
+Ans: Sheeran

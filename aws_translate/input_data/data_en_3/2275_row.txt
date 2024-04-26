@@ -1,0 +1,34 @@
+Student A:Context: The cecum or caecum (/ ˈsiːkəm /, plural ceca / ˈsiːkə /; from the Latin caecus meaning blind) is an intraperitoneal pouch that is considered to be the beginning of the large intestine. It is typically located on the right side of the body (the same side of the body as the appendix, to which it is joined).
+
+Question: the blind-ended sac that is part of the large intestine is the?
+Student B:OK... To answer the question, consider the following: The cecum or caecum (/ ˈsiːkəm /, plural ceca / ˈsiːkə /; from the Latin caecus meaning blind) is an intraperitoneal pouch that is considered to be the beginning of the large intestine.
+The cecum or caecum.
+
+Problem:Brian Keith Kelly (born October 25, 1961) is an American football coach and former player. He is currently the head football coach at the University of Notre Dame, a position he has held since December 2009. Kelly was previously head coach at Grand Valley State University (1991 -- 2003), Central Michigan University (2004 -- 2006), and University of Cincinnati (2006 -- 2009).
+
+Who is the head coach for notre dame football?
+Solution:OK... The relevant sentence in the passage is: He is currently the head football coach at the University of Notre Dame, a position he has held since December 2009.
+Brian Keith Kelly.
+
+Student A:The permanent members of the United Nations Security Council (also known as the Permanent Five, Big Five, or P5) are the five states which the UN Charter of 1945 grants a permanent seat on the UN Security Council (UNSC):
+
+Answer this question: number of permanent members in un security council?
+Student B:OK... The important part for answering this question is: The permanent members of the United Nations Security Council (also known as the Permanent Five, Big Five, or P5) are the five states which the UN Charter of 1945 grants a permanent seat on the UN Security Council (UNSC):
+five.
+
+Problem:Passage: The first patent to be associated with the abbreviation RFID was granted to Charles Walton in 1983.
+
+Question: Based on this passage, who owns the patent for the rfid chip?
+Solution:OK... This is the relevant information: The first patent to be associated with the abbreviation RFID was granted to Charles Walton in 1983.
+Charles Walton.
+
+Student A:Net profit, also referred to as the bottom line, net income, or net earnings is a measure of the profitability of a venture after accounting for all costs and taxes. It is the actual profit, and includes the operating expenses that are excluded from gross profit.
+
+Based on this passage, net profit is profit before tax or after tax?
+Student B:OK... To answer the question, consider the following: Net profit, also referred to as the bottom line, net income, or net earnings is a measure of the profitability of a venture after accounting for all costs and taxes.
+after accounting for all costs and taxes.
+
+Student A:The GCA was signed into law by President Lyndon B. Johnson on October 22, 1968, and is Title I of the U.S. federal firearms laws. The National Firearms Act of 1934 (NFA) is Title II. Both GCA and NFA are enforced by the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF).
+
+Based on this passage, who signed the gun control act of 1968?
+Student B:

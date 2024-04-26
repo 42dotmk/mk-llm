@@ -1,0 +1,19 @@
+Question: Ramin Djawadi (/ rɒˈmiːn ˈdʒɑːvədi /, Persian: رامین جوادی ‎ ‎; born July 19, 1974) is an Iranian-German composer. Djawadi is best known for his score for HBO's popular television series Game of Thrones. He is also known for his works on movies such as Clash of the Titans, Pacific Rim, Warcraft and the Grammy-nominated score for the 2008 Marvel film Iron Man, and television series including Prison Break, Person of Interest, and Westworld.
+
+Answer this question: who did the score for game of thrones?
+Answer: To answer the above question, the relevant sentence is: Djawadi is best known for his score for HBO's popular television series Game of Thrones. The answer is Ramin Djawadi.
+
+Question: Alan Douglas Ruck (born July 1, 1956) is an American actor. He played Cameron Frye, Ferris Bueller's hypochondriac best friend in John Hughes' Ferris Bueller's Day Off (1986), and Stuart Bondek, the lecherous, power-hungry member of the mayor's staff in the ABC sitcom Spin City. His other notable films include Bad Boys (1983), Three Fugitives (1989), Young Guns II (1990), Speed (1994), Twister (1996), and Kickin' It Old Skool (2007). In 2016, he co-starred with Geena Davis in an updated Fox TV adaptation of William Peter Blatty's best-selling novel The Exorcist.
+
+Answer this question: who played cameron in ferris bueller's day off?
+Answer: The relevant information is: He played Cameron Frye, Ferris Bueller's hypochondriac best friend in John Hughes' Ferris Bueller's Day Off (1986), and Stuart Bondek, the lecherous, power-hungry member of the mayor's staff in the ABC sitcom Spin City. The answer is Alan Douglas Ruck.
+
+Question: Abuja (/ əˈbuːdʒə /) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400-metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792-metre (2,598 ft) monolith, lies just north of the city on the expressway to Kaduna.
+
+When was the federal capital territory moved to abuja?
+Answer: The relevant sentence in the passage is: It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. The answer is 12 December 1991.
+
+Question: Under the Charter, people physically present in Canada have numerous civil and political rights. Most of the rights can be exercised by any legal person (the Charter does not define the corporation as a "legal person"), but a few of the rights belong exclusively to natural persons, or (as in sections 3 and 6) only to citizens of Canada. The rights are enforceable by the courts through section 24 of the Charter, which allows courts discretion to award remedies to those whose rights have been denied. This section also allows courts to exclude evidence in trials if the evidence was acquired in a way that conflicts with the Charter and might damage the reputation of the justice system. Section 32 confirms that the Charter is binding on the federal government, the territories under its authority, and the provincial governments. The rights and freedoms enshrined in 34 sections of the Charter include:
+
+Based on this passage, how long is the canadian charter of rights and freedoms?
+Answer:

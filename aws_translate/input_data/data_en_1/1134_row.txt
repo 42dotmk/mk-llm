@@ -1,0 +1,19 @@
+Question: Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC. Howie Mandel, Mel B, Heidi Klum and Simon Cowell returned as judges for their respective ninth, sixth, sixth, and third seasons. Meanwhile, Tyra Banks returned for her second season as host.
+
+Answer this question: when does america's got talent season 13 start?
+Answer: To answer the above question, the relevant sentence is: Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC. The answer is May 29 , 2018.
+
+Question: Passage: The design process was initiated when, in 1999, the Department of Arts, Culture, Science and Technology requested ideas for the new coat-of-arms from the public. A brief was then prepared based on the ideas received, along with input from the Cabinet. The Government Communication and Information System then approached Design South Africa to brief ten of the top designers. Three designers were chosen to present their concepts to the Cabinet. Iaan Bekker's design was chosen.
+
+Question: Based on this passage, who designed the national coat of arms of south africa?
+Answer: This is the relevant information: Iaan Bekker's design was chosen. The answer is Iaan Bekker.
+
+Question: Passage: Orange Is the New Black (sometimes abbreviated to OITNB) is an American comedy-drama web television series created by Jenji Kohan for Netflix. The series is based on Piper Kerman's memoir, Orange Is the New Black: My Year in a Women's Prison (2010), about her experiences at FCI Danbury, a minimum-security federal prison. Orange Is the New Black premiered on July 11, 2013 on the streaming service Netflix; it was third premiered show produced by Netflix Originals. In February 2016, the series was renewed for a fifth, sixth, and seventh season. The fifth season was released on June 9, 2017. The sixth season was released on July 27, 2018. The series is produced by Tilted Productions in association with Lionsgate Television.
+
+Question: Based on this passage, when did orange is the new black season 6 start?
+Answer: The relevant information is: The sixth season was released on July 27, 2018. The answer is July 27 , 2018.
+
+Question: Passage: The Lion Capital of Ashoka is a sculpture of four Asiatic lions standing back to back, on an elaborate base that includes other animals. A graphic representation of it was adopted as the official Emblem of India in 1950. It was originally placed atop the Aśoka pillar at the important Buddhist site of Sarnath by the Emperor Ashoka, in about 250 BCE. The pillar, sometimes called the Aśoka Column, is still in its original location, but the Lion Capital is now in the Sarnath Museum, in the state of Uttar Pradesh, India. Standing 2.15 metres (7 feet) high including the base, it is more elaborate than the other very similar surviving capitals of the pillars of Ashoka bearing the Edicts of Ashoka that were placed throughout India several of which feature single animals at the top; one other damaged group of four lions survives, at Sanchi.
+
+Question: Based on this passage, lion capital of sarnath belongs to which king?
+Answer:

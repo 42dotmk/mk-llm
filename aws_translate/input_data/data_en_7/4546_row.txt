@@ -1,0 +1,27 @@
+Reasoning and answer: He gets $1.5 per book because .01 x 150 = 1.5. He earned $18 because 15 + 3 = 18. He read 12 books because 18 / 1.5 = 12.
+The answer: 12
+What was the question?
+Question: Pablo’s mother agrees to pay him one cent for every page he reads. He plans to save the money for some candy. Pablo always checks out books that are exactly 150 pages. After reading his books, he went to the store and bought $15 worth of candy and had $3 leftover. How many books did Pablo read?
+
+If Chloe bought it for $50 per dozen, then half a dozen cost her $50 / 2 = $25. This means that she has $30 - $25 = $5 profit per half a dozen of chocolate - dipped strawberries. If Chloe sold 50 dozens, then she was able to sell 50 / 1 / 2 = 100 half a dozen chocolate - dipped strawberries. Hence, her profit is $5 x 100 = $500.
+The answer: 500
+Reverse engineering the question: Chloe bought chocolate-dipped strawberries at $50 a dozen. She then sold them for $30 for half a dozen during the Mother's Day celebration. How much is Chloe's profit if she sold 50 dozens?
+
+Reasoning and answer: The weight of apples used for juice and given to the restaurant is 60 + 90 = 150 kg. Thus 405 – 150 = 255kg worth of apples were sold in 5 kg bags. There were 255 / 5 = 51 bags sold. So each bag was sold for 408 / 51 = $8.
+The answer: 8
+What was the question?
+Question: We harvested 405 kg of apples. 90 kg were used to make fruit juice and 60 kg were given to a restaurant. The rest was sold in 5 kg bags and their sale brought in $408. What was the selling price of one bag of apples?
+
+If Betty had 60 marbles, she gave Stuart 40 / 100 * 60 = 24 marbles. Since the number of marbles in Stuart's collection increased to 80 after Betty gave him 24 marbles, the number of marbles he initially had is 80 - 24 = 56.
+The answer: 56
+Reverse engineering the question: After Betty gave Stuart 40% of her marble collection, the number of marbles in Stuart's collection increased to 80. If Betty had 60 marbles, how many marbles did Stuart have initially?
+
+Reasoning and answer: The solid wall is 8 ft. * 20 ft. = 160 sq. ft. The doorway is 3 ft. * 7 ft. = 21 sq. ft. The window is 6 ft. * 4 ft. = 24 sq. ft. The closet door is 5 ft. * 7 ft. = 35 sq. ft. The total area of the doors and windows is 21 sq. ft + 24 sq. ft. + 35 sq. ft. = 80 sq. ft. The solid wall is 160 sq. ft., so before the areas of the doors and window are taken into account, the total wall area is 4 * 160 sq. ft. = 640 sq. ft. Taking into account the doors and window, the total wall area Linda will have to paint is 640 sq. ft. - 80 sq. ft. = 560 sq. ft.
+The answer: 560
+What was the question?
+Question: Linda is painting her bedroom. Her bedroom has 4 walls, with the room being 20 feet wide by 20 feet long by 8 feet tall. One wall has a 3-foot by 7-foot doorway. A second wall has a 6-foot by 4-foot window. A third wall has a 5-foot by 7-foot doorway to a walk-in-closet. And the fourth wall is completely solid. What is the total area of wall space that Linda will have to paint?
+
+Reasoning and answer: If there are 3 identical cylindrical structures, with a combined total of 72 rooms, then each individual cylindrical structure contains 72 / 3 = 24 rooms. In each 24 - room cylindrical structure, there are 24 - 12 - 7 = 5 kitchens. Thus, the entire, three - cylinder space station contains a total of 3 * 5 = 15 kitchens.
+The answer: 15
+What was the question?
+Question:

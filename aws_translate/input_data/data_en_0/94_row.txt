@@ -1,0 +1,19 @@
+Question 1: What's the difference between an astronaut and a cosmonaut?
+
+The primary difference between an astronaut and a cosmonaut lies in the country of origin and the space programs they represent. The term "astronaut" is used primarily for space travelers from the United States, participating in the US space program, NASA (National Aeronautics and Space Administration), and astronauts from ESA (European Space Agency) countries, Canada, and Japan.
+
+On the other hand, "cosmonaut" is exclusively used to refer to space travelers from Russia or older Soviet Union countries, participating in the Russian space program, Roscosmos (Russian Federal Space Agency). The distinction in these terms has historical roots, and it signifies the competitive spirit that existed between the United States and the Soviet Union during the Cold War era and the infamous Space Race.
+
+In terms of training, astronauts and cosmonauts receive similar preparation with the objective of effectively carrying out tasks in space. This includes learning spacecraft systems, maintaining physical fitness, conducting spacewalks (extravehicular activities), and experiencing extreme environments like microgravity and isolation. They also undergo specific training for the spacecraft they'll be using and collaborate with international astronauts, regardless of their titles.
+
+In summary, astronauts and cosmonauts perform similar tasks and undergo comparable training, but their key differences lie in the country of origin and the space agency they represent.
+
+Question 2: How much does an astronaut working on the ISS get paid?
+
+An astronaut's salary depends on their country of origin, their civil service rank, and professional experience. In the case of NASA astronauts working on the International Space Station (ISS), their compensation is regulated by the United States Federal Government's General Schedule (GS) pay scale.
+
+The pay scale typically ranges from GS-11 to GS-14 for a NASA astronaut. For instance, as of 2021, a GS-11 employee is paid an annual salary starting at $72,750, which increases with experience up to $94,581. Similarly, a GS-12 employee's salary begins at $87,198, extending up to $113,362. At the GS-13 level, the figures lie between $103,690 and $134,798, while a GS-14 employee earns somewhere in the range of $122,530 to $159,286. Additional locality pay adjustments can also contribute to the overall salary, based on the area where the astronaut resides or works.
+
+Astronauts employed by other agencies, like the European Space Agency (ESA), Canadian Space Agency (CSA), or Russian Federal Space Agency (Roscosmos), follow different compensation structures as per the respective country's policies. For example, a cosmonaut's salary in Russia may vary depending on their experience and rank in the Russian military forces.
+
+Regarding the questions' similarity, it is evident that Questions 1 and 2 are not asking the same thing. Question 1 seeks to explore distinctions between astronauts and cosmonauts, while Question 2 aims to determine the salary of astronauts working on the ISS.

@@ -1,0 +1,19 @@
+Question: Passage: Swachh Bharat Abhiyan (English: Clean India Mission) is a campaign by the Government of India to keep the streets, roads and infrastructure of the country's 4,041 statutory cities and towns and its rural areas clean. The mission is bifurcated into sub-missions as Swachh Bharat Abhiyan (Gramin), under Ministry of Drinking Water and Sanitation, and Swachh Bharat Abhiyan (Urban), under Ministry of Housing and Urban Affairs. It includes ambassadors and activities such as a run, national real-time monitoring and updates from NGOs.
+
+Question: Based on this passage, what do you mean by swachh bharat abhiyan?
+Answer: The relevant information is: Swachh Bharat Abhiyan (English: Clean India Mission) is a campaign by the Government of India to keep the streets, roads and infrastructure of the country's 4,041 statutory cities and towns and its rural areas clean. The answer is a campaign by the Government of India to keep the streets , roads and infrastructure of the country 's 4,041 statutory cities and towns and its rural areas clean.
+
+Question: Passage: The franchise was poor to mediocre in the eight years before moving to New Jersey, a pattern that continued during the first five years in New Jersey as they failed to make the Stanley Cup playoffs and never finished higher than fifth in their division. Their fortunes began to turn around following the hiring of president and general manager Lou Lamoriello in 1987. Under Lamoriello's stewardship, the Devils made the playoffs all but three times between 1988 and 2012, including 13 berths in a row from 1997 to 2010, and finished with a winning record every season from 1992 -- 93 to 2009 -- 10. They have won the Atlantic Division regular season title nine times, most recently in 2009 -- 10, before transferring to the newly created Metropolitan Division as part of the NHL's realignment in 2013. The Devils have reached the Stanley Cup Finals five times, winning in 1994 -- 95, 1999 -- 00 and 2002 -- 03. The Devils were known for their defense-first approach throughout their years of Cup contention, but have since moved towards a more offensive style.
+
+Question: Based on this passage, when did the nj devils win the stanley cup?
+Answer: The important part for answering this question is: The Devils have reached the Stanley Cup Finals five times, winning in 1994 -- 95, 1999 -- 00 and 2002 -- 03. The answer is 1994 -- 95 , 1999 -- 00 and 2002 -- 03.
+
+Question: Context: "99 Luftballons" (German: Neunundneunzig Luftballons, "99 balloons") is an anti-war protest song by the German band Nena from their 1983 self-titled album. An English-language version titled "99 Red Balloons", with lyrics by Kevin McAlea, was also released on the album 99 Luftballons in 1984 after widespread success of the original in Europe and Japan. The English version is not a direct translation of the German original and contains somewhat different lyrics.
+
+Question: what is the song 99 red balloons about?
+Answer: The relevant information to answer the above question is: "99 Luftballons" (German: Neunundneunzig Luftballons, "99 balloons") is an anti-war protest song by the German band Nena from their 1983 self-titled album. The answer is an anti-war protest song.
+
+Question: New Hope Club is a British pop trio formed in 2015, consisting of Reece Bibby, Blake Richardson and George Smith. Their debut EP, Welcome to the Club, was released on Steady Records / Hollywood Records on May 5, 2017.
+
+Based on this passage, who are the members of new hope club?
+Answer:

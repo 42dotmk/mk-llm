@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: Growing Up Hip Hop: Atlanta is the second installment of the Growing Up Hip Hop reality television franchise on WE tv. The series premiered on May 25, 2017, and chronicles the lives of the children of hip hop legends in Atlanta. On November 2, 2017, WE tv announced that Growing Up Hip Hop: Atlanta was renewed for a second season, which will premiere in January 2018.
+
+Question: Based on this passage, when is growing up hip hop atlanta coming back on?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: On November 2, 2017, WE tv announced that Growing Up Hip Hop: Atlanta was renewed for a second season, which will premiere in January 2018.... The answer is January 2018.
+----
+Answer this question please:
+The first breakthrough in the detection of arsenic poisoning was in 1775 when Carl Wilhelm Scheele discovered a way to change arsenic trioxide to garlic-smelling arsine gas (AsH), by treating it with nitric acid (HNO) and combining it with zinc.
+
+Who devised the first test for detection of arsenic in 1775?
+
+Stream of random thoughts: To answer the question, consider the following: The first breakthrough in the detection of arsenic poisoning was in 1775 when Carl Wilhelm Scheele discovered a way to change arsenic trioxide to garlic-smelling arsine gas (AsH), by treating it with nitric acid (HNO) and combining it with zinc.... The answer is Carl Wilhelm Scheele.
+----
+Answer this question please:
+Context: Its architecture and mosaics were patterned after nearby Byzantine churches and palaces, although its outside appearance has been significantly changed in the Ottoman period and again in the modern period, notably with the addition of the gold-plated roof, in 1959 -- 61 and again in 1993. The octagonal plan of the structure may have been influenced by the Byzantine Church of the Seat of Mary (also known as Kathisma in Greek and al-Qadismu in Arabic) built between 451 and 458 on the road between Jerusalem and Bethlehem.
+
+Question: when was the dome of the rock painted gold?
+
+Stream of random thoughts: To answer this question, we should know that: Its architecture and mosaics were patterned after nearby Byzantine churches and palaces, although its outside appearance has been significantly changed in the Ottoman period and again in the modern period, notably with the addition of the gold-plated roof, in 1959 -- 61 and again in 1993.... The answer is 1959 -- 61.
+----
+Answer this question please:
+By 1966, the British government had come to the conclusion that it could no longer afford to govern what is now the United Arab Emirates. Much deliberation took place in the British parliament, with a number of MPs arguing that the Royal Navy would not be able to defend the Trucial Sheikhdoms. Denis Healey, who, at the time, was the UK Secretary of State for Defence, reported that the British Armed Forces were severely overextended, and in some respects, dangerously under-equipped to defend the Sheikhdoms. On 24 January 1968, British Prime Minister Harold Wilson announced the decision to end the treaty relationships with the seven Trucial Sheikhdoms which had been, together with Bahrain and Qatar, under British protection. The British decision to withdraw was reaffirmed in March 1971 by Prime Minister Edward Heath.
+
+Answer this question based on the passage: when did the united arab emirates gain independence?
+

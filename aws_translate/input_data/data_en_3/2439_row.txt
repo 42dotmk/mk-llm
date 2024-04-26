@@ -1,0 +1,19 @@
+Question: Context: Pressure increased across the country. The related civil suit was heard in federal district court and, on June 4, 1956, the court ruled in Browder v. Gayle (1956) that Alabama's racial segregation laws for buses were unconstitutional. As the state appealed the decision, the boycott continued. The case moved on to the United States Supreme Court. On November 13, 1956, the Supreme Court upheld the district court's ruling, ruling that segregation on public buses and transportation was against the law.
+
+Question: when did the supreme court ruled that bus segregation was unconstitutional?
+Answer: The relevant sentence in the passage is: On November 13, 1956, the Supreme Court upheld the district court's ruling, ruling that segregation on public buses and transportation was against the law. The answer is On November 13 , 1956.
+
+Question: The Leader of Opposition (LOP) in Uganda is the title bestowed upon the elected leader of the largest political party not within the ruling government. The Leader of Opposition appoints and heads an alternative Shadow Cabinet whose duty is to challenge and influence government legislation on the floor of Parliament The current Leader of Opposition and first Ugandan female to hold the position is Hon. Winnie Kiiza of the Forum for Democratic Change. The Opposition in Uganda is made up of members from Forum for Democratic Change, Democratic Party, Uganda People's Congress, Congress Party and JEEMA.
+
+Answer this question: who is the current leader of opposition in uganda?
+Answer: The important part for answering this question is: The Leader of Opposition appoints and heads an alternative Shadow Cabinet whose duty is to challenge and influence government legislation on the floor of Parliament The current Leader of Opposition and first Ugandan female to hold the position is Hon. Winnie Kiiza of the Forum for Democratic Change. The answer is Hon . Winnie Kiiza of the Forum for Democratic Change.
+
+Question: Context: The rotator cuff muscles are important in shoulder movements and in maintaining glenohumeral joint (shoulder joint) stability. These muscles arise from the scapula and connect to the head of the humerus, forming a cuff at the shoulder joint. They hold the head of the humerus in the small and shallow glenoid fossa of the scapula. The glenohumeral joint has been analogously described as a golf ball (head of the humerus) sitting on a golf tee (glenoid fossa).
+
+Question: where is the rotator cuff located on the human body?
+Answer: The relevant sentence in the passage is: These muscles arise from the scapula and connect to the head of the humerus, forming a cuff at the shoulder joint. The answer is arise from the scapula and connect to the head of the humerus , forming a cuff at the shoulder joint.
+
+Question: The circular flow of income or circular flow is a model of the economy in which the major exchanges are represented as flows of money, goods and services, etc. between economic agents. The flows of money and goods exchanged in a closed circuit correspond in value, but run in the opposite direction. The circular flow analysis is the basis of national accounts and hence of macroeconomics.
+
+What is meant by the circular flow of income?
+Answer:

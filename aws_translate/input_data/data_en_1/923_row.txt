@@ -1,0 +1,25 @@
+q... Context: The Rajasthan Royals (often abbreviated as RR) are a cricket team in the Indian Premier League from the city of Jaipur. Founded in 2008 as one of the initial eight IPL franchises, the Royals are owned by Manoj Badale. The team played its home matches at the Sawai Mansingh Stadium in Jaipur and also had secondary home grounds at the Sardar Patel Stadium at Ahmedabad and the Brabourne Stadium at Mumbai.
+
+Question: who is the new owner of rajasthan royals?
+a... To answer this question, we should know that: Founded in 2008 as one of the initial eight IPL franchises, the Royals are owned by Manoj Badale.
+The answer is Manoj Badale
+
+
+q... Developed by Mission Street Development LLC, an affiliate of Millennium Partners, the US $350 million project was designed by Handel Architects, engineered by DeSimone Consulting Engineers and constructed by Webcor Builders. At 645 feet (197 m), it is the tallest concrete structure in San Francisco, the fourth tallest building in San Francisco overall, and the tallest since 345 California Street in 1986. It was also the tallest residential building west of the Mississippi River when finished (later surpassed by The Austonian in Texas). The tower is slender, with each floor containing 14,000 square feet (1,300 m) of floor space. In addition to the 58-story tower, there is a 125-foot (38 m), 11-story tower on the northeast end of the complex. Between the two towers is a 43-foot (13 m), two-story glass atrium. In total, the project has 419 units.
+
+Answer this question based on the passage: who built the millennium tower in san francisco?
+a... To answer the above question, the relevant sentence is: Developed by Mission Street Development LLC, an affiliate of Millennium Partners, the US $350 million project was designed by Handel Architects, engineered by DeSimone Consulting Engineers and constructed by Webcor Builders.
+The answer is Webcor Builders
+
+
+q... Overall, there have been 87 different champions. Ric Flair holds the record for having the most reigns at six, while John Cena holds the record for most reigns under the WWE banner at five. Lex Luger holds the record for longest reign, with his third reign lasting a total of 523 days, while Dean Ambrose holds the longest reign under the WWE banner, at 351 days (overall the third longest in the title's history). Only two men, Lex Luger and Rick Rude, have held the championship for a continuous reign of one year (365 days) or more.
+
+Based on this passage, who is the longest reigning wwe united states champion?
+a... The relevant information to answer the above question is: Lex Luger holds the record for longest reign, with his third reign lasting a total of 523 days, while Dean Ambrose holds the longest reign under the WWE banner, at 351 days (overall the third longest in the title's history).
+The answer is Dean Ambrose
+
+
+q... Australia competed at the 2018 Winter Olympics in Pyeongchang, South Korea, from 9 to 25 February 2018, with 50 competitors in 10 sports. They won three medals in total, two silver and one bronze, ranking 23rd in the medal table.
+
+Where did australia come in the winter olympics 2018?
+a...

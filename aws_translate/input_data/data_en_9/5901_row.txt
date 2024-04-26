@@ -1,0 +1,36 @@
+Answer: 5 -- 20 %. Now, what could be the question and solution-maybe?
+Ques: Context: Vinegar is a liquid consisting of about 5 -- 20 % acetic acid (CH COOH), water, and other trace chemicals, which may include flavorings. The acetic acid is produced by the fermentation of ethanol by acetic acid bacteria. Vinegar is now mainly used as a cooking ingredient, or in pickling. As the most easily manufactured mild acid, it has historically had a great variety of industrial, medical, and domestic uses, some of which (such as its use as a general household cleaner) are still commonly practiced today.
+
+Question: what is the percentage of acetic acid in vinegar?
+CoT: The relevant sentence in the passage is: Vinegar is a liquid consisting of about 5 -- 20 % acetic acid (CH COOH), water, and other trace chemicals, which may include flavorings.
+
+
+Ans: west of the town of Mammoth Lakes , California , in the Inyo National Forest of Madera and Mono Counties
+Ques: Mammoth Mountain is a lava dome complex west of the town of Mammoth Lakes, California, in the Inyo National Forest of Madera and Mono Counties. It is home to a large ski area on the Mono County side.
+
+Based on this passage, where is mammoth mountain located on a map?
+CoT: The relevant information to answer the above question is: Mammoth Mountain is a lava dome complex west of the town of Mammoth Lakes, California, in the Inyo National Forest of Madera and Mono Counties.
+
+
+Ans: south of Vancouver , British Columbia , on a farm surrounded by vineyards
+Ques: Context: The series, originally planned to be filmed in Colorado, is filmed south of Vancouver, British Columbia, on a farm surrounded by vineyards. The fictional frontier town of Coal Valley was erected in late 2013. Some of the set trimmings and a stage coach came from the Hell on Wheels set. The Thatcher home is the University Women's Club of Vancouver.
+
+Question: where is the hallmark show when calls the heart filmed?
+CoT: The relevant information to answer the above question is: The series, originally planned to be filmed in Colorado, is filmed south of Vancouver, British Columbia, on a farm surrounded by vineyards.
+
+
+Answer: evaporation. Now, what could be the question and solution-maybe?
+Ques: Sea salt is salt that is produced by the evaporation of seawater. It is used as a seasoning in foods, cooking, and cosmetics. It is also called bay salt, solar salt, or salt. Like mined rock salt, production of sea salt has been dated to prehistoric times. There is no scientific evidence that consuming sea salt instead of more refined sodium chloride salts has any health benefit.
+
+Answer this question: manufacture of salt from seawater is which change?
+CoT: To answer the above question, the relevant sentence is: Sea salt is salt that is produced by the evaporation of seawater.
+
+
+Ans: January 1 , 1881
+Ques: Construction of the canal began on January 1, 1881, with digging at Culebra beginning on January 22. A large labor force was assembled, numbering about 40,000 in 1888 (nine-tenths of whom were afro-Caribbean workers from the West Indies). Although the project attracted good, well-paid French engineers, retaining them was difficult due to disease. The death toll from 1881 to 1889 was estimated at over 22,000, of whom as many as 5,000 were French citizens.
+
+When did the french start the panama canal?
+CoT: The relevant information to answer the above question is: Construction of the canal began on January 1, 1881, with digging at Culebra beginning on January 22.
+
+
+Ans: folk music singer Melanie

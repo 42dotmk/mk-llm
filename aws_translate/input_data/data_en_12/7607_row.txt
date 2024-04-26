@@ -1,0 +1,34 @@
+Student A:Gana-Sangha (Sanskrit: गणसङ्घ, lit. equal assembly) or Gana-Rajya (Sanskrit: गणराज्य, lit. equal government), refers to a type of republic or oligarchy in the eastern part of the Indian subcontinent.
+
+Answer this question based on the passage: what is the meaning of gana and sangha?
+Student B:OK... The important part for answering this question is: Gana-Sangha (Sanskrit: गणसङ्घ, lit. equal assembly) or Gana-Rajya ( Sanskrit: गणराज्य, lit.
+equal assembly.
+
+Problem:Context: Resident Evil: The Final Chapter was released on December 23, 2016, in Japan and on January 27, 2017, in the United States in 2D, 3D and IMAX 3D. The film received mixed reviews and became the highest-grossing film in the franchise, earning over $312 million worldwide.
+
+Question: when is the last resident evil movie coming out?
+Solution:OK... The relevant information to answer the above question is: Resident Evil: The Final Chapter was released on December 23, 2016, in Japan and on January 27, 2017, in the United States in 2D, 3D and IMAX 3D.
+December 23 , 2016 , in Japan and on January 27 , 2017 , in the United States.
+
+Student A:Context: After joining the NHL, the Oilers went on to win the Stanley Cup on five occasions: 1983 -- 84, 1984 -- 85, 1986 -- 87, 1987 -- 88 and 1989 -- 90. Along with the Pittsburgh Penguins, the Oilers are tied for the most championships won by any team since the NHL-WHA merger and also the most won by any team that joined the league in or after 1967. Among all NHL teams, only the Montreal Canadiens have won the Stanley Cup more times since the League's 1967 expansion. For their success in the 1980s, the Oilers team of this era has been honoured with dynasty status by the Hockey Hall of Fame.
+
+Question: when did the oilers last win the stanley cup?
+Student B:OK... The relevant information to answer the above question is: After joining the NHL, the Oilers went on to win the Stanley Cup on five occasions: 1983 -- 84, 1984 -- 85, 1986 -- 87, 1987 -- 88 and 1989 -- 90.
+1989.
+
+Problem:Context: The series stars Nathan Fillion, Afton Williamson, Eric Winter, Melissa O'Neil, Richard T. Jones, Titus Makin, Alyssa Diaz, and Mercedes Mason. In October 2017, The Rookie received a series order from ABC, and premiered on October 16, 2018.
+
+Question: when does the tv show the rookies start?
+Solution:OK... The relevant information to answer the above question is: In October 2017, The Rookie received a series order from ABC, and premiered on October 16, 2018.
+October 16 , 2018.
+
+Student A:There have been eleven seasons of the IPL tournament. The current IPL title holders are the Chennai Super Kings, who won the 2018 season. The most successful franchises in the tournament are the Chennai Super Kings and Mumbai Indians with 3 tournament wins each.
+
+Answer this question based on the passage: who has won the ipl cricket league a record 3 times since its inception in 2009?
+Student B:OK... The important part for answering this question is: The most successful franchises in the tournament are the Chennai Super Kings and Mumbai Indians with 3 tournament wins each.
+the Chennai Super Kings and Mumbai Indians.
+
+Student A:Miami Dade College, or simply Miami Dade or MDC, is a state college located in Miami, Florida. Miami Dade has eight campuses and twenty-one outreach centers located throughout Miami-Dade County. Founded in 1959, Miami Dade is the largest college in the Florida College System with over 165,000 students. Additionally, MDC is also the largest institution of higher education in Florida, and the second-largest in the United States. Miami Dade College's main campus, the Wolfson Campus, is in Downtown Miami.
+
+Answer this question: what type of school is miami dade college?
+Student B:

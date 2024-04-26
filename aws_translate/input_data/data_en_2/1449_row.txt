@@ -1,0 +1,25 @@
+Three units require a running current of 40A each for a total current load of 3 * 40A = 120A. They require twice 120A for starting which is 2 * 120A = 240A which is the minimum current load that the transformer must be able to carry.
+The answer: 240
+Reverse engineering the question: The owner of a company needs to install a transformer to power his electrical equipment. He operates three units of machinery that require a running current of 40A each. These appliances require at least twice their running current for starting, and the transformer chosen must account for this. What is the minimum current load that his transformer of choice must be able to carry?
+
+Reasoning and answer: When Jayson is 10 his dad is 10 x 4 = 40 years old. His mom is 40 - 2 = 38 years old. When Jayson is born, his mom is 38 - 10 = 28 years old.
+The answer: 28
+What was the question?
+Question: When Jayson is 10 his dad is four times his age and his mom is 2 years younger than his dad. How old was Jayson's mom when he was born?
+
+The builder purchased 7 boxes * 11 bolts = 77 bolts. He used 77 bolts - 3 left over = 74 bolts for the project. The builder purchased 3 boxes * 15 nuts = 45 nuts. He used 45 nuts - 6 left over = 39 nuts for the project. Total for the project he used 74 bolts + 39 nuts = 113 nuts and bolts.
+The answer: 113
+Reverse engineering the question: For a project, a builder purchased 7 boxes of bolts with each box containing 11 bolts. He purchased 3 boxes of nuts with each box containing 15 nuts. He ended up finishing the project 6 days early and with 3 bolts and 6 nuts left over. How many bolts and nuts did he use for the project?
+
+Reasoning and answer: The total number of candies Shelley had before eating some is 50 + 20 = 70 candies. When her friend came over, she brought 2 * 70 = 140 candies. The total number of candies in the bowl is now 140 + 50 = 190 candies. When they divide this equally between them, each gets 190 / 2 = 95 candies. When Shelly’s friend eats 10 of her candies, she still has 95 - 10 = 85 candies.
+The answer: 85
+What was the question?
+Question: There were 50 candies left in a bowl after Shelly ate 20 candies the previous week. Her friend comes over, bringing twice as much candy as she originally had. Shelly adds this to the bowl and they decide to divide them equally. How much candy did her friend have after eating 10 of her candies?
+
+First find how much faster the dog is than the sheep: 20 feet / second - 12 feet / second = 8 feet / second. Then divide the distance the dog needs to run by the speed difference: 160 feet / 8 feet / second = 20 seconds.
+The answer: 20
+Reverse engineering the question: Mary's sheep can run 12 feet per second, and her sheepdog can run 20 feet per second. A sheep standing 160 feet away from the sheep dog bolts, and the dog runs after it. How many seconds does it take the dog to catch the sheep?
+
+The two bags of cat food weigh 2 x 3 = 6 pounds. Each bag of dog food weighs 3 + 2 = 5 pounds. So two bags of dog food weigh 2 x 5 = 10 pounds. Thus, Mrs. Anderson bought 6 + 10 = 16 pounds of pet food. And 16 pounds is equal to 16 x 16 = 256 ounces.
+The answer: 256
+Reverse engineering the question:

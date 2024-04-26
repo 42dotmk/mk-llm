@@ -1,0 +1,19 @@
+Question: Filming commenced in February 2017 at Labassa, Caulfield, Mandeville Hall, Toorak, Rippon Lea, Elsternwick, Werribee Park, as well as Lysterfield Park and on Fraser St in the Victorian goldfields town of Clunes.
+
+Where was the series picnic at hanging rock filmed?
+Answer: To answer this question, we should know that: Filming commenced in February 2017 at Labassa, Caulfield, Mandeville Hall, Toorak, Rippon Lea, Elsternwick, Werribee Park, as well as Lysterfield Park and on Fraser St in the Victorian goldfields town of Clunes. The answer is Labassa , Caulfield , Mandeville Hall , Toorak , Rippon Lea , Elsternwick , Werribee Park , as well as Lysterfield Park and on Fraser St in the Victorian goldfields town of Clunes.
+
+Question: Passage: The Next Step is a Canadian teen drama series created by Frank van Keeken and produced by Temple Street Productions. Shot in a dramatic mockumentary style, the series focuses on a group of dancers who attend The Next Step Dance Studio. They have won Regionals, Nationals and Internationals. As of December 6, 2017, 154 episodes of The Next Step have aired.
+
+Question: Based on this passage, how many episodes are there of the next step?
+Answer: The relevant information is: As of December 6, 2017, 154 episodes of The Next Step have aired. The answer is 154.
+
+Question: The three-second rule was introduced in 1936 and was expressed as such: no offensive player with the ball could remain in the Key with or without the ball, for more than three seconds.
+
+Based on this passage, when did the nba 3 second rule start?
+Answer: The relevant sentence in the passage is: The three-second rule was introduced in 1936 and was expressed as such: no offensive player with the ball could remain in the Key with or without the ball, for more than three seconds. The answer is 1936.
+
+Question: Passage: Torvill and Dean (Jayne Torvill and Christopher Dean) are British ice dancers and former British, European, Olympic and World champions. At the Sarajevo 1984 Winter Olympics the pair won gold and became the highest scoring figure skaters of all time (for a single programme) receiving twelve perfect 6.0 s and six 5.9 s which included artistic impression scores of 6.0 from every judge, after skating to Maurice Ravel's Boléro. Their performance was watched by a British television audience of more than 24 million people. The pair turned professional following the 1984 World Championships, regaining amateur status briefly ten years later in 1994 to compete in the Olympics once again. The pair retired from competitive skating for good in 1998 when they toured one last time with their own show, Ice Adventures, before rejoining Stars on Ice for one more season. Their final routine was performed to Paul Simon's "Still Crazy After All These Years", a routine they had devised a few years earlier for competition. Although remaining close friends, the pair did not skate together again until they were enticed out of retirement to take part in ITV's Dancing on Ice.
+
+Question: Based on this passage, when did jane and chris win the olympics?
+Answer:

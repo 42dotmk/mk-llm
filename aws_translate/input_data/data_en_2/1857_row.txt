@@ -1,0 +1,34 @@
+Problem:The most populated country wholly within Europe is Germany. The largest city by total area is Paris. The most spoken languages are English, German, Russian, French, Turkish, Italian, Spanish, Ukrainian and Polish.
+
+Answer this question: which country has the largest population in europe?
+Solution:OK... This is the relevant information: The most populated country wholly within Europe is Germany.
+Germany.
+
+Student A:Capital punishment in New Zealand first appeared in a codified form when it became a British territory in 1840, and was first employed in 1842. It was last used in 1957, abolished for murder in 1961, and abolished altogether, including for treason, in 1989. During the period that it was in effect, 85 people were executed.
+
+Answer this question based on the passage: when was death penalty abolished in new zealand?
+Student B:OK... This is the relevant information: It was last used in 1957, abolished for murder in 1961, and abolished altogether, including for treason, in 1989.
+1989.
+
+Problem:Le bonheur de vivre (The Joy of Life) is a painting by Henri Matisse. Along with Picasso's Les Demoiselles d'Avignon, Le bonheur de vivre is regarded as one of the pillars of early modernism. The monumental canvas was first exhibited at the Salon des Indépendants of 1906, where its cadmium colors and spatial distortions caused a public expression of protest and outrage.
+
+Answer this question based on the passage: the joy of life was painted in which style?
+Solution:OK... To answer the above question, the relevant sentence is: Along with Picasso's Les Demoiselles d'Avignon, Le bonheur de vivre is regarded as one of the pillars of early modernism.
+early modernism.
+
+Student A:Passage: John Carroll Lynch (born August 1, 1963) is an American character actor and film director. He first gained notice for his role as Norm Gunderson in Fargo. He is also known for his television work on the ABC sitcom The Drew Carey Show as the title character's cross-dressing brother, Steve Carey, as well as on American Horror Story: Freak Show and American Horror Story: Cult as Twisty the Clown.
+
+Question: Based on this passage, who played the clown on american horror story?
+Student B:OK... The important part for answering this question is: He is also known for his television work on the ABC sitcom The Drew Carey Show as the title character's cross-dressing brother, Steve Carey, as well as on American Horror Story: Freak Show and American Horror Story: Cult as Twisty the Clown.
+John Carroll Lynch.
+
+Problem:The Emoji Movie was released on Blu-ray and DVD on October 24, 2017, by Sony Pictures Home Entertainment.
+
+Answer this question: when will the emoji movie be released on dvd?
+Solution:OK... The relevant information is: The Emoji Movie was released on Blu-ray and DVD on October 24, 2017, by Sony Pictures Home Entertainment.
+October 24 , 2017.
+
+Problem:New Palestine High School is a rural public high school (grades 9-12) located in New Palestine, Indiana, managed by the Community School Corporation of Southern Hancock County. As of the 2016-2017 school year it serves 1,137 students and employed 61 faculty members.
+
+How many students attend new palestine high school?
+Solution:

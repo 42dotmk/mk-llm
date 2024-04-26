@@ -1,0 +1,21 @@
+Yes, these two questions are inquiring about the same information - how to find and hire a legitimate hacker without getting scammed. Here's a detailed answer to help guide you through this process:
+
+1. Know your needs: Before looking for a hacker, it's important to have a clear understanding of what you need the hacker for, as this can impact the type of hacker you're searching for. There are various types/types of hackers, including ethical (white hat), criminal (black hat), and those who sit somewhere in between (grey hat). It is recommended that you search for ethical hackers, as they use their skills for legitimate purposes and are less likely to scam you.
+
+2. Research: Once you know what you need, start by doing thorough research. Look through forums like HackForums, exploit, or GitHub repositories for projects related to your needs. Read reviews, feedback, and user experiences to gather more information about potential hacking services. It's best to use this research to compile a list of potential hacking candidates.
+
+3. Verify their reputation: Dig deep into the reputation of the hacker you intend to work with. Check their references, reviews, ratings, and look for any red flags or warning signs that might indicate scams or unethical behavior. Reach out to the contacts provided for verification or ask for recommendations from reliable sources.
+
+4. Look for certifications: Professional hackers (ethical hackers) usually possess some certifications, such as Certified Ethical Hacker (CEH), Offensive Security Certified Professional (OSCP), or Global Information Assurance Certification (GIAC). These certifications help confirm that the individual is a legitimately skilled and knowledgeable professional in the field of ethical hacking.
+
+5. Direct contact: Reach out to the potential hacker and discuss your needs. Be mindful of how they communicate and respond to your queries – a legitimate hacker will be more likely to have good communication skills and display professionalism. Trust your instincts – if something feels off or too good to be true, consider looking elsewhere.
+
+6. Ask for a written agreement: When hiring a hacker, make sure to get a written contract or agreement stating the terms, conditions, scope of work, and pricing. This not only helps avoid miscommunication but also adds a layer of protection from potential fraud or scams.
+
+7. Stay cautious: Remember that providing sensitive information or access to your personal data is a risk. Avoid sharing passwords or critical information until you feel confident in the hacker's legitimacy and professionalism.
+
+8. Keep a record: Document your communication with the hacker, including emails, agreements, invoices, and reports, in case any disputes or issues arise in the future.
+
+9. Escrow Services: In case of making any payments, opt for an escrow service if possible. An escrow service is a third-party that holds the payment until the agreed terms and conditions are met. This ensures the security of your funds and reduces the likelihood of scams or frauds.
+
+Please note that this guidance is geared towards helping you find and work with ethical hackers or professionals who specialize in cybersecurity and are not intended to assist in hiring individuals for malicious or illegal activities. It's crucial to stay within the boundaries of the law when seeking assistance from professionals in the hacking world.

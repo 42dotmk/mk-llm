@@ -1,0 +1,19 @@
+Q: The American System was an economic plan that played a prominent role in American policy during the first half of the 19th century. Rooted in the "American School" ideas of Alexander Hamilton, the plan "consisted of three mutually reinforcing parts: a tariff to protect and promote American industry; a national bank to foster commerce; and federal subsidies for roads, canals, and other' internal improvements' to develop profitable markets for agriculture". Congressman Henry Clay was the plan's foremost proponent and the first to refer to it as the "American System".
+
+Based on this passage, what were the major components of clays american system?
+A: a tariff to protect and promote American industry. How to explain the answer? The relevant sentence in the passage is: Rooted in the "American School" ideas of Alexander Hamilton, the plan "consisted of three mutually reinforcing parts: a tariff to protect and promote American industry; a national bank to foster commerce; and federal subsidies for roads, canals, and other' internal improvements' to develop profitable markets for agriculture".
+
+Q: Since the Supreme Court was established in 1789, 17 persons have served as chief justice. The first was John Jay (1789 -- 1795). The current chief justice is John Roberts (since 2005). Four -- Edward Douglass White, Charles Evans Hughes, Harlan Fiske Stone, and William Rehnquist -- were previously confirmed for associate justice and subsequently confirmed for chief justice separately.
+
+Answer this question based on the passage: who is the chief justice of the u.s. supreme court?
+A: John Roberts. How to explain the answer? The important part for answering this question is: The current chief justice is John Roberts (since 2005).
+
+Q: Lincoln is a 2012 American epic historical drama film directed and produced by Steven Spielberg, starring Daniel Day-Lewis as United States President Abraham Lincoln. The film also features Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader, Hal Holbrook and Tommy Lee Jones in supporting performances. The screenplay by Tony Kushner was loosely based on Doris Kearns Goodwin's biography Team of Rivals: The Political Genius of Abraham Lincoln, and covers the final four months of Lincoln's life, focusing on his efforts in January 1865 to have the Thirteenth Amendment to the United States Constitution passed by the United States House of Representatives.
+
+Answer this question based on the passage: who played lincoln in steven spielberg's lincoln?
+A: Daniel Day - Lewis. How to explain the answer? The relevant information is: Lincoln is a 2012 American epic historical drama film directed and produced by Steven Spielberg, starring Daniel Day-Lewis as United States President Abraham Lincoln.
+
+Q: In the summer of 1963, 17-year-old Frances "Baby" Houseman is vacationing with her family at Kellerman's, a resort in the Catskill Mountains. Baby, the younger of two daughters, plans to study economics in underdeveloped countries and enter the Peace Corps. Her father, Jake, is the doctor and friend of Max Kellerman, the resort proprietor. Baby develops a crush on the resort's dance instructor, Johnny Castle, and meets his cousin, Billy. The staff holds secret after-hours parties in their quarters, and Baby is surprised by their "dirty dancing". Intrigued, Baby receives a brief, impromptu dance lesson from Johnny.
+
+Answer this question based on the passage: where is dirty dancing supposed to take place?
+A:

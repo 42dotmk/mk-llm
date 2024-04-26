@@ -1,0 +1,27 @@
+Although both questions seem related to using audio splitters, they are not the same. Let's dive into a detailed explanation of each to differentiate them clearly.
+
+Question 1: I want to record a podcast interview using 2 lapel microphones plugged into my iPhone using a splitter. Is there a way to have the 2 inputs record as separate vocal tracks? Do I need a special app or hardware?
+
+This question deals with recording a podcast interview using two lapel microphones and an iPhone, with the requirement of having separate vocal tracks for each input.
+
+To accomplish this, you may need special hardware and potentially a specific app. In most cases, a simple audio splitter won't work for this purpose because it will only duplicate the input signal while mixing it into a single track. You'll need an audio interface or a mixer that supports multi-channel recording. Here's what you can do:
+
+1. Use an audio interface: You can find several audio interfaces that are compatible with iPhones (e.g., iRig Pro Duo, Shure MVi). These devices allow you to plug in two microphones and record separate audio tracks simultaneously.
+
+2. Use a digital mixer: Another option is to use a digital mixer (e.g., Zoom LiveTrak L-8, Rode Rodecaster Pro) that offers multi-track recording. With these mixers, you can connect multiple microphones and record separate audio tracks, which you can then transfer to your iPhone for editing and publishing.
+
+3. Specific apps: While there are many apps available for recording on your iPhone, most of them don't support multi-track recording. However, some apps like GarageBand or Ferrite Recording Studio allow you to record and edit multiple tracks simultaneously.
+
+In conclusion, you will need an audio interface or a digital mixer to record separate vocal tracks using two lapel microphones with your iPhone.
+
+Question 2: Can I use a male to 2 female audio splitter for 1 headphone and one microphone?
+
+This question pertains to the use of a male to 2 female audio splitter to connect a headphone and a microphone simultaneously.
+
+Using such splitter can sometimes work, but the result depends on the type of splitter and the device's compatibility. You should use a splitter specifically designed for this purpose, referred to as a "headset splitter" or "combo jack splitter."
+
+A headset splitter has a single 4-pole male connector (TRRS) on one end that plugs into your device and two female connectors on the other end: one for headphones (3-pole TRS) and one for a microphone (3-pole TRS). This type of splitter separates the headphone and microphone channels, allowing you to use both devices simultaneously.
+
+However, it's essential to ensure your device's audio jack supports the TRRS configuration and both microphone and headphone functions. If your device is not compatible, you may need a USB adapter or an audio interface that supports mic and headphone connectivity.
+
+In summary, while both questions involve audio splitters, they are not the same. The first question concerns recording separate audio tracks using two lapel microphones and an iPhone, whereas the second question deals with using a specific type of splitter to connect a microphone and headphones simultaneously.

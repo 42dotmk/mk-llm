@@ -1,0 +1,27 @@
+Reasoning and answer: If on the return journey to its home, the alligator took 2 more hours than it took to travel to the Nile Delta, Paul took 4 + 2 = 6 hours to travel back to its home. The total time Paul took to travel from its home to the Nile Delta and back is 6 + 4 = 10. On his return journey, Paul traveled with six other alligators, and since each alligator traveled for six hours up the Nile to their home, they took a total of 6 * 6 = 36 hours to do so. Together with Paul, all the alligators took 10 + 36 = 46 hours traveling between Nile Delta and up the Nile.
+The answer: 46
+What was the question?
+Question: It took an alligator named Paul 4 hours to walk from his home at the River Nile to the Nile Delta. On the return journey, Paul traveled with six other alligators, the journey taking 2 more hours than Paul took to walk to the Nile Delta, to reach their home at the River Nile. What's the combined time the alligators walked?
+
+Alex gives his friends a total of 5 friends * 20 meters of silk = 100 meters of silk. This means he has 600 – 100 = 500 meters of silk left in storage. He can therefore make 500 meters of silk / 5 meters of silk per dress = 100 dresses.
+The answer: 100
+Reverse engineering the question: Alex makes luxury dresses out of silk. Each dress needs 5 meters of silk and Alex has 600 meters of silk in storage. His friends also want to learn how to make these dresses so Alex gives all 5 of them 20 meters of silk each. He uses the rest to make dresses himself. How many dresses can Alex make?
+
+Reasoning and answer: The supplier brought 300 ft - 250 ft = 50 fewer feet of metal roofing. Therefore the total amount of money Mr. Caiden has to pay for the remaining metal roofings is 50 feet * $8 / foot = $400.
+The answer: 400
+What was the question?
+Question: Mr. Caiden wants to do repairs to his house and requires 300 feet of metal roofing to do this. If each foot of roofing costs $8, and the supplier of the metal roofing brings in 250 feet of metal roofing for free, how much money is Mr. Caiden required to pay for the remaining metal roofing?
+
+If she invited 20 friends, then the number of friends who came with one more person is 1 / 2 * 20 = 10. If the 10 friends came with 10 more people, the total number of guests becomes 20 + 10 = 30 guests. If you add Ashley, the total number of people in the party is 30 + 1 = 31 people.
+The answer: 31
+Reverse engineering the question: Ashley had a birthday party and invited 20 of her friends, telling them to each invite one more person to attend the party. If half the number of the invited guests each came with one more person, what's the total number of people at the party, including Ashley?
+
+Reasoning and answer: Tammy can eat twice as many pickle slices as Sammy who eats 15 so Tammy can eat 15 * 2 = 30 pickle slices. Ron eats 20% fewer pickle slices than Tammy who eats 30 pickle slices so that's .20 * 30 = 6 fewer slices than Tammy. Tammy eats 30 slices and Ron eats 6 less, then Ron eats 30 - 6 = 24 pickle slices.
+The answer: 24
+What was the question?
+Question: Sammy can eat 15 pickle slices. His twin sister Tammy can eat twice as much as Sammy. Their older brother Ron eats 20% fewer pickles slices than Tammy. How many pickle slices does Ron eat?
+
+Reasoning and answer: Week 1:600 / 2 = 300. 600 - 300 = 300 pages remain. Week 2:300(.30) = 90 pages. 300 - 90 = 210 pages remain. Week 3:210 pages.
+The answer: 210
+What was the question?
+Question:

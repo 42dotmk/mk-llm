@@ -1,0 +1,27 @@
+Reasoning and answer: He played 7 * 2 = 14 gigs. The long song was 5 * 2 = 10 minutes. So all the gigs were 5 + 5 + 10 = 20 minutes. So he played 14 * 20 = 140 minutes.
+The answer: 280
+What was the question?
+Question: Mark does a gig every other day for 2 weeks. For each gig, he plays 3 songs. 2 of the songs are 5 minutes long and the last song is twice that long. How many minutes did he play?
+
+It takes Alexis 2 x 6 = 12 hours to sew 6 skirts. It takes Alexis another 7 x 4 = 28 hours to sew 4 coats. In total it takes Alexis 12 + 28 = 40 hours to sew 6 skirts and 4 coats.
+The answer: 40
+Reverse engineering the question: Alexis can sew a skirt in 2 hours and a coat in 7 hours. How long does it take for Alexis to sew 6 skirts and 4 coats?
+
+Reasoning and answer: The first three groups have a total of 14 + 16 + 12 = 42 children. The fourth group has 42 / 2 = 21 children. All together, the camp has 42 + 21 = 63 children. In one day, the children consume 3 x 63 = 189 bottles of water. In 3 days, the children will need 189 x 3 = 567 bottles of water. The camp organizer has already purchased 13 x 24 = 312 bottles of water. The camp organizer must buy another 567 - 312 = 255 bottles of water.
+The answer: 255
+What was the question?
+Question: A case of water contains 24 bottles. A children's camp comprising of 4 groups purchased 13 cases for a 3-day camp. The first group has 14 children, the second group has 16 children, the third group has 12 children, and the fourth group has half of the number of the first three groups combined. If each child consumes 3 bottles a day, how many more bottles of water does the camp organizer still need to buy?
+
+The two regular scoops cost $4 x 2 = $8. The two kiddie scoops cost $3 x 2 = $6. The three double scoops cost $6 x 3 = $18. For all the ice creams they ordered, Mrs. Martin pays $8 + $6 + $18 = $32.
+The answer: 32
+Reverse engineering the question: The Martin family goes to the mall to get ice cream. A kiddie scoop is $3. A regular scoop is $4. A double scoop is $6.  Mr. and Mrs. Martin each get the regular scoop. Their two children each get the kiddie scoop. Their three teenage children each get double scoops. How much money does Mrs. Martin pay the cashier?
+
+Reasoning and answer: If Darius scored 10 points, then Marius scored 10 + 3 = 13 points in total. Darius scored 5 points less than Matt, so Matt scored 10 + 5 = 15 points in total. So all three friends gathered 13 + 15 + 10 = 38 points.
+The answer: 38
+What was the question?
+Question: Darius, Matt, and Marius are friends, who played table football. During all the games they played, Marius scored 3 points more than Darius, and Darius scored 5 points less than Matt. How many points did all three friends score together, if Darius scored 10 points?
+
+Reasoning and answer: Jackson gets a total of 6x5 = 30 fishes after the competition. Jonah gets 4x5 = 20 fishes after the competition. And George was able to get 8x5 = 40 fishes after the competition. Therefore the total fishes they were able to get for their team is 30 + 20 + 40 = 90.
+The answer: 90
+What was the question?
+Question:

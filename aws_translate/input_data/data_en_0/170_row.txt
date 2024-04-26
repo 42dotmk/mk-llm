@@ -1,0 +1,27 @@
+Reasoning and answer: His favorite player scored 150 total points that week because 30 plus 28 plus 32 plus 34 plus 26 equals 150. He averaged 30 points a game because 150 divided by 5 equals 30. He gets paid $10,000 because that's how much he gets if he averages 30 or more points that week.
+The answer: 10000
+What was the question?
+Question: James's favorite basketball player got paid based on how many points he averaged each week. He gets $10,000 if he averages 30 or more points a game and $8,000 if he averages under 30 points a game. For his last week, in the first game he scored 30 points and in the second game he scored 28 points. In the third game he scored 32 points. In the fourth game he scored 34 points and in the fifth game he scored 26 points. How much does he get paid for the week?
+
+Anne is 2 times as tall as her sister hence 2 * (her sister's height) = 80cm. Her sister's height = 80cm / 2 = 40cm. Bella is 3 times as tall as Anne hence Bella's height is 3 * 80 cm = 240 cm. The height difference between Bella and Anne's sister = 240 - 40 = 200cm.
+The answer: 200
+Reverse engineering the question: Anne is 2 times as tall as her sister while Bella is 3 times as tall as Anne. If Anne is 80cm tall, what is the height difference between Bella and Anne's sister?
+
+Reasoning and answer: One less than 5 is 5 - 1 = 4. If one tarantula egg sac can contain 1000 tarantulas, then four egg sacs can hold 4 * 1000 = 4000 tarantula babies. If each tarantula baby has eight legs, the 4 egg sacs can contain 4000 * 8 = 32,000 baby tarantula legs.
+The answer: 32000
+What was the question?
+Question: If a tarantula has eight legs, and one tarantula egg sac can contain 1000 tarantulas, how many baby tarantula legs would be in one less than 5 egg sacs?
+
+The cost of 5 pieces of hamburger is $3 x 5 = $15. The cost of 4 sets of French fries is $1.20 x 4 = $4.80. The cost of 5 cups of soda is $0.5 x 5 = $2.50. So their total bill is $15 + $4.80 + $2.50 + $2.7 = $25. Hence, each of the five friends will contribute $25 / 5 = $5.
+The answer: 5
+Reverse engineering the question: Five friends eat at a fast-food chain and order the following: 5 pieces of hamburger that cost $3 each; 4 sets of French fries that cost $1.20; 5 cups of soda that cost $0.5 each; and 1 platter of spaghetti that cost $2.7. How much will each of them pay if they will split the bill equally?
+
+Reasoning and answer: The perimeter of a square is found by 4 * side, which means the square paper has a perimeter of 4 * 20 = 80. Since the perimeter of the square is 20 cm shorter than the height of the computer screen, the height of the computer screen is 20 + 80 = 100cm.
+The answer: 100
+What was the question?
+Question: The perimeter of a square-shaped piece of paper is 20 cm shorter than the height of a computer screen. How many cm is the height of the screen if the side of the square paper is 20 cm?
+
+Reasoning and answer: Tyler gives away 21 / 3 = 7 CDs. After giving away a third of his CDs, Tyler has 21 - 7 = 14 CDs. After buying new CDs, Tyler has 14 + 8 = 22 CDs.
+The answer: 22
+What was the question?
+Question:

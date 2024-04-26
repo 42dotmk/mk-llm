@@ -1,0 +1,19 @@
+Q: Context: Richard John Cyril "Rick" Allen (born 1 November 1963) is an English drummer who has played for the hard rock band Def Leppard since 1978. He overcame the amputation of his left arm in 1985 and continued to play with the band, which subsequently went on to its most commercially successful phase. He is known as "The Thunder God" by fans.
+
+Question: what year did the drummer lose his arm?
+A: 1985. How to explain the answer? To answer this question, we should know that: He overcame the amputation of his left arm in 1985 and continued to play with the band, which subsequently went on to its most commercially successful phase.
+
+Q: The Indian constitution is the world's longest. At its commencement, it had 395 articles in 22 parts and 8 schedules. It is made up of approximately 145,000 words, making it the second largest active constitution in the world. In its current form (September 2012), it has a preamble, 25 parts with 448 articles, 12 schedules, 5 appendices and 101 amendments, the latest of which came into force on 8 September 2016.
+
+Total number of articles in indian constitution at present?
+A: 448 articles. How to explain the answer? The relevant information to answer the above question is: In its current form (September 2012), it has a preamble, 25 parts with 448 articles, 12 schedules, 5 appendices and 101 amendments, the latest of which came into force on 8 September 2016.
+
+Q: The song is a tribute to John Mellencamp's 1982 single "Jack & Diane", and credits Mellencamp as a co-writer for incorporating that song's guitar riff. Rolling Stone writer Chris Parton described the song: "Owen's updated version highlights the original's impact on present-day America, while a regular Joe reminisces about falling in love to the tune years before." Owen said that he asked Mellencamp personally for permission to incorporate portions of "Jack & Diane" into the song, and recorded it after receiving Mellencamp's permission. Owen said that he wanted to record it because of the feelings of nostalgia that the lyrics evoked in him.
+
+Based on this passage, i was jack and you were diane meaning?
+A: a tribute to John Mellencamp 's 1982 single `` Jack & Diane ''. How to explain the answer? The relevant sentence in the passage is: The song is a tribute to John Mellencamp's 1982 single "Jack & Diane", and credits Mellencamp as a co-writer for incorporating that song's guitar riff.
+
+Q: The 1924 Winter Olympics, officially known as the I Olympic Winter Games (French: Les Iers Jeux olympiques d'hiver), were a winter multi-sport event which was held in 1924 in Chamonix, France. Originally called Semaine Internationale des Sports d'Hiver ("International Winter Sports Week") and held in association with the 1924 Summer Olympics, the sports competitions were held at the foot of Mont Blanc in Chamonix, and Haute-Savoie, France between January 25 and February 5, 1924. The Games were organized by the French Olympic Committee, and were in retrospect designated by the International Olympic Committee (IOC) as the I Olympic Winter Games.
+
+Answer this question based on the passage: when did the first winter olympic games take place?
+A:

@@ -1,0 +1,25 @@
+Sam bought 12 boxes x $10 = $120 worth of highlighters. He bought 12 * 30 = 360 highlighters in total. Sam then took 5 boxes × 6 highlighters / box = 30 highlighters. He sold these boxes for 5 * $3 = $15. After selling these 5 boxes there were 360 - 30 = 330 highlighters remaining. These form 330 / 3 = 110 groups of three pens. He sold each of these groups for $2 each, so made 110 * 2 = $220 from them. In total, then, he earned $220 + $15 = $235. Since his original cost was $120, he earned $235 - $120 = $115 in profit.
+The answer: 115
+Reverse engineering the question: Sam bought a dozen boxes, each with 30 highlighter pens inside, for $10 each box. He rearranged five of these boxes into packages of six highlighters each and sold them for $3 per package. He sold the rest of the highlighters separately at the rate of three pens for $2. How much profit did he make in total, in dollars?
+
+Reasoning and answer: 12 * 12 = 144 square meters. 8 * 5 = 40 square meters. 144 - 40 = 104 square meters. 104 square meters of the playground are not covered by the maintenance building.
+The answer: 104
+What was the question?
+Question: There is a square playground that has a side length of 12 meters. There is a maintenance building on the playground that measures 8 meters by 5 meters. How many square meters of the playground is not covered by the maintenance building?
+
+In 11 months, Yoque will pay a total of $15 x 11 = $165. The amount $165 is 100% + 10% = 110% of the money she borrowed. So, 1% is equal to $165 / 110 = $1.50. Hence, Yoque borrowed $1.50 x 100 = $150.
+The answer: 150
+Reverse engineering the question: Yoque borrowed money from her sister. She promised to pay it back in 11 months including an additional 10% of the money she borrowed. If she pays $15 per month, how much money did she borrow?
+
+Reasoning and answer: He makes 1.5 - 1 = $.5 from each candy bar. He sells 5 * 10 = 50 candy bars. So he makes 50 * .5 = $25.
+The answer: 25
+What was the question?
+Question: James is running a fundraiser selling candy bars. Each box has 10 candy bars in it. He sells 5 boxes. He sells each candy bar for $1.50 and buys each bar for $1. How much profit does he make from these sales?
+
+First figure out how many square feet a wall in the living room is: 40 feet length * 10 feet height = 400 square feet. Now multiply by 3 since Matt needs to paint three living room walls: 400 square feet / wall * 3 walls = 1200 square feet. Next figure out how many square feet the long walls in the bedroom are: 12 feet * 10 feet = 120 square feet. There are two long walls, so multiply this figure by 2: 120 square feet / wall * 2 walls = 240 square feet. Next figure out how many square feet the short walls in the bedroom are: 10 feet * 10 feet = 100 square feet. Multiply this by 2, since there are two short walls: 100 square feet / wall * 2 walls = 200 square feet. Finally, add up the square footage from the three living room walls, the two short bedroom walls, and the two long bedroom walls: 1200 square feet + 240 square feet + 200 square feet = 1640 square feet.
+The answer: 1640
+Reverse engineering the question: Matt wants to repaint his house. He needs to paint three walls in his living room, which is a square 40 feet by 40 feet, and all four walls in his bedroom, which is a rectangle 10 feet by 12 feet. All the walls in Matt's house are 10 feet tall. How many total square feet of wall does Matt need to paint?
+
+The cost of the books is 5 × $2 = $10. Reggie has $48 − $10 = $38 left.
+The answer: 38
+Reverse engineering the question:

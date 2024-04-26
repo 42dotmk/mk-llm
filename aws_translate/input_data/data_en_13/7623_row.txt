@@ -1,0 +1,27 @@
+Reasoning and answer: Since, three years from now, Tabitha will have 8 different colors in her hair, this year she has 8 - 3 = 5 colors in her hair. Since she had 2 colors in her hair at the age of 15, she has added 5 - 2 = 3 colors since she was 15 years old. Since she ads one color per year, 3 added colors = 3 added years. Thus, currently, she is 15 + 3 = 18 years old.
+The answer: 18
+What was the question?
+Question: Every year, Tabitha adds a new color to her hair. She started this tradition when she was 15 years old, which was the year she added her second hair color. In three years, Tabitha will have 8 different colors in the hair. Currently, how old is Tabitha?
+
+First find the total number of antacids Nancy takes after eating Indian food per week: 3 antacids / day * 3 days / week = 9 antacids / week. Then find the total number of antacids Nancy takes after eating Mexican food per week: 2 antacids / day * 2 days / week = 4 antacids / week. Then find the number of days she doesn't eat Indian food or Mexican food: 7 days / week - 3 days / week - 2 days / week = 2 days / week. Then find the total number of antacids Nancy takes per week: 9 antacids / week + 4 antacids / week + 2 antacids / week = 15 antacids / week. Then multiply her weekly antacid consumption by the number of weeks per month to find her monthly consumption: 15 antacids / week * 4 week / month = 60 antacids / month.
+The answer: 60
+Reverse engineering the question: Nancy takes 3 antacids per day when she eats Indian food, 2 antacids per day when she eats Mexican food, and 1 antacid per day otherwise. If Nancy eats Indian three times a week and Mexican twice a week, how many antacids does she take per month?
+
+Reasoning and answer: Find the number of students who got their degree by multiplying: 804 students * 75% = 603 students. Then find the number of students who didn't pass their exams by subtracting this number from the total: 804 students - 603 students = 201 students.
+The answer: 201
+What was the question?
+Question: Out of 804 senior high school students, 75% passed their exams and so got their degree. The rest failed. How many didn't pass their exams?
+
+The number of students in the marching band is 600 / 5 = 120 students. The number of students that play a brass instrument is 120 / 2 = 60 students. The number of students that play the saxophone is 60 / 5 = 12 students. The number of students that play the alto saxophone is 12 / 3 = 4 students.
+The answer: 4
+Reverse engineering the question: At Roosevelt high school there are 600 students in the senior class. A fifth of the students are in the marching band. Of the students in the marching band, half of them play a brass instrument. Of the students that play a brass instrument, a fifth of them play the saxophone. Of the students that play the saxophone, a third of them play the alto saxophone. How many students play the alto saxophone?
+
+Reasoning and answer: Out of the 10 books, 10 x 2 / 5 = 4 are reading books. While 10 x 3 / 10 = 3 are math books. There are 3 - 1 = 2 science books. So, the total number of reading, math, and science books is 4 + 3 + 2 = 9. Thus, there is only 10 - 9 = 1 history book.
+The answer: 1
+What was the question?
+Question: There are 10 books on the table. Two-fifths of them are reading books and three-tenths of them are math books. There is one fewer science book than math books and the rest are history books. How many history books are there?
+
+Reasoning and answer: They earned 6 x $3 = $18 for the shoes they sold. They earned 18 x $2 = 36 for the shirts they sold. So, they earned $18 + $36 = $54 in total for the clothing they sold. Therefore, Sab and Dane earned $54 / 2 = $27 each.
+The answer: 27
+What was the question?
+Question:

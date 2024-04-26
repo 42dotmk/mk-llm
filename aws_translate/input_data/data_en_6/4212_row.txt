@@ -1,0 +1,34 @@
+Problem:Pooja Sharma (born New Delhi) is an Indian model and actor. She is best known for her role as Draupadi in the mythological TV show Mahabharat and as parvati in Mahakali-Anth hi Aarambh hai
+
+Based on this passage, who play the role of draupadi in mahabharat?
+Solution:OK... To answer the question, consider the following: She is best known for her role as Draupadi in the mythological TV show Mahabharat and as parvati in Mahakali-Anth hi Aarambh hai
+Pooja Sharma.
+
+Student A:"Near the Cross", alternatively titled "Jesus, Keep Me Near the Cross" or "In the Cross", is a Christian hymn written by Fanny Crosby and published in 1869.
+
+Based on this passage, who wrote jesus keep me near the cross?
+Student B:OK... The relevant sentence in the passage is: "Near the Cross", alternatively titled "Jesus, Keep Me Near the Cross" or "In the Cross", is a Christian hymn written by Fanny Crosby and published in 1869.
+Fanny Crosby.
+
+Problem:The first Indianapolis 500 was held in 1911, where Ray Harroun was declared the first winner, driving the Marmon Wasp. The race has been run annually since 1911 (with exceptions during World War I and World War II) and 71 drivers have been crowned champions of the 500-mile race over the course of 101 races. The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears. The Indianapolis 500 has also drawn many international drivers to the Indianapolis Motor Speedway over the years, with 26 of the winners coming from outside of the United States, representing nine separate countries. The most recent champion of the Indianapolis 500 is Takuma Sato, winner of the 2017 race.
+
+Answer this question based on the passage: who has won the indy 500 the most?
+Solution:OK... To answer the above question, the relevant sentence is: The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears.
+A.J. Foyt , Al Unser and Rick Mears.
+
+Student A:The winner of the competition was 16 year-old Aleyna FitzGerald from Newcastle, New South Wales.
+
+Who won season 10 of australias next top model?
+Student B:OK... The relevant information to answer the above question is: The winner of the competition was 16 year-old Aleyna FitzGerald from Newcastle, New South Wales.
+Aleyna FitzGerald.
+
+Problem:Passage: The 2018 FA Cup Final was the final match of the 2017 -- 18 FA Cup and the 137th final of the FA Cup, the world's oldest football cup competition. It was played at Wembley Stadium in London, England on 19 May 2018 between Manchester United and Chelsea. It was the second successive final for Chelsea following their defeat by Arsenal the previous year.
+
+Question: Based on this passage, what teams are in the fa cup final?
+Solution:OK... This is the relevant information: It was played at Wembley Stadium in London, England on 19 May 2018 between Manchester United and Chelsea.
+Manchester United.
+
+Problem:Close to the elbow, the ulna has a bony process, the olecranon process, a hook-like structure that fits into the olecranon fossa of the humerus. This prevents hyperextension and forms a hinge joint with the trochlea of the humerus. There is also a radial notch for the head of the radius, and the ulnar tuberosity to which muscles attach.
+
+Based on this passage, where does the ulna articulate with the humerus?
+Solution:

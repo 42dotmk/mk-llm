@@ -1,0 +1,29 @@
+## question
+Passage: In Greek mythology, Icarus (the Latin spelling, conventionally adopted in English; Ancient Greek: Ἴκαρος, Íkaros, Etruscan: Vikare) is the son of the master craftsman Daedalus, the creator of the Labyrinth. Icarus and his father attempt to escape from Crete by means of wings that his father constructed from feathers and wax. Icarus' father warns him first of complacency and then of hubris, asking that he fly neither too low nor too high, so the sea's dampness would not clog his wings or the sun's heat melt them. Icarus ignored his father's instructions not to fly too close to the sun; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned, sparking the idiom "do n't fly too close to the sun".
+
+Question: Based on this passage, who flew to close to the sun and his wings melted?
+## answer
+The relevant information is: Icarus ignored his father's instructions not to fly too close to the sun; when the wax in his wings melted he tumbled out of the sky and fell into the sea where he drowned, sparking the idiom "do n't fly too close to the sun".
+So the answer must be Icarus
+
+## question
+Set in Washington, D.C., House of Cards is the story of Congressman Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and House Majority Whip. After being passed over for appointment as Secretary of State, he initiates an elaborate plan to attain power, aided by his wife, Claire Underwood (Robin Wright). The series deals with themes of ruthless pragmatism, manipulation, and power.
+
+Answer this question: what is kevin spacey in house of cards?
+## answer
+The relevant information is: Set in Washington, D.C., House of Cards is the story of Congressman Frank Underwood (Kevin Spacey), a Democrat from South Carolina's 5th congressional district and House Majority Whip.
+So the answer must be Congressman Frank Underwood ( Kevin Spacey ) , a Democrat from South Carolina 's 5th congressional district and House Majority Whip
+
+## question
+Will Ferrell as Dr. Rick Marshall, a renowned paleontologist and author, determined to prove his theory on time warps, thus embarking on a time travel experiment. Anna Friel as Holly Cantrell, Rick's biggest fan. Danny McBride as Will Stanton, a gift shop owner who takes Holly and Rick to a tachyon rich cave. Jorma Taccone as Cha-Ka John Boylan as Enik who plans to invade and conquer Earth, and deceives Rick and the others into believing otherwise; he also controls the Sleestak. Matt Lauer as Himself Leonard Nimoy as voice of The Zarn Douglas Tait as Sleestak
+
+Who played chaka in the land of the lost?
+## answer
+To answer this question, we should know that: Jorma Taccone as Cha-Ka
+So the answer must be Jorma Taccone
+
+## question
+Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J.K. Rowling and the second novel in the Harry Potter series. The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the "Chamber of Secrets" has been opened and that the "heir of Slytherin" would kill all pupils who do not come from all-magical families. These threats are found after attacks which leave residents of the school "petrified" (frozen like stone). Throughout the year, Harry and his friends Ron and Hermione investigate the attacks.
+
+Answer this question: what is the title of the second harry potter book?
+## answer

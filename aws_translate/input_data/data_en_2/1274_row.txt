@@ -1,0 +1,21 @@
+Teacher:In this task, you need to write an incorrect answer to the given question. Along with the question, you are also given the correct answer(s) and the associated paragraph. An incorrect answer should be closely related to the content of the paragraph and/or the question but will not truthfully answer the question. Your incorrect answers should be similar to the given correct answer such that it will pose a challenge for students to distinguish the two. A good incorrect answer should prevent those who skip the paragraph from answering the question. The incorrect answer should not be trivial, in the sense that they should not be easily eliminated without reading the paragraph.
+Teacher: Now, understand the problem? Solve this instance: Paragraph- Sent 1: Not until 1998 did al Qaeda undertake a major terrorist operation of its own, in large part because  Bin Laden lost his base in Sudan.
+Sent 2: Ever since the Islamist regime came to power in Khartoum, the United States and other Western governments had pressed it to stop providing a haven for terrorist organizations.
+Sent 3: Other governments in the region, such as those of Egypt, Syria, Jordan, and even Libya, which were targets of some of these groups, added their own pressure.
+Sent 4: At the same time, the Sudanese regime began to change.
+Sent 5: Though Turabi had been its inspirational leader, General Omar al Bashir, president since 1989, had never been entirely under his thumb.
+Sent 6: Thus as outside pressures mounted, Bashir's supporters began to displace those of Turabi.
+Sent 7: The attempted assassination in Ethiopia of Egyptian President Hosni Mubarak in June 1995 appears to have been a tipping point.
+Sent 8: The would-be killers, who came from the Egyptian Islamic Group, had been sheltered in Sudan and helped by  Bin Laden.
+Sent 9: When the Sudanese refused to hand over three individuals identified as involved in the assassination plot, the UN Security Council passed a resolution criticizing their inaction and eventually sanctioned Khartoum in April 1996.
+Sent 10: A clear signal to  Bin Laden that his days in Sudan were numbered came when the government advised him that it intended to yield to Libya's demands to stop giving sanctuary to its enemies.
+Sent 11:  Bin Laden had to tell the Libyans who had been part of his Islamic army that he could no longer protect them and that they had to leave the country.
+Sent 12: Outraged, several Libyan members of al Qaeda and the Islamic Army Shura renounced all connections with him.
+Sent 13:  Bin Laden also began to have serious money problems.
+Sent 14: International pressure on Sudan, together with strains in the world economy, hurt Sudan's currency.
+Sent 15: Some of  Bin Laden's companies ran short of funds.
+Sent 16: As Sudanese authorities became less obliging, normal costs of doing business increased.
+Sent 17: Saudi pressures on the  Bin Laden family also probably took some toll.
+Sent 18: In any case,  Bin Laden found it necessary both to cut back his spending and to control his outlays more closely. 
+Question: What assassination plot caused the U.N. Security Council to sanction the Sudanese government?.
+Student:

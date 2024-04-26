@@ -1,0 +1,23 @@
+Ques & Ans: Context: The album's artwork emphasises the suggestive innuendo of the Sticky Fingers title, showing a close-up of a jeans-clad male crotch with the visible outline of a large penis; the cover of the original (vinyl LP) release featured a working zipper and perforations around the belt buckle that opened to reveal a sub-cover image of cotton briefs. The vinyl release displayed the band's name and album title along the image of the belt; behind the zipper the white briefs were seemingly rubber stamped in gold with the stylized name of American pop artist Andy Warhol, below which read "THIS PHOTOGRAPH MAY NOT BE -- ETC." While the artwork was conceived by Warhol, photography was by Billy Name and design was by Craig Braun. Braun and his team had other ideas, such as wrapping the album in rolling paper-a concept later used by Cheech & Chong in Big Bambu-but Jagger was enthused by Warhol's cover with a zipper. Execution was then handled as Warhol sent Braun Polaroid pictures of a model in tight jeans.
+
+Question: which artist created the cover for the rolling stone's album sticky fingers?
+conceived by Warhol , photography was by Billy Name and design was by Craig Braun
+Stream of consciousness: The relevant information to answer the above question is: While the artwork was conceived by Warhol, photography was by Billy Name and design was by Craig Braun.
+
+Ques & Ans: The retina is the innermost, light-sensitive layer, or "coat", of shell tissue of the eye of most vertebrates and some molluscs. The optics of the eye create a focused two-dimensional image of the visual world on the retina, which translates that image into electrical neural impulses to the brain to create visual perception, the retina serving much the same function as film or a CCD in a camera.
+
+Answer this question based on the passage: where is the retina located in the eye?
+the innermost , light - sensitive layer , or `` coat '' , of shell tissue of the eye of most vertebrates and some molluscs
+Stream of consciousness: To answer the above question, the relevant sentence is: The retina is the innermost, light-sensitive layer, or "coat", of shell tissue of the eye of most vertebrates and some molluscs.
+
+Ques & Ans: Law & Order is an American police procedural and legal drama television series, created by Dick Wolf and part of the Law & Order franchise. It originally aired on NBC and, in syndication, on various cable networks. Law & Order premiered on September 13, 1990, and completed its 20th and final season on May 24, 2010. At the time of its cancellation, Law & Order was the longest-running crime drama on American primetime television. Its record of 20 seasons is a tie with Gunsmoke (1955 -- 75) for the longest-running live-action scripted American prime-time series with ongoing characters. Although it has fewer episodes than Gunsmoke, Law & Order ranks as the longest-running hour-long primetime TV series. Gunsmoke, for its first six seasons, was originally a half-hour program.
+
+Answer this question based on the passage: when did the first episode of law and order air?
+September 13 , 1990
+Stream of consciousness: The relevant information is: Law & Order premiered on September 13, 1990, and completed its 20th and final season on May 24, 2010.
+
+Ques & Ans: The Grapes of Wrath is an American realist novel written by John Steinbeck and published in 1939. The book won the National Book Award and Pulitzer Prize for fiction, and it was cited prominently when Steinbeck was awarded the Nobel Prize in 1962.
+
+Who wrote the book the grapes of wrath?
+John Steinbeck
+Stream of consciousness:

@@ -1,0 +1,27 @@
+Computer systems in the county's GP surgeries are currently switched off so the virus can be dealt with.
+Kieran Sharrock, medical director of the Lincolnshire Local Medical Committee (LMC), said patients should only visit their GP in an emergency.
+Some hospital appointments have also been suspended.
+More on this and other local stories in Lincolnshire
+Lincolnshire LMC represents about 450 GPs at 100 practices across the county.
+Dr Sharrock, a GP in Spilsby, said: "We don't have access to any medical records, prescriptions, blood test or X-ray results, so if people are coming for routine appointments, for follow-ups or for a new problem which isn't urgent or an emergency, we're asking for them to postpone that."
+The NHS has issued advice about the possibility of further cyber-attacks at GP surgeries if computers are switched on before updates are applied.
+Lincolnshire is one of seven NHS trusts, out of the 47 that were hit, that is still facing serious issues.
+Routine hospital appointments in Lincoln, Boston and Grantham have also been suspended.
+However, chemotherapy treatments and antenatal appointments are going ahead as planned.
+One patient affected by the attack is Steve Helmer, from Nettleham, near Lincoln, who is awaiting test results to see if he has lung cancer.
+He said: "If I've got cancer and I've got to have chemotherapy my life is going to be cocked-up until either the chemotherapy ends, or the inevitable," he said.
+However, he said the worst part was not knowing.
+Mr Helmer was due to attend an appointment on Monday, which was cancelled.
+"It's not their fault - and it's not my fault but this is what it does to people," he said.
+"It totally and utterly trashes them."
+Mark Brassington, chief operating officer at United Lincolnshire Hospitals NHS Trust, said staff were working hard to resolve the problem and, by Monday afternoon,  "significant progress" had been made restoring IT systems.
+In a statement he said people should attend booked outpatients appointments and operations as planned on Tuesday unless they receive a telephone call to the contrary.
+He said: "Patients who do attend for their appointments are asked to bear with our staff, as some imaging results may not be immediately available and systems are running slowly in some areas.
+"We are still in a major incident, so we would like to remind patients to use our A&E wisely and only attend in life threatening or emergency situations."
+He said the close integration between hospitals, GP surgeries and other health services had exacerbated the problem in Lincolnshire.
+Read more:
+The virus that hit the NHS in England and Scotland, known as Wanna Decryptor or WannaCry, has infected 200,000 machines in 150 countries since Friday.
+A security update - or patch - was released by Microsoft in March to protect against the virus, but it appears many NHS organisations had not applied it.
+In addition many NHS computers were running with the old Windows XP operating system, which is no longer supported by Microsoft and so vulnerable to attack.
+Microsoft rushed out a patch over the weekend to deal with the latest threat.
+What was that article about?

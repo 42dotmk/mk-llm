@@ -1,0 +1,27 @@
+Reasoning and answer: On sale, a pint of strawberries costs 216 / 54 = $4. The supermarket would have made 216 + 108 = $324 if the strawberries were not on sale. Thus, a pint of strawberries not on sale costs 324 / 54 = $6. Hence, a pint of strawberries costs 6 - 4 = $2 more when not on sale.
+The answer: 2
+What was the question?
+Question: A supermarket has pints of strawberries on sale. They sold 54 pints and made $216, which was $108 less than they would have made selling the same number of pints without the sale. How many more dollars does a pint of strawberries cost when not on sale?
+
+Morgan’s lunch cost $4 + $2 + $3 = $9. If he pays with a $20 bill, he will receive change of $20 - $9 = $11.
+The answer: 11
+Reverse engineering the question: Morgan goes to the drive-thru and orders his lunch. He gets a hamburger for $4, onion rings for $2 and a smoothie for $3. If he pays with a $20 bill, how much change does he receive?
+
+Reasoning and answer: The first fisherman will catch 3 * 213 = 639 fish during the season. The second fisherman catch 1 * 30 + 2 * 60 = 150 fish during the first 90 days of the season. Then, during the remaining 213 - 90 = 123 days of the season, the second fisherman will can an additional 4 * 123 = 492 fish. Thus, the second fisherman will catch a total of 150 + 492 = 642 fish. Therefore, the second fisherman will catch 642 - 639 = 3 more fish than the first fisherman at the end of the season.
+The answer: 3
+What was the question?
+Question: In Alaska the commercial Cod fishing season runs from January 1 - August 1 lasting exactly 7 months, or 213 days on a non-leap year. Two fishermen are competing against each other to see who can earn more profit. The first fisherman plans to catch fish at a steady rate of 3 per day for the entire season. The second fisherman is a novice who will need to start more slowly. He plans to catch only 1 fish per day during the first 30 days, 2 fish per day during the next 60 days, and then 4 fish per day during the remainder of the season. At the end of the season, how many more fish will be caught by the fisherman who catches the higher number of fish?
+
+In the large orders, Lisa used 3 large orders * 200g of packing peanuts per large order = 600g of packing peanuts. The rest of the packing peanuts were used in small orders so there was a total of 800g packing peanuts - 600g of packing peanuts used in large orders = 200g of packing peanuts used in small orders. So there must have been 200g of packing peanuts / 50g of packing peanuts per small order = 4 small orders.
+The answer: 4
+Reverse engineering the question: Vanessa's new business is thriving and she frequently has orders to post. She has run out of packing peanuts for the packages and is now wondering how many orders she has sent. Each large order needs 200g of packing peanuts while small orders need just 50g of packing peanuts. If Lisa has used a total of 800g of packing peanuts and she knows she has sent 3 large orders, how many small orders has Lisa sent?
+
+Reasoning and answer: One pound of mangoes cost $0.60 x 2 = $1.20. So Kelly can buy $12 / $1.20 = 10 pounds of mangoes.
+The answer: 10
+What was the question?
+Question: One-half of a pound of mangoes costs $0.60. How many pounds can Kelly buy with $12?
+
+Reasoning and answer: Let X be the price of the first commodity, so the price of the second commodity is X - $127. The cost of purchasing two of them is X + (X - $127) = $827. Combining like terms, we get X * 2 - $127 = $827. Subtracting $137 from both sides, we get X * 2 = $954. Dividing both sides by 2, we get X = $477.
+The answer: 477
+What was the question?
+Question:

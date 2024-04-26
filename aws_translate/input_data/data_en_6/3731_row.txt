@@ -1,0 +1,22 @@
+Student A:Lucie Bethan Jones (born 20 March 1991) is a Welsh singer, actress, and model. Jones first came to prominence while competing on series 6 of The X Factor UK in 2009, where she finished eighth. She represented the United Kingdom in the Eurovision Song Contest 2017 with the song "Never Give Up on You", finishing with 111 points in 15th place, the country's best result since 2011.
+
+Where did lucy jones come in the eurovision 2017?
+Student B:OK... The relevant sentence in the passage is: She represented the United Kingdom in the Eurovision Song Contest 2017 with the song "Never Give Up on You", finishing with 111 points in 15th place, the country's best result since 2011.
+15th place.
+
+Student A:The Tombs of the Kings (Hebrew: קברי המלכים ‎) (Arabic: قبور السلاطين ‎) are a collection of rock cut tombs in East Jerusalem believed to be the burial site of Queen Helene of Adiabene. The tombs are located 820 meters north of Jerusalem's Old City walls in the Sheikh Jarrah neighborhood (Hebrew: שכונת שייח ג'ראח ‎) (Arabic: "حي الشيخ جرّاح" ‎)
+
+Answer this question: where are the tombs of the kings of israel?
+Student B:OK... This is the relevant information: The tombs are located 820 meters north of Jerusalem's Old City walls in the Sheikh Jarrah neighborhood (Hebrew: שכונת שייח ג'ראח ‎) (Arabic: "حي الشيخ جرّاح" ‎)
+820 meters north of Jerusalem 's Old City walls in the Sheikh Jarrah neighborhood.
+
+Student A:Context: In 1962, Faber College freshmen Lawrence "Larry" Kroger and Kent Dorfman seek to join a fraternity. Finding themselves out of place at the prestigious Omega Theta Pi house's party, they visit the slovenly Delta Tau Chi house next door, where Kent is a "legacy" who can not be rejected due to his brother having been a member. John "Bluto" Blutarsky welcomes them (claiming they "need the dues"), and they meet other Deltas including biker Daniel Simpson "D-Day" Day, chapter president Robert Hoover, ladies' man Eric "Otter" Stratton, and Otter's best friend Donald "Boon" Schoenstein, whose girlfriend Katy is constantly pressuring him to stop drinking with the Deltas and do something with his life. Larry and Kent are invited to pledge and given the fraternity names "Pinto" and "Flounder" respectively, by Bluto, Delta's sergeant-at-arms.
+
+Question: what was the name of the frat in animal house?
+Student B:OK... The relevant information to answer the above question is: Finding themselves out of place at the prestigious Omega Theta Pi house's party, they visit the slovenly Delta Tau Chi house next door, where Kent is a "legacy" who can not be rejected due to his brother having been a member.
+Delta Tau Chi.
+
+Student A:"Ca n't Help Falling in Love" is a pop ballad originally recorded by American singer Elvis Presley and published by Gladys Music, Elvis Presley's publishing company. It was written by Hugo Peretti, Luigi Creatore and George David Weiss. The melody is based on "Plaisir d'amour" (1784), a popular romance by Jean-Paul-Égide Martini (1741 -- 1816). It was featured in Elvis Presley's 1961 film, Blue Hawaii. During the following four decades, it was recorded by numerous other artists, including Tom Smothers, British reggae group UB40, whose 1993 version topped the U.S. and UK charts, and Swedish pop group A-Teens.
+
+Answer this question: can't help falling in love who wrote it?
+Student B:

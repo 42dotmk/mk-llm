@@ -1,0 +1,25 @@
+These questions are not the same but are related. The first question is about career options for a computer science engineering student who is not good at programming and hates coding. The second question is about the viability of pursuing an MBA from UPTU.
+
+To address the first question:
+
+1. Understand the user's requirements: The user has a computer science engineering background and doesn't want a programming job. Here, they're looking for alternative career options.
+2. Research non-programming careers: I will research the non-programming career paths available for computer science engineering graduates.
+3. List possible options for the user and justify the options: Below is a list of alternative career paths for a computer science engineering graduate who doesn't want to code:
+
+   a. Business Analyst: Analyze an organization's processes, systems, and requirements to offer improvement solutions. Your technical background can help you understand software development needs and communicate with the technical team.
+   
+   b. Project Manager: Oversee the planning, execution, and completion of projects in IT or software development companies. Your technical expertise will be useful in understanding the entire project lifecycle and ensuring timely delivery.
+   
+   c. Technical Writer: Create documentation, user manuals, and guides for software and hardware products. Your knowledge of computer science and engineering would enable you to explain complex technical concepts in layman's terms.
+   
+   d. Data Analyst: Analyze data and provide meaningful insights for businesses. While this role may involve some programming (in languages like Python or R), it's not the main focus, and your computer science background helps you work with the relevant software tools and understand data structures.
+   
+   e. Network Engineer/Administrator: Design, implement, and maintain computer networks and infrastructure. As a computer science engineer, you have knowledge of computer systems and network architecture that can be applied in this role.
+   
+   f. Systems Analyst: Evaluate and improve the efficiency of existing computer systems and applications. Your computer science background will help you understand a system's requirements and propose solutions.
+  
+To address the second question:
+
+1. Understand the user's requirements: The user has completed a B.Tech in computer science from UPTU and considers pursuing an MBA from the same institution.
+2. Evaluate the MBA option: I will research UPTU's MBA program and analyze its benefits and drawbacks.
+3. Provide a recommendation for the user: Pursuing an MBA from UPTU can be a good option if you want to diversify your skill set and explore management roles, such as in IT management, product management, or roles that combine technical skills with business acumen. However, consider researching the specific MBA program and its industry reputation, placements, and networking opportunities before making a decision. It might also be worth comparing UPTU with other institutions in terms of program quality and relevance to your desired career path.

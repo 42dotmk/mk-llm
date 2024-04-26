@@ -1,0 +1,29 @@
+## question
+Sydney Bertram Carter (6 May 1915 -- 13 March 2004) was an English poet, songwriter, folk musician, born in Camden Town, London. He is best known for the song "Lord of the Dance" (1967), set to the tune of the American Shaker song "Simple Gifts", and the song "The Crow on the Cradle". Other notable songs include "Julian of Norwich" (sometimes called "The Bells of Norwich"), based on words of Julian of Norwich, "One More Step Along the World I Go", "When I Needed a Neighbour", "Friday Morning", "Every Star Shall Sing a Carol", "The Youth of the Heart", "Down Below" and "Sing John Ball".
+
+Based on this passage, who wrote one more step along the world i go?
+## answer
+To answer this question, we should know that: Other notable songs include "Julian of Norwich" (sometimes called "The Bells of Norwich"), based on words of Julian of Norwich, "One More Step Along the World I Go", "When I Needed a Neighbour", "Friday Morning", "Every Star Shall Sing a Carol", "The Youth of the Heart", "Down Below" and "Sing John Ball".
+So the answer must be Sydney Bertram Carter
+
+## question
+"In the Pines", also known as "Where Did You Sleep Last Night?" and "Black Girl", is a traditional American folk song originating from two songs, "In the Pines" and "The Longest Train", both of which whose authorship is unknown and date back to at least the 1870s (though some contend an older, Irish history). The songs originated in the Southern Appalachian area of the United States in the contiguous areas of Eastern Tennessee and Kentucky, Western North Carolina and Northern Georgia.
+
+Answer this question: where did you sleep last night folk song?
+## answer
+This is the relevant information: "In the Pines", also known as "Where Did You Sleep Last Night?" and "Black Girl", is a traditional American folk song originating from two songs, "In the Pines" and "The Longest Train", both of which whose authorship is unknown and date back to at least the 1870s (though some contend an older, Irish history).
+So the answer must be In the Pines
+
+## question
+The United States dollar (sign: $; code: USD; also abbreviated US $ and referred to as the dollar, U.S. dollar, or American dollar) is the official currency of the United States and its insular territories per the United States Constitution. For most practical purposes, it is divided into 100 smaller cent (¢) units, but officially it can be divided into 1000 mills (₥). The circulating paper money consists of Federal Reserve Notes that are denominated in United States dollars (12 U.S.C. § 418).
+
+Answer this question based on the passage: the united states today uses which kind of currency?
+## answer
+This is the relevant information: The United States dollar (sign: $; code: USD; also abbreviated US $ and referred to as the dollar, U.S. dollar, or American dollar) is the official currency of the United States and its insular territories per the United States Constitution.
+So the answer must be The United States dollar
+
+## question
+The Chronicles of Narnia is a series of films based on The Chronicles of Narnia, a series of novels by C.S. Lewis. From the seven novels, there have been three film adaptations so far -- The Lion, the Witch and the Wardrobe (2005), Prince Caspian (2008) and The Voyage of the Dawn Treader (2010) -- which have grossed over $1.5 billion worldwide among them.
+
+What is the sequel to the lion the witch and the wardrobe?
+## answer

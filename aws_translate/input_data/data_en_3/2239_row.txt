@@ -1,0 +1,19 @@
+Question: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup. In 2017, skippered by Glenn Ashby, they went on to retake the America's Cup.
+
+Who led the successful america's cup campaign in 1995?
+Answer: The relevant information to answer the above question is: Team New Zealand became a household name in their home country following their consecutive wins in the America's Cup in 1995 and 2000, under the leadership of Sir Peter Blake, when becoming the first team from a country outside the United States to win and successfully defend the America's Cup. The answer is Sir Peter Blake.
+
+Question: Context: Charlene Amoia is an American actress best known for her role as Wendy the waitress in the TV sitcom How I Met Your Mother. Some of her other television credits include Glee and Diana Coto on Switched at Birth, and her film credits include Kevin's (Thomas Ian Nicholas) wife Elllie in American Reunion (2012) from the American Pie series.
+
+Question: who plays wendy the waitress on how i met your mother?
+Answer: The relevant information to answer the above question is: Charlene Amoia is an American actress best known for her role as Wendy the waitress in the TV sitcom How I Met Your Mother. The answer is Charlene Amoia.
+
+Question: The Declaration was drafted by General Lafayette, Thomas Jefferson, and Honoré Mirabeau. Influenced by the doctrine of "natural right", the rights of man are held to be universal: valid at all times and in every place, pertaining to human nature itself. It became the basis for a nation of free individuals protected equally by the law. It is included in the beginning of the constitutions of both the Fourth French Republic (1946) and Fifth Republic (1958) and is still current. Inspired by the Enlightenment philosophers, the Declaration was a core statement of the values of the French Revolution and had a major impact on the development of freedom and democracy in Europe and worldwide.
+
+Who was the declaration of the rights of man and citizen written by?
+Answer: To answer the question, consider the following: The Declaration was drafted by General Lafayette, Thomas Jefferson, and Honoré Mirabeau. The answer is General Lafayette , Thomas Jefferson , and Honoré Mirabeau.
+
+Question: Context: Long Walk to Freedom is an autobiographical work written by South African President Nelson Mandela, and first published in 1994 by Little Brown & Co. The book profiles his early life, coming of age, education and 27 years in prison. Under the apartheid government, Mandela was regarded as a terrorist and jailed on the infamous Robben Island for his role as a leader of the then-outlawed ANC. He later achieved international recognition for his leadership as president in rebuilding the country's once segregated society. The last chapters of the book describe his political ascension, and his belief that the struggle still continued against apartheid in South Africa.
+
+Question: whose autobiography has the title a long walk to freedom?
+Answer:

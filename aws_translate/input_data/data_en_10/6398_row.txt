@@ -1,0 +1,19 @@
+Answer: the Indian government 's Directorate of Film Festivals. Now, what could be the question and solution-maybe?
+Ques: The National Film Awards is the most prominent film award ceremonies in India. Established in 1954, it has been administered, along with the International Film Festival of India and the Indian Panorama, by the Indian government's Directorate of Film Festivals since 1973.
+
+Answer this question based on the passage: who presents national film awards traditionally in india?
+CoT: The important part for answering this question is: Established in 1954, it has been administered, along with the International Film Festival of India and the Indian Panorama, by the Indian government's Directorate of Film Festivals since 1973.
+---
+Answer: Christian missionaries such as William Carey and Brahmin Hindu reformers such as Ram Mohan Roy. Now, what could be the question and solution-maybe?
+Ques: Under British rule, the practice was initially tolerated. In the province of Bengal, sati was attended by a colonial government official, which states historian A.F. Salahuddin Ahmed, "not only seemed to accord an official sanction, but also increased its prestige value". Between 1815 and 1818, the number of sati in Bengal province doubled from 378 to 839. Under sustained campaigning against sati by Christian missionaries such as William Carey and Brahmin Hindu reformers such as Ram Mohan Roy, the provincial government banned sati in 1829. This was followed up by similar laws by the authorities in the princely states of India in the ensuing decades, with a general ban for the whole of India issued by Queen Victoria in 1861. In Nepal, sati was banned in 1920. The Indian Sati Prevention Act from 1988 further criminalised any type of aiding, abetting, and glorifying of sati.
+
+Based on this passage, who had spearheaded the movement against the tradition of sati?
+CoT: The relevant information to answer the above question is: Under sustained campaigning against sati by Christian missionaries such as William Carey and Brahmin Hindu reformers such as Ram Mohan Roy, the provincial government banned sati in 1829.
+---
+Answer: 80 ° S to 90 ° S. Now, what could be the question and solution-maybe?
+Ques: The lunar south pole is located on the center base of the far side of the moon (80 ° S to 90 ° S) and covers a distance of about 1250 km. The lunar south pole has shifted 5 degrees from where it previously was billions of years ago. This shift has changed the rotational axis of the moon allowing sunlight to reach areas of the moon previously shadowed. The axis spin is 88.5 degrees from the plane of the elliptic. The south pole contains areas of permanent darkness, where the sunlight never reaches. On the contrary, the pole also contains areas with permanent exposure to sunlight. The south pole contains many craters and basins such as the South Pole-Aitken basin; which appears to be one of the most fundamental features of the moon. The south pole contains mountains such as Epsilon Peak which is taller than any mountain found on earth. The south pole is thermally benign, ranging at an average of 250 -- 270 kelvins.
+
+Answer this question: what are the coordinates for the south pole of the moon?
+CoT: To answer the above question, the relevant sentence is: The lunar south pole is located on the center base of the far side of the moon (80 ° S to 90 ° S) and covers a distance of about 1250 km.
+---
+Answer: after the chart success of the 1963 single of the song by the local Liverpool group Gerry and the Pacemakers. Now, what could be the question and solution-maybe?

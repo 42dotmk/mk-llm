@@ -1,0 +1,27 @@
+Reasoning and answer: Half the gnomes have big noses, so 28 / 2 = 14 have big noses. Three - quarters of the gnomes have red hats, so 28 * 3 / 4 = 21 gnomes have red hats. There are 6 gnomes with blue hats and big noses, so there are 14 - 6 = 8 with red hats and big noses. Thus, there are 21 - 8 = 13 gnomes with red hats that have small noses.
+The answer: 13
+What was the question?
+Question: There are 28 garden gnomes in a yard. Three-fourths of them have red hats, and the rest have blue hats. Half the garden gnomes have big noses instead of small noses. If six gnomes with blue hats have big noses, how many gnomes with red hats have small noses?
+
+30 x 1 / 5 = 6 students like Math. 30 x 1 / 3 = 10 students like English. So, 6 + 10 = 16 students like either Math or English. Thus, 30 - 16 = 14 students neither like Math nor English. Since 1 / 7 of the remaining like Science, therefore 14 x 1 / 7 = 2 students like Science. Hence, 14 - 2 = 12 students neither likes the 3 subjects.
+The answer: 12
+Reverse engineering the question: In a class of 30 students, the teacher polls the students on their favorite subject. 1/5 of the students like Math, and 1/3 like English. 1/7 of the remaining students like Science. The rest don’t have a favorite subject. How many students don’t have a favorite subject?
+
+Reasoning and answer: He has 25% of his take - home pay automatically enrolled into his 401k so that’s .25 * 1120 = $280.00. His take - home pay is $1120.00 and $280.00 is taken out for retirement so that leaves 1120 - 280 = $840.00. They also take $100.00 out of his paycheck for taxes so his paycheck will be issued for 840 - 100 = $740.00.
+The answer: 740
+What was the question?
+Question: Jim’s bi-weekly gross pay is $1120. He automatically has 25% of his paycheck go into his retirement account. They also take $100.00 out of each paycheck for taxes. After money is taken out for retirement and taxes, how much money will be on Jim’s paycheck?
+
+First find the cooked volume of the spinach: 40 ounces * 20% = 8 ounces. Then add that to the volume of the other ingredients to find the total volume: 8 ounces + 6 ounces + 4 ounces = 18 ounces.
+The answer: 18
+Reverse engineering the question: Mary is making a spinach quiche. She takes 40 ounces of raw spinach and cooks it until it's 20% of its initial volume. If she mixes the spinach with 6 ounces of cream cheese and 4 ounces of eggs, what is the total volume of the quiche?
+
+Reasoning and answer: Spongebob earned 30 x $2 = $60 for the burgers. He also earned 12 x $1.5 = $18 for the large fries. Therefore, Spongebob earned $60 + $18 = $78 for the day.
+The answer: 78
+What was the question?
+Question: Spongebob works in a burger shop. If he sells 30 burgers for $2 each and 12 large fries for $1.5. How much will Spongebob earn for the day?
+
+Reasoning and answer: The second year, she quadrupled the number of statues in her front lawn, adding to the original 4 and bringing the total number to 4 * 4 = 16 statues. In the third year, she added another 12 statues, bringing the total number to 16 + 12 = 28 statues. But a hail storm broke 3, reducing the number to 28 - 3 = 25 statues. In the fourth year, she added twice as many new statues as had been broken the year before, adding 2 * 3 = 6 statues. Thus, the addition of these 6 statues brought the total number of statues to 25 + 6 = 31 statues.
+The answer: 31
+What was the question?
+Question:

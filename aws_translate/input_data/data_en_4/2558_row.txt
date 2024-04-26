@@ -1,0 +1,27 @@
+Reasoning and answer: He loses 3 pounds a week for 4 weeks for a total of 3 * 4 = 12 pounds. He loses 2 pounds a week for 8 weeks for a total of 2 * 8 = 16 pounds. All total he has lost 12 + 16 = 28 pounds. Jordan weighed 250 pounds and has lost 28 pounds so he now weighs 250 - 28 = 222 pounds.
+The answer: 222
+What was the question?
+Question: Jordan decides to start an exercise program when he weighs 250 pounds. For the first 4 weeks, he loses 3 pounds a week. After that, he loses 2 pounds a week for 8 weeks. How much does Jordan now weigh?
+
+Ked needs 14 / 2 = 7 eggs. Mcdonald has to produce 10 + 14 + 7 = 31 eggs in a week. Therefore, Mcdonald's farm has to produce 31 x 4 = 124 eggs in a month.
+The answer: 124
+Reverse engineering the question: Mcdonald is planning to open up a farm that provides eggs to the community. In his local community, Saly needs 10 eggs, Ben needs 14 eggs, and Ked needs half of the number of eggs needed by Ben per week. In a month which has 4 weeks, how many eggs should Mcdonald's farm produce?
+
+Reasoning and answer: The shark went from 20 miles per hour to a speed of 2 * 20 = 40 miles per hour. The shark increased its speed by 40 - 20 = 20 miles per hour. Half of the shark's increase in speed is 20 / 2 = 10 miles per hour. Thus the pilot fish had increased its speed to 20 + 10 = 30 miles per hour.
+The answer: 30
+What was the question?
+Question: Keanu was surfing towards the shore at a speed of 20 miles per hour. A shark was swimming alongside him, riding the same wave, when it doubled its speed and moved away from Keanu. There was a pilot fish swimming alongside Keanu and the shark, and when the shark increased its speed, the pilot fish also increased its speed and moved away from Keanu, but only increasing its speed by half as much as the shark had increased its speed by. What speed, in miles per hour, was the pilot fish swimming when it moved away from Keanu?
+
+A barrel stores 20 * 2 + 3 = 43 gallons. So he can store 4 * 43 = 172 gallons.
+The answer: 172
+Reverse engineering the question: James has barrels that he uses to store water. They store 3 gallons more than twice as much as a large cask. If he has 4 barrels and a cask stores 20 gallons, how much water can he store?
+
+Reasoning and answer: Since the distance that Mairead jogged is 3 / 5 times the miles she ran, she jogged for 3 / 5 * 40 = 24 miles. The total distance that she covered while running and jogging is 24 + 40 = 64. She also walked for 5 * 24 = 120 miles for her exercise. She covered 120 + 64 = 184 miles while doing her exercise.
+The answer: 184
+What was the question?
+Question: When doing her exercises, Mairead runs for 40 miles, walks for 3/5 times as many miles as she ran, and walks for five times the number of miles she jogged. Calculate the total distance Mairead has covered while doing her exercises.
+
+Reasoning and answer: First triple the amount of milk to find the amount of chicken stock: 2 quarts * 3 = 6 quarts. Then add all three quantities to find the total volume of the soup: 6 quarts + 2 quarts + 1 quart = 9 quarts. Finally, divide the number of quarts by the number of quarts per bag to find the number of bags needed: 9 quarts / 3 quarts / bag = 3 bags.
+The answer: 3
+What was the question?
+Question:

@@ -1,0 +1,36 @@
+What are the causes, symptoms, modes of transmission, diagnosis, and treatment options for Tuberculosis (TB)?
+
+Tuberculosis (TB) is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs, but can also impact other organs such as the kidneys, spine, and brain. TB is one of the top 10 causes of death worldwide, with millions of people affected each year.
+
+Causes:
+Tuberculosis is caused by the bacterium Mycobacterium tuberculosis, which spreads through the air when people with the active disease cough, sneeze, talk or spit. The bacteria can survive in the air for several hours, increasing the likelihood of transmission in crowded and poorly ventilated spaces. While TB is contagious, it is not easy to catch, as prolonged close contact with an infected person is typically required for transmission.
+
+Symptoms:
+TB can be classified into two forms: latent TB infection (LTBI) and active TB disease. 
+
+Latent TB infection:
+- No symptoms
+- Cannot spread TB bacteria to others
+- Diagnosed using a TB skin or blood test
+- At risk of developing active TB disease, especially if the immune system weakens
+
+Active TB disease:
+- Symptoms may include a persistent cough (lasting longer than three weeks), coughing up blood, chest pain, weakness, fatigue, weight loss, lack of appetite, fever, chills, night sweats and shortness of breath
+- Can spread TB bacteria to others
+- Diagnosed using a chest X-ray, sputum culture, and other tests
+
+Modes of Transmission:
+TB is transmitted through the air via droplet nuclei containing the bacteria. These tiny droplets are expelled into the air when an infected person with active TB disease coughs, sneezes, talks, or spits. People nearby can inhale the bacteria, which then travel to and potentially infect their lungs. It is important to note that TB is not transmitted through physical contact, sharing food or drink, or casual contact like shaking hands or touching objects.
+
+Diagnosis:
+Diagnosing TB can involve several tests, including:
+
+1. TB skin test (Mantoux tuberculin skin test, or TST): involves injecting a small amount of tuberculin purified protein derivative (PPD) under the skin and evaluating the reaction after 48-72 hours.
+2. TB blood test (interferon-gamma release assays, or IGRA): measures the immune response to TB bacteria in a blood sample.
+3. Chest X-ray: used to detect abnormalities in the lungs, which could indicate TB infection.
+4. Sputum tests: examination of sputum samples under a microscope and culturing the bacteria to confirm the presence of M. tuberculosis and determine its drug sensitivity.
+
+Treatment Options:
+Tuberculosis is treated with a combination of antibiotics, usually over a period of six to nine months. The most commonly prescribed medications include isoniazid, rifampin, ethambutol, and pyrazinamide. Adherence to the treatment regimen is crucial for successful eradication of the bacteria and preventing the development of drug-resistant TB. In some cases, where drug-resistant TB is present, a more intensive and longer treatment course with additional second-line drugs may be necessary.
+
+In summary, Tuberculosis is a contagious bacterial disease caused by Mycobacterium tuberculosis. It spreads through the air and primarily affects the lungs. The symptoms of active TB include persistent cough, weight loss, and fever. Diagnosis involves several tests, such as skin tests, blood tests, and chest X-rays. Treatment requires a combination of antibiotics, which must be taken diligently to eradicate the infection and prevent drug resistance.

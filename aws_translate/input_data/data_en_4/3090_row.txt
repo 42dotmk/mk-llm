@@ -1,0 +1,26 @@
+Answer this question please:
+The 2017 United States federal budget is the United States federal budget for fiscal year 2017, which lasts from October 1, 2016 to September 30, 2017. President Barack Obama submitted a budget proposal to the 114th Congress on February 9, 2016. The 2017 fiscal year overlaps the end of the Obama administration and the beginning of the Trump administration.
+
+Based on this passage, when does a president's fiscal year start?
+
+Stream of random thoughts: To answer this question, we should know that: The 2017 United States federal budget is the United States federal budget for fiscal year 2017, which lasts from October 1, 2016 to September 30, 2017.... The answer is October 1 , 2016.
+----
+Answer this question please:
+Leslie Carrara-Rudolph is known for performing the fairy Abby Cadabby on the PBS Kids show Sesame Street, for which she was nominated for a 2009 Emmy Award for best performer in a children's series. She is also known for her puppeteer role as Ginger on Playhouse Disney's Johnny and the Sprites. She performed the muppet Jesse for Sesame Street's military outreach project Touch, Listen, and Connect, which starred Katie Couric. Carrara-Rudolph plays various characters on Sesame Street throughout the season. She got her start on ABC's Muppets Tonight as Spamela Hamderson. Other puppeteering credits include Edi the Zebra on the Learning Channel's Animal Jam and the evil blonde vampire puppet in the movie Forgetting Sarah Marshall. Carrara-Rudolph is one of the founding members of the Henson improv group Puppet Up!, which was later renamed Stuffed and Unstrung. She was part of the improv cast for its debut at the Aspen Comedy Festival. She toured with them to the Australian comedy festival and was a cast member for the off-Broadway show at the Union Square Theater. She also played the main role of Blue, the female blue puppy in Nick Jr.'s Blue's Room.
+
+Answer this question based on the passage: who does abby's voice on sesame street?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: Leslie Carrara-Rudolph is known for performing the fairy Abby Cadabby on the PBS Kids show Sesame Street, for which she was nominated for a 2009 Emmy Award for best performer in a children's series.... The answer is Leslie Carrara - Rudolph.
+----
+Answer this question please:
+HFMD cases were first described clinically in Canada and New Zealand in 1957. The disease was termed "Hand Foot and Mouth Disease", by Thomas Henry Flewett, after a similar outbreak in 1960.
+
+Answer this question based on the passage: when did hand foot and mouth disease begin?
+
+Stream of random thoughts: This is the relevant information: HFMD cases were first described clinically in Canada and New Zealand in 1957.... The answer is 1957.
+----
+Answer this question please:
+The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 at the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. It will be the second Ryder Cup to be held in Continental Europe, after the 1997 contest, which was held in Spain. The United States are the defending champions, but last won in Europe in 1993, a quarter century earlier.
+
+Based on this passage, where is the 2018 ryder cup being held?
+

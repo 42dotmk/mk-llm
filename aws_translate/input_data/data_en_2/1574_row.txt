@@ -1,0 +1,27 @@
+Reasoning and answer: Whitney is buying 2 posters for $5 each, so the posters will cost 2 * $5 = $10 total cost for posters. Whitney is buying 3 notebooks for $4 each, so the notebooks will cost 3 * $4 = $12 total cost for notebooks. Whitney is buying 2 notebooks for $2, so the bookmarks 2 * $2 = $4 total cost for bookmarks. Since Whitney is paying $10 for posters, $12 for notebooks, and $4 for bookmarks, her total purchase will cost $10 + $12 + $4 = $26 total purchase cost. Whitney’s mom gave her 2 $20 bills, so she will be paying with 2 * $20 = $40 total payment. Since Whitney is paying with $40 and her purchase cost will be $26, she will have $40 - $26 = $14 left over after the purchase.
+The answer: 14
+What was the question?
+Question: Whitney’s mom gave her two $20 bills to spend at the school book fair. Whitney has decided to buy 2 posters, 3 notebooks, and 2 bookmarks. Each poster costs $5, each notebook costs $4, and each bookmark costs $2. How much money, in dollars, will Whitney have left over after the purchase?
+
+Derek caught the ball 2 * 23 - 4 = 46 - 4 = 42 times. Tammy caught the ball 42 / 3 + 16 = 14 + 16 = 30 times.
+The answer: 30
+Reverse engineering the question: Joe played catch with Derek and Tammy. He caught the ball 23 times. Derek made four less than double the catches Joe did. Tammy caught the ball sixteen more than a third of the times Derek did. How many times did Tammy catch the ball?
+
+Reasoning and answer: The cost of one card from each box in total is 1.25 + 1.75 = 3 dollars. The total cost of cards the boy bought is 3 * 6 = 18 dollars.
+The answer: 18
+What was the question?
+Question: The card shop has two boxes of cards. The first box contains cards that cost $1.25 each. The second box contains cards that cost $1.75 each. A boy then comes in and buys 6 cards from each box. What was the total cost, in dollars, of the cards he bought?
+
+Robin ate twice as many buttercream cupcakes as chocolate sauce cupcakes, or 2 * 4 = 8. So in total she ate 4 + 8 = 12 cupcakes.
+The answer: 12
+Reverse engineering the question: Robin likes to bake cupcakes for friends and to make her puppy North happy. Once Robin ate four cupcakes with chocolate sauce and twice as many cupcakes with buttercream frosting on her own. How many cupcakes did Robin eat?
+
+Reasoning and answer: The second earthquake caused 2 * 4 = 8 buildings to collapse. The third earthquake caused 2 * 8 = 16 buildings to collapse. The fourth earthquake caused 16 * 2 = 32 buildings to collapse. Including the first earthquake, the earthquakes caused 4 + 8 + 16 + 32 = 60 buildings to collapse.
+The answer: 60
+What was the question?
+Question: An earthquake caused four buildings to collapse. Experts predicted that each following earthquake would have double the number of collapsing buildings as the previous one, since each one would make the foundations less stable. After three more earthquakes, how many buildings had collapsed including those from the first earthquake?
+
+Reasoning and answer: Oscar needs to increase his maximum running time from 20 - 2 = 18 miles. Oscar will need a total of 18 / ( 2 / 3 ) = 27 weeks to prepare.
+The answer: 27
+What was the question?
+Question:

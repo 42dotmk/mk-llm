@@ -1,0 +1,34 @@
+Problem:The story is set in Paris in 1482 during the reign of Louis XI. The gypsy Esmeralda (born as Agnes) captures the hearts of many men, including those of Captain Phoebus and Pierre Gringoire, but especially Quasimodo and his guardian Archdeacon Claude Frollo. Frollo is torn between his obsessive lust for Esmeralda and the rules of Notre Dame Cathedral. He orders Quasimodo to kidnap her, but Quasimodo is captured by Phoebus and his guards, who save Esmeralda. Gringoire, who attempted to help Esmeralda but was knocked out by Quasimodo, is about to be hanged by beggars when Esmeralda saves him by agreeing to marry him for four years.
+
+Answer this question based on the passage: where does the hunchback of notre dame take place?
+Solution:OK... To answer the above question, the relevant sentence is: The story is set in Paris in 1482 during the reign of Louis XI.
+Paris.
+
+Student A:Connor Trinneer (born March 19, 1969) is an American film, stage, and television actor. He is best known for his role as Charles "Trip" Tucker III on Star Trek: Enterprise and as Michael on the series Stargate Atlantis.
+
+Who played michael the wraith on stargate atlantis?
+Student B:OK... To answer this question, we should know that: He is best known for his role as Charles "Trip" Tucker III on Star Trek: Enterprise and as Michael on the series Stargate Atlantis.
+Connor Trinneer.
+
+Problem:Context: Covered by numerous artists in various genres, "All Along the Watchtower" is strongly identified with the interpretation Jimi Hendrix recorded for Electric Ladyland with the Jimi Hendrix Experience. The Hendrix version, released six months after Dylan's original recording, became a Top 20 single in 1968 and was ranked 47th in Rolling Stone magazine's 500 Greatest Songs of All Time.
+
+Question: when did jimi hendrix cover all along the watchtower?
+Solution:OK... The relevant sentence in the passage is: The Hendrix version, released six months after Dylan's original recording, became a Top 20 single in 1968 and was ranked 47th in Rolling Stone magazine's 500 Greatest Songs of All Time.
+1968.
+
+Student A:Tom Bergeron and Erin Andrews returned as hosts, while Carrie Ann Inaba, Len Goodman, and Bruno Tonioli returned as judges. Julianne Hough did not return as a judge this season.
+
+Who are the judges for season 25 of dancing with the stars?
+Student B:OK... The relevant information to answer the above question is: Tom Bergeron and Erin Andrews returned as hosts, while Carrie Ann Inaba, Len Goodman, and Bruno Tonioli returned as judges.
+Carrie Ann Inaba.
+
+Problem:"(Ghost) Riders in the Sky: A Cowboy Legend" is a cowboy-styled country / western song written in 1948 by American songwriter, film and television actor Stan Jones.
+
+Answer this question: who wrote ghost riders in the sky lyrics?
+Solution:OK... The relevant information is: "(Ghost) Riders in the Sky: A Cowboy Legend" is a cowboy-styled country / western song written in 1948 by American songwriter, film and television actor Stan Jones.
+American songwriter , film and television actor Stan Jones.
+
+Problem:Passage: Stan Lee (born Stanley Martin Lieber / ˈliːbər /, December 28, 1922) is an American comic-book writer, editor, film executive producer, and publisher. He was formerly editor-in-chief of Marvel Comics, and later its publisher and chairman before leaving the company to become its chairman emeritus, as well as a member of the editorial board.
+
+Question: Based on this passage, what is stan lee's role in marvel?
+Solution:

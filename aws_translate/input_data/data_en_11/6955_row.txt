@@ -1,0 +1,29 @@
+Answer: the Roman dictator Julius Caesar. Now, what could be the question and solution-maybe?
+Ques: Passage: Et tu, Brute? (pronounced ( ɛt ˈtuː ˈbruːtɛ) ) is a Latin phrase meaning "and you, Brutus?", made famous by its occurrence in William Shakespeare's play Julius Caesar, where it is uttered by the Roman dictator Julius Caesar to his friend Marcus Brutus at the moment of the former's assassination. The Latin expression first occurs in Elizabethan literary texts. The quotation is widely used in the English-speaking world to signify the unexpected betrayal by a person, such as a friend.
+
+Question: Based on this passage, who said et tu brute then fall caesar?
+CoT: To answer the above question, the relevant sentence is: Et tu, Brute? (pronounced ( ɛt ˈtuː ˈbruːtɛ) ) is a Latin phrase meaning "and you, Brutus?", made famous by its occurrence in William Shakespeare's play Julius Caesar, where it is uttered by the Roman dictator Julius Caesar to his friend Marcus Brutus at the moment of the former's assassination.
+
+
+Ans: Rajpath
+Ques: Rajpath (meaning "King's Way") is a ceremonial boulevard in New Delhi, India, that runs from Rashtrapati Bhavan on Raisina Hill through Vijay Chowk and India Gate to National Stadium, Delhi. The avenue is lined on both sides by huge lawns, canals and rows of trees. Considered to be one of the most important roads in India, it is where the annual Republic Day parade takes place on 26 January. Janpath (meaning "People's Way") crosses the road. Rajpath runs in east-west direction. Roads from Connaught Place, the financial centre of Delhi, run into Rajpath from north.
+
+Answer this question: who lies between rashtrapati bhavan and india gate?
+CoT: This is the relevant information: Rajpath (meaning "King's Way") is a ceremonial boulevard in New Delhi, India, that runs from Rashtrapati Bhavan on Raisina Hill through Vijay Chowk and India Gate to National Stadium, Delhi.
+
+
+Ans: The passenger ship SS Yongala
+Ques: The passenger ship SS Yongala sank off Cape Bowling Green, Queensland, Australia on 23 March 1911. En route from Melbourne to Cairns she steamed into a cyclone and sank south of Townsville. All 122 aboard were lost, and traces of the ship were not found until days later, when cargo and wreckage began to wash ashore at Cape Bowling Green and at Cleveland Bay. It was believed that the hull of the ship had been ripped open by a submerged rock. The wreck, which has become a tourist attraction and dive site, was not found until 1958.
+
+Answer this question: ship that sank off cape bowling green in 1911?
+CoT: This is the relevant information: The passenger ship SS Yongala sank off Cape Bowling Green, Queensland, Australia on 23 March 1911.
+
+
+Answer: Lennie Weinrib. Now, what could be the question and solution-maybe?
+Ques: Context: Lennie Weinrib as King Leonidas and Secretary Bird. The king is a lion, and a devoted football player with a fearsome temper, as well as a notorious cheat who is known to make up the rules as he goes along -- according to Paul's book. His Secretary Bird is a prim and proper type who often bears the brunt of the king's temper. Dallas McKennon as Bear. The Bear is a sailor and fisherman on the Isle of Naboombu who pulls the bed, with Miss Price's group on it, out of the lagoon with his fishing pole, and takes them to see the King after warning them of his temper. Bob Holt as Codfish, a denizen of the Naboombu lagoon.
+
+Question: voice of the king in bedknobs and broomsticks?
+CoT: The relevant information to answer the above question is: Lennie Weinrib as King Leonidas and Secretary Bird.
+
+
+Ans: Croatia , and at Shepperton Studios in Surrey , England

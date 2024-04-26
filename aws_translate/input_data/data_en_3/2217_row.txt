@@ -1,0 +1,19 @@
+Answer: 2016. Now, what could be the question and solution-maybe?
+Ques: The Ranch is an American comedy web television series starring Ashton Kutcher, Danny Masterson, Debra Winger, Elisha Cuthbert, and Sam Elliott that debuted in 2016 on Netflix. The show takes place on the fictional Iron River Ranch in the fictitious small town of Garrison, Colorado; detailing the life of the Bennetts, a dysfunctional family consisting of two brothers, their rancher father, and his divorced wife and local bar owner. While the opening sequence shows scenes from Norwood and Ouray, Colorado and surrounding Ouray and San Miguel Counties, The Ranch is filmed on a sound stage in front of a live audience in Burbank, California. Each season consists of 20 episodes broken up into two parts, each containing 10 episodes.
+
+Answer this question: when did the show the ranch come out?
+CoT: This is the relevant information: The Ranch is an American comedy web television series starring Ashton Kutcher, Danny Masterson, Debra Winger, Elisha Cuthbert, and Sam Elliott that debuted in 2016 on Netflix.
+---
+Answer: June 1979. Now, what could be the question and solution-maybe?
+Ques: Three years later in June 1979, the NBA adopted the three-point line for a one-year trial for the 1979 -- 80 season, despite the view of many that it was a gimmick. Chris Ford of the Boston Celtics is widely credited with making the first three-point shot in NBA history on October 12, 1979; the season opener at Boston Garden was more noted for the debut of Larry Bird (and two new head coaches). Rick Barry of the Houston Rockets, in his final season, also made one in the same game, and Kevin Grevey of the Washington Bullets made one that Friday night as well.
+
+Answer this question based on the passage: when did the nba put in the 3 point line?
+CoT: The relevant information is: Three years later in June 1979, the NBA adopted the three-point line for a one-year trial for the 1979 -- 80 season, despite the view of many that it was a gimmick.
+---
+Answer: the U.S. states of Montana , North Carolina , South Carolina and Wyoming. Now, what could be the question and solution-maybe?
+Ques: Passage: Historically, rubies have also been mined in Thailand, in the Pailin and Samlout District of Cambodia, as well as in Afghanistan, Australia, Brazil, Colombia, India, Namibia, Japan, and Scotland; after the Second World War ruby deposits were found in Madagascar, Nepal, Pakistan, Tajikistan, Tanzania, and Vietnam. In Sri Lanka, lighter shades of rubies (often "pink sapphires") are more commonly found. Republic of Macedonia is the only country in mainland Europe to have naturally occurring rubies. They can mainly be found around the city of Prilep. Macedonian ruby has a unique raspberry color. The ruby is also included on the Macedonian Coat of Arms. A few rubies have been found in the U.S. states of Montana, North Carolina, South Carolina and Wyoming.
+
+Question: Based on this passage, where can rubies be found in the us?
+CoT: The important part for answering this question is: A few rubies have been found in the U.S. states of Montana, North Carolina, South Carolina and Wyoming.
+---
+Answer: The film. Now, what could be the question and solution-maybe?

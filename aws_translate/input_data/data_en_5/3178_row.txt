@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: The Brooklyn Dodgers was an American Major League baseball team, active primarily in the National League from 1884 until 1957, after which the club moved to Los Angeles, where it continues its history as the Los Angeles Dodgers. The team's name derived from the reputed skill of Brooklyn residents at evading the city's trolley streetcar network. The Dodgers played in two stadiums in South Brooklyn, each named Washington Park, and at Eastern Park in the neighborhood of Brownsville before moving to Ebbets Field in the neighborhood of Flatbush in 1913. The team is noted for signing Jackie Robinson in 1947 as the first black player in the modern major leagues.
+
+Question: Based on this passage, when did the broklyn dodgers move to la?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: The Brooklyn Dodgers was an American Major League baseball team, active primarily in the National League from 1884 until 1957, after which the club moved to Los Angeles, where it continues its history as the Los Angeles Dodgers.... The answer is 1957.
+----
+Answer this question please:
+Eleven goaltenders have scored a total of fourteen goals in National Hockey League (NHL) games. A goalkeeper can score by either shooting the puck into the net, or being awarded the goal as the last player on his team to touch the puck when an opponent scored an own goal. A goal scored by shooting the puck is particularly challenging as the goaltender has to aim for a six-foot-wide net that is close to 180 feet away, while avoiding opposing defencemen; in the case of own goals, the combined circumstance of the own goal itself in addition to the goaltender being the last player to touch the puck makes it a very rare occurrence. Of the fourteen goals, seven were scored by shooting the puck and seven were the result of own goals.
+
+How many nhl goalies have scored a goal?
+
+Stream of random thoughts: The relevant information to answer the above question is: Eleven goaltenders have scored a total of fourteen goals in National Hockey League (NHL) games.... The answer is Eleven.
+----
+Answer this question please:
+Passage: Four-year-old James Henry Trotter lives with his loving parents in a beautiful cottage by the sea in the south of England, until his parents are killed by an escaped rhinoceros during a shopping trip in London.
+
+Question: Based on this passage, what killed james parents in james and the giant peach?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: Four-year-old James Henry Trotter lives with his loving parents in a beautiful cottage by the sea in the south of England, until his parents are killed by an escaped rhinoceros during a shopping trip in London.... The answer is an escaped rhinoceros.
+----
+Answer this question please:
+Passage: The Evil Queen, also known as the Wicked Queen or just the Queen, and sometimes instead identified by her given name as Queen Grimhilde, is the primary antagonist in Disney's 1937 animated film Snow White and the Seven Dwarfs and a villain character in the extended Disney's Snow White franchise. She is based on the Evil Queen character from the European fairy tale "Snow White".
+
+Question: Based on this passage, the evil queen's name in snow white?
+

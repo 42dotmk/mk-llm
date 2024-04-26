@@ -1,0 +1,27 @@
+Reasoning and answer: If Rayman takes 10 hours doing his workouts, half the number of hours junior takes, then Junior takes 2 * 10 = 20 hours to do his workouts in a week. Altogether, Junior and Rayman take 20 + 10 = 30 hours doing their workouts in a week. Wolverine takes 2 * 30 = 60 hours to do her workouts in a week, twice the total number of hours Rayman and Junior takes.
+The answer: 60
+What was the question?
+Question: In a week, Rayman works out for half the number of hours Junior takes to work out. Wolverine, their friend, works out for twice the combined total number of hours both Rayman and Junior take during their workouts. Calculate the number of hours Wolverine takes doing her workouts if Rayman does workouts for 10 hours in a week.
+
+Jess’ second stack was 7 blocks + 5 blocks = 12 blocks. Jess’ third stack was 12 blocks + 7 blocks = 19 blocks high. Jess’ sister knocked down the second tower and knocked 12 blocks – 2 = 10 blocks knocked over. Jess’ sister knocked down the final tower and knocked 19 blocks – 3 = 16 blocks knocked over. Total blocks knocked over was 7 blocks + 10 + 16 = 33 blocks.
+The answer: 33
+Reverse engineering the question: Jess made 3 different stacks of wooden blocks. The first stack was 7 blocks high, the second stack was 5 block(s) higher than the first, and the final stack was 7 block(s) higher than the second. Jess’ little sister knocked over the entire first tower, in the second tower she left 2 blocks standing, and in the final tower she left 3 blocks standing. How many blocks in total fell down?
+
+Reasoning and answer: Leo got 2 x 2 = 4 mistakes. So, Brent got 4 + 1 = 5 mistakes. This means that 25 + 5 = 30 is the perfect score. Hence, Madeline got a score of 30 - 2 = 28.
+The answer: 28
+What was the question?
+Question: In a Geometry exam, Madeline got 2 mistakes which are half as many mistakes as Leo. Brent scored 25 and has 1 more mistake than Leo. What is Madeline's score?
+
+If the total contribution was three times as much as Harry contributed, and Harry contributed $30, the total contribution was 3 * $30 = $90. Since Harry contributed $30, his three friends together contributed $90 - $30 = $60. Since the three friends were contributing an equal amount, each friend contributed $60 / 3 = $20.
+The answer: 20
+Reverse engineering the question: Harry's birthday was three weeks after the closing of the school. His three friends decided to contribute an equal amount of money to throw him a party. Harry added $30 to the contribution, making the total contribution three times as much as Harry contributed. Calculate the total amount of money that each of Harry's friends contributed.
+
+Reasoning and answer: Jonah started with 14 fish + 2 more = 16 fish. Of the 16 fish – 6 were eaten – 2 were returned to the store = 8 fish. After he returned the fish to the store, he exchanged them for 3 new fish + 8 fish that were left = 11 fish now in his tank.
+The answer: 11
+What was the question?
+Question: Jonah decided to set up an aquarium. He started with 14 small fish. He added 2 more, but they ate 6 of his original fish before he could remove them and take them back to the store. He exchanged them for 3 new fish. How many fish does Jonah have now?
+
+Reasoning and answer: First find the total amount of money Jackson spent on movie tickets: 3 tickets * $12 / ticket = $36. Then add the amount he spent on the video game: $36 + $66 = $102.
+The answer: 102
+What was the question?
+Question:

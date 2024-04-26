@@ -1,0 +1,19 @@
+Question: Passage: In 2002, Bonanza was ranked No. 43 on TV Guide's 50 Greatest TV Shows of All Time, and in 2013 TV Guide included it in its list of The 60 Greatest Dramas of All Time. The time period for the television series is roughly between 1861 (Season 1) and 1867 (Season 13) during and shortly after the American Civil War.
+
+Question: Based on this passage, when did the tv show bonanza take place?
+Answer: To answer the above question, the relevant sentence is: The time period for the television series is roughly between 1861 (Season 1) and 1867 (Season 13) during and shortly after the American Civil War. The answer is roughly between 1861 ( Season 1 ) and 1867 ( Season 13 ) during and shortly after the American Civil War.
+
+Question: The Ministry of Education, Science and Technology (Nepali: शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय) is a governmental body of Nepal responsible for the overall development of education in Nepal. The ministry is responsible for formulating educational policies and plans and managing and implementing them across the country through the institutions under it. In 2018, under the second Oli cabinet, the portfolio of the ministry was enlarged and the portfolios of Science and Technology were added to the then Ministry of Education, while the Ministry of Science and Technology was discontinued. The current minister of Education, Science and Technology is Giriraj Mani Pokharel, who has already had this post in the first Oli cabinet in 2015.
+
+Who is the present education minister of nepal?
+Answer: To answer the question, consider the following: The current minister of Education, Science and Technology is Giriraj Mani Pokharel, who has already had this post in the first Oli cabinet in 2015. The answer is Giriraj Mani Pokharel.
+
+Question: Birth of the Dragon is a 2016 martial arts action film directed by George Nolfi and written by Christopher Wilkinson and Stephen J. Rivele. The film stars Philip Ng, Xia Yu, and Billy Magnussen. The film is a fictional account on the supposedly true story revolving around the young martial artist Bruce Lee, who challenged kung fu master Wong Jack Man in 1965 in San Francisco. Principal photography began on November 17, 2015, in Vancouver. It was selected to be screened in the Special Presentations section at the 2016 Toronto International Film Festival, and was released on August 25, 2017, by Blumhouse Tilt and WWE Studios.
+
+Answer this question: when did birth of the dragon come out?
+Answer: To answer the above question, the relevant sentence is: Birth of the Dragon is a 2016 martial arts action film directed by George Nolfi and written by Christopher Wilkinson and Stephen J. Rivele. The answer is 2016.
+
+Question: 13 Going on 30 (released as Suddenly 30 in some countries) is a 2004 American fantasy romantic comedy film written by Josh Goldsmith and Cathy Yuspa and directed by Gary Winick. Starring Jennifer Garner, the film was produced by Revolution Studios for Columbia Pictures, and was released on April 23, 2004. It follows a 13-year-old girl who dreams of being popular. During her birthday party, she is humiliated by classmates and wishes that she was 30 years old. When she eventually does emerge, she finds herself five days shy of her 30th birthday, uncertain how she got there.
+
+Based on this passage, when did 13 going on 30 come out?
+Answer:

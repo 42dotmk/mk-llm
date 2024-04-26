@@ -1,0 +1,25 @@
+James starts with 500 Legos and uses half of them, leaving 500 / 2 = 250 Legos unused. He puts those unused Legos away but since he's missing 5 he only puts 250 - 5 = 245 Legos away.
+The answer: 245
+Reverse engineering the question: James dumps his whole collection of 500 Legos on the floor and starts building a castle out of them. He uses half the pieces before finishing and is told to put the rest away. He puts all of the leftover pieces back in the box they came from, except for 5 missing pieces that he can't find. How many Legos are in the box at the end?
+
+Reasoning and answer: She needs 60 inches of rope because 10 x 6 equals 60. The six - foot length of rope is 72 inches long because 6 x 12 = 72. The six - foot length of rope would give her 12 pieces because 72 / 6 = 12. The six - foot length is long enough because 12 > 10. Each 1 - foot rope equals 12 inches. She would need 5 of the 1 - foot ropes because 60 / 12 = 5. If she bought one - foot ropes it would cost $6.25 because 5 x 1.25 = 6.25. The cheapest rope to buy is the 6 - foot rope because 5 < 6.25.
+The answer: 5
+What was the question?
+Question: Tanesha needs to buy rope so cut into 10 pieces that are each six inches long. She sees a 6-foot length of rope that cost $5 and also sees 1-foot lengths of rope that cost $1.25 each. What is the least she has to spend to get the rope she needs?
+
+Laura bought two salads, for 2 * 3 = $6. One kilogram of beef is two times more expensive than one salad, which means it cost 2 * 3 = $6. So Laura spend 2 * 6 = $12 on beef. One kilogram of potatoes costs only 3 * 1 / 3 = $1, and that's how much Laura paid for potatoes. Laura bought two liters of juice, so she did spend on them 2 * 1.5 = $3. So in total Laura paid 6 + 12 + 1 + 3 = $22.
+The answer: 22
+Reverse engineering the question: Laura loves to cook. One day she decided to make dinner for her family. She bought the necessary ingredients for this occasion: two salads, 2 kilograms of beef, 1 kilogram of potatoes, and two liters of juice. One salad costs $3, and one kilogram of beef is two times more expensive. One kilogram of potatoes costs one-third of the price of one salad, and one liter of juice is $1.5. How much did Laura need to pay for all the products she bought?
+
+Reasoning and answer: Let X be the distance Sam ran. His walk through the store was twice the distance of his run, so his walk was 2X. He biked for 12 miles and went 18 miles in all, so he walked and ran 18 - 12 = 6 miles. Thus, his walk and run together were X + 2X = 3X = 6 miles. Thus, he ran X = 6 / 3 = 2 miles.
+The answer: 2
+What was the question?
+Question: Sam went for a run in the morning. In the afternoon, he went grocery shopping and walked twice the distance through the store as he had run that morning. That evening, he went on a bike ride with his family and biked for 12 miles. In all, he went 18 miles that day. How many miles was Sam’s morning run?
+
+First find the pot's volume in ml: 3 liters * 1000 ml / liter = 3000 ml. Then find the number of ml that enter the pot per minute: 3 drops / minute * 20 ml / drop = 60 ml / minute. Then divide the volume of the pot by the volume that enters it every minute: 3000 ml / 60 ml / minute = 50 minutes.
+The answer: 50
+Reverse engineering the question: The leak in Jerry's roof drips 3 drops a minute into the pot he put under it. Each drop is 20 ml, and the pot holds 3 liters. How long will it take the pot to be full?
+
+The taco truck sold 3 + 2 * 10 = 3 + 20 = 23 soft tacos. It made 2 * 23 = $46 from soft tacos. It made 5 * 4 = $20 from hard shell tacos. Thus, the taco truck made 46 + 20 = $66 during the lunch rush.
+The answer: 66
+Reverse engineering the question:

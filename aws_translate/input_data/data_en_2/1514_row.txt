@@ -1,0 +1,21 @@
+a: The important part for answering this question is: The United States placed first in total medals -- its second time doing so in a Winter Games -- and set a new record for most medals won by a NOC at a single Winter Olympics, with 37 (the previous record was 36, established by Germany in 2002).
+The United States
+q: Passage: Athletes from 26 NOCs won at least one medal, and athletes from 19 of these NOCs secured at least one gold. For the first time, Canada won a gold medal at an Olympic Games it hosted, having failed to do so at both the 1976 Summer Olympics in Montreal and the 1988 Winter Olympics in Calgary. In contrast to the lack of gold medals at these previous Olympics, the Canadian team finished first overall in gold medal wins, and became the first host nation -- since Norway in 1952 -- to lead the gold medal count, with 14 medals. In doing so, it also broke the record for the most gold medals won by a NOC at a single Winter Olympics (the previous was 13, set by the Soviet Union in 1976 and matched by Norway in 2002). The United States placed first in total medals -- its second time doing so in a Winter Games -- and set a new record for most medals won by a NOC at a single Winter Olympics, with 37 (the previous record was 36, established by Germany in 2002). Athletes from Slovakia and Belarus won the first Winter Olympic gold medals for their nations.
+
+Question: Based on this passage, who won the most medals in vancouver olympics?
+
+a: The relevant sentence in the passage is: It is composed primarily of carbon dioxide and is much denser and hotter than that of Earth.
+much denser and hotter
+q: The atmosphere of Venus is the layer of gases surrounding Venus. It is composed primarily of carbon dioxide and is much denser and hotter than that of Earth. The temperature at the surface is 740 K (467 ° C, 872 ° F), and the pressure is 93 bar (9.3 MPa), roughly the pressure found 900 m (3,000 ft) underwater on Earth. The Venusian atmosphere supports opaque clouds made of sulfuric acid, making optical Earth-based and orbital observation of the surface impossible. Information about the topography has been obtained exclusively by radar imaging. Aside from carbon dioxide, the other main component is nitrogen. Other chemical compounds are present only in trace amounts.
+
+How does the temperature of venus compare to that of earth?
+
+a: The important part for answering this question is: A second series was confirmed in June 2017 and began airing from 8 January 2018.
+8 January 2018
+q: The series is an international co-production between CBBC, ZDF and Netflix The series was made available to stream internationally on Netflix on 22 July 2017. It will be made available to members in the UK, Ireland and Germany after its premiere on CBBC and ZDF. The series premiered on CBBC on 11 January 2017. A second series was confirmed in June 2017 and began airing from 8 January 2018.
+
+Answer this question: when is the second season of the worst witch coming out on netflix?
+
+a: The relevant information is: In flowering plants, the ovule is located inside the portion of the flower called the gynoecium.
+inside the portion of the flower called the gynoecium
+q:

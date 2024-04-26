@@ -1,0 +1,53 @@
+Summarize this article:
+
+WASHINGTON — Devoted customers of Apple products these days worry about whether the new iPhone 6 will bend in their jean pockets. The National Security Agency and the nation’s law enforcement agencies have a different concern: that the smartphone is the first of a post-Snowden generation of equipment that will disrupt their investigative abilities. 
+  
+ The phone encrypts emails, photos and contacts based on a complex mathematical algorithm that uses a code created by, and unique to, the phone’s user — and that Apple says it will not possess. 
+  
+ The result, the company is essentially saying, is that if Apple is sent a court order demanding that the contents of an iPhone 6 be provided to intelligence agencies or law enforcement, it will turn over gibberish, along with a note saying that to decode the phone’s emails, contacts and photos, investigators will have to break the code or get the code from the phone’s owner. 
+  
+ Breaking the code, according to an Apple technical guide, could take “more than 5 1/2 years to try all combinations of a six-character alphanumeric passcode with lowercase letters and numbers.” (Computer security experts question that figure, because Apple does not fully realize how quickly the N.S.A. supercomputers can crack codes.) ||||| Photo by Lucy Nicholson/Reuters 
+  
+ Last week Apple released its new iOS 8 operating system for iPhones, iPads, and iPod Touch devices. Most of the coverage of iOS 8 focuses on visible features that users can interact with. But there’s one major change in iOS 8 that most users probably won’t notice unless they find themselves in a great deal of trouble. Specifically, Apple has radically improved the way that data on those devices is encrypted. Once users set a passcode, Apple will no longer be able to unlock your device—even if ordered to do so by a court. 
+  
+ While privacy advocates have praised Apple’s move, it has drawn fire from some notable legal scholars. Writing in the Washington Post on Sept. 19, Orin Kerr referred to Apple’s new policy as a “dangerous game,” one that “doesn’t stop hackers, trespassers, or rogue agents” but “only stops lawful investigations with lawful warrants.” While Kerr has moderated his views since his initial post, his overarching concern remains the same: By placing customer interests before that of law enforcement, Apple is working against the public interest. If you interpret Apple’s motivations as Kerr does, then Apple’s recent move is pretty surprising. Not only has the company picked a pointless fight with the United States government, it’s potentially putting the public at risk. 
+  
+ The only problem is that Kerr is wrong about this. Apple is not designing systems to prevent law enforcement from executing legitimate warrants. It’s building systems that prevent everyone who might want your data—including hackers, malicious insiders, and even hostile foreign governments—from accessing your phone. This is absolutely in the public interest. Moreover, in the process of doing so, Apple is setting a precedent that users, and not companies, should hold the keys to their own devices. 
+  
+ Advertisement 
+  
+  
+  
+ To see why this is the case, you need to know a bit about what Apple is doing with its new technology. The first time you power up a new iPhone or iPad, you’ll be asked to set a passcode for unlocking your phone. This can be a full password or just a 4-digit PIN (though the former is certainly stronger). On devices with a Touch ID sensor, you’ll also be allowed to use your fingerprint as a more convenient alternative. 
+  
+ Get Future Tense in your inbox. 
+  
+ A passcode may look like flimsy security, but it’s not. The minute you set one, Apple’s operating system immediately begins encrypting your phone’s sensitive data—including mail, texts, photos, and call records—using a form of encryption that the U.S. government uses to protect classified military secrets. The key for this encryption is mathematically derived by combining your passcode with a unique set of secret numbers that are baked into your phone. 
+  
+ If all goes well, you’ll never notice this is happening. But the impact on data raiders is enormous. Even if someone cracks your phone open and attempts to read data directly off of the memory chips, all she’ll see is useless, scrambled junk. Guessing your passcode won’t help her—unless she can also recover the secret numbers that are stored within your phone’s processor. And Apple’s latest generation of phones makes that very difficult. Of course, your would-be data thief could try to get in by exhaustively trying all possible combinations, but according to an iOS security document, Apple also includes protections to slow this attack down. (In the same document, Apple estimates that a 6-digit alphanumeric password could take upward of five years to guess.) 
+  
+ That’s the problem with keys. If you have them, sooner or later someone is going to ask you to use them. 
+  
+ The encryption on Apple devices is not entirely new with iOS 8. What is new is the amount of data your phone will now encrypt. Apple has extended encryption protections to nearly all the data you produce on a daily basis and will also require you to enter the passcode (or fingerprint) each time you reboot your phone. In addition, if you purchase a recent iPhone (5S, 6, or 6 Plus), Apple will store your keys within a dedicated hardware encryption “co-processor” called the Secure Enclave. 
+  
+ Advertisement 
+  
+  
+  
+ Taking Apple’s recent privacy announcements at face value, even Apple itself can’t break into the Secure Enclave in your phone. While it may seem “natural” that the designer of a system—in this case Apple—can break its own encryption, the truth is that such a capability is hardly an inevitable design outcome. For Apple to maintain such a capability with its newer security processors, it can’t just be more knowledgeable than its customers. It would have to literally design in a form of “skeleton key.” In computer security circles this mechanism is generally known as a “backdoor.” 
+  
+ Designing backdoors is easy. The challenge is in designing backdoors that only the right people can get through. In order to maintain its access to your phone, Apple would need a backdoor that allowed them to execute legitimate law enforcement requests, while locking hackers and well-resourced foreign intelligence services out. The problem is so challenging that even the National Security Agency has famously gotten it wrong. 
+  
+ To dive into the technical weeds, any backdoor Apple might design would likely require the company to store some sort of master access key—or even a whole database of such keys, one for every phone it sells. In the worst case, these keys might need to be carefully transported from the factory in China, to a locked and guarded room at Apple HQ in Cupertino, California. They would be kept isolated from the Internet to protect them from hackers, and Apple would have to constantly monitor its own employees to prevent abuse. None of this is cheap, and the stakes are high: A data breach involving Apple’s master keys could catastrophically harm the company’s reputation, particularly in the security-conscious enterprise market. 
+  
+ Much of the Apple criticism thus far stems from the perception that Apple is primarily targeting the U.S. government with its new encryption features. But this is shortsighted. Apple currently has retail stores in 14 countries and sells its phones in many more. The United States is not the only government with law enforcement, or with an interest in its citizens’ data. 
+  
+ Advertisement 
+  
+  
+  
+ Fortunately we don’t have to speculate about what those interests might be. Back in 2012, rumors swirled that the Indian government had threatened to ban BlackBerry’s messaging services and had even forced BlackBerry to hand over the encryption keys to that service. BlackBerry denied handing over the keys, but eventually admitted it had built a “lawful intercept” mechanism for the Indian government. 
+  
+ If Apple holds its customers’ keys (or maintains a backdoor into your phone), then the same calculus will soon apply to Apple. That’s the problem with keys. Once you have them, sooner or later someone will expect you to use them. Today those requests originate from police in the United States. Tomorrow they may come from the governments of China or Russia. And while those countries certainly have legitimate crime to prosecute, they’re also well known for using technology to persecute dissidents. Apple may not see either public interest or shareholder value in becoming the world’s superintendent—meekly unlocking the door for whichever nation’s police ask them to. 
+  
+ Apple’s new encryption may not solve this problem entirely—foreign governments could always ban the sale of Apple products or force Apple to redesign. But by approaching the world with a precedent that customers, not Apple, are responsible for the security of their phones, Apple can at least make a credible attempt to stay above the fray. |||||

@@ -1,0 +1,25 @@
+First find how far Marsha drives to deliver the third package: 28 miles / 2 = 14 miles. Then find how many miles she drives total by adding the miles for the three legs of her journey: 14 miles + 28 miles + 10 miles = 52 miles. Then divide her total pay by the number of miles she drives to find her pay per mile: $104 / 52 miles = $2 / mile.
+The answer: 2
+Reverse engineering the question: Marsha works as a delivery driver for Amazon. She has to drive 10 miles to deliver her first package, 28 miles to deliver her second package, and half that long to deliver her third package. If she gets paid $104 for the day, how many dollars does she get paid per mile?
+
+Reasoning and answer: Jacob collects 800 + 1700 = 2500 milliliters of water from the river and rain every day. Since 1 liter is equal to 1000 milliliters, then 50 liters is equal to 50x1000 = 50,000 milliliters of water. Therefore Jacob needs 50,000 / 2500 = 20 days to fill his water tank.
+The answer: 20
+What was the question?
+Question: Jacob's water tank can hold up to 50 liters of water. Jacob collects water from the river and rain to fill his water tank. He can collect 800 milliliters of water from the rain and 1700 milliliters of water from the river every day. How many days does Jacob need to fill up his water tank?
+
+She won $100.00 and put half into savings so she put 100 / 2 = $50.00 into savings. She won $100.00 and put $50.00 into savings so that leaves 100 - 50 = $50.00 to bet. She bet $50.00 and made a 60% profit so her profit was 50 * .60 = $30.00. The total wins in the second bet are 30 + 50 = $80. She put half of her $80.00 earnings into savings so that's 80 / 2 = $40.00 into savings. She put $50.00 into saving from her 1st bet and $40.00 from her second so she has saved 50 + 40 = $90.00.
+The answer: 90
+Reverse engineering the question: Opal won $100.00 betting on a horse race. She put half of her winnings into savings and bet the other half of her winnings. This time, she made a 60% profit and again, put half of her earnings into savings. How much did she put into her savings?
+
+Reasoning and answer: Chandler and Lucy can eat 23 + 19 = 42 apples per week. Therefore, they have to order 42 x 4 = 168 apples for a month.
+The answer: 168
+What was the question?
+Question: Chandler can eat a total of 23 apples and Lucy can eat a total of 19 apples per week. If the farmer only delivers 1 time per month, how many apples do they have to order for a month?
+
+Since a dozen is equal to 12, then 3 dozen eggs are equal to 12 x 3 = 36 eggs. Tricia will use 36 x 1 / 4 = 9 eggs for making crepes. So there are 36 - 9 = 27 eggs left. 27 x 2 / 3 = 18 eggs will be used for making cupcakes. Thus, there are only 27 - 18 = 9 eggs left to make sunny - side - up eggs for breakfast.
+The answer: 9
+Reverse engineering the question: Tricia ordered three dozen eggs. She will use 1/4 of them for making crepes, and 2/3 of the remaining for making cupcakes. How many eggs are left to make sunny-side-up eggs for breakfast?
+
+We have 2 kg = 2 * 1000 = 2000 g. So, the number of bars of chocolate is 2000 / 125 = 16.
+The answer: 16
+Reverse engineering the question:

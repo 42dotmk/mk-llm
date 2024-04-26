@@ -1,0 +1,22 @@
+Student A:Context: "The pot calling the kettle black" is a proverbial idiom that seems to be of Spanish origin, versions of which began to appear in English in the first half of the 17th century. It is glossed in the original sources as being used of a person who is guilty of the very thing of which they accuse another and is thus an example of psychological projection.
+
+Question: where does the saying calling the kettle black come from?
+Student B:OK... The relevant information to answer the above question is: "The pot calling the kettle black" is a proverbial idiom that seems to be of Spanish origin, versions of which began to appear in English in the first half of the 17th century.
+seems to be of Spanish origin , versions of which began to appear in English in the first half of the 17th century.
+
+Student A:Miami Dade College, or simply Miami Dade or MDC, is a state college located in Miami, Florida. Miami Dade has eight campuses and twenty-one outreach centers located throughout Miami-Dade County. Founded in 1959, Miami Dade is the largest college in the Florida College System with over 165,000 students. Additionally, MDC is also the largest institution of higher education in Florida, and the second-largest in the United States. Miami Dade College's main campus, the Wolfson Campus, is in Downtown Miami.
+
+Answer this question: what type of school is miami dade college?
+Student B:OK... To answer the above question, the relevant sentence is: Miami Dade College, or simply Miami Dade or MDC, is a state college located in Miami, Florida.
+a state college.
+
+Student A:Myelin is a lipid-rich (fatty) substance formed in the central nervous system (CNS) by glial cells called oligodendrocytes, and in the peripheral nervous system (PNS) by Schwann cells. Myelin insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels from one nerve cell body to another (as in the CNS) or, for example, from a nerve cell body to a muscle (as in the PNS). The myelinated axon can be likened to an electrical wire (the axon) with insulating material (myelin) around it. However, unlike the plastic covering on an electrical wire, myelin does not form a single long sheath over the entire length of the axon. Rather, each myelin sheath insulates the axon over a single section and, in general, each axon comprises multiple long myelinated sections separated from each other by short gaps. Each myelin sheath is formed by the concentric wrapping of an oligodendrocyte or Schwann cell process around the axon.
+
+Answer this question: the myelin sheath that covers many cns axons is formed by?
+Student B:OK... The relevant information is: Each myelin sheath is formed by the concentric wrapping of an oligodendrocyte or Schwann cell process around the axon.
+the concentric wrapping of an oligodendrocyte or Schwann cell process around the axon.
+
+Student A:Rebecca Leigh Mader (born 24 April 1977) is an English actress, best known for her roles as Charlotte Lewis in the ABC series Lost, and as Zelena, the Wicked Witch of the West, on ABC's Once Upon a Time.
+
+Who played the wicked witch of the west in once upon a time?
+Student B:

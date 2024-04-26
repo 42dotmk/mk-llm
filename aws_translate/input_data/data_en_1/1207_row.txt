@@ -1,0 +1,36 @@
+Answer: Reverse chronology. Now, what could be the question and solution-maybe?
+Ques: Passage: Reverse chronology is a method of story-telling whereby the plot is revealed in reverse order.
+
+Question: Based on this passage, whats it called when a story starts at the end?
+CoT: The important part for answering this question is: Reverse chronology is a method of story-telling whereby the plot is revealed in reverse order.
+
+
+Ans: 1956
+Ques: Passage: "In God We Trust" is the official motto of the United States. It was adopted as the nation's motto in 1956 as an alternative or replacement to the unofficial motto of E pluribus unum, which was adopted when the Great Seal of the United States was created and adopted in 1782.
+
+Question: Based on this passage, when did we add in god we trust?
+CoT: The important part for answering this question is: It was adopted as the nation's motto in 1956 as an alternative or replacement to the unofficial motto of E pluribus unum, which was adopted when the Great Seal of the United States was created and adopted in 1782.
+
+
+Ans: African - American
+Ques: Judge was born and raised in Linden, California and was adopted the day after he was born by Patty and Wayne Judge, who both worked as teachers. When he was 10 years old, his parents told him that he was adopted; he recalls, "I knew I did n't look like them." (He is African-American.) He telephones his parents every day. He has an older brother, John, who was also adopted.
+
+Answer this question based on the passage: what race is aaron judge of the new york yankees?
+CoT: The important part for answering this question is: (He is African-American.)
+
+
+Answer: Ray Bourque. Now, what could be the question and solution-maybe?
+Ques: Context: Most shots on goal, career: Ray Bourque, 6,206 Most shots on goal, playoffs career: Ray Bourque, 812 Most shots on goal, one season: Phil Esposito (1970 -- 71), 550 Most shots on goal, one playoff season: Henrik Zetterberg, 116 Most shots on goal, one game: Ray Bourque (March 21, 1991), 19 Most shots on goal, one playoff game: Daniel Briere (April 22, 2006), 14
+
+Question: nhl record for shots on goal in a game?
+CoT: The relevant sentence in the passage is: Most shots on goal, one game: Ray Bourque (March 21, 1991), 19
+
+
+Ans: on the Albatros Course of Le Golf National in Saint - Quentin - en - Yvelines , a suburb southwest of Paris
+Ques: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 on the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. It will be the second Ryder Cup to be held in Continental Europe, after the 1997 contest, which was held in Spain. The United States is the defending champion, but has lost the last five matches in Europe, having last won there in 1993.
+
+Answer this question: where is the ryder cup golf tournament being played?
+CoT: The important part for answering this question is: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 on the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris.
+
+
+Ans: an appeal of a trial court or other lower tribunal

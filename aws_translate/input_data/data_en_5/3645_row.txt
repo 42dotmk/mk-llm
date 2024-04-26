@@ -1,0 +1,21 @@
+Given the task definition and input, reply with output. You are given a paragraph, a question and some answer options (associated with "A", "B", "C", "D", etc.) You need to list all the correct answer options with their associated letters (e.g. "A" can be a valid answer). Note that sometimes, more than one option can answer the question correctly and completely. In those cases, please generate all such options separated by a comma (e.g. "A, B" is a valid answer). Do not generate anything else apart from one or more of the following characters: 'A', 'B, 'C', 'D', etc.
+
+Paragraph- Sent 1: Among the early blows struck for independence was a rebellion in the town of Olhão.
+Sent 2: On 16 June 1808, the townsfolk — armed with little more than ancient swords, spears, and stones — attacked and captured the local French garrison.
+Sent 3: It's said that a party of local men then set sail from Olhão all the way to Brazil, without maps or navigational aids, to tell the king of the insurrection.
+Sent 4: The real battle, however, was waged under the leadership of the Duke of Wellington, whose coalition forces expelled the French after two years of bitter fighting.
+Sent 5: The war left Portugal further weakened, and in 1822 its major empire outpost, Brazil, declared independence.
+Sent 6: At the same time, a dispute over the crown continually raged between Pedro IV, the absentee monarch who preferred to reign as Emperor of Brazil rather than return to Portugal, and his brother Miguel.
+Sent 7: The power struggle, with strong overtones of absolutism versus liberalism, excited the interest and intervention of other powers.
+Sent 8: With British help, Pedro defeated Miguel off Cape St. Vincent in 1833, and his expeditionary force marched to Lisbon.
+Sent 9: Pedro took the throne, though armed struggle continued for months and the lingering bitterness long after that.
+Sent 10: By 1892 Portugal, racked by wars and the continuing expense of maintaining its African colonies (including those of Mozambique and Angola), declared itself bankrupt.
+Sent 11: The seeds of discontent with absolutist rule were sown.
+Sent 12: Kingdom's End Bloodshed would haunt the remaining years of the Portuguese monarchy.
+Sent 13: On 1 February 1908, the royal family was riding in an open carriage along the Lisbon river front plaza, Terreiro do Paço, when an assassin opened fire and killed King Carlos and the heir to the throne, Prince Luis Filipe.
+Sent 14: The prince's younger brother, Prince Manuel, was also hit, but he survived and was thus propelled to the throne at the tender age of 19.
+Sent 15: Amid republican agitation, a surprise uprising led by elements within the armed forces deposed Manuel in 1910.
+Sent 16: Having ruled for less than three years, Manuel died in exile in 1932 in England.
+Sent 17: The sudden end of more than seven centuries of monarchy brought confusion and crisis to the country.
+Sent 18: Presidents and prime ministers were ushered into and out of office an unbelievable 45 times between 1910 and 1926, until a military revolution suspended Portugal's problematic democracy. 
+Question: Why was King Carlos assassinated? (A) His brother wanted the throne (B) Discontent with Absolutist Rule (C) National bankruptcy and absolutist government (D) Because he betrayed the nation (E) Due to discontent with absolutist rule.

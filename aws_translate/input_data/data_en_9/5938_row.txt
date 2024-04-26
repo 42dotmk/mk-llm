@@ -1,0 +1,21 @@
+a: To answer the question, consider the following: On 17 May 1928, two days after inception, the service's first official flight piloted by Arthur Affleck departed from Cloncurry, 85 miles to Julia Creek in Central Queensland, where the plane was met by over 100 people at the airstrip.
+17 May 1928
+q: By 1928, Flynn had gathered sufficient funds through fundraising activities to launch the experiment of the AMS on 15 May. Its supporters included industrialist HV McKay, medical doctor George Simpson, and Hudson Fysh, one of the founders of Queensland and Northern Territory Aerial Services, the company which would go on to become Qantas. Qantas supplied the first aircraft to the fledgling organisation, VH-UER a De Havilland DH. 50, dubbed "Victory". On 17 May 1928, two days after inception, the service's first official flight piloted by Arthur Affleck departed from Cloncurry, 85 miles to Julia Creek in Central Queensland, where the plane was met by over 100 people at the airstrip. Qantas charged two shillings per mile for use of the Victory during the first year of the project.
+
+Based on this passage, when did the royal flying doctor service start?
+
+a: To answer the above question, the relevant sentence is: The Battle of New Orleans was fought on Sunday, January 8, 1815, between the British Army under Major General Sir Edward Pakenham, and the United States Army under Brevet Major General Andrew Jackson.
+Sunday , January 8 , 1815
+q: The Battle of New Orleans was fought on Sunday, January 8, 1815, between the British Army under Major General Sir Edward Pakenham, and the United States Army under Brevet Major General Andrew Jackson. It took place approximately 5 miles (8.0 kilometres) south of the city of New Orleans, close to the present-day town of Chalmette, Louisiana, and was an American victory. The battle effectively marked the end of the War of 1812.
+
+Answer this question based on the passage: when did the battle of new orleans start and end?
+
+a: The relevant information to answer the above question is: NFL teams that use the 4 -- 3 defense as of 2017 include the Dallas Cowboys, Atlanta Falcons, Minnesota Vikings, Carolina Panthers, Cincinnati Bengals, Jacksonville Jaguars, Oakland Raiders, Detroit Lions, Cleveland Browns, New England Patriots, Tampa Bay Buccaneers, Seattle Seahawks, Buffalo Bills, Philadelphia Eagles, Los Angeles Chargers, Miami Dolphins, New Orleans Saints, San Francisco 49ers, and the New York Giants.
+the 4 -- 3 defense
+q: Context: NFL teams that use the 4 -- 3 defense as of 2017 include the Dallas Cowboys, Atlanta Falcons, Minnesota Vikings, Carolina Panthers, Cincinnati Bengals, Jacksonville Jaguars, Oakland Raiders, Detroit Lions, Cleveland Browns, New England Patriots, Tampa Bay Buccaneers, Seattle Seahawks, Buffalo Bills, Philadelphia Eagles, Los Angeles Chargers, Miami Dolphins, New Orleans Saints, San Francisco 49ers, and the New York Giants. The Philadelphia Eagles returned to running a 4 -- 3 defense for the 2016 season, after switching to the 3-4 at the start of 2013. The New York Jets used variations of the 4 -- 3 for the 2012 NFL season against spread offenses, but will stick with the 3-4 defense as its base. The Patriots run a hybrid defense including elements from both the 4-3, and 3-4 defense.
+
+Question: what type of defense do the cowboys run?
+
+a: To answer this question, we should know that: Some Unix as well as Linux distributions use symbolic links extensively in an effort to reorder the file system hierarchy.
+to reorder the file system hierarchy
+q:

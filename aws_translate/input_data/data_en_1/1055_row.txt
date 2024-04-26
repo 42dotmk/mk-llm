@@ -1,0 +1,19 @@
+Question: Initially, the US stores were the result of natural expansion in Canada -- U.S. border areas (e.g., stores in Maine and the Buffalo, New York area where Horton played from 1972 to 1974 as a member of the Buffalo Sabres). The first United States locations were opened in Deerfield Beach, Florida and Pompano Beach, Florida in 1981, but they proved unsuccessful and were closed. In 1985, the chain returned to the US with a location on Niagara Falls Boulevard in the Buffalo suburb of Amherst, New York. Starting in the mid-1990s, however, the chain began expanding in the US by acquiring former locations from fast food chains. In 1996 and 1997, thirty-seven former Rax Restaurants locations in Ohio, Kentucky, and West Virginia were bought by Wendy's International Inc.; 30 of these were converted to Tim Hortons, while the others became Wendy's franchise locations. Thirty-five closed Hardee's stores in the Detroit area were also purchased with the intention of being converted. By 2004, the chain had also acquired 42 Bess Eaton coffee and doughnut restaurants situated in southern New England. Several combination Wendy's / Tim Hortons units were opened in the US; both in the "traditional" markets of Maine and Buffalo, where there were well over 180 locations as of 2011, and in the markets entered through acquisition.
+
+Answer this question based on the passage: when did the first tim hortons open in the usa?
+Answer: To answer the above question, the relevant sentence is: The first United States locations were opened in Deerfield Beach, Florida and Pompano Beach, Florida in 1981, but they proved unsuccessful and were closed. The answer is 1981.
+
+Question: Context: The Vegas Golden Knights are an ice hockey team based in the Las Vegas metropolitan area. The team began play in the 2017 -- 18 NHL season, and is a member of the Pacific Division of the Western Conference of the National Hockey League (NHL). The team is owned by Black Knight Sports & Entertainment, a consortium led by Bill Foley and the Maloof family. The team plays its home games at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada.
+
+Question: where do the golden knights hockey team play?
+Answer: The relevant sentence in the passage is: The team plays its home games at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada. The answer is T - Mobile Arena on the Las Vegas Strip in Paradise , Nevada.
+
+Question: Jared Scott Gilmore (born May 30, 2000) is an American teen actor. He is best known for his role in the series Once Upon a Time as Henry Mills.
+
+Based on this passage, who played young henry in once upon a time?
+Answer: To answer the question, consider the following: He is best known for his role in the series Once Upon a Time as Henry Mills. The answer is Jared Scott Gilmore.
+
+Question: The song is also sung at association football clubs around the world, where it is performed by a massed chorus of supporters on matchday; this tradition began at Liverpool F.C. after the chart success of the 1963 single of the song by the local Liverpool group Gerry and the Pacemakers.
+
+When did liverpool start using you'll never walk alone?
+Answer:

@@ -1,0 +1,25 @@
+q... Context: A range of chemical processes may be used to convert biomass into other forms, such as to produce a fuel that is more conveniently used, transported or stored, or to exploit some property of the process itself. Many of these processes are based in large part on similar coal-based processes, such as Fischer-Tropsch synthesis, methanol production, olefins (ethylene and propylene), and similar chemical or fuel feedstocks. In most cases, the first step involves gasification, which step generally is the most expensive and involves the greatest technical risk. Biomass is more difficult to feed into a pressure vessel than coal or any liquid. Therefore, biomass gasification is frequently done at atmospheric pressure and causes combustion of biomass to produce a combustible gas consisting of carbon monoxide, hydrogen, and traces of methane. This gas mixture, called a producer gas, can provide fuel for various vital processes, such as internal combustion engines, as well as substitute for furnace oil in direct heat applications. Because any biomass material can undergo gasification, this process is far more attractive than ethanol or biomass production, where only particular biomass materials can be used to produce a fuel. In addition, biomass gasification is a desirable process due to the ease at which it can convert solid waste (such as wastes available on a farm) into producer gas, which is a very usable fuel.
+
+Question: land conversion through burning of biomass releases which gas?
+a... To answer the question, consider the following: Therefore, biomass gasification is frequently done at atmospheric pressure and causes combustion of biomass to produce a combustible gas consisting of carbon monoxide, hydrogen, and traces of methane.
+The answer is carbon monoxide , hydrogen , and traces of methane
+
+
+q... Context: Randy Meisner -- lead vocals, bass guitar Glenn Frey -- 12-string acoustic guitar, backing vocals Don Henley -- drums, backing vocals Don Felder -- lead guitar Bernie Leadon -- electric guitar Jim Ed Norman -- piano, conductor, string arrangements
+
+Question: who sings lead vocals on take it to the limit?
+a... To answer the question, consider the following: Randy Meisner -- lead vocals, bass guitar
+The answer is Randy Meisner
+
+
+q... Passage: The Gandhi -- Irwin Pact was a political agreement signed by Mahatma Gandhi and the then Viceroy of India, Lord Irwin on 5 March 1931 before the second Round Table Conference in London. Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931
+
+Question: Based on this passage, who announced a vague offer of dominion status for india in 1929?
+a... This is the relevant information: Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931
+The answer is the viceroy Lord Irwin
+
+
+q... Context: "Ai n't No Sunshine" is a song by Bill Withers from his 1971 album Just As I Am, produced by Booker T. Jones. The record featured musicians Donald "Duck" Dunn on bass guitar, Al Jackson, Jr. on drums and Stephen Stills on guitar. String arrangements were done by Booker T. Jones, and recorded in Memphis by engineer Terry Manning. The song is in the key of A minor.
+
+Question: who did ain't no sunshine when she's gone?
+a...

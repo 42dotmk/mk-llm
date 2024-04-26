@@ -1,0 +1,27 @@
+Reasoning and answer: 1 truck uses 3 tanks of 150 liters, so a truck can carry 3 tanks per truck * 150 liters = 450 liters per truck. The total amount of water the 3 trucks carry is 3 trucks * 450 liters per truck = 1350 liters.
+The answer: 1350
+What was the question?
+Question: A farmer has three trucks to carry water to his farm. Each truck uses three tanks with a capacity of 150 liters of water. How many liters of water in total can the farmer carry in his trucks?
+
+Shelly made 6 / 2 = 3 friends from after - school clubs. She made 6 + 3 = 9 new friends at school this year. Shelly will need 9 * 12 = 108 inches of thread to make each friend a keychain.
+The answer: 108
+Reverse engineering the question: Shelly makes braided keychains for her friends at school. Each keychain takes 12 inches of thread to braid. This year, she made six friends in classes and half that number from after-school clubs. She wants to make each of them a keychain. How many inches of thread does Shelly need?
+
+Reasoning and answer: Half of the students are playing basketball, which means 20 / 2 = 10 students play basketball. Two - fifths plays volleyball, which leaves us with 20 * 2 / 5 = 8 students. One - tenth play both games, which means 20 * 1 / 10 = 2 students. There are 10 + 8 = 18 students who play basketball or volleyball. Among these 18 students, 2 of them are playing both games, so that means 18 - 2 = 16 students play only one of the two games. So finally, 20 - 16 = 4 students do not play either game.
+The answer: 4
+What was the question?
+Question: There are 20 students in the class. Half of them play basketball. Two-fifths play volleyball and one-tenth play both basketball and volleyball. How many students in this class do not play either game?
+
+The four cats weigh 48 pounds in total because 12 plus 12 plus 14.7 plus 9.3 equals 48. The average weight is 12 pounds because 48 divided by 4 is 12.
+The answer: 12
+Reverse engineering the question: Janele wants to figure out the average weight of her cats. She has 4 of them. The first two weigh 12 pounds each. The third weighs 14.7 pounds and the fourth weighs 9.3 pounds. What is their average weight?
+
+Reasoning and answer: Donny was charged $1.5 x 6 = $9 for the small apples. He was charged $2 x 6 = $12 for the medium apples. And he was also charged $8 x 3 = $24 for the big apples. Therefore, Donny has to pay $9 + $12 + $24 = $45 for all the apples.
+The answer: 45
+What was the question?
+Question: Chad has 100 apples and each apple has different sizes and different price ranges. Each small apple cost $1.5, medium apple cost $2, and big apples cost $3. If Donny bought 6 small and medium apples and also 8 big apples, how much will Donny have to pay for all of it?
+
+Reasoning and answer: From 8:00 to 11:00, Mckenna spends 11:00 - 8:00 = 3 hours at work. When she joins the developers in the conference room for the meeting, she spends an additional 13:00 - 11:00 = 2 hours at work. So far, she has spent 3 + 2 = 5 hours at work. When she works for an additional 2 hours before heading home, her total work hours become 5 + 2 = 7 hours.
+The answer: 7
+What was the question?
+Question:

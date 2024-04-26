@@ -1,0 +1,25 @@
+Nathalie's score is 4 + 3 = 7. And the total points of Nathalie and Lizzie when combined is 7 + 4 = 11. So, the total score of Aimee is 11 x 2 = 22. Lizzie, Nathalie, and Aimee's total score is 22 + 11 = 33. Therefore, their teammates were able to score 50 - 33 = 17.
+The answer: 17
+Reverse engineering the question: In a Volleyball competition, Lizzie was able to score 4 points. Nathalie's score is 3 more than Lizzie's score and Aimee's score is twice the score of Lizzie and Nathalie combined. The rest of the points were made by their teammates. If the whole team was able to score 50 points, how many points did their teammates make?
+
+Reasoning and answer: The remains of the second popsicle melt 2 * 1 = 2 times as fast as the first. The remains of the third popsicle melt 2 * 2 = 4 times as fast as the first. The remains of the fourth popsicle melt 2 * 4 = 8 times as fast as the first. The remains of the fifth popsicle melt 2 * 8 = 16 times as fast as the first. The remains of the sixth popsicle melt 2 * 16 = 32 times as fast as the first popsicle.
+The answer: 32
+What was the question?
+Question: A box of six popsicles was left out in the sun and is slowly melting. Every time a popsicle melts the remaining popsicles melt twice as fast as the previous one. How many times faster than the first popsicle does the last popsicle’s remains melt?
+
+The children watch a total of 45 x 4 = 180 minutes in a week. In hours, this is equal to 180 / 60 = 3 hours a week. Thus, these children watch 3 x 2 = 6 hours in two weeks.
+The answer: 6
+Reverse engineering the question: Based on a 2008 study, children 6–11 years old spend 45 minutes each day watching television. How many hours do these children watch television in 2 weeks if they are allowed to watch television 4 days a week?
+
+Reasoning and answer: If Ariella has $200 more in her son's saving account than Daniella has, then she has $400 + $200 = $600. If she earns an interest of 10% in the first year, her savings account increases by 10 / 100 * $600 = $60. In the second year, she earns the same amount of interest, which $60 + $60 = $120. The total amount of money in Ariella's account after two years is $600 + $120 = $720.
+The answer: 720
+What was the question?
+Question: Ariella has $200 more in her son's saving account than Daniella has in her son's savings account. Ariella's account earns her simple interest at the rate of 10% per annum. If Daniella has $400, how much money will Arialla have after two years?
+
+Half of the books on the bottom section of the cart are mystery books, which means they are the same as the number of Western novels and biographies put together. So there are 5 + 6 = 11 mystery novels. Add them all together, and there are 12 history + 8 romance + 4 poetry + 11 mystery + 5 Western + 6 biographies = 46 books total.
+The answer: 46
+Reverse engineering the question: Nancy, the librarian, is shelving books from the cart. She shelved 12 history books, 8 romance books, and 4 poetry books from the top section of the cart. Half the books on the bottom section of the cart were mystery books, which she quickly put back into place. Then, she shelved the remaining books from the bottom of the cart, including 5 Western novels and 6 biographies. How many books did she have on the book cart when she started?
+
+The sum is 9 + 14 + 13 = 36. There are 3 bouquets. The average is 36 / 3 = 12.
+The answer: 12
+Reverse engineering the question:

@@ -1,0 +1,19 @@
+Question: Law & Order is an American police procedural and legal drama television series, created by Dick Wolf and part of the Law & Order franchise. It originally aired on NBC and, in syndication, on various cable networks. Law & Order premiered on September 13, 1990, and completed its 20th and final season on May 24, 2010. At the time of its cancellation, Law & Order was the longest-running crime drama on American primetime television. Its record of 20 seasons is a tie with Gunsmoke (1955 -- 75) for the longest-running live-action scripted American prime-time series with ongoing characters. Although it has fewer episodes than Gunsmoke, Law & Order ranks as the longest-running hour-long primetime TV series. Gunsmoke, for its first six seasons, was originally a half-hour program.
+
+Answer this question based on the passage: when did the first episode of law and order air?
+Answer: The relevant information is: Law & Order premiered on September 13, 1990, and completed its 20th and final season on May 24, 2010. The answer is September 13 , 1990.
+
+Question: Passage: A standard-gauge railway is a railway with a track gauge of 1,435 mm (4 ft 8 ⁄ in). The standard gauge is also called Stephenson gauge after George Stephenson, International gauge, UIC gauge, uniform gauge, normal gauge and European gauge in the EU and Russia. It is the most widely used railway track gauge across the world with approximately 55 % of the lines in the world using it. All high-speed rail lines, except those in Russia, Finland, Portugal and Uzbekistan, use standard gauge. The distance between the inside edges of the rails is defined to be 1435 mm except in the United States, where it is still defined in Imperial and US customary units as approximately 4 ft ​ 8 ⁄ in.
+
+Question: Based on this passage, what is the standard width of train tracks?
+Answer: To answer the above question, the relevant sentence is: A standard-gauge railway is a railway with a track gauge of 1,435 mm (4 ft 8 ⁄ in). The answer is 1,435 mm ( 4 ft 8 ⁄ in ).
+
+Question: Kevin wakes up to find the house empty and, thinking his wish has come true, is overjoyed with his newfound freedom. However, Kevin soon becomes frightened by his next door neighbor, "Old Man" Marley, who is rumored to have murdered his family with a snow shovel in 1958; as well as the "Wet Bandits", Harry and Marv, a pair of burglars who have been breaking into other vacant houses in the neighborhood and have targeted the McCallisters' house. Kevin tricks the pair into thinking his whole family is home, forcing them to put their plans on hold.
+
+Answer this question: what are the robbers names in home alone?
+Answer: The relevant information is: However, Kevin soon becomes frightened by his next door neighbor, "Old Man" Marley, who is rumored to have murdered his family with a snow shovel in 1958; as well as the "Wet Bandits", Harry and Marv, a pair of burglars who have been breaking into other vacant houses in the neighborhood and have targeted the McCallisters' house. The answer is the `` Wet Bandits '' , Harry and Marv.
+
+Question: Dawn Lyn Nervik (born January 11, 1963) is a retired American actress best known for her role as Dodie Douglas during the last three seasons of the long-running family comedy television series My Three Sons. Her brother, Leif Garrett, is a singer.
+
+Answer this question based on the passage: girl who played dodie on my three sons?
+Answer:

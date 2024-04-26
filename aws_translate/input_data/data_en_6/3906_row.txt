@@ -1,0 +1,17 @@
+Open-Source A.W.S.: Creating a Thousand Clouds
+Amazon Web Services, the cloud computing service of Amazon.com, has sparked a boom in powerful and flexible computing over the Internet. Now the same technology is entering the corporate mainstream, through open-source cloud computing.
+
+In the past few years, companies and organizations like Open Nebula; the Open Stack alliance; Cloud.com, which is part of Citrix; and Eucalyptus have been offering various forms of the kind of software that works inside A.W.S.
+
+The idea of these free versions is to create smaller versions of the cloud, so people can do more with the computers in their own homes, institutions and businesses. If the company is big enough to have lots of partners, employees, and strong engineering talent, its open source cloud could amount to a supercomputer with lots of different capabilities, on the cheap.
+
+Like many open source projects, which depend on a core of engineers creating and then publicly releasing lots of complex software for free, there are a range of opinions about how to interact with the profit-making giants. Of all the versions, perhaps the most successful, as well as the friendliest to Amazon, is Eucalyptus, which easily shares data and computing chores with A.W.S. The idea is to give A.W.S. an ally in the open source world, giving customers of either Eucalyptus or A.W.S. the ability to move jobs on or off the clouds they own, depending on workload needs and internal security policies.
+
+“Like Amazon or not, they are the de facto standard for cloud,” says Marten Mickos, the chief executive of Eucalyptus. “It’s just that not everyone wants it. Some people in open source think it is immoral to make a profit. I don’t.” Mr. Mickos was previously the head of MySQL, an open source database company that was purchased by Sun Microsystems (now part of Oracle) in 2008 for $1 billion.
+
+Eucalyptus originated with a project at the University of California, Santa Barbara, but is clearly intended to be a profit-making business. Its customers include Puma, Sony, and the federal Department of Agriculture, and it counts over 25,000 clouds running on its software worldwide. Eucalyptus runs for free when customers use open source virtualization software, necessary for cloud computing, like Xen and KVM. When customers use the more popular products from VMWare, they must use Eucalyptus’s subscription product, which costs $2,000 per server a year.
+
+So far, fewer than 100 paying customers have shown up, but last year Mr. Mickos deployed teams in Europe, India and China. “There is more technology involved here than in MySQL, but the shift to cloud computing will be faster than the shift to open source was 10 years ago,” he says, adding that 21 of the 100 largest companies in the United States are experimenting with Eucalyptus.
+
+Mr. Mickos was a very visible hero of open source in the days before Sun bought MySQL. He left Sun before it was acquired by Oracle, which still offers the open source database as well as its proprietary products, but still keeps an eye on MySQL. “The product is technically better, and the sales are going well,” he says of Oracle MySQL. “But they don’t care about the community, their team for that is small, and they don’t invite outside people to comment on changes they make. It’s what you would expect.”
+What was this article about?

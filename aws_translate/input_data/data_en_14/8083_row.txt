@@ -1,0 +1,81 @@
+Summarize this article:
+
+
+  
+ Curries, rice, naan bread, samosas and pakora. (iStock) 
+  
+ Indian food, with its hodgepodge of ingredients and intoxicating aromas, is coveted around the world. The labor-intensive cuisine and its mix of spices is more often than not a revelation for those who sit down to eat it for the first time. Heavy doses of cardamom, cayenne, tamarind and other flavors can overwhelm an unfamiliar palate. Together, they help form the pillars of what tastes so good to so many people. 
+  
+ But behind the appeal of Indian food — what makes it so novel and so delicious — is also a stranger and subtler truth. In a large new analysis of more than 2,000 popular recipes, data scientists have discovered perhaps the key reason why Indian food tastes so unique: It does something radical with flavors, something very different from what we tend to do in the United States and the rest of Western culture. And it does it at the molecular level. 
+  
+ [Why delicious Indian food is surprisingly unpopular in the United States] 
+  
+ Before we go further, let's take a step back and consider what flavors are and how they interact. If you were to hold a microscope to most Western dishes, you would find an interesting but not all-too-surprising trend. Popular food pairings in this part of the world combine ingredients that share like flavors, which food chemists have broken down into their molecular parts — precise chemical compounds that, when combined, give off a distinct taste. 
+  
+ [This surprisingly tough quiz will make you second guess how well you know food] 
+  
+ Most of the compounds have scientific names, though one of the simpler compounds is acetal, which, as the food chemist George Burdock has written, is "refreshing, pleasant, and [has a] fruity-green odor," and can be found in whiskey, apple juice, orange juice and raw beets. On average, there are just over 50 flavor compounds in each food ingredient. 
+  
+ A nifty chart shared by Scientific American in 2013 shows which foods share the most flavor compounds with others and which food pairings have the most flavor compounds in common. Peanut butter and roasted peanuts have one of the most significant overlaps (no surprise there). But there are connections that are more difficult to predict: strawberries, for instance, have more in common with white wine than they do with apples, oranges or honey. 
+  
+ Data crunching Indian recipes 
+  
+ Chefs in the West like to make dishes with ingredients that have overlapping flavors. But not all cuisines adhere to the same rule. Many Asian cuisines have been shown to belie the trend by favoring dishes with ingredients that don't overlap in flavor. And Indian food, in particular, is one of the most powerful counterexamples. 
+  
+ [Why many restaurants don't actually want you to order dessert] 
+  
+ Researchers at the Indian Institute for Technology in Jodhpur crunched data on several thousand recipes from a popular online recipe site called TarlaDalal.com. They broke each dish down to its ingredients, and then compared how often and heavily ingredients share flavor compounds. 
+  
+ The answer? Not too often. 
+  
+ Here's an easy way to make sense of what they did, through the lens of a single, theoretical dish. Say you have a dish with 4 different ingredients, like the one below: 
+  
+ Each one of those ingredients has its own list of flavor compounds. And any two of those ingredients' lists might have some overlap. Take the coconut and onion, for instance. We can all agree that these two things are pretty different, but we can also see (in the Venn diagram below) that there's some overlap in their flavor make-up. (Ignore the math symbols.) 
+  
+ You could create the same diagram for all the ingredients with overlapping flavor compounds, as in this diagram. There are six that have overlap. (Again, ignore the math.) 
+  
+ The researchers did this for each of the several thousand recipes, which used a total of 200 ingredients. They examined how much the underlying flavor compounds overlapped in single dishes and discovered something very different from Western cuisines. Indian cuisine tended to mix ingredients whose flavors don't overlap at all. 
+  
+ "We found that average flavor sharing in Indian cuisine was significantly lesser than expected," the researchers wrote. 
+  
+ In other words, the more overlap two ingredients have in flavor, the less likely they are to appear in the same Indian dish. 
+  
+ [It's official: Americans should drink more coffee] 
+  
+ The unique makeup of Indian cuisine can be seen in some dishes more than others, and it seems to be tied to the use of specific ingredients. Spices usually indicate dishes with flavors that have no chemical common ground. 
+  
+ More specifically, many Indian recipes contain cayenne, the basis of curry powder that is in just about any Indian curry. And when a dish contains cayenne, the researchers found, it's unlikely to have other ingredients that share similar flavors. The same can be said of green bell pepper, coriander and garam masala, which are nearly as ubiquitous in Indian cuisine. 
+  
+ "Each of the spices is uniquely placed in its recipe to shape the flavor sharing pattern with rest of the ingredients," the researchers noted. 
+  
+ [Where people around the world eat the most sugar and fat] 
+  
+ Milk, butter, bread, and rice, meanwhile—all of which are hallmarks of Western cuisine—were found to be associated with just the opposite: flavor pairings that match. When any of those ingredients appeared in an Indian dish, there was a good chance there would be a lot of flavor overlap. 
+  
+ A lesson for all chefs 
+  
+ The takeaway is that part of what makes Indian food so appealing is the way flavors rub up against each other. The cuisine is complicated, no doubt: the average Indian dish, after all, contains at least 7 ingredients, and the total number of ingredients observed by the researchers amounted to almost 200 out of the roughly 381 observed around the world. But all those ingredients — and the spices especially — are all uniquely important because in any single dish, each one brings a unique flavor. 
+  
+ [Why Chipotle's pork problem is a bad sign for its future] 
+  
+ But the upshot should also be a thought that we might be approaching food from the wrong angle. Combining ingredients with like flavors is a useful (and often delicious) strategy, but it might be a somewhat misleading rule of thumb. Indian cuisine, after all, is cherished globally, and yet hinges on a decidedly different ingredient pairing logic. ||||| Julia Child famously said that fat carries flavor, but perhaps instead we should give thanks to 4-methylpentanoic acid. Unique combinations of such chemical compounds give foods their characteristic flavors. Science-minded chefs have gone so far as to suggest that seemingly incongruous ingredients—chocolate and blue cheese, for example—will taste great together as long as they have enough flavor compounds in common. Scientists recently put this hypothesis to the test by creating a flavor map, a variant of which we have reproduced here. Lines connect foods that have components in common; thick lines mean many components are shared. By comparing the flavor network with various recipe databases, the researchers conclude that chefs do tend to pair ingredients with shared flavor compounds—but only in Western cuisine. Dishes from a database of recipes from East Asia tend to combine ingredients with few overlapping flavors. ||||| When I die, bury me inside a vat of saag paneer. Indian food is categorically delicious: its flavors are complex, oscillating between sweet, savory, and spicy; its textures meld creamy sauces with doughy breads and tender meat and vegetables to make the slop of dreams. It’s a divine synthesis that is aromatic and sophisticated without being bougie. Hell, you can get a better-than-decent plate of it for nary more than the cost of a deli sandwich. 
+  
+ But what is it that makes Indian food so endlessly rich and tasty? Scientists were wondering, too, and recently performed an analysis of 2,500 recipes to find out, as first observed in the Washington Post. 
+  
+ Researchers Anupam Jaina, Rakhi N Kb, and Ganesh Bagler from the Indian Institute for Technology in Jodhpur ran a fine-tooth comb through TarlaDalal.com—a recipe database of more than 17,000 dishes that self-identifies as “India’s #1 food site”—in attempts to decode the magic of your chicken tikka masala or aloo gobi. Sure, there are commonalities in seasoning that run through Indian cuisine as a whole, but just how varied are they? 
+  
+ The answer is more complicated than you might expect. 
+  
+ While many Western cuisines attempt to pair ingredients that share “flavor compounds”—the minute timbres that indicate something like types of sweetness or sourness or spiciness—Indian food’s signature is that it combines ingredients that don’t share these qualities at all. 
+  
+ “We study food pairing in recipes of Indian cuisine to show that, in contrast to positive food pairing reported in some Western cuisines, Indian cuisine has a strong signature of negative food pairing,” the researchers wrote. “[The] more the extent of flavor-sharing between any two ingredients, [the] lesser their co-occurrence.” 
+  
+ For example, if you find cayenne in an Indian dish, you’re unlikely to find another ingredient that shares the same compounds—though you may find other spices that have complementary, but not identical, attributes. This is true across the eight different types of sub-cuisines studied, from Bengali to Punjabi to South Indian. 
+  
+ A total of 194 unique ingredients were identified in the recipes, and subdivided into 15 categories: spices, seeds, herbs, meats, etc. But—rather unsurprisingly—the spices, and their methods of pairing and combination, emerged as the character-defining attributes of Indian cuisine. 
+  
+ That like flavors should be combined for better dishes—an unspoken but popular hypothesis stipulated by recipe-building in North American, Western European, and Latin American cultures—is an idea essentially reversed in Indian cuisine. In the words of the study, “Each of the spices is uniquely placed in its recipe to shape the flavor-sharing pattern with [the] rest of the ingredients, and is sensitive to replacement even with other spices.” 
+  
+ In other words, each spice serves a very specific role in the dish it inhabits, from the warm sweetness of ginger to the slight bitterness of tamarind to the zingy freshness of cilantro. And it is the combination of many of these components—a typical Indian dish can incorporate a dozen different herbs and spices—that creates the flavor fingerprint that we’ve come to associate with a good plate of chana masala. 
+  
+ So while instincts may say to pile sweet on sweet or hot ‘n’ spicy on even more hot ‘n’ spicy, keep in mind that opposites sometimes attract with delicious results. |||||

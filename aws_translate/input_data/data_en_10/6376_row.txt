@@ -1,0 +1,34 @@
+Problem:Ian Hanmore is a Scottish actor known for his role as the warlock Pyat Pree in the second season of the HBO series Game of Thrones.
+
+Answer this question based on the passage: who is the warlock in game of thrones?
+Solution:OK... To answer the above question, the relevant sentence is: Ian Hanmore is a Scottish actor known for his role as the warlock Pyat Pree in the second season of the HBO series Game of Thrones.
+Ian Hanmore.
+
+Student A:"Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney. It was released in June 2015 as the fourth and final single from Chesney's album The Big Revival.
+
+Who wrote save it for a rainy day?
+Student B:OK... The relevant information to answer the above question is: "Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney.
+Andrew Dorff , Matthew Ramsey , and Brad Tursi.
+
+Problem:The Mississippi River has the world's fourth-largest drainage basin ("watershed" or "catchment"). The basin covers more than 1,245,000 square miles (3,220,000 km), including all or parts of 31 U.S. states and two Canadian provinces. The drainage basin empties into the Gulf of Mexico, part of the Atlantic Ocean. The total catchment of the Mississippi River covers nearly 40 % of the landmass of the continental United States. The highest point within the watershed is also the highest point of the Rocky Mountains, Mount Elbert at 14,440 feet (4,400 m).
+
+Answer this question: where does the mississippi river empty into the ocean?
+Solution:OK... The relevant information is: The drainage basin empties into the Gulf of Mexico, part of the Atlantic Ocean.
+the Gulf of Mexico , part of the Atlantic Ocean.
+
+Student A:American wine has been produced for over 300 years. Today, wine production is undertaken in all fifty states, with California producing 89 percent of all US wine. The United States is the fourth-largest wine producing country in the world after France, Italy, and Spain.
+
+Based on this passage, where is the most wine produced in the us?
+Student B:OK... The relevant sentence in the passage is: Today, wine production is undertaken in all fifty states, with California producing 89 percent of all US wine.
+California.
+
+Problem:The College of William & Mary (also known as William & Mary, or W&M) is a public research university in Williamsburg, Virginia. Founded in 1693 by letters patent issued by King William III and Queen Mary II, it is the second-oldest institution of higher education in the United States, after Harvard University.
+
+Answer this question based on the passage: who was the college of william and mary named after?
+Solution:OK... This is the relevant information: Founded in 1693 by letters patent issued by King William III and Queen Mary II, it is the second-oldest institution of higher education in the United States, after Harvard University.
+King William III and Queen Mary II.
+
+Problem:Vivek Express is a chain of express trains on the Indian Railways network. These trains were announced in the Railway Budget of 2011-12 by the then Railway Minister. These trains were started to commemorate the 150th birth anniversary of Swami Vivekananda, to be held in 2013. One of the Vivek Express trains, the one from Dibrugarh to Kanyakumari; is the longest route on the Indian Railways network, in terms of distance and time, and is the 9th longest in the world.
+
+Answer this question: which is the longest running train in india?
+Solution:

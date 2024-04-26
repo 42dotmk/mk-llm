@@ -1,0 +1,36 @@
+Ans: American funk band Shalamar
+Ques: "I Can Make You Feel Good" is a 1982 song by American funk band Shalamar from their album Friends. It reached No. 7 in the UK just beneath their previous single "A Night to Remember" and their following single "There It Is" which both peaked at No. 5.
+
+Who sang i can make you feel good?
+CoT: To answer this question, we should know that: "I Can Make You Feel Good" is a 1982 song by American funk band Shalamar from their album Friends.
+
+
+Answer: Alicia Gräfin ( Countess ) von Rittberg. Now, what could be the question and solution-maybe?
+Ques: Alicia Gräfin (Countess) von Rittberg is a German actress best known for her role as Emma in the film Fury.
+
+Answer this question based on the passage: who played the young german girl in fury?
+CoT: The relevant information is: Alicia Gräfin (Countess) von Rittberg is a German actress best known for her role as Emma in the film Fury.
+
+
+Ans: John Barry Prendergast , OBE
+Ques: John Barry Prendergast, OBE (3 November 1933 -- 30 January 2011) was an English composer and conductor of film music. He composed the scores for 11 of the James Bond films between 1963 and 1987, and also arranged and performed the "James Bond Theme" to the first film in the series, 1962's Dr. No. He wrote the Grammy-and Academy Award-winning scores to the films Dances with Wolves and Out of Africa, as well as the theme for the British television cult series The Persuaders!, in a career spanning over 50 years. In 1999, he was appointed OBE at Buckingham Palace for services to music.
+
+Answer this question based on the passage: who did the music for dances with wolves?
+CoT: To answer the above question, the relevant sentence is: He wrote the Grammy-and Academy Award-winning scores to the films Dances with Wolves and Out of Africa, as well as the theme for the British television cult series The Persuaders!, in a career spanning over 50 years.
+
+
+Ans: October 12 , 2018
+Ques: The pilot, which was announced in September 2016, was ordered to series in May 2017. Dynasty premiered on October 11, 2017, on The CW in the United States, and on Netflix internationally a day later. On November 8, 2017, The CW picked up the series for a full season of 22 episodes. On April 2, 2018, The CW renewed the series for a second season, which is set to premiere on October 12, 2018.
+
+Answer this question: when does dynasty come back for season 2?
+CoT: This is the relevant information: On April 2, 2018, The CW renewed the series for a second season, which is set to premiere on October 12, 2018.
+
+
+Answer: Los Angeles. Now, what could be the question and solution-maybe?
+Ques: Behind the opening credits, the film opens on a suburban Los Angeles street with teenager Jim Stark (Dean) drunkenly lying down on a sidewalk. He is arrested and taken to the juvenile division of the police station for "plain drunkenness". At the station he meets John "Plato" Crawford (Mineo), who was brought in for shooting a litter of puppies with his mother's gun, and Judy (Wood), who was brought in for curfew violation (she was wearing a bright red dress with matching lipstick and was mistaken for being a streetwalker). The three each separately reveal their innermost frustrations to officers; all three of them suffer from problems at home:
+
+Answer this question based on the passage: where does rebel without a cause take place?
+CoT: To answer the above question, the relevant sentence is: Behind the opening credits, the film opens on a suburban Los Angeles street with teenager Jim Stark (Dean) drunkenly lying down on a sidewalk.
+
+
+Ans: Atrial natriuretic peptide ( ANP )

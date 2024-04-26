@@ -1,0 +1,19 @@
+Question: The most common measures of central tendency are the arithmetic mean, the median and the mode. A central tendency can be calculated for either a finite set of values or for a theoretical distribution, such as the normal distribution. Occasionally authors use central tendency to denote "the tendency of quantitative data to cluster around some central value."
+
+Answer this question based on the passage: mean mode and median are measures of what?
+Answer: To answer the above question, the relevant sentence is: The most common measures of central tendency are the arithmetic mean, the median and the mode. The answer is central tendency.
+
+Question: Within the executive branch itself, the president has broad powers to manage national affairs and the priorities of the government. The president can issue rules, regulations, and instructions called executive orders, which have the binding force of law upon federal agencies but do not require approval of the United States Congress. Executive orders are subject to judicial review and interpretation.
+
+Based on this passage, what can the president do without congress approval?
+Answer: The relevant information to answer the above question is: The president can issue rules, regulations, and instructions called executive orders, which have the binding force of law upon federal agencies but do not require approval of the United States Congress. The answer is issue rules , regulations , and instructions called executive orders.
+
+Question: Passage: Reita Faria Powell (born August 23, 1943) born to Goan parents in British Bombay (now Mumbai) is an Indian model, doctor and beauty pageant titleholder who won the Miss World title in the year 1966, making her the first Asian woman to win the event. She is also the first Miss World winner to qualify as a Doctor.
+
+Question: Based on this passage, first indian woman to win miss world title?
+Answer: The important part for answering this question is: Reita Faria Powell (born August 23, 1943) born to Goan parents in British Bombay (now Mumbai) is an Indian model, doctor and beauty pageant titleholder who won the Miss World title in the year 1966, making her the first Asian woman to win the event. The answer is Reita Faria Powell.
+
+Question: Passage: Van Mahotsav festival was started in 1950 by Kulapati Dr. KM Munshi, then the Union Minister for Agriculture and Food to create enthusiasm among masses for forest conservation and planting trees. It is now a week-long festival, celebrated on different days in different parts of India, but usually between 1 July to 7 July. It began after a flourishing tree planting drive which was undertaken in Delhi, in which national leaders participated. The festival was simultaneously celebrated in a number of states in India. Since then, millions of saplings of diverse species have been planted with energetic participation of local people and various agencies like the forest department. Awareness spread as the chipko movement rose in popularity as a crusade to save mother earth..
+
+Question: Based on this passage, when do we celebrate van mahotsav in india?
+Answer:

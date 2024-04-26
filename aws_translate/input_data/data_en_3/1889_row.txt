@@ -1,0 +1,29 @@
+## question
+Mayte Michelle Rodriguez (born July 12, 1978) is an American actress. Her breakout role was as a troubled boxer in the independent film Girlfight (2000), which was met with critical acclaim and earned her several awards, including the Independent Spirit Award and Gotham Award for Best Debut Performance. The following year, she starred as Letty in the blockbuster film The Fast and the Furious (2001), a role she has reprised in four additional films in the Fast and Furious franchise to date. During her career, Rodriguez has played in a number of successful action films, including Resident Evil, S.W.A.T., and Avatar.
+
+Answer this question: real name of letty in fast and furious?
+## answer
+To answer the above question, the relevant sentence is: The following year, she starred as Letty in the blockbuster film The Fast and the Furious (2001), a role she has reprised in four additional films in the Fast and Furious franchise to date.
+So the answer must be Mayte Michelle Rodriguez
+
+## question
+Passage: The Saint Lawrence River (French: Fleuve Saint-Laurent; Tuscarora: Kahnawáʼkye; Mohawk: Kaniatarowanenneh, meaning "big waterway") is a large river in the middle latitudes of North America. The Saint Lawrence River flows in a roughly north-easterly direction, connecting the Great Lakes with the Atlantic Ocean and forming the primary drainage outflow of the Great Lakes Basin. It traverses the Canadian provinces of Quebec and Ontario, and is part of the international boundary between Ontario, Canada, and the U.S. state of New York. This river also provides the basis of the commercial Saint Lawrence Seaway.
+
+Question: Based on this passage, which way does the st. lawrence river flow?
+## answer
+This is the relevant information: The Saint Lawrence River flows in a roughly north-easterly direction, connecting the Great Lakes with the Atlantic Ocean and forming the primary drainage outflow of the Great Lakes Basin.
+So the answer must be a roughly north - easterly direction
+
+## question
+The Minister for Defence (Irish: An tAire Cosanta) is the senior minister at the Department of Defence in the Government of Ireland. The current Minister for Defence is Leo Varadkar, TD.
+
+Based on this passage, who is the minister for defence in ireland?
+## answer
+To answer the question, consider the following: The current Minister for Defence is Leo Varadkar, TD.
+So the answer must be Leo Varadkar , TD
+
+## question
+The Gospel of Mark was written anonymously. Early Christian tradition ascribes it to John Mark, a companion and interpreter of the apostle Peter. Hence its author is often called Mark, even though most modern scholars are doubtful of the Markan tradition and instead regard the author as unknown. It was probably written c. AD 66 -- 70, during Nero's persecution of the Christians in Rome or the Jewish revolt, as suggested by internal references to war in Judea and to persecution. The author used a variety of pre-existing sources, such as conflict stories (Mark 2: 1 -- 3: 6), apocalyptic discourse (4: 1 -- 35), and collections of sayings (although not the Gospel of Thomas and probably not the Q source).
+
+Where did mark get his information to write his gospel?
+## answer

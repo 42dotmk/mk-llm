@@ -1,0 +1,25 @@
+If Phil had won 3 games more than did Charlie, and Phil won 12 games, then Charlie won 12 - 3 = 9 games. If Charlie had won 2 games fewer than Dana, and Charlie won 9 games, then Dana won 9 + 2 = 11 games. If Perry had won five more games than did Dana, and Dana won 11 games, then Perry won 11 + 5 = 16 games. Thus, Perry won 16 - 12 = 4 more games than did Phil.
+The answer: 4
+Reverse engineering the question: Perry, Dana, Charlie, and Phil played golf together every week. At the end of the season, Perry had won five more games than Dana, but Charlie had won 2 games fewer than Dana. Phil had won 3 games more than Charlie did. If Phil won a total of 12 games, how many more games did Perry win than did Phil?
+
+Reasoning and answer: Let x represent the number of true / false questions. Free response:x + 7. Multiple choice: 2(x + 7) = 2x + 14. Total:x + x + 7 + 2x + 14 = 45. 4x + 21 = 45. 4x = 24. x = 6 true / false questions.
+The answer: 6
+What was the question?
+Question: Stacy is a high school Calculus teacher. She assigns 45 problems for homework. There are twice as many multiple choice problems as free response, and 7 more free response than true/false. How many true/false questions are there?
+
+Ruiz has $500 x 6 / 100 = $30 salary raise. Thus, his new salary is $500 + $30 = $530.
+The answer: 530
+Reverse engineering the question: Ruiz receives a monthly salary of $500. If he received a 6% raise, how much will be Ruiz's new salary?
+
+Reasoning and answer: On Monday, Jake watched 24 hours / 2 = 12 hours. On Wednesday, he watched 24 hours / 4 = 6 hours. So from Monday to Wednesday, he watched a total of 12 Monday hours + 4 Tuesday hours + 6 Wednesday hours = 22 hours. He watched half of this on Thursday, which is 22 hours / 2 = 11 hours. So from Monday to Thursday, he watched 22 + 11 = 33 hours. To finish the show on Friday, he must have therefore watched 52 – 33 = 19 hours.
+The answer: 19
+What was the question?
+Question: Jake is watching a new show, and is worried about how much time he has spent watching it. He spent half the day on Monday watching his show, 4 hours on Tuesday watching his show, a quarter of the day on Wednesday watching his show, and he spent half as much time watching the show on Thursday as he had done in total throughout the previous few days. On Friday, he finally finished watching it. If the entire show is 52 hours long, how many hours did Jake watch on Friday?
+
+The first movie was 60 + 30 = 90 minutes long since an hour has 60 minutes. The second movie was 90 + 30 = 120 minutes long. It took them a total of 90 + 120 = 210 minutes to watch the two movies. It took them 10 x 2 = 20 minutes to cook the fries. Thus, it took them a total of 10 + 20 = 30 minutes to cook. So, they spent 210 + 30 = 240 minutes watching the movies and cooking. In hours, this is equal to 240 / 60 = 4 hours.
+The answer: 4
+Reverse engineering the question: Joseph and his friends watched two movies in his house. The first movie is 1 hour and 30 minutes long while the second movie is 30 minutes longer than the first. Before the movies, they spent 10 minutes making popcorn and twice as long making fries. How long, in hours, did it take Joseph and his friends to cook and watch the movies?
+
+He spends 2 * $2 = $4 per day. April has 30 days so he spends $4 * 30 = $120.
+The answer: 120
+Reverse engineering the question:

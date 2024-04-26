@@ -1,0 +1,19 @@
+Q: Context: Charging Bull, which is sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands in Bowling Green in the Financial District in Manhattan, New York City. Originally guerrilla art, installed unofficially by Arturo Di Modica, its popularity led to it being a permanent feature.
+
+Question: where is the wall street bull statue located?
+A: Bowling Green in the Financial District in Manhattan , New York City. How to explain the answer? The relevant information to answer the above question is: Charging Bull, which is sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands in Bowling Green in the Financial District in Manhattan, New York City.
+
+Q: An editor at The New York Times Magazine, Harvey Shapiro, asked King to write his letter for publication in the magazine, but the Times chose not to publish it. Extensive excerpts from the letter were published, without King's consent, on May 19, 1963, in the New York Post Sunday Magazine. The letter was first published as "Letter from Birmingham Jail" in the June 1963 issue of Liberation, the June 12, 1963, edition of The Christian Century, and in the June 24, 1963, issue of The New Leader. The letter gained more popularity as summer went on, and was reprinted in the July Atlantic Monthly as "The Negro Is Your Brother". King included a version of the full text in his 1964 book Why We Ca n't Wait.
+
+When was the letter from birmingham jail published?
+A: June 1963. How to explain the answer? To answer this question, we should know that: The letter was first published as "Letter from Birmingham Jail" in the June 1963 issue of Liberation, the June 12, 1963, edition of The Christian Century, and in the June 24, 1963, issue of The New Leader.
+
+Q: γ-Amylase (EC 3.2. 1.3) (alternative names: Glucan 1, 4-α-glucosidase; amyloglucosidase; Exo-1, 4-α-glucosidase; glucoamylase; lysosomal α-glucosidase; 1, 4-α-D-glucan glucohydrolase) will cleave α (1 -- 6) glycosidic linkages, as well as the last α (1 -- 4) glycosidic linkages at the nonreducing end of amylose and amylopectin, yielding glucose. The γ-amylase has most acidic optimum pH of all amylases because it is most active around pH 3.
+
+Answer this question: which type of amylase will cleave both α-1 4 and α-1 6 glycosidic bonds?
+A: γ - Amylase ( EC 3.2. 1.3 ) ( alternative names : Glucan 1 , 4 - α - glucosidase ; amyloglucosidase ; Exo - 1 , 4 - α - glucosidase ; glucoamylase ; lysosomal α - glucosidase ; 1 , 4 - α - D - glucan glucohydrolase ). How to explain the answer? The relevant information is: γ-Amylase (EC 3.2. 1.3) (alternative names: Glucan 1, 4-α-glucosidase; amyloglucosidase; Exo-1, 4-α-glucosidase; glucoamylase; lysosomal α-glucosidase; 1, 4-α-D-glucan glucohydrolase) will cleave α (1 -- 6) glycosidic linkages, as well as the last α (1 -- 4) glycosidic linkages at the nonreducing end of amylose and amylopectin, yielding glucose.
+
+Q: Context: A will or testament is a legal document by which a person, the testator, expresses their wishes as to how their property is to be distributed at death, and names one or more persons, the executor, to manage the estate until its final distribution. For the devolution of property not disposed of by will, see inheritance and intestacy.
+
+Question: who has the ability to ensure a last will and testament is followed as it is written?
+A:

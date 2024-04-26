@@ -1,0 +1,23 @@
+But we need to develop common basic standards for electric charging points across the EU - otherwise, you could find yourself crossing from France to Germany without being able to refuel.
+
+In recent years, the European Union has been working towards a more sustainable future, with electric vehicles (EVs) playing a central role in reducing greenhouse gas emissions. With the increased demand for EVs, it has become evident that a harmonized approach is necessary for the development and deployment of supporting infrastructure, like electric charging points.
+
+The lack of common basic standards for electric charging points can create several issues. Firstly, it hinders the seamless cross-border travel for EV users, as they may not be able to recharge their vehicles when moving from one country to another, leading to logistical difficulties and inconveniences.
+
+Secondly, the absence of standardization may result in higher costs for both installation and maintenance of these charging points, as businesses and governments may have to adopt different technologies and systems to suit their specific needs.
+
+In this context, the development of common basic standards for electric charging points across the EU offers numerous benefits:
+
+1. Improved connectivity: A standardized system would ensure that all EVs, regardless of their brand or country of origin, can recharge at any charging point in the EU, eliminating the need for drivers to carry multiple charging adapters or memberships with different charging networks.
+
+2. Reduced costs: By implementing a uniform standard, economies of scale can be realized, potentially lowering the costs related to installation, maintenance, and usage of electric charging points. This is particularly relevant for governments and businesses that are contributing to the expansion of charging infrastructure.
+
+3. Enhanced innovation: With a common framework in place, manufacturers and service providers can focus on improving efficiency, speed, and customer experience instead of dealing with compatibility issues. This could, in turn, stimulate further innovation and competition in the EV charging market.
+
+4. Regulatory compliance: Creating common basic standards would simplify regulatory compliance for industry participants, as they would only need to adhere to a single set of rules and requirements rather than dealing with multiple inconsistent standards.
+
+5. Greater consumer confidence: Lastly, standardization would boost consumer confidence in electric mobility, as it eliminates the concern of limited charging options while traveling within the EU.
+
+To achieve these benefits, the EU could pursue a collaborative approach by engaging stakeholders, including automakers, charging point operators, standards organizations, and government bodies. This would help in developing a comprehensive strategy encompassing technical specifications, communication protocols, and user authentication methods, ensuring seamless interconnectivity and ease of use across the EU's electric charging network.
+
+In conclusion, the development and adoption of common basic standards for electric charging points across the EU is of paramount importance to facilitate the growth of electric vehicles, promote a shift towards cleaner transportation, and contribute to a greener, more sustainable future for all.

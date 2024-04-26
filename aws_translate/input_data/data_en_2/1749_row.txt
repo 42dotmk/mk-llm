@@ -1,0 +1,34 @@
+Student A:"Tiny Bubbles" is a song written by Martin Denny and Leon Pober. It was released in 1966 by Don Ho. The song was also recorded by Wayne Newton and Rex Allen.
+
+Based on this passage, when did the song tiny bubbles come out?
+Student B:OK... The relevant sentence in the passage is: It was released in 1966 by Don Ho.
+1966.
+
+Problem:Wallace "Wally" Amos Jr. (born July 1, 1936) is an American TV personality, entrepreneur and author from Tallahassee, Florida. He is the founder of the "Famous Amos" chocolate-chip cookie brand. He also was the host of the adult reading program, Learn to Read. He resides in Kailua, Hawaii where he runs The Cookie Kahuna gourmet cookie brand.
+
+Based on this passage, who is the founder of famous amos cookies?
+Solution:OK... To answer the question, consider the following: He is the founder of the "Famous Amos" chocolate-chip cookie brand.
+Wallace `` Wally '' Amos Jr..
+
+Student A:Context: A pregnancy test attempts to determine whether or not a woman is pregnant. Indicative markers are found in blood and urine, and pregnancy tests require sampling one of these substances. The first of these markers to be discovered, human chorionic gonadotropin (hCG), was discovered in 1930 to be produced by the syncytiotrophoblast cells of the fertilised ova (eggs). While hCG is a reliable marker of pregnancy, it can not be detected until after implantation; this results in false negatives if the test is performed during the very early stages of pregnancy. HCG can be detected via blood 8 days after fertilization of the egg, and in the urine 10 days after.
+
+Question: when can hcg be detected by pregnancy tests?
+Student B:OK... To answer the question, consider the following: HCG can be detected via blood 8 days after fertilization of the egg, and in the urine 10 days after.
+via blood 8 days after fertilization of the egg , and in the urine 10 days after.
+
+Problem:If the above conditions are satisfied, the President of India may summon joint sitting of both the houses of parliament.
+
+Answer this question based on the passage: who summon the joint session of parliament in india?
+Solution:OK... This is the relevant information: If the above conditions are satisfied, the President of India may summon joint sitting of both the houses of parliament.
+the President of India.
+
+Student A:Passage: In California there are 560 Elementary districts, 87 High School districts, 330 Unified districts. There are also 58 County Offices of Education, the California Education Authority School District (under the California Division of Juvenile Justice), 6 State Special Schools, and 8 State Board of Education charter schools, now classified as a "school district" since 2004 -- 05.
+
+Question: Based on this passage, how many elementary schools are there in california?
+Student B:OK... The important part for answering this question is: In California there are 560 Elementary districts, 87 High School districts, 330 Unified districts.
+560.
+
+Student A:Passage: The fifth season began airing on December 1, 2017, and is set to run for 22 episodes on ABC until May 18, 2018.
+
+Question: Based on this passage, when does marvel agents of shield season 5 come out?
+Student B:

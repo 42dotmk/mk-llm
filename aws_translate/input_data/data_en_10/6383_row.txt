@@ -1,0 +1,34 @@
+Given a real-life anecdote of a complex ethical situation, identify who is wrong here. Classify each post into the following categories : AUTHOR (if the author of the post is wrong in the situation), OTHER (if any of the others mentioned in the paragraph is wrong), EVERYBODY (if everyone mentioned is wrong) and NOBODY (if no one is wrong in the situation).
+Q: I graduated college about 4 years ago in computer science and got my masters after that. For anyone who has any knowledge of computers and computer illiterate relatives know what comes next. I was relegated to "The IT guy" in the family. For the most part I don't really mind it. Most of the family at least knows only to call me when their problem is more than a google search problem. Except for my grandmother. My grandmother calls me at least 6-7 times a week demanding I fix whatever problem is bothering her now. Most of them are so simple that any google search will fix them but she refuses to do anything on her own and treats me like her personal computer slave. 
+
+&amp;#x200B;
+
+There's also another problem with my grandmother, she thinks computers are worthless. Whenever I go over she decides to ask me when i'm getting a "real job" or tell me how me begin able to fix computers is "not a real skill". She doesn't understand anything about computers and thinks it's still the 60's with how computers work. So I avoid going over at all costs and get my mom to fix her problem and just tell her how too.
+
+&amp;#x200B;
+
+Last night though she began to blow my phone up telling me "hackers" were attacking her and I needed to come now. I had just got done with a 12 hour shift and told her I would come over in the morning before work but she demanded I come NOW and would not stop calling me or my parents (despite me not living with them) to get me to come. In the end I decided to just end my misery and go. 
+
+&amp;#x200B;
+
+When I got there it turns out the "Hacker attack" was a rouge toolbar she had installed that was popping ad's up in her browser. I got rid of it and told her that she needs to be careful when downloading stuff but she (Very rudely) told me that it wasn't her fault and that a hacker put it there. I told her no, it was her fault and she needed to be more careful. She responded by telling me I was wrong and didn't know what I was talking about. 
+
+&amp;#x200B;
+
+Well, Already having a bad day I decided to show her why she was wrong. I pulled up her download history and showed her exactly how she got the toolbar. After this she started to tell me I was wrong and that she was not "some stupid old lady" and that I was making fun of her. She then started ranting to me before I just got up and left. I told her she was wrong and to just accept it.   
+
+
+To this she said, "How dare you talk back to me like that you brat. I'm your grandmother, when I say something you do not disagree with me.
+
+&amp;#x200B;
+
+I responded with, "Well fuck you then you stupid bitch. I don't have to sit here and listen to your senile rant. Don't call me again you dumb cunt." before stomping out. On my way out as she was yelling I unplugged her ethernet cable from her router and blocked her number on my phone.
+
+&amp;#x200B;
+
+Well, since then she has been calling my parents non-stop telling them how much of a "little shit" I am and that I need to come back and fix whatever I did to her computer because she "can't reach google anymore".
+
+&amp;#x200B;
+
+Was what I did wrong? I feel a little bad but honestly, I'm sick of her and her shit. I know she's family but I don't think I should have to deal with this crap. 
+A:

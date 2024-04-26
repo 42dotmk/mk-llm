@@ -1,0 +1,27 @@
+Reasoning and answer: If the duck takes 40 days to fly to the south during winter and twice as much time to fly to the north during summer, it takes 40 * 2 = 80 days to travel to the north. The total time it takes to travel to the south and the north during both seasons is 80 + 40 = 120 days. The duck also takes 60 days to travel to the East during spring, making the total time it travels during all the seasons to be 120 + 60 = 180.
+The answer: 180
+What was the question?
+Question: It takes a duck 40 days to fly to the south during winter, twice as much time to fly to the north during summer, and 60 days to travel to the East during spring. How many days is the duck flying during these seasons?
+
+He contacted 1 - .4 = .6 of his friends. So he contacted 100 * .6 = 60 people. So he removes 60 / 2 = 30 people. So he has 100 - 30 = 70 friends left.
+The answer: 70
+Reverse engineering the question: Mark realizes that a lot of the friends on his friends list are people he doesn't talk to anymore. He keeps 40% of his friends list and then contacts the rest. Of those only 50% respond. He removes everyone who did not respond. If he had 100 friends how many does he have left after the removal?
+
+Reasoning and answer: His purchase cost is 4 acres * $1863 = $7452. He divided the land into 9 plots, so the price per lot would be $7452 / 9 = $828.
+The answer: 828
+What was the question?
+Question: A developer was buying land. He bought 4 acres at $1,863 per acre. He then split the land he purchased into 9 lots. How much should he sell each lot for just to break even?
+
+The number of boxes of pizza is 8 + 10 = 18 boxes. The number of cans of soda is 10 + 15 = 25 cans. The eighteen boxes of pizza cost 18 x $14 = $252. The cost of 25 cans of soda is 25 x $1.80 = $45. Therefore, the total amount they spend is $252 + $45 = $297.
+The answer: 297
+Reverse engineering the question: Two friends, Hubert and Ian, are planning to have a pizza party. One box of pizza is worth $14, and a can of soda is worth $1.80. Hubert orders eight boxes of pizza and ten cans of soda. Ian buys ten boxes of pizza and fifteen cans of soda. How much do they spend in all?
+
+Reasoning and answer: For the first five books, the total cost is $20 * 5 = $100. For every additional book over $5, you pay $2 less, totaling to $20 - $2 = $18. Beatrice bought 20 books, so the number of books at which she received the $2 discount is 20 - 5 = 15 books. For the 15 books, Beatrice paid 15 * $18 = $270. In total, Beatrice paid $100 + $270 = $370 for the 20 books.
+The answer: 370
+What was the question?
+Question: To buy a book, you pay $20 for each of the first 5 books at the supermarket, and for each additional book you buy over $20, you receive a discount of $2. If Beatrice bought 20 books, how much did she pay at the supermarket?
+
+Reasoning and answer: 7 + 1 = 8 people threw money into the pot. So the amount of money in the pot is 8 * 5 = $40. First place gets 40 * .8 = $32. So there is 40 - 32 = $8 left in the pot after first place gets his cut. So third place gets 8 / 2 = $4.
+The answer: 4
+What was the question?
+Question:

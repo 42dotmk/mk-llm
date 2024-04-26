@@ -1,0 +1,29 @@
+## question
+That's Life! (stylised thats life! and usually abbreviated to TL!) is an Australian entertainment and lifestyle magazine published each Thursday by Pacific Magazines, it is not related to the English magazine publication of the same title, which is published by Bauer Media Group. TL! is a reality-based magazine, with most stories contributed by its readers as well as containing puzzles, recipes, health, beauty and fashion advice.
+
+Based on this passage, when does that's life magazine come out?
+## answer
+To answer this question, we should know that: That's Life! (stylised thats life! and usually abbreviated to TL!) is an Australian entertainment and lifestyle magazine published each Thursday by Pacific Magazines, it is not related to the English magazine publication of the same title, which is published by Bauer Media Group.
+So the answer must be each Thursday
+
+## question
+The season premiered on June 21, 2018, before all 13 episodes were released on Netflix on June 22. It was widely praised as better than the first season, particularly for its narrative and cast -- Woodard's performance especially -- though there was again some criticism for its pacing.
+
+Answer this question: when does luke cage season 2 premiere on netflix?
+## answer
+This is the relevant information: The season premiered on June 21, 2018, before all 13 episodes were released on Netflix on June 22.
+So the answer must be June 21 , 2018
+
+## question
+Context: Bharat Ram (Mahesh Babu), a brilliant but uncertain student with an unquenchable thrist for knowledge, graduates with his fifth degree from Oxford. At his uncle's house, Bharat comes to learn that his father, Chief Minister of (an at the time undivided) Andhra Pradesh Raghava Raju (R. Sarathkumar), was hospitalised and died from a stroke. On a flight to his familial home in Hyderabad, Bharat reminises about his past.
+
+Question: mahesh babu full name in bharat ane nenu?
+## answer
+To answer the question, consider the following: Bharat Ram (Mahesh Babu), a brilliant but uncertain student with an unquenchable thrist for knowledge, graduates with his fifth degree from Oxford.
+So the answer must be Bharat Ram
+
+## question
+Monsignor (/ mɒnˈsiːnjər /) is an honorific form of address for those members of the clergy of the Catholic Church including bishops, honorary prelates and canons. In some cases, these ecclesiastical honorific titles derive from the pope, but in other cases it is simply a customary or honorary style belonging to a prelate or honorary prelate. These are granted to individuals who have rendered valuable service to the Church, or who provide some special function in Church governance, or who are members of bodies such as certain chapters. The title is never bestowed on those classified as religious in Catholicism. Although in some languages the word is used as a form of address for bishops, which is indeed its primary use in those languages, this is not customary in English. Monsignor is the apocopic form of the Italian monsignore, from the French mon seigneur, meaning "my lord". It is abbreviated Mgr, Msgr, or Mons.
+
+Answer this question: what is a monsignor in the roman catholic church?
+## answer

@@ -1,0 +1,29 @@
+What is the most logical completion of this news story?.
+
+HAMILTON, Bermuda (CNN) -- The Obama administration's agreement with Bermuda to settle four Uyghurs from Guantanamo Bay, Cuba, was causing a rift Friday between the United States and its strongest ally, Britain. Bermuda's premier, Ewart Brown, calls accepting the four Uyghurs from Guantanamo Bay "a humanitarian act." Also Friday, the U.S. Justice Department announced five other Guantanamo detainees -- one from Iraq and one from Chad and three from Saudi Arabia -- had been transferred to their home countries. Iraqi national Jawad Jabber Sadkhan was sent to Iraq on Thursday night, and Chadian national Mohammed El Gharani went to Chad early Friday, the department said.
+
+With the Uyghurs already in
+
+OPTIONS:
+- Bermuda without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Britain without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Briton without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- CNN without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Chad without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Chadian without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Cuba without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Ewart Brown without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Guantanamo without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Guantanamo Bay without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- HAMILTON without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Iraq without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Iraqi without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Jawad Jabber Sadkhan without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Mohammed El Gharani without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Obama without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Saudi Arabia without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- U.S. without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- U.S. Justice Department without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- U.S. State Department without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- United States without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.
+- Uyghurs without travel documents, the UK is helping the Bermudian government carry out a security assessment, he said.

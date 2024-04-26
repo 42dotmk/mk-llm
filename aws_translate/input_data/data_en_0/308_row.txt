@@ -1,0 +1,27 @@
+Reasoning and answer: If the blue car can travel at 80 mph, then the green one can travel at 8 * 80 = 640 mph. If the green car can travel at 640 mph, then the red can travel at 2 * 640 = 1280 mph.
+The answer: 1280
+What was the question?
+Question: Dale owns 4 sports cars. The red one can travel at twice the speed of the green one, but the green one can travel at 8 times the speed of the blue one. The yellow one is broken and cannot move at all. If the blue one can travel at a speed of 80 miles per hour, at what speed, in miles per hour, can the red car travel?
+
+The total planned cost for the party was 100 * 50 = $5000. The total expenses for the party are 5000 - 500 = $4500.
+The answer: 4500
+Reverse engineering the question: Hally and her friends organized a high school reunion. To cover the cost of a late-night party that they planned for at the reunion, each attendee had to pay $100. After the party, Hally and her friends realized that the total expenses were $500 less than the total contributions. If there were 50 people at the party, how much money was used to pay for the party expenses?
+
+Reasoning and answer: The number of red flowers is twice as many as orange so 2 * 10 orange = 20 red flowers. The number of yellow flowers is 5 less than red so 20 red - 5 = 15 yellow flowers. The number of red, orange and yellow flowers is 20 red + 10 orange + 15 yellow = 45 flowers. The number of pink and purple flowers total is 105 flowers total - 45 flowers that are not pink or purple = 60 flowers. The number of pink and purple flowers each is 60 flowers / 2 = 30 flowers each.
+The answer: 30
+What was the question?
+Question: A garden is filled with 105 flowers of various colors. There are twice as many red flowers as orange. There are five fewer yellow flowers than red. If there are 10 orange flowers, how many pink and purple flowers are there if they have the same amount and there are no other colors?
+
+Eustace’s current age must be 39 years old – 3 years = 36 years old. So Milford’s current age must be 36 years old / 2 = 18 years old. So in 3 years, Milford will be 18 years old + 3 years = 21 years old.
+The answer: 21
+Reverse engineering the question: Eustace is twice as old as Milford. In 3 years, he will be 39. How old will Milford be?
+
+Reasoning and answer: The sum of black and white shirts is 63 + 42 = 105. The number of jeans in the store is (2 / 3) x 105 = 70. The sum of ties and belts is 34 + 40 = 74. The number of scarfs in the store is 74 / 2 = 37. There are 70 - 37 = 33 more jeans than scarfs in the store.
+The answer: 33
+What was the question?
+Question: A clothing store has an inventory of 34 ties, 40 belts, 63 black shirts, and 42 white shirts. The number of jeans in the store is two-thirds of the sum of black and white shirts, and the number of scarves is half the number of the sum of ties and belts. How many more jeans are there than scarves?
+
+Reasoning and answer: The total time we spent going to school is 15 minutes + 6 minutes = 21 minutes. We have 30 minutes - 21 minutes = 9 minutes left not to be late.
+The answer: 9
+What was the question?
+Question:

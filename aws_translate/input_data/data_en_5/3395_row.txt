@@ -1,0 +1,19 @@
+Q: The Canterbury Tales (Middle English: Tales of Caunterbury) is a collection of 24 stories that runs to over 17,000 lines written in Middle English by Geoffrey Chaucer between 1387 and 1400. In 1386, Chaucer became Controller of Customs and Justice of Peace and, in 1389, Clerk of the King's work. It was during these years that Chaucer began working on his most famous text, The Canterbury Tales. The tales (mostly written in verse, although some are in prose) are presented as part of a story-telling contest by a group of pilgrims as they travel together on a journey from London to Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral. The prize for this contest is a free meal at the Tabard Inn at Southwark on their return.
+
+Answer this question: when did chaucer begin writing the canterbury tales and when did he stop?
+A: 1387 and 1400. How to explain the answer? The important part for answering this question is: The Canterbury Tales (Middle English: Tales of Caunterbury) is a collection of 24 stories that runs to over 17,000 lines written in Middle English by Geoffrey Chaucer between 1387 and 1400.
+
+Q: Passage: The Eiffel Tower (/ ˈaɪfəl ˈtaʊ. ər / EYE-fəl TOW-ər; French: tour Eiffel, pronounced ( tuʁ ‿ ɛfɛl) listen ) is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+
+Question: Based on this passage, is the eiffel tower made of steel or iron?
+A: iron. How to explain the answer? The important part for answering this question is: The Eiffel Tower (/ ˈaɪfəl ˈtaʊ. ər / EYE-fəl TOW-ər; French: tour Eiffel, pronounced ( tuʁ ‿ ɛfɛl) listen ) is a wrought iron lattice tower on the Champ de Mars in Paris, France.
+
+Q: Context: The Burning of Washington was a British invasion of Washington, D.C., the capital of the United States, during the War of 1812. On August 24, 1814, after defeating the Americans at the Battle of Bladensburg, a British force led by Major General Robert Ross occupied Washington and set fire to many public buildings, including the White House (known as the Presidential Mansion), and the Capitol, as well as other facilities of the U.S. government. The attack was in part a retaliation for the recent American destruction of Port Dover in Upper Canada. Throughout the history of the United States, the United Kingdom is the only country to have ever captured Washington, D.C.; the Burning of Washington also marks the only time since the American Revolutionary War that a foreign power has captured and occupied the United States capital.
+
+Question: when did the british burn down washington dc?
+A: August 24 , 1814. How to explain the answer? To answer this question, we should know that: On August 24, 1814, after defeating the Americans at the Battle of Bladensburg, a British force led by Major General Robert Ross occupied Washington and set fire to many public buildings, including the White House (known as the Presidential Mansion), and the Capitol, as well as other facilities of the U.S. government.
+
+Q: Passage: "You Got the Love" is a 1986 single by Candi Staton. It was then remixed by The Source and re-released in 1991 as' The Source and Candi Staton'.
+
+Question: Based on this passage, who sang the original youve got the love?
+A:

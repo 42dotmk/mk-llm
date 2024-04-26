@@ -1,0 +1,22 @@
+Student A:The Gilded Age in United States history is the late 19th century, from the 1870s to about 1900. The term for this period came into use in the 1920s and 1930s and was derived from writer Mark Twain's and Charles Dudley Warner's 1873 novel The Gilded Age: A Tale of Today, which satirized an era of serious social problems masked by a thin gold gilding. The early half of the Gilded Age roughly coincided with the middle portion of the Victorian era in Britain and the Belle Époque in France. Its beginning in the years after the American Civil War overlaps the Reconstruction Era (which ended in 1877). It was followed in the 1890s by the Progressive Era.
+
+Based on this passage, to what period of time does the term gilded age refer?
+Student B:OK... The relevant sentence in the passage is: The Gilded Age in United States history is the late 19th century, from the 1870s to about 1900.
+the late 19th century , from the 1870s to about 1900.
+
+Student A:The brachial plexus is a network of nerves formed by the anterior rami of the lower four cervical nerves and first thoracic nerve (C5, C6, C7, C8, and T1). This plexus extends from the spinal cord, through the cervicoaxillary canal in the neck, over the first rib, and into the armpit. It supplies afferent and efferent nerve fibers to the chest, shoulder, arm and hand.
+
+Answer this question based on the passage: where do all nerves in the arm root from?
+Student B:OK... This is the relevant information: It supplies afferent and efferent nerve fibers to the chest, shoulder, arm and hand.
+brachial plexus.
+
+Student A:Wentworth Earl Miller III (born June 2, 1972) is a British-American actor, model, and screenwriter. He rose to prominence following his role as Michael Scofield in the five seasons of the Fox series Prison Break, for which he received a Golden Globe Award nomination for Best Actor in a Leading Role. He made his screenwriting debut with the 2013 thriller film Stoker. In 2014, he began playing Leonard Snart / Captain Cold in a recurring role on The CW series The Flash before becoming a series regular on the spin-off Legends of Tomorrow. Miller reprised his role as Michael Scofield for the fifth season of the limited-run Prison Break revival, which aired on April 4, 2017 and concluded on May 30, 2017.
+
+Based on this passage, who plays leonard snart in legends of tomorrow?
+Student B:OK... The relevant sentence in the passage is: In 2014, he began playing Leonard Snart / Captain Cold in a recurring role on The CW series The Flash before becoming a series regular on the spin-off Legends of Tomorrow.
+Wentworth Earl Miller III.
+
+Student A:Aqueducts moved water through gravity alone, along a slight overall downward gradient within conduits of stone, brick, or concrete; the steeper the gradient, the faster the flow. Most conduits were buried beneath the ground and followed the contours of the terrain; obstructing peaks were circumvented or, less often, tunneled through. Where valleys or lowlands intervened, the conduit was carried on bridgework, or its contents fed into high-pressure lead, ceramic, or stone pipes and siphoned across. Most aqueduct systems included sedimentation tanks, which helped reduce any water-borne debris. Sluices and castella aquae (distribution tanks) regulated the supply to individual destinations. In cities and towns, the run-off water from aqueducts scoured the drains and sewers.
+
+Answer this question: what force did the romans use to move water?
+Student B:

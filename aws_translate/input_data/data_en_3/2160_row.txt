@@ -1,0 +1,25 @@
+q... Passage: A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI / URL) that may be a web page, image, video or other piece of content. Hyperlinks present in resources enable users easily to navigate their browsers to related resources.
+
+Question: Based on this passage, type of software that provides users with the capability to navigate through the web?
+a... This is the relevant information: A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information resources on the World Wide Web.
+The answer is A web browser ( commonly referred to as a browser )
+
+
+q... Obama defeated Romney, winning a majority of both the popular vote and the Electoral College. Obama won 51.1 % of the popular vote compared to Romney's 47.2 %, while Libertarian nominee Gary Johnson won just under 1 % of the vote. Obama was the first incumbent since Franklin D. Roosevelt in 1944 to win reelection with fewer electoral votes and a lower popular vote percentage than had been won in the previous election, and was also the first two-term president since Ronald Reagan to win both his presidential bids with a majority of the nationwide popular vote.
+
+Answer this question: who won the popular vote in the 2012 presidential election?
+a... The important part for answering this question is: Obama defeated Romney, winning a majority of both the popular vote and the Electoral College.
+The answer is Obama
+
+
+q... Context: "Knockin' on Heaven's Door" is a song written and sung by Bob Dylan, for the soundtrack of the 1973 film Pat Garrett and Billy the Kid. Released as a single, it reached No. 12 on the Billboard Hot 100 singles chart. Described by Dylan biographer Clinton Heylin as "an exercise in splendid simplicity," the song, measured simply in terms of the number of other artists who have covered it, is one of Dylan's most popular post-1960s compositions.
+
+Question: who wrote the song knocking on heaven's door?
+a... The relevant sentence in the passage is: "Knockin' on Heaven's Door" is a song written and sung by Bob Dylan, for the soundtrack of the 1973 film Pat Garrett and Billy the Kid.
+The answer is Bob Dylan
+
+
+q... The half hour series premiere debuted on December 17, 1989 with "Simpsons Roasting on an Open Fire" a Christmas special. The next episode "Bart the Genius" was the first to feature the series' full title sequence, including the chalkboard gag and couch gag. Matt Groening developed the lengthy sequence in order to cut down on the animation necessary for each episode, but devised the two gags as compensation for the repeated material each week. Groening, who had not paid much attention to television since his own childhood, was unaware that title sequences of such length were uncommon by that time. As the finished episodes became longer, the production team were reluctant to cut the stories in order to allow for the long title sequence, so shorter versions of it were developed.
+
+Answer this question: when was the first episode of simpsons aired?
+a...

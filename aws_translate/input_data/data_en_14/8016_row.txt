@@ -1,0 +1,60 @@
+Article:
+
+As Apple prepares to unveil both a new high-end and low-end iPhone next week, leaked ads from a telecom provider suggest the phones may launch in China as soon as this month. The WSJ's Deborah Kan speaks with Paul Mozur about Apple's new strategy in the country. 
+  
+ As Apple Inc. prepares to unveil both a new high-end iPhone and a cheaper version for the first time next week, it is already working on something bigger. 
+  
+ The electronics giant has begun evaluating a plan to offer iPhones with screens ranging from 4.8 inches to as high as 6 inches, people familiar with the matter say. That would be a sizable leap from the 4-inch screen of the iPhone 5 released last year, and, at the upper end, would be one of the largest on the market. 
+  
+ Such plans signal further that the Cupertino, Calif., company is shifting its smartphone strategy as it searches for new engines of growth, and as competition with Samsung Electronics Co. intensifies . 
+  
+ The Korean rival has taken a commanding lead in smartphone market share in part by offering an array of devices at different prices and sizes. On Wednesday, Samsung unveiled the Galaxy Note 3 with a screen measuring 5.7 inches, a size that places the device in a category of hybrid phone-tablets. 
+  
+ It is unclear whether Apple will ultimately choose to follow a multi-size, multi-device strategy beyond shipping a new lower-cost model for the first time later this month. The company often tests different devices and configurations before choosing a course. 
+  
+ But people familiar with the company's internal deliberations and plans indicate it appears more willing to move ahead than in years past. Component suppliers say Apple already began testing larger screens for iPhones in recent months. Apple has been particularly interested in recent tests for a 4.8-inch screen, these people say. 
+  
+ The screen sizes of the two iPhones that Apple is unveiling next Tuesday aren't expected to change, people familiar with the matter have said. 
+  
+ An Apple spokeswoman declined to comment. 
+  
+ A multi-size strategy would echo Apple's approach to the iPod, as that once-groundbreaking product line matured. Broadening iPhone offerings would also allow Apple to address a threat from Samsung: growth outside the U.S., where Samsung and rivals like Lenovo Group Ltd. are still expanding. Apple Chief Executive Tim Cook said in April the company sees a "significant opportunity in China" with an unusually large number of potential first-time smartphone buyers there. Increasing sales in the country could also help Apple reverse stalled revenue growth and contracting profits, analysts say. 
+  
+ Samsung and other competitors have released numerous products in different sizes and prices in order to cater to a broad swath of customers, particularly in India and China. Apple will for the first time begin shipping two new smartphone products this month, people familiar with the matter say; Samsung alone has released more than half a dozen around the globe so far this year. 
+  
+ Apple has waged a public-relations campaign against Google Inc.'s Android software, which powers most Samsung smartphones. In March, just before Samsung's newest "Galaxy" device was unveiled in New York City, Phil Schiller, Apple's head of world-wide marketing, said the services and hardware on Android handsets "don't work seamlessly together." Apple has also filed patent lawsuits around the world against Samsung and other rivals. 
+  
+ Last year, Apple released its iPhone 5 with a larger screen, but analysts say changing the size hasn't been enough. Price, too, has caused the iPhone to lag competitors. Apple's newest iPhone starts at $650 without a subsidy; Samsung offers a range of smartphones priced at below $100 in places like China, India and Indonesia. As a result, despite rising unit sales for each of the top smartphone companies, Apple's share of world-wide sales fell to 14% in the second quarter from 19% the same time a year prior. Over the same period, Samsung's share rose to 32% from 30%, according to market research firm Gartner. 
+  
+ Samsung's strategy underscores a competitive advantage: The South Korean company is able to bring products to the market more quickly than Apple because it controls the entire manufacturing process for its smartphones. Samsung makes everything from chips to screens at its own factories, allowing it to change designs and pump out new products at a rapid pace. By comparison, Apple relies on many suppliers to make parts for its devices and companies such as Hon Hai Precision Industry Co. and Pegatron Corp. in Taiwan to assemble them, requiring timely coordination between all the companies. 
+  
+ Apple has some precedent in offering a wider lineup. About three years after it unveiled the first iPod in 2001, Apple launched the iPod Mini, a physically smaller device capable of holding fewer songs. The device was a hit, despite a plethora of competing devices on the market at a lower price, and it attracted many new customers to Apple's offerings. The even smaller iPod Shuffle a year afterward also caught on. Today, Apple maintains four different product lines of iPods and a healthy command of the music device market. 
+  
+ The company also for the first time released a smaller version of its iPad, with a 7.9-inch screen, late last year. The standard version of the iPad made its debut at 9.7 inches in 2010. Apple has also been testing larger screen sizes for the iPad, people familiar with the matter have said. 
+  
+ Since the debut of the iPhone in 2007, however, Apple executives have debated and tabled plans to offer iPhones in either lower-cost models or in different sizes, according to a person familiar with those discussions. Among the challenges it saw for a lower-cost option was that the company's designers couldn't find a way to make a device that didn't look cheap or look like a close copy of the higher-end iPhone, according to that person. 
+  
+ Apple's business model has also been to produce fewer products, at what it argues is a higher quality. Steve Jobs, the company's co-founder who died in 2011, espoused this view often. "That's been one of my mantras—focus and simplicity," he once said in a BusinessWeek interview. Later, he said he says "no" to 1,000 things Apple could do "to make sure we don't get on the wrong track or try to do too much." 
+  
+ Apple has until now chosen to release a single new iPhone model each year, and a new case design every two years, in part to keep control of production costs associated with developing, testing and creating tools to manufacture new designs with the exacting quality the company is known for, a person familiar with the matter said. 
+  
+ In recent months, Apple has said customers in emerging markets appear to like its cheapest smartphone, the iPhone 4, and has initiated trade-in programs in countries such as India to encourage buying. Mr. Cook said sales there grew more than 400% in the company's third quarter, ended in June. A person familiar with Apple's production also said the iPhone 4S is among the top products Apple continues to sell. 
+  
+ People familiar with the matter say Apple's low-cost iPhone will begin shipping alongside the new premium model smartphone and it will be offered in multiple colors. The higher-end device, meanwhile, will include a new feature, a fingerprint sensor, people familiar with the matter said. 
+  
+ A version of this article appeared September 6, 2013, on page B1 in the U.S. edition of The Wall Street Journal, with the headline: 6-Inch iPhone Screen? Apple Tests Bigger Sizes. ||||| With the new iPhone likely to retain the screen size of the current one, Apple Apple finds itself missing out on the fastest growing mobile-device category in the world: The hideously named but increasingly popular market for “phablets.” These 5-to-7-inch phone-tablet hybrids nearly outsold tablets and laptops combined in the last quarter and Apple got exactly zero of those sales. Though the company pioneered the touchscreen smartphone 6 years ago with a then massive 3.5-inch display, the iPhone these days looks tiny compared to the competition. And despite Apple’s reasonable arguments on the merits of maintaining a small screen for one-handed use, The Wall Street Journal reports that Apple is testing prototypes as large as 6 inches, perhaps prepping its own phablet for 2014. 
+  
+ The odd thing about the company’s stubbornness on iPhone screen sizes is that it has never expended much effort insisting users should take its products in one size only and accept it. While the iPod was introduced as a single model, over time it spawned many variants from the smaller Shuffle, Nano and Mini to the larger iPod Touch, which ended up becoming the most popular model. You can still buy Apple’s music player in multiple form factors, depending on your preferences, rather than being told, “music is only to be enjoyed on a player of this particular size.” 
+  
+ In laptops, the company is arguably even more flexible. Not only does it offer three screen sizes — 11, 13 and 15 inches — but it also lets you choose from different models in the largest two of those. You want a 13-inch screen but the svelte Macbook Air? Fine. Need some more power but not a bigger screen? The 13-inch Macbook Pro is available for you. Like the 15-inch Pro model, you can choose whether or not you want the extra resolution of the Retina screen or the lower price of a standard one. 
+  
+ The move to offer a second size of iPhone, though, would most closely mirror the decision to offer the iPad Mini, which comes with a 7.9-inch screen after the late Steve Jobs famously bashed 7-inch tablets. CEO Tim Cook explained that the Mini isn’t a 7-incher, which is technically true but also is evidence that Apple can change its mind and explain why it isn’t doing that at the same time. The company’s reluctance to offer a larger iPhone has centered on two problems, one physical, one technical. 
+  
+ The physical problem is that once you increase the size of the phone from the current iPhone 5, the number of people that can reasonably operate the phone one-handed will shrink a great deal. Already, the decision to increase the screen height last year over the iPhone 4S made it difficult for a lot of people to go from corner to corner with a thumb. Like many iPhone users, I find this capability useful, but only to a point. It’s great when you just grab the phone and can do some things one handed. But typing accuracy plummets that way as does general touchscreen usage and it’s not clear that the loss of everything else a small screen keeps you from is worth it. 
+  
+ This problem needs a resolution 
+  
+ The technical problem, however, is trickier. Unlike on Android, where there are more than a dozen screen resolutions, Apple has basically two right now with the shorter and taller Retina displays. You either get 960 x 640 in the iPhone 4 and 4S or 1136 x 640 in the iPhone 5. Expect the latter resolution to carry over to both the iPhone 5C and 5S. Once Apple increases the screen size, though, tradeoffs arise. Assuming they stick with the 16:9 ratio common to widescreen TVs and the current iPhone, Apple has a few choices, none of which are great. 
+  
+ (Read the rest of this story on the next page) |||||
+What is a summary?

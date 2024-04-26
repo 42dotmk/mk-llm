@@ -1,0 +1,23 @@
+# QUESTION
+Romeo and Juliet, TH 42, ČW 39, is an orchestral work composed by Pyotr Ilyich Tchaikovsky. It is styled an Overture-Fantasy, and is based on Shakespeare's play of the same name. Like other composers such as Berlioz and Prokofiev, Tchaikovsky was deeply inspired by Shakespeare and wrote works based on The Tempest and Hamlet as well.
+
+Who wrote the music for romeo and juliet?
+# ANSWER
+The relevant sentence in the passage is: Romeo and Juliet, TH 42, ČW 39, is an orchestral work composed by Pyotr Ilyich Tchaikovsky.
+FINAL ANSWER: Pyotr Ilyich Tchaikovsky
+
+
+# QUESTION
+Context: Scott Nicholson as Colin, Logan's body man. J. Smith-Cameron as Gerri Killman, general counsel to Waystar Royco. David Rasche as Karl, a member of Waystar Royco's legal team. Arian Moayed as Stewy Hosseini, a financier and friend of Kendall's who becomes a member of Waystar Royco's board. Ashley Zukerman as Nate Sofrelli, a political strategist and former romantic partner of Shiv's. He convinces her to work on the Eavis presidential campaign and the two of them are having an affair. Juliana Canfield as Jess Jordan, Kendall's assistant. Dagmara Domińczyk as Karolina, a member of Waystar Royco's legal team. Justine Lupe as Willa, Connor Roy's young girlfriend. Peggy J. Scott as Jeane, Logan's secretary. Judy Reyes as Eva, a member of Waystar Royco's legal team and an executive producer at ATN, a news channel owned by Waystar Royco. Eric Bogosian as Gil Eavis, a liberal presidential candidate whom Nate introduces to Shiv. He is vocally opposed to Waystar Royco's attempted takeover of local news networks and becomes a target of their cable news network ATN because of it. Swayam Bhatia as Sophie Roy, Kendall's daughter. Quentin Morales as Iverson Roy, Kendall's son. Molly Griggs as Grace, Roman's girlfriend whom he breaks up with after she tells him that she enjoyed The Biggest Turkey in the World, a film Roman tried to kill while working in Waystar Royco's film division. Larry Pine as Sandy Furness, the owner of a rival media conglomerate who plots a hostile takeover of Waystar Royco with Kendall. Caitlin FitzGerald as Tabitha, a woman who gave Tom a blowjob at his bachelor party and whom Roman is now dating. Mary Birdsong as Marianne, Logan's niece and Greg's mother. Jake Choi as Tatsuya, an associate of Lawrence. Eisa Davis as Joyce Miller, the former Attorney General of New York elected to a seat in the United States Senate for whom Shiv serves as a political strategist. James Cromwell as Ewan Roy, Logan's estranged brother and Greg's grandfather who resides in Canada. Darius Homayoun as Amir, Marcy's son who announces at Thanksgiving dinner that he has been hired to head Waystar Royco's animation division in Europe. Harriet Walter as Caroline Collingwood, the second wife of Logan Roy and Kendall, Shiv, and Roman's mother. Jack Gilpin as Mr. Wamsgans, Tom's Father. Kristin Griffith as Mrs. Wamsgans, Tom's mother and a highly-respected attorney in the Minneapolis -- Saint Paul area.
+
+Question: who plays shiv's ex boyfriend on succession?
+# ANSWER
+To answer the question, consider the following: Ashley Zukerman as Nate Sofrelli, a political strategist and former romantic partner of Shiv's.
+FINAL ANSWER: Ashley Zukerman
+
+
+# QUESTION
+Passage: "What the Hell Did I Say" is a song co-written and recorded by country music artist Dierks Bentley. It was released in June 2017 as the fourth single from his 2016 album Black. This is the second collaboration by Bentley, Kear and Tompkins, following the highly successful No. 1 single "Drunk on a Plane". However, unlike "Drunk", this song underperformed and became the lowest charting single of Bentley's career.
+
+Question: Based on this passage, who sings what the hell did i say?
+# ANSWER

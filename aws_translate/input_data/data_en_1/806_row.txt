@@ -1,0 +1,19 @@
+Question: Hello, with that spelling, was used in publications in the US as early as the 18 October 1826 edition of the Norwich Courier of Norwich, Connecticut. Another early use was an 1833 American book called The Sketches and Eccentricities of Col. David Crockett, of West Tennessee, which was reprinted that same year in The London Literary Gazette. The word was extensively used in literature by the 1860s.
+
+Answer this question: when did the word hello come to use?
+Answer: The relevant information is: Hello, with that spelling, was used in publications in the US as early as the 18 October 1826 edition of the Norwich Courier of Norwich, Connecticut. The answer is as early as the 18 October 1826 edition of the Norwich Courier of Norwich , Connecticut.
+
+Question: An abstract is a brief summary of a research article, thesis, review, conference proceeding, or any in-depth analysis of a particular subject and is often used to help the reader quickly ascertain the paper's purpose. When used, an abstract always appears at the beginning of a manuscript or typescript, acting as the point-of-entry for any given academic paper or patent application. Abstracting and indexing services for various academic disciplines are aimed at compiling a body of literature for that particular subject.
+
+Answer this question based on the passage: what is an abstract in a scientific journal article?
+Answer: To answer the above question, the relevant sentence is: An abstract is a brief summary of a research article, thesis, review, conference proceeding, or any in-depth analysis of a particular subject and is often used to help the reader quickly ascertain the paper's purpose. The answer is a brief summary of a research article , thesis , review , conference proceeding , or any in - depth analysis of a particular subject and is often used to help the reader quickly ascertain the paper 's purpose.
+
+Question: Ampicillin acts as an irreversible inhibitor of the enzyme transpeptidase, which is needed by bacteria to make the cell wall. It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic.
+
+Answer this question based on the passage: which cellular component in the bacterial cell is targeted by ampicillin?
+Answer: The important part for answering this question is: It inhibits the third and final stage of bacterial cell wall synthesis in binary fission, which ultimately leads to cell lysis; therefore, ampicillin is usually bacteriolytic. The answer is cell wall.
+
+Question: Context: Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803), was a U.S. Supreme Court case that established the principle of judicial review in the United States, meaning that American courts have the power to strike down laws, statutes, and executive actions that contravene the U.S. Constitution. The Court's landmark decision, issued in 1803, helped define the boundary between the constitutionally separate executive and judicial branches of the American form of government.
+
+Question: what was the significance of marbury vs madison?
+Answer:

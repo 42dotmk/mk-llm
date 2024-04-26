@@ -1,0 +1,19 @@
+Choose the next sentence.An Army veteran who fatally shot a psychologist at a West Texas veterans' hospital before killing himself was a former clerk at the clinic. He had publicly threatened the doctor in 2013, the FBI said on Wednesday. The gunman in Tuesday's shooting, which caused hundreds of patients and staff to seek shelter, was Jerry Serrato, 48, who was medically discharged from the Army in 2009 after serving in Iraq two years earlier. Serrato used a .380-caliber handgun to shoot Dr Timothy Fjordbak, 63, and himself at the El Paso Veterans Affairs Health Care System at Fort Bliss, Texas. Police officers guard an entrance to the Beaumont Army Medical Center, adjacent to the veterans' hospital where Jerry Serrato, 48, shot Dr Timothy Fjordbak, 63, before turning the gun on himself
+
+
+
+OPTIONS:
+- Army was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Beaumont Army Medical Center was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Department of Defense was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- El Paso was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- FBI was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Fjordbak was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Fort Bliss was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Health Care System was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Iraq was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Jerry Serrato was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Serrato was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Texas was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- Timothy Fjordbak was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.
+- West Texas was a psychologist who left private practice after the September 11 terrorist attacks because he wanted to work with military veterans, officials said.

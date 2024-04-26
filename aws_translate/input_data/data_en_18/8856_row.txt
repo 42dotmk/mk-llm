@@ -1,0 +1,77 @@
+Summarize this article:
+
+A Peek at TV’s Future, Via Google Fiber 
+  
+ The Google Fiber experiment/maybe-not-an-experiment in Kansas City is important because it shows Google’s ability to compete directly with broadband providers for control of the Internet pipe itself. 
+  
+ If Google doesn’t need to rely on the Comcasts/Time Warner Cables of the world to connect with your computer, then all kinds of interesting stuff could happen — if Google really does want to get into the business of becoming a broadband provider. 
+  
+ Google says that’s the case, but it’s hard to imagine the company really following through. So, we’ll see. 
+  
+ Meantime, Google Fiber, which started rolling out to homes last week, also gives you a glimpse at what The TV Of The Future is supposed to look like. You turn on your set and can watch whatever you want, no matter who is sending out the signal: Broadcast TV, cable TV, Netflix, etc. (You’re probably going to pay for it the same way you do now, though.) 
+  
+ BTIG analysts Rich Greenfield and Walt Piecyk trekked out from New York City last week to get a hands-on demo of the TV service (registration required), and you can see a demo clip here. 
+  
+ It’s not a thrilling video, because it relies on still shots, but it does give you a sense of what the product actually looks like. 
+  
+ The big idea here is one we’ve also seen from other next-gen TV experiments, including Google TV, Microsoft Xbox and Nintendo’s new console: One screen, many inputs, and a guide that simply lets you find whatever you want to watch, without having to worry about the source. If a mythical Apple TV ever shows up, it should do the same thing: 
+  
+ One other point: Note that the one thing you’d expect to see from Google in a TV product — YouTube — isn’t actually available yet. It’s supposed to show up next year, and the fact that it hasn’t yet is sort of astonishing, given YouTube’s stated ambition to compete directly with TV for eyeballs and ad dollars. 
+  
+ But bear in mind that for whatever reason, the Google org structure puts YouTube and Google TV in a completely different silo than Google Fiber. Internally, that must make sense in some Googley way. But it’s hard to fathom from the outside. ||||| After months of fanfare and anticipation, gigabit home Internet service Google Fiber finally went live on Tuesday in Kansas City. The search giant is offering 1Gbps speeds for just $70 per month—significantly faster and cheaper than what any traditional American ISPs are offering. 
+  
+ "We just got it today and I’ve been stuck in front of my laptop for the last few hours," Mike Demarais, founder of Threedee, told Ars. "It’s unbelievable. I’m probably not going to leave the house." 
+  
+ He lives in a four-bedroom house run by "Homes For Hackers" on Kansas City’s Hanover Heights neighborhood, just on the state border with Missouri. The house has become one of the hubs for the KC Startup Village, an informal group of entrepreneurs who have clustered around homes immediately eligible for Google Fiber. 
+  
+ Meanwhile, Demarais said that on an Ethernet connection, he’s seen consistent Google Fiber speeds of 600 to 700Mbps, with Wi-Fi topping out around 200Mbps. Even at the slower wireless speeds, that’s more than an order of magnitude faster than what most Americans have at home. 
+  
+ "The first thing I did was BitTorrent Ubuntu," he said. "I think that took two minutes, let me try it again right now." 
+  
+ Prior to Tuesday, Demarais—one of the house’s first two residents—said he’d been working out of local McDonald’s and Panera locations for their free Wi-Fi. 
+  
+ Mi Wi-Fi es tu Wi-Fi 
+  
+ The Homes For Hackers, founded by local Web developer Ben Barreth, had originally been conceived as a matchmaking scheme between entrepreneurs who wanted a free place to live and work, and local families who would open their homes to them. (Ars covered that effort back in August.) 
+  
+ But once Google announced its fiber rollout schedule, Barreth realized the families that had signed up were not going to get crazy speeds until Summer 2013. So he took matters into his own hands and, with his wife’s blessing, he liquidated his Roth IRA to put 20 percent down on a house they eventually bought for $48,000 in September 2012. 
+  
+ The couple has no plans to profit from the house. Instead, they want to use it as a way to nurture Kansas City’s nascent tech community. He’s letting entrepreneurs like Demarais live in the house rent-free and utilities-free for three months—they just have to pay for their own groceries. 
+  
+ "We’re strong, devout Christians," Barreth told Ars. "I’ve been pushing on doors and a lot of doors have opened for me. I feel like this is what I’m supposed to do right now. It doesn't make a lot of financial sense but I really think it will benefit Kansas City. The whole reason why [we bought the house] was that no one in Kansas City was really exploiting fiber like we could be and this is the way I can bring in individuals that will exploit it. It helps that it’s not a really expensive house. [My wife] is a stay-at-home mom with two kids too, so we’re living off my one salary, and it’s still a strain. It’s a still a big strain." 
+  
+ He anticipates getting donations, sponsorships, or, the most-likely scenario, renting out one of the bedrooms via AirBnB to the first Google Fiber "tourists"—people who might want to come for a day or two at a time to try it out. 
+  
+ "$50 a night for 10 nights a month would cover mortgage and most of the utilities," he said. 
+  
+ Barreth has been so busy dealing with local media requests that he hasn’t yet had a chance to use the connection himself—he and his family live about 20 minutes away from the second house, and their neighborhood was not included in the first rollout regions. 
+  
+ Kansas City, setting itself apart 
+  
+ Demarais said he knew he’s been spoiled: "Wherever I go after this, my Internet speed is going to be ruined." 
+  
+ His company, Threedee, hopes to provide an added benefit to the growing 3D printing ecosystem. 
+  
+ "We’re building a front-end dev toolkit that lets developers view and manipulate 3D models in a browser," he said. "We have an API that lets you communicate those models directly to 3D printers entirely in javascript without need to convert to a 3D model. We want to shake up manufacturing with tools that will allow people to buy products made for them." 
+  
+ Demarais moved to Kansas City from Boston to work on his new startup—and while the move was driven in part by Google Fiber, being able to live rent-free for 90 days was huge. He had considered staying home in Boston or moving to San Francisco, but both cities are notoriously expensive. 
+  
+ "I don’t want to raise capital yet and it’s hard to do that if I would need to get a part-time job just to pay rent," he added. "All of that stuff is taken care for me, that was the big thing. People are too quick to discredit the value of a free-rent environment with like-minded people. KC needs to separate itself from the other scenes. Why here? Fiber is not enough. I think you need to have a dense startup community, and if young people are not moving here and trying to start startups, you need to artificially create that flow." ||||| Google Fiber will soon be a viable cable alternative in many neighborhoods in Kansas City. 
+  
+ Hopefully it will also soon become an alternative in every city. 
+  
+ For $120 a month, Google Fiber brings you normal cable TV, a massive digital video recorder, and broadband Internet access that is 100-times as fast as your cable company's. 
+  
+ For $70 a month, you can get just the Internet access. 
+  
+ If that's not enough, there's one promise Google is making that will make cable customers everywhere jump for joy. 
+  
+ Google is promising that its installer will arrive when he or she says he will arrive — not force you to stay home for hours for an appointment "window." 
+  
+ It's a big country, so it will unfortunately likely take a while for Google to come to your neighborhood. 
+  
+ But if nothing else, here's hoping Google Fiber scares the bejeezus out of the cable industry, forcing cable companies to upgrade their own broadband services and finally put a bigger premium on customer service. 
+  
+ Get the latest Google stock price here. |||||
+
+Summary:

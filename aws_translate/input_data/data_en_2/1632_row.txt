@@ -1,0 +1,22 @@
+Student A:Passage: "Believe Me, if All Those Endearing Young Charms" is a popular song written in 1808 by Irish poet Thomas Moore using a traditional Irish air. Moore's young wife had been stricken with an illness and worried that she would lose her looks. He wrote the words to reassure her.
+
+Question: Based on this passage, who wrote believe me if all those endearing young charms?
+Student B:OK... The important part for answering this question is: "Believe Me, if All Those Endearing Young Charms" is a popular song written in 1808 by Irish poet Thomas Moore using a traditional Irish air.
+Irish poet Thomas Moore.
+
+Student A:Photosystem II is located mostly in the grana thylakoids, whereas photosystem I and ATP synthase are mostly located in the stroma thylakoids and the outer layers of grana. The cytochrome b6f complex is distributed evenly throughout thylakoid membranes. Due to the separate location of the two photosystems in the thylakoid membrane system, mobile electron carriers are required to shuttle electrons between them. These carriers are plastoquinone and plastocyanin. Plastoquinone shuttles electrons from photosystem II to the cytochrome b6f complex, whereas plastocyanin carries electrons from the cytochrome b6f complex to photosystem I.
+
+Answer this question based on the passage: what are the proteins called that transport electrons in the thylakoid membrane?
+Student B:OK... To answer the above question, the relevant sentence is: Due to the separate location of the two photosystems in the thylakoid membrane system, mobile electron carriers are required to shuttle electrons between them.
+plastoquinone and plastocyanin.
+
+Student A:Fifteen Democrats have served as President under 16 administrations: the first was seventh President Andrew Jackson, who served from 1829 to 1837; Grover Cleveland served two nonconsecutive terms from 1885 to 1889 and 1893 to 1897; and is thus counted twice (as the 22nd and 24th President). The most recent was the 44th President Barack Obama, who held the office from 2009 to 2017.
+
+Based on this passage, who was the first president identified as a democrat?
+Student B:OK... To answer this question, we should know that: Fifteen Democrats have served as President under 16 administrations: the first was seventh President Andrew Jackson, who served from 1829 to 1837; Grover Cleveland served two nonconsecutive terms from 1885 to 1889 and 1893 to 1897; and is thus counted twice (as the 22nd and 24th President).
+seventh President Andrew Jackson.
+
+Student A:Context: Theodora "Teddy" Altman, M.D. is a fictional character from the ABC medical drama Grey's Anatomy, portrayed by actress Kim Raver. She was an attending cardiothoracic surgeon at Seattle Grace Mercy West Hospital, the fictional institution where the show is set. She leaves the show in the 8th-season finale after it is revealed that she has been offered a chief position with Army Medical Command, but has turned it down out of loyalty to Dr. Owen Hunt. In order to liberate her from the hospital where her husband died, Hunt fires her from Seattle Grace. Teddy returns for a few episodes in season 14.
+
+Question: who is dr altman on grey's anatomy?
+Student B:

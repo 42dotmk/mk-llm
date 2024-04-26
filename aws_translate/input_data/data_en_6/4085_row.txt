@@ -1,0 +1,39 @@
+Subject: TCO- CAPACITY ALLOC-TIMELY NOMINATION CYCLE OCT. 30, 2001
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. I am writing to provide you with a detailed overview and update on the capacity allocation for the Timely Nomination Cycle on October 30, 2001, concerning the Transportation Capacity Operations (TCO) at our facilities.
+
+As you may be aware, our principal mission has been to guarantee the efficient and reliable transport of natural gas to meet the growing demands of the market while maintaining strict safety standards. Given the seasonal fluctuations and pertinent facility maintenance activities, it's crucial to ensure that our capacity allocation and nomination activities are executed in a timely and cost-effective manner.
+
+For the upcoming Timely Nomination Cycle on October 30, 2001, the following key areas have been addressed:
+
+1. Capacity Allocation:
+Based on market demands and ongoing maintenance projects, our current available capacity is set at [XX,XXX Dth/day]. This capacity level will cater to the primary firm transportation agreements and account for any scheduled maintenance or contingencies that may arise.
+
+2. Nomination Window:
+The nomination window for the October 30th nomination cycle is set to be open from [Start Time] to [End Time]. Kindly ensure that all the nominations are submitted within this timeframe to allow for prompt scheduling and confirmation. Any nominations submitted after the deadline will be addressed on a best-effort basis.
+
+3. Allocation Prioritization:
+To ensure fairness and optimal capacity utilization, we have established the following priority ranking for capacity allocation:
+
+   a. Primary Firm Transportation Customers - These customers will receive the first priority in capacity allocation, according to their contract demand.
+   
+   b. Secondary Firm Transportation Customers - These customers will be allocated capacity based on availability after assigning capacity to primary firm transportation agreements.
+
+   c. Interruptible Transportation Customers - These customers will receive the residual capacity after fulfilling the commitments of both primary and secondary firm transportation customers.
+
+4. Current Maintenance Activities:
+As part of our ongoing maintenance schedule, some facilities are currently undergoing repair and will affect the transportation capacity allocation. An updated maintenance schedule is available on our website, which provides information on the expected impact on capacity availability.
+
+5. Communication Channels:
+In an effort to streamline our communication, we request that you submit your nominations and capacity requests through our electronic bulletin board (EBB) or electronic data interchange (EDI) system. Should you require any assistance, please contact our customer support team at [XXX-XXX-XXXX] or [CustomerSupport@TCO.com].
+
+In conclusion, it is of utmost importance that we work together to ensure a successful and efficient nomination cycle on October 30, 2001. Your timely submission of nominations and adherence to the outlined prioritization will contribute significantly to a seamless capacity allocation process. For any further inquiries or concerns, please do not hesitate to reach out to me directly.
+
+Thank you for your ongoing commitment to our mutual success,
+
+[Your Name]
+[Your Title]
+[Company Name]
+[Contact Information]

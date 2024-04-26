@@ -1,0 +1,19 @@
+Question: There is an old adage that goes "The people who' run' Los Angeles belong to The Jonathan Club; the people who' own' Los Angeles belong to The California Club." The membership is by invitation only. The new members must be invited by at least six existing members of the Club, and pass series of interviews by the Club's Membership Committee.
+
+Based on this passage, how to become a member of the california club?
+Answer: The relevant information to answer the above question is: The new members must be invited by at least six existing members of the Club, and pass series of interviews by the Club's Membership Committee. The answer is be invited by at least six existing members of the Club , and pass series of interviews by the Club 's Membership Committee.
+
+Question: One of baseball's first expansion teams, the Mets were founded in 1962 to replace New York's departed NL teams, the Brooklyn Dodgers and the New York Giants. The Mets' colors are composed of the Dodgers' blue and the Giants' orange, which also form the outer two bands of the New York City flag. During the 1962 and 1963 seasons, the Mets played their home games at the Polo Grounds. From 1964 to 2008, the Mets' home ballpark was Shea Stadium. In 2009, they moved into their current ballpark, Citi Field.
+
+When did the new york mets became a team?
+Answer: The relevant information to answer the above question is: One of baseball's first expansion teams, the Mets were founded in 1962 to replace New York's departed NL teams, the Brooklyn Dodgers and the New York Giants. The answer is 1962.
+
+Question: Passage: The Staten Island Ferry is a passenger ferry route operated by the New York City Department of Transportation. The ferry's single route runs 5.2 miles (8.4 km) through New York Harbor between the New York City boroughs of Manhattan and Staten Island, with ferry boats making the trip in approximately 25 minutes. The ferry operates 24 hours a day, 7 days a week, with boats leaving every 15 to 20 minutes during peak hours and every 30 minutes at other times. It is the only direct mass-transit connection between the two boroughs. Historically, the Staten Island Ferry has charged a relatively low fare compared to other modes of transit in the area; and since 1997, the route has been fare-free. The Staten Island Ferry is one of several ferry systems in the New York City area, and is operated separately from other systems such as NYC Ferry and NY Waterway.
+
+Question: Based on this passage, how far is it from staten island to manhattan?
+Answer: This is the relevant information: The ferry's single route runs 5.2 miles (8.4 km) through New York Harbor between the New York City boroughs of Manhattan and Staten Island, with ferry boats making the trip in approximately 25 minutes. The answer is 5.2 miles ( 8.4 km ).
+
+Question: Election Commission of India's Model Code of Conduct is a set of guidelines issued by the Election Commission of India for conduct of political parties and candidates during elections mainly with respect to speeches, polling day, polling booths, election manifestos, processions and general conduct. These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections. Much of it is designed to avert communal clashes and corrupt practices. For example, politicians should not make hate speeches, putting one community against another or make promises about new projects that may sway a voter.
+
+When does model code of conduct come into force?
+Answer:

@@ -1,0 +1,22 @@
+Write the last sentence in this story.
+
+Washington (CNN) -- Two hours after first being notified of an attack on the U.S. diplomatic mission in Benghazi, Libya, a government e-mail to the White House, the State Department and the FBI said an Islamist group had claimed credit, according to a copy obtained by CNN. An initial e-mail was sent while the attack was still underway, and another that arrived two hours later -- sent from a State Department address to various government agencies including the executive office of the president -- identified Ansar al-Sharia as claiming responsibility for the attack on its Facebook page and on Twitter.
+
+Two
+
+OPTIONS:
+- Americans officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Ansar al-Sharia officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Benghazi officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- CNN officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Christopher Stevens officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- FBI officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Facebook officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Hillary Clinton officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Islamist officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Libya officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- State Department officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Twitter officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- U.S. officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- Washington officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.
+- White House officials, speaking on condition of not being identified on Wednesday, said the government e-mails about the attack were not an intelligence assessment.

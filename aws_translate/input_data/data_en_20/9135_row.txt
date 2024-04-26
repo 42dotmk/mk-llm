@@ -1,0 +1,128 @@
+HTC's U11 flagship phone HTC 
+  
+ Smartphones have evolved to be controlled by touch. With its latest flagship device, HTC is taking this a step further by allowing the phone to be operated with a squeeze. 
+  
+ HTC Vive's £200 wireless upgrade kit launches spring 2017 VR HTC Vive's £200 wireless upgrade kit launches spring 2017 
+  
+ Advertisement 
+  
+ The Taiwanese firm has launched the HTC U11 with a feature dubbed Edge Sense. It says by giving the 5.5-inch phone a "squeeze", it's possible to use the phone's apps, camera, and more. The squeeze function, which works on the edges of the device, operates in two ways. Pressure sensors on the phone are located below the volume buttons on the sides of the device. A short squeeze can be configured to open an app, while a long squeeze can launch Google's Assistant or Amazon's Alexa. 
+  
+ HTC 
+  
+ Read next HTC launches a new platform for the Vive Standalone VR headset, no PC required HTC launches a new platform for the Vive Standalone VR headset, no PC required 
+  
+ We've yet to see the squeeze function in action but HTC is promising a wide range of customisation from the new phone interaction. Its promotional materials, published around the phone's launch, say it is possible to take photos with the 12MP rear camera and 16MP front camera; launch a text message with a squeeze, and use the phone's voice recognition to send messages. "Before, it was a hassle to reach these features, but we simplified it into a single motion," HTC says. 
+  
+ HTC 
+  
+ Setting aside this apparent time-saving gimmick, the HTC U11 is being launched in five colours and measures 153.9 x 75.9 x 7.9mm, making it around 5mm shorter than the iPhone 7 Plus and 6mm shorter than the Samsung Galaxy 8 Plus. Four of the HTC's colours – silver, blue, black and white – will be available in the UK when the phone launches in June and the red variation will come later this year. The HTC U11 will go on sale for £649 at launch from Carphone Warehouse, EE, O2, Amazon, Very.co.uk, Argos and the Taiwanese company itself. 
+  
+ Advertisement 
+  
+ Inside the smartphone is a 3000mAh battery, 64/128GB of storage, a Snapdragon 835 processor (up to 2.45 Ghz), and 4/6GB of RAM, depending on the specifications you select. There's also the usual array of NFC, Bluetooth, and Wi-Fi support as well as a fingerprint sensor, light sensor, proximity sensor, magnetic sensor, and gyroscope. 
+  
+ HTC 
+  
+ Four microphones built into the device are used for audio recording and a 'liquid glass surface' makes the silver HTC U11, at least from pictures, to be one of the shiniest, most reflective phones on the market. 
+  
+ Advertisement 
+  
+ At its launch, the device will run Android 7.1, the latest version of the Google-owned operating system. The version of Nougat has support for Google's Daydream VR and circular Android icons. 
+  
+ HTC also claims the U11 is the first smartphone to be able to use a "hands-free wake word" to access Amazon's AI assistant, Alexa. The 'always-on' voice commands allow the phone to be listening for the trigger word which then launches the digital assistant when called upon. Google and Apple both have similar features with their 'Okay, Google' and 'Hey Siri' commands. 
+  
+ Expand your mind with WIRED's pick of the best podcasts ||||| But this is all table stakes for a modern, high-end smartphone. With the U11, the real magic starts when you turn up the pressure. 
+  
+ The U11's hallmark feature is Edge Sense, which relies on pressure sensors embedded in the phone's sides. They can detect minute changes in how firmly you grip your phone, and -- more importantly -- can be used to trigger shortcuts and app actions. Let's say you're wearing gloves and feel the sudden, overbearing urge to take a selfie. You could give the U11 a quick squeeze to launch the camera, and another to snap a photo. With the "advanced" mode enabled, you can even set up different shortcuts for quick squeezes and longer squeeze-and-holds. 
+  
+ Having the pressure-sensitive equivalent of some convenience keys is neat, but after seeing more nuanced controls in the HTC Ocean videos leaked a while back, we're left with three words: "Is this it?" Don't get us wrong: the pressure sensing worked well enough, but we're not sold on its utility just yet. 
+  
+ HTC is also working on what could generously be described as "AI overload." Check it out: the U11 will ship with Google's Assistant onboard, and will get Alexa via software update shortly after launch. HTC says that, thanks to the Snapdragon 835, the U11 can listen for and respond to different wake words -- that is, it should never confuse an "OK, Google" with a question for Alexa. Even better, you won't need an app running in the foreground like you did with the Alexa experiece on Huawei's Mate 9. We don't know when Motorola's Alexa efforts will be revealed, but it seems like Alexa on the U11 is the version to beat. 
+  
+ Beyond those two, the U11 will also come with HTC's own Sense Assistant, which is meant to chew on your schedule and behavior to offer suggestions like when to bring an umbrella to work. Yeah, that's right: the U11 can have up to three virtual assistants working at the same time. We weren't kidding about overload. 
+  
+ For some, though, the U11's audio chops might be the game-changer. There's more space inside the phone for a speaker chamber, which makes audio sound far louder and richer than on the HTC 10. (In fact, HTC product planning AVP Nigel Newby-House cranked up the U11's volume all the way outside a crowded conference room in our office, and the people inside were getting noticeably pissed by the din.) 
+  
+ And while there's no headphone jack, at least HTC is using Type-C to add to the audio experience. Remember how the U Ultra's USonic earbuds used a sonar-like pulse to intepret the contours of your ear and tune your tunes accordingly? The U11's earbuds do that too, but they also pack-in active noise cancellation without the need for bulky battery module. They draw power from your phone's battery, which is both good and bad: you'll never have to remember to charge your headphones before a flight, but you can bet it'll impact your battery life somewhat. 
+  
+ We'll withhold our judgment on the U11 until we've played with final US units, but we're cautiously optimistic about this thing's chances. The fact that it has a competitive set of guts is reassuring, especially when these slices of silicon are potent enough to deliver near-seamless performance. Still, when the marquee feature -- that pressure-sensing business -- seems to boil down into a minor convenience, we have to wonder if HTC's focus on thoughtful, clever features is starting to waver. ||||| You can’t really blame HTC for embracing a gimmick. A rough couple of years for the smartphone maker warrants some experimentation to help set its devices apart from myriad other Android manufacturers. Edge Sense, sadly, however, is not going to be that technology. The company teased the handset’s squeezable sides in a handful of short web videos, and now that the U 11 has been officially unveiled, we can confirm that the flagship’s most compelling feature isn’t really all that compelling in its current form. 
+  
+ The feature uses sensors built into the sides of the phone to detect pressure as the user squeezes the phone. At present, actual applications for the tech mean that it essentially doubles as something akin to the convenience key that BlackBerry has sported for ages. Basically, you assign functionality to it, so it can, say, launch your favorite app. 
+  
+ In a briefing ahead of this morning’s launch in Taiwan, VP of Product Planning, Nigel Newby-House suggested that this is just the first glimpse into future functionality for Edge Sense — and certainly there’s a lot to be done with a new set of on-board sensors. As it stands, however, Edge Sense is really much more than a glorified button with the addition of an actual new physical button like Samsung did with the devoted Bixby key on the S8. 
+  
+ It probably speaks a bit to the unfulfilled promise of the feature that Newby-House opted not to lead with this feature in our conversation. Most of the talk about the device centered around design decision. And it’s true — the U11 is a good-looking phone, borrowing some cues from the recently announced Ultra. In fact, the company seems to consider the Ultra something of a dry run for the new flagship — or at the very least, a way of introducing the new product line and design language. Probably something you don’t want to hear if you shelled out the $750 for the handset in the last couple of months. 
+  
+ The company calls it Liquid Design — a nod to the curvature and the notion that dipping it in liquid would fill in the sorts of gaps you usually get when two different surfaces are juxtaposed. Not the most straightforward idea, but it sounds nice, so fine. And while it looks pretty good, as well, it’s not exactly unique, bringing to mind other flagships like the S8, particularly given the use of a reflective metallic paint job. 
+  
+ The screen is 5.5-inches, the same size you’ll get on the iPhone 7 Plus. The company says it flirted with the idea of switching up the aspect ratio like LG and Samsung have with their newest flagships (and, according to rumors, like Apple is planning on the 8), but opted to stick with 16:9 for “software reasons” — in other words, it didn’t want to deal with having to rejigger everything on that end. That said, it’s still entertaining the possibility of jumping on the tall phone ship for future devices. 
+  
+ The company has already been on the anti-headphone jack train for a little bit. The Ultra found the company planting its flag on that beach. “The headphone jack is going away,” Newby-House told me matter-of-factly. “Let’s just get on with it.” Of course, not everyone concurs, and other companies haven’t aligned themselves with Apple as quickly as many analysts expected. Even Motorola, which joined the part with the Moto Z, appears as if it’s regretting that move. 
+  
+ That said, the company is still committed as ever to audio — a welcome change from most companies, for whom audio is a fifth- or sixth-tier priority. The phone features a new version BoomSound, one of the better audio systems presently on handsets — though, weirdly, the company opted against dual front-facing speakers in order to accommodate a fingerprint sensor, even as more and more companies are moving biometrics to the back of the device. The phone also ships with company’s proprietary USonic earbuds, which sport active noise canceling. 
+  
+ The most interesting piece of the audio puzzle, however, is the fact that there are four microphones in the handset. This is largely based on a newfound interest in other people’s smart assistants (though it’s got some positive implication for video recording, as well). HTC has worked directly with Qualcomm to design a device capable of responding to two different wake words for two different assistants — neither of which are the in-house one it announced along with the Ultra. 
+  
+ Instead, the company is embracing both Assistant and Alexa. The company says it sees advantages to both and doesn’t want to play favorites. Fair enough. There’s certainly a lot to be said for putting the ultimate decision in the hands of the user. That said, this doesn’t seem to bode well for the company’s faith in its own Sense Companion. And while it says this doesn’t preclude it from going full-on Bixby in the future, it currently views its own play as more of a supplement to Assistant and Alexa. 
+  
+ “We’ve never envisioned Companion as a wake word-type assistant,” says Newby-House. The company is more focused on using it to enhance its own software offerings, likely because it simply isn’t robust enough to be considered a standalone. That said, the company’s getting pretty close to a shit-or-get-off-the-pot moment here. The whole idea of a smart assistant has created a single unified experience — having an assistant designed to work with other assistants kind of flies in the face of all of that. 
+  
+ Oh, and Alexa isn’t shipping with the device out of the box. The company says the functionality should arrive within a month. This is kind of par for the course, at this point. Huawei ran up against a similar roadblock. Part of the issue is the fact that companies have to work directly with Amazon to customize the experience. When it does arrive, it will be in the form of an over-the-air update. It will also be in the box for devices later. 
+  
+ When that functionality does arrive, however, it will bring more traditional functionality. Calling, texting and the like will come down the road. ||||| Want to launch the camera on the HTC U11? Just squeeze. 
+  
+ When the phone's pressure-sensitive sides register your tightened grip, it'll open the app you've programmed in. 
+  
+ Say you've squeezed the camera app open. You can squeeze again to take a picture. A long squeeze might open and close the flashlight, or toggle Wi-Fi or a voice recording. Or another app of your choice. 
+  
+ What's going on is an entirely new way to interact with a phone. Called Edge Sense, this feature marks the first time any phonemaker has used touch like this. For HTC, a company that has itself felt the squeeze from larger rivals such as Samsung, Apple and LG, the U11's grippy new feature presents an opportunity to step out of others' shadows with an industry first. 
+  
+ Giving a phone pressure-sensitive sides is an incredibly interesting innovation, and one that raises a lot of questions: is this a natural way to open shortcuts, or is it better suited to some other task? Will it be accurate or will mispresses abound? Is it a useless gimmick, or the start of exciting things to come? 
+  
+ I don't have an answer to that yet, but after my brief time with the phone, I did try out many of the launch options, and I like that an animation of squeezed-in sides lets you know the feature's working. I found the motion easy to execute, but I did sometimes long-squeeze when I meant to short-squeeze. 
+  
+ I think muscle memory will take care of that down the road. I also think this method of app-launching would only be useful for the apps I open all the time (which takes that voice recorder out of the running). 
+  
+ The bigger question for HTC is if the U11's fresh look and feel, and high end specs are enough to make a dent in Samsung and Apple's overwhelming lead -- squeeze feature or no. From what I've seen of the U11 so far, its premium hardware stands the best chance of any HTC phone in quite awhile. 
+  
+ The rest will come down to performance, and how well HTC can gets its phone in front of buyers. 
+  
+ Price and release date 
+  
+ In the US, the HTC U11 sells for $649 -- you'll be able to pick it up in sapphire blue, amazing silver and brilliant black. Buy the unlocked version from htc.com, and AT&T, T-Mobile and Verizon carrier versions from Amazon. The phone will arrive on your doorstep in June. You'll also be able to buy the blue and black HTC U11 from Sprint. The phone goes on sale June 9, but early preorders will also get you two Amazon Echo ($129.00 at Adorama) Dot ($29.95 at Amazon.com) speakers. It'll cost $0 down and$29 per month for 24 months, for a grand total of $696. 
+  
+ It's too soon to say how the U11 performs compares to the Galaxy S8 ($578.95 at Amazon.com) and LG G6, and if buyers connect with its glass design and squeeze effects. 
+  
+ Gorgeous glass design, advanced processor and everything else 
+  
+ The Big Squeeze sure is attention-grabbing, but it's really one small feature in what's shaping up to be a pretty good package. 
+  
+ Enlarge Image Josh Miller/CNET 
+  
+ You get a 5.5-inch display with a QHD, or 2,560x1,440-pixel resolution (same as the Samsung Galaxy S8 and LG G6), so there's plenty of screen to interact with. 
+  
+ Then there's the body itself. The U11 refines the gorgeous "melted" glass design of the U Ultra ($390.00 at Amazon.com). It really does look like pools of liquid. It's striking. 
+  
+ It's also highly reflective and smudges up quickly. The phone meets a water-resistant rating of IP67, which helps keep water away for up to 30 minutes and 3 feet (1 meter). 
+  
+ I like that the 12-megapixel rear camera sits flush on the design; it's good that the lens doesn't poke out. If you follow camera specs, the U11 uses dual-pixel autofocus technology rather than laser autofocus (this should help it focus faster), and has an aperture of f1.7 (versus f1.8 on the HTC 10 ($384.99 at Amazon.com)). 
+  
+ Your front-facing camera is a 16-megapixel wide-angle lens (150 degrees). Camera images seemed completely usable in my quick tests, but I didn't have the time to really dig deep into setting or image quality. 
+  
+ Other things to know going in: 
+  
+ There's no headset jack, so you'll need to plug the included earbuds into the USB-C port. 
+  
+ HTC includes an adapter if you prefer to use your own headphones. 
+  
+ Google Assistant is on board. 
+  
+ Amazon Alexa assistant will launch with a wake word. (HTC will add this about a month after the U11 goes on sale.) 
+  
+ Audio quality so far seems loud, clear and rich. 
+  
+ The Edge Sense squeeze feature is pressure sensitive and will work underwater and through some cases. 
+  
+ HTC will also make a model in solar red (expect it to sell in select regions). |||||
+What is a one-paragraph summary of the above article?

@@ -1,0 +1,25 @@
+Each raised bed is 8 feet long, the same as the planks, so the long sides of the beds will each be 1 plank long. Each raised bed is 2 feet wide, or 2 / 8 = 1 / 4 the length of the planks, so the short sides will each be 1 / 4 plank long. Each bed is 2 feet tall, and the planks are 1 foot wide, so each side will need 2 pieces of lumber of the same length. So each bed will require 2 * 2 * 1.25 = 4 * 1.25 = 5 planks of wood. Bob wants to build 10 raised beds, so he will need 10 * 5 = 50 planks of lumber.
+The answer: 50
+Reverse engineering the question: Bob is building raised beds for his vegetable garden. Each bed is 2 feet high, 2 feet wide, and 8 feet long. The sides are going to be built of 1-foot wide planks. If Bob buys his lumber in 8-foot-long boards, planning to cut some of them for the shorter lengths he'll need, how many 8-foot long planks will he need to construct 10 raised beds?
+
+Reasoning and answer: Cassie needs to drink 8 * 12 = 96 ounces of water to drink 12 cups a day. Thus, Cassie needs to refill her water bottle 96 / 16 = 6 times a day.
+The answer: 6
+What was the question?
+Question: Cassie is an athletic person and tries to drink at least 12 cups of water a day to stay hydrated while being active. Her water bottle holds 16 ounces. There are 8 ounces of water in a cup. How many times does Cassie have to refill her water bottle a day to make sure she drinks 12 cups?
+
+Troy has $50 + $20 = $70 from his savings and the sales of his old computer. Therefore, he still needs $80 - $70 = $10 more to buy the new computer.
+The answer: 10
+Reverse engineering the question: Troy is thinking of buying a new computer that is worth $80. He has initially saved $50 and plans to sell his old computer for $20. How much more money does he need so he could buy the new computer?
+
+Reasoning and answer: Pete spends 4 * 5 = 20 cents. Raymond has 7 * 10 = 70 cents left. Raymond spent 250 - 70 = 180 cents. Together, Pete and Raymond spent 20 + 180 = 200 cents.
+The answer: 200
+What was the question?
+Question: Pete and Raymond each receive $2.50 from their grandmother. Pete saves his money and only spends 4 nickels. Raymond spends his money at the arcade games but still has 7 dimes left. How much did Pete and Raymond spent altogether, in cents?
+
+He still has to improve by 60 more seconds because 90 - 30 = 60. This will take 6 days because 60 / 10 = 6.
+The answer: 6
+Reverse engineering the question: Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. After realizing that he can hold it for ten extra seconds each day, he realizes he can calculate how many days it is until he reaches 90 if he keeps up the same pace. So how many days until he can hold his breath for 90 seconds?
+
+Bill gives each of his children 3 apples, so since he has two children this is 3 * 2 = 6 apples. Jill bakes 2 apple pies, using 10 apples each so this means she uses 10 * 2 = 20 apples. In total, this means 20 + 6 = 26 apples were used. Since Bill began with 50 apples, this means there are 50 - 26 = 24 apples remaining.
+The answer: 24
+Reverse engineering the question:

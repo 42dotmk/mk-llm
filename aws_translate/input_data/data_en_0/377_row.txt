@@ -1,0 +1,18 @@
+Detailed Instructions: In this task, you need to write an incorrect answer to the given question. Along with the question, you are also given the correct answer(s) and the associated paragraph. An incorrect answer should be closely related to the content of the paragraph and/or the question but will not truthfully answer the question. Your incorrect answers should be similar to the given correct answer such that it will pose a challenge for students to distinguish the two. A good incorrect answer should prevent those who skip the paragraph from answering the question. The incorrect answer should not be trivial, in the sense that they should not be easily eliminated without reading the paragraph.
+Q: Paragraph- Sent 1: Catherine V. "Ginny" Kilgore of Oxford, an attorney with North Mississippi Rural Legal Services, has been recognized for her dedication to serving the indigent.
+Sent 2: Kilgore - who oversees delivering legal services to the disabled and elderly in 39 north Mississippi counties - is recipient of the University of Mississippi School of Law's 2002 Public Service Award.
+Sent 3: The award was announced recently at a dinne r, held in Kilgore's honor and hosted by law school Dean Samuel M. Davis, who presented her with an engraved plaque.
+Sent 4: "Ginny Kilgore is a public servant in the truest sense," said Davis.
+Sent 5: "Her selection continues the tradition of this award in recognizing those who have labored in the trenches, with little or no compensation but with great professional and personal satisfaction in helping to bring justice and equality to those who need it most."Sent 6: "This award means a great deal to me," Kilgore said, pointing to others so honored.
+Sent 7: "The work of those who received the award before me has been so important; I feel very honored."Sent 8: After earning bachelor's and master's degrees in education and a few years teaching, Kilgore enrolled at the UM law school.
+Sent 9: Upon graduation in 1975, she entered private law practice in Oxford, joining NMRLS in 1978.
+Sent 10: Since then, she has earned promotions from managing attorney, senior attorney, then director of the Council on Aging project.
+Sent 11: Since 1990, she has worked in the Administrative Law Unit and Resource Development, and directed the Elder Law Project, serving the northern half of the state.
+Sent 12: She also is an adjunct professor in the UM law school's Civil Law Clinic.
+Sent 13: She held a similar post a few years ago in the school's Elder Law Clinic.
+Sent 14: Kilgore says she's found her niche.
+Sent 15: "I've always thought it was important to do work to help people.
+Sent 16: I really enjoy it.
+Sent 17: The issues I've dealt with through the years have been on the side of helping people maintain the basics of life - home, healt h care, jobs and family."Sent 18: She says her desire to serve others was sparked early, growing up in a single-parent home, aware that her widowed mother faced certain challenges as she supported her four children through public school and college. 
+Question: Ginny Kilgore has worked in which two UM law school clinics?.
+A:

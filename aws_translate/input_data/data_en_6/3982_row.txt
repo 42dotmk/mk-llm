@@ -1,0 +1,25 @@
+He produces 5 * 20 = 100 liters of honey. That means he keeps 100 / 2 = 50 liters of honey. So he needs 50 / .5 = 100 jars.
+The answer: 100
+Reverse engineering the question: James buys jars for his honey. He has 5 hives that each produce 20 liters of honey. Each jar can hold .5 liters. How many jars will he need to buy if his friend is bringing his own jars for half the honey?
+
+Reasoning and answer: During one minute the metro sells 5 tickets, so they earn 5 * 3 = $15. So in 6 minutes they would earn 15 * 6 = $90.
+The answer: 90
+What was the question?
+Question: One ticket to the underground costs $3. In one minute, the metro sells an average of 5 such tickets. What will be the earnings from the tickets in 6 minutes?
+
+The total dollar amount of Nike's sold is 8 * $60 = $480. The total dollar amount of Adidas's sold is 6 * $45 = $270. The total dollar amount of Reebok's sold is 9 * $35 = $315. The total dollar amount that Alice sold was $480 + $270 + $315 = $1065. Therefore, she sold above her goal by $1065 - $1000 = $65.
+The answer: 65
+Reverse engineering the question: Alice needs to sell $1000 of shoes to meet her quota. Adidas cost $45, Nike cost $60, and Reeboks cost $35. If she sells 8 Nikes, 6 Adidas's, and 9 Reeboks, how much is she short or above her goal?
+
+Reasoning and answer: Aston had torn and has now fixed a total of 150 pages on the floor / 25 pages per comic = 6 comics. Adding this to the comics that were never torn means there are 6 fixed comics + 5 untorn comics = 11 comics in the box of comics.
+The answer: 11
+What was the question?
+Question: Aston has accidentally torn apart his comics and needs to put all the pages back together. Each comic has 25 pages and Aston has found 150 pages on the floor. He puts his comics back together and adds them back into his box of comics. If there were already 5 untorn comics in the box, how many comics are now in the box of comics?
+
+8 + 8 = 16 students are enrolled in the German class. 8 * .25 = 2 dropped out from the new recruits. 2 more left, so the class had 16 - 2 - 2 = 12 students left. There were 12 * 5 + 12 = 72 total students in the class after the rally. Two people had to drop the class, so there were 72 - 2 = 70 left. 70 + 6 = 76 were enrolled after the final rally. 76 / 2 = 38 are left after half the class dropped. 38 / 2 = 19 are left after half the class graduated.
+The answer: 19
+Reverse engineering the question: A local college is offering German lessons and currently has 8 students enrolled. Through advertising, 8 more became interested but a fourth of these dropped out within a day. 2 more got frustrated and left. The class then rallied to show how simple the course actually is and increased enrollment by 5 times the amount of students already enrolled in the class, but 2 had to drop it because of scheduling conflicts. After one last rally, 6 more people enrolled. As the days passed, half of the class eventually dropped, and half of the remaining students graduated. How many are still enrolled?
+
+Sam makes $460 / 23 hrs = $20 / hr. From September to February, Sam made 8hrs x $20 / hr = $160. From March to February, Sam made a total of $460 + $160 = $620. After fixing his car, he was left with $620 - $340 = $280. Sam needs another $600 - $280 = $320. Sam needs to work another $320 / $20 / hr = 16 hours.
+The answer: 16
+Reverse engineering the question:

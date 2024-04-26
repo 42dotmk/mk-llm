@@ -1,0 +1,19 @@
+Q: Passage: The 21st century is the current century of the Anno Domini era or Common Era, in accordance with the Gregorian calendar. It began on January 1, 2001 and will end on December 31, 2100. It is the first century of the 3rd millennium. It is distinct from the century known as the 2000s which began on January 1, 2000 and will end on December 31, 2099.
+
+Question: Based on this passage, when did the 21st century begin and end?
+A: began on January 1 , 2001 and will end on December 31 , 2100. How to explain the answer? This is the relevant information: It began on January 1, 2001 and will end on December 31, 2100.
+
+Q: The U.S. Constitution also provides for appointment of one of the elected Senators to serve as President pro tempore. This Senator presides when the vice president was absent from the body. The President pro tempore is selected by the body specifically for the role of presiding in the absence of (as the meaning of pro tempore, literally "for the time being") the actual presiding officer. By tradition, the title of President pro tempore has come to be given more-or-less automatically to the most senior senator of the majority party. In actual practice in the modern Senate, the President pro tempore also does not often serve in the role (though it is his or her constitutional right to do so), instead, as governed by the aforementioned Rule I, he or she frequently designates a junior senator to perform the function.
+
+Answer this question based on the passage: who is the backup leader of the senate?
+A: The President pro tempore. How to explain the answer? The relevant information is: The President pro tempore is selected by the body specifically for the role of presiding in the absence of (as the meaning of pro tempore, literally "for the time being") the actual presiding officer.
+
+Q: Michigan J. Frog is an animated cartoon character who debuted in the Merrie Melodies cartoon One Froggy Evening (December 31, 1955), written by Michael Maltese and directed by Chuck Jones. In this cartoon, partly inspired by a 1944 Cary Grant film entitled Once Upon a Time, Michigan is a male frog who wears a top hat, carries a cane, sings pop music, ragtime, Tin Pan Alley hits, and other songs from the late 19th and early 20th century while dancing and performing acrobatics in the style of early 20th century vaudeville. He appeared in a later cartoon titled Another Froggy Evening which was released on October 6, 1995. He was also a former mascot of The WB Television Network from that year until 2005, and after The Night of Favorites and Farewells, he was shown as the final image of a white silhouette bowing down to viewers, bringing up The CW Television Network.
+
+Based on this passage, what is the name of the wb frog?
+A: Michigan J. Frog. How to explain the answer? To answer this question, we should know that: He was also a former mascot of The WB Television Network from that year until 2005, and after The Night of Favorites and Farewells, he was shown as the final image of a white silhouette bowing down to viewers, bringing up The CW Television Network.
+
+Q: "Believe It or Not" is a song composed by Mike Post with lyrics by Stephen Geyer, and sung by American singer Joey Scarbury. It serves as the theme song for the 1980s television series The Greatest American Hero. The track was later included on Scarbury's 1981 debut album America's Greatest Hero.
+
+Based on this passage, who sang believe it or not it just me?
+A:

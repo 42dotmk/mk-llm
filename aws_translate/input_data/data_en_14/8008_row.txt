@@ -1,0 +1,70 @@
+Article:
+Note: A conference call for media with FTC Consumer Protection Director Jessica Rich will occur as follows: 
+  
+ Date: July 1, 2014 
+  
+ Time: 2:45 p.m. ET 
+  
+ Call-in lines, which are for media only, will open 15 minutes prior to the start of the call. Jessica Rich and FTC staff will be available to take questions from the media about the case. 
+  
+ In a complaint filed today, the Federal Trade Commission is charging mobile phone service provider T-Mobile USA, Inc., with making hundreds of millions of dollars by placing charges on mobile phone bills for purported “premium” SMS subscriptions that, in many cases, were bogus charges that were never authorized by its customers. 
+  
+ The FTC alleges that T-Mobile received anywhere from 35 to 40 percent of the total amount charged to consumers for subscriptions for content such as flirting tips, horoscope information or celebrity gossip that typically cost $9.99 per month. According to the FTC’s complaint, T-Mobile in some cases continued to bill its customers for these services offered by scammers years after becoming aware of signs that the charges were fraudulent. 
+  
+  
+  
+ Excerpts from an actual T-Mobile bill showing cramming charges. (click to view full-size) 
+  
+ “It’s wrong for a company like T-Mobile to profit from scams against its customers when there were clear warning signs the charges it was imposing were fraudulent,” said FTC Chairwoman Edith Ramirez. “The FTC’s goal is to ensure that T-Mobile repays all its customers for these crammed charges.” 
+  
+ In a process known as “third-party billing,” a phone company places charges on a consumer’s bill for services offered by another company, often receiving a substantial percentage of the amount charged. When the charges are placed on the bill without the consumer’s authorization, it is known as “cramming.” 
+  
+ The FTC’s complaint alleges that in some cases, T-Mobile was charging consumers for services that had refund rates of up to 40 percent in a single month. The FTC has alleged that because such a large number of people were seeking refunds, it was an obvious sign to T-Mobile that the charges were never authorized by its customers. As the complaint notes, the refund rate likely significantly understates the percentage of consumers who were crammed. The complaint also states that internal company documents show that T-Mobile had received a high number of consumer complaints at least as early as 2012. 
+  
+ The FTC has made significant efforts to end mobile cramming. In the last year, in addition to holding a public workshop on mobile cramming, the Commission has filed several lawsuits against alleged mobile cramming operations Jesta Digital, Wise Media, and Tatto Inc. According to today’s complaint, T-Mobile billed its customers for the services of these FTC defendants as well as an operation sued by the Texas Attorney General. 
+  
+ The complaint against T-Mobile alleges that the company’s billing practices made it difficult for consumers to detect that they were being charged, much less by whom. When consumers viewed a summary of their T-Mobile bill online, according to the complaint, it did not show consumers that they were being charged by a third party, or that the charge was part of a recurring subscription. The heading under which the charges would be listed, “Premium Services,” could only be seen after clicking on a separate heading called “Use Charges.” Even after clicking, though, consumers still could not see the individual charges. 
+  
+ The complaint also alleges that T-Mobile’s full phone bills, which can be longer than 50 pages, made it nearly impossible for consumers to find and understand third-party subscription charges. After looking past a “Summary” section as well as an “Account Service Detail” section, both of which described “Usage Charges” but did not itemize those charges, a consumer might then reach the section labeled “Premium Services,” where the crammed items would be listed. 
+  
+ According to the complaint, the information would be listed there in an abbreviated form, such as “8888906150BrnStorm23918,” that did not explain that the charge was for a recurring third-party subscription supposedly authorized by the consumer. In addition, the complaint notes that consumers who use pre-paid calling plans do not receive monthly bills, and as a result the subscription fee was debited from their pre-paid account without their knowledge. 
+  
+ When consumers were able to determine they were being charged for services they hadn’t ordered, the complaint alleges that T-Mobile in many cases failed to provide consumers with full refunds. Indeed, the FTC charged that T-Mobile refused refunds to some customers, offering only partial refunds of two months’ worth of the charges to others, and in other cases instructed consumers to seek refunds directly from the scammers – without providing accurate contact information to do so. 
+  
+ The complaint also notes that in some cases, T-Mobile claimed that consumers had authorized the charges despite having no proof of consumers doing so. 
+  
+ The FTC’s complaint seeks a court order to permanently prevent T-Mobile from engaging in mobile cramming and to obtain refunds for consumers and disgorgement of T-Mobile’s ill-gotten gains. 
+  
+ The FTC thanks the Federal Communications Commission and its Enforcement Bureau for their invaluable assistance with and close cooperation and coordination in this matter. 
+  
+ The Commission vote authorizing the staff to file the complaint was 5-0. The complaint was filed in the U.S. District Court for the Western District of Washington. 
+  
+ NOTE: The Commission files a complaint when it has “reason to believe” that the law has been or is being violated and it appears to the Commission that a proceeding is in the public interest. The case will be decided by the court. 
+  
+ The Federal Trade Commission works for consumers to prevent fraudulent, deceptive, and unfair business practices and to provide information to help spot, stop, and avoid them. To file a complaint in English or Spanish, visit the FTC’s online Complaint Assistant or call 1-877-FTC-HELP (1-877-382-4357). The FTC enters complaints into Consumer Sentinel, a secure, online database available to more than 2,000 civil and criminal law enforcement agencies in the U.S. and abroad. The FTC’s website provides free information on a variety of consumer topics. Like the FTC on Facebook, follow us on Twitter, and subscribe to press releases for the latest FTC news and resources. ||||| Earlier this afternoon, the Federal Trade Commission filed a complaint against T-Mobile, alleging the wireless carrier made hundreds of millions of dollars off of bogus premium text-messaging charges “crammed” onto customers’ bills . The response from T-Mobile CEO John Legere isn’t exactly what you would describe as contrite. 
+  
+ “We have seen the complaint filed today by the FTC and find it to be unfounded and without merit,” writes Legere. “In fact T-Mobile stopped billing for these Premium SMS services last year and launched a proactive program to provide full refunds for any customer that feels that they were charged for something they did not want.” 
+  
+ So there you go, America. T-Mobile shouldn’t be sued for something it made a mountain of money from because it is no longer making that mountain of money and it’s offering refunds to customers who “feel” they were charged for something they didn’t order. 
+  
+ Legere — who struts around in a leather coat, crashing his competitors’ parties, has a history of making grandiose statements about his company and blatantly mocking his much bigger competitors, and who recently used the word “rape” in reference to AT&T and Verizon — calls the FTC suit “sensationalized,” which is a bit like Bob Hope calling Bing Crosby dead. 
+  
+ Legere comes across like the snotty teen who got caught doing something wrong and then cops an attitude when he’s told that “I’m no longer doing it” does not wipe away the transgression. 
+  
+ In speaking with reporters after today’s announcement, Jessica Rich, Director of the FTC’s Bureau of Consumer Protection, explained that the agency “did engage in settlement negotiations with T-Mobile, but were not able to reach a settlement.” 
+  
+ Here is the entire statement from Legere, presented in appropriately colored text: 
+  
+ We have seen the complaint filed today by the FTC and find it to be unfounded and without merit. In fact T-Mobile stopped billing for these Premium SMS services last year and launched a proactive program to provide full refunds for any customer that feels that they were charged for something they did not want. T-Mobile is fighting harder than any of the carriers to change the way the wireless industry operates and we are disappointed that the FTC has chosen to file this action against the most pro-consumer company in the industry rather than the real bad actors. 
+  
+ As the Un-carrier, we believe that customers should only pay for what they want and what they sign up for.” said John Legere, CEO T Mobile USA. “We exited this business late last year, and announced an aggressive program to take care of customers and we are disappointed that the FTC has instead chosen to file this sensationalized legal action. We are the first to take action for the consumer, I am calling for the entire industry to do the same. 
+  
+ This is about doing what is right for consumers and we put in place procedures to protect our customers from unauthorized charges. Unfortunately, not all of these third party providers acted responsibly—an issue the entire industry faced. We believe those providers should be held accountable, and the FTC’s lawsuit seeking to hold T-Mobile responsible for their acts is not only factually and legally unfounded, but also misdirected. ||||| WASHINGTON (AP) — T-Mobile USA knowingly made hundreds of millions off its customers in bogus charges, a federal regulator alleged Tuesday in a complaint likely to damage the reputation of a household name in wireless communications. 
+  
+ In its complaint filed in federal court, the Federal Trade Commission claimed that T-Mobile billed consumers for subscriptions to premium text services such as $10-per-month horoscopes that were never authorized by the account holder. The FTC alleges that T-Mobile collected as much as 40 percent of the charges, even after being alerted by other customers that the subscriptions were scams. 
+  
+ "It's wrong for a company like T-Mobile to profit from scams against its customers when there were clear warning signs the charges it was imposing were fraudulent," said FTC Chair Edith Ramirez. "The FTC's goal is to ensure that T-Mobile repays all its customers for these crammed charges." 
+  
+ The practice is often referred to as "cramming": businesses stuff a customer's bill with bogus charges associated with a third party. In this case, the FTC says T-Mobile should have realized that many of these premium text services were scams because of the high rate of customer complaints. But while as many as 40 percent of customers demanded refunds, others didn't notice the charges. 
+  
+ Headquartered in Bellevue, Washington, T-Mobile USA, Inc., is a publicly traded company. According to its website, Deutsche Telekom AG maintains a 67 percent ownership in the company's common stock. |||||Summary:

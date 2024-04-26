@@ -1,0 +1,16 @@
+Problem:Passage: Maternity leave in the United States is regulated by US labor law. There is a right to a temporary and unpaid period of absence from employment granted to expectant or new mothers during the months immediately before and after childbirth. These policies are generally aimed at supporting the mother's full recovery from childbirth and facilitating a stronger mother-child bond. The Family and Medical Leave Act of 1993 (FMLA) requires 12 weeks of unpaid leave annually for most mothers of newborn or newly adopted children.
+
+Question: Based on this passage, how much maternity leave are mothers entitled to in the us?
+Solution:OK... The relevant information is: The Family and Medical Leave Act of 1993 (FMLA) requires 12 weeks of unpaid leave annually for most mothers of newborn or newly adopted children.
+12 weeks of unpaid leave annually for most mothers of newborn or newly adopted children.
+
+Problem:Passage: The flag of the United States of America, often referred to as the American flag, is the national flag of the United States. It consists of thirteen equal horizontal stripes of red (top and bottom) alternating with white, with a blue rectangle in the canton (referred to specifically as the "union") bearing fifty small, white, five-pointed stars arranged in nine offset horizontal rows, where rows of six stars (top and bottom) alternate with rows of five stars. The 50 stars on the flag represent the 50 states of the United States of America, and the 13 stripes represent the thirteen British colonies that declared independence from the Kingdom of Great Britain, and became the first states in the U.S. Nicknames for the flag include The Stars and Stripes, Old Glory, and The Star-Spangled Banner.
+
+Question: Based on this passage, how many stars has the american flag got?
+Solution:OK... This is the relevant information: It consists of thirteen equal horizontal stripes of red (top and bottom) alternating with white, with a blue rectangle in the canton (referred to specifically as the "union") bearing fifty small, white, five-pointed stars arranged in nine offset horizontal rows, where rows of six stars (top and bottom) alternate with rows of five stars.
+fifty.
+
+Problem:Filming was originally set to begin in October 1993, but was delayed because Crowe was busy on another film in Australia. Principal photography for The Quick and the Dead lasted from November 21, 1993 to February 27, 1994. Locations included Old Tucson Studios in Arizona and Mescal, 40 miles southeast of Tucson. Production was briefly halted at times over weather problems. Thell Reed, who was hired as the gun coach and weapons master, worked with the cast through over three months of training. To age Cort's Colt 1851 Navy Revolver and the other guns used, Reed experimented with simple measures. "I took them out by my swimming pool and dipped them in chlorine water to let them rust," he explained. "They looked rusty and old, but were brand new guns." Such detail, including the nickel plating and ivory handles on Ellen's Colt Peacemakers, was accurate to the time period.
+
+Where was the movie the quick and the dead filmed?
+Solution:

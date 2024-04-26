@@ -1,0 +1,23 @@
+Ques & Ans: Passage: Snow White and the Seven Dwarfs is a 1937 American animated musical fantasy film produced by Walt Disney Productions and originally released by RKO Radio Pictures. Based on the German fairy tale by the Brothers Grimm, it is the first full-length cel animated feature film and the earliest Disney animated feature film. The story was adapted by storyboard artists Dorothy Ann Blank, Richard Creedon, Merrill De Maris, Otto Englander, Earl Hurd, Dick Rickard, Ted Sears and Webb Smith. David Hand was the supervising director, while William Cottrell, Wilfred Jackson, Larry Morey, Perce Pearce, and Ben Sharpsteen directed the film's individual sequences.
+
+Question: Based on this passage, when did the first snow white come out?
+1937
+Stream of consciousness: This is the relevant information: Snow White and the Seven Dwarfs is a 1937 American animated musical fantasy film produced by Walt Disney Productions and originally released by RKO Radio Pictures.
+
+Ques & Ans: Dulce de leche (Spanish: ( ˈdulθe ðe ˈletʃe); Portuguese: doce de leite IPA: (ˈdosi dʒi ˈlejtʃi) ) is a confection prepared by slowly heating sweetened milk to create a substance that derives its flavour from the Maillard reaction, also changing colour, with an appearance and flavour similar to caramel. Literally translated, it means "candy (made) of milk" or "sweet (made) of milk." Its origin is a highly debated topic and it is popular in most Latin American countries.
+
+Based on this passage, what does dulce de leche mean in spanish?
+`` candy ( made ) of milk '' or `` sweet ( made ) of milk . ''
+Stream of consciousness: To answer this question, we should know that: Literally translated, it means "candy (made) of milk" or "sweet (made) of milk."
+
+Ques & Ans: Shurpanakha (Sanskrit: शूर्पणखा, IAST: śūrpaṇakhā, lit. she whose fingernails are like winnowing fans) is a character in Valmiki's epic, the Ramayana, and is the sister of the main antagonist, Ravana, King of Lanka. She is known as Soorpanagai in Tamil, Sarpakanaka in Indonesian, Surpanakhar in Khmer, Surapandaki in Malay, and Sammanakkha in Thai.
+
+Answer this question based on the passage: what is the name of ravan's sister?
+Shurpanakha ( Sanskrit : शूर्पणखा , IAST : śūrpaṇakhā , lit . she whose fingernails are like winnowing fans )
+Stream of consciousness: This is the relevant information: Shurpanakha (Sanskrit: शूर्पणखा, IAST: śūrpaṇakhā, lit. she whose fingernails are like winnowing fans) is a character in Valmiki's epic, the Ramayana, and is the sister of the main antagonist, Ravana, King of Lanka.
+
+Ques & Ans: A tablespoon is a large spoon used for serving or eating. In many English-speaking regions, the term now refers to a large spoon used for serving, however, in some regions, including parts of Canada, it is the largest type of spoon used for eating. By extension, the term is used as a measure of volume in cooking. In this capacity, it is most commonly abbreviated tbsp or T, and occasionally referred to as a tablespoonful to distinguish it from the utensil. The unit of measurement varies by region: a United States tablespoon is approximately 14.8 ml (0.50 US fl oz), a United Kingdom and Canadian tablespoon is exactly 15 ml (0.51 US fl oz), and an Australian tablespoon is 20 ml (0.68 US fl oz). The capacity of the utensil (as opposed to the measurement) is not defined by law or custom and bears no particular relation to the measurement.
+
+How much is a table spoon in ounces?
+a United States tablespoon is approximately 14.8 ml ( 0.50 US fl oz ) , a United Kingdom and Canadian tablespoon is exactly 15 ml ( 0.51 US fl oz ) , and an Australian tablespoon is 20 ml ( 0.68 US fl oz )
+Stream of consciousness:

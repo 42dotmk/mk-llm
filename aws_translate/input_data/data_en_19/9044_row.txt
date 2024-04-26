@@ -1,0 +1,87 @@
+Write a summary based on this article:
+
+FILE - In this Jan. 16, 1998 file picture the 5,000-year-old body of Iceman Oetzi, discovered in 1991 on the Similaun glacier is inspected by scientists in Innsbruck, Scientists say Oetzi wore clothes... (Associated Press) 
+  
+ FILE - In this Jan. 16, 1998 file picture the 5,000-year-old body of Iceman Oetzi, discovered in 1991 on the Similaun glacier is inspected by scientists in Innsbruck, Scientists say Oetzi wore clothes... (Associated Press) 
+  
+ BERLIN (AP) — Scientists say Oetzi the Iceman wore clothes made of brown bear pelt and roe deer when he died in the Alps 5,300 years ago. 
+  
+ Researchers in Italy used genetic analysis to determine that the two materials were used for Oetzi's fur hat and his leather quiver respectively. 
+  
+ Niall O'Sullivan, a researcher at the European Academy of Bolzano, Italy, said the study published Thursday in the journal Scientific Reports also showed that other pieces of Oetzi's clothing came from domesticated animals. 
+  
+ The mix of materials suggests the Iceman was adept at using material from domesticated sheep, cattle and goat as well as wild animals to fashion clothes. 
+  
+ Oetzi's mummified body has been studied extensively since it was discovered on a glacier near the Italian-Austrian border in 1991. ||||| An outfit can tell a lot about somebody – particularly if that person died 5,300 years ago. 
+  
+ Ötzi the Iceman, a natural mummy discovered frozen in the Ötztal Alps in Italy, has offered scientists a broad variety of clues into the lives of Copper Age Europeans since its discovery a quarter century ago. And now researchers know what leathers and furs the mysterious man wore. 
+  
+ But the investigation wasn't just to see if the famous mummy was fashion-forward. Knowing which animal skins Ötzi wore is another way to fill in the blanks in pre-historians' picture of Copper Age Europe. 
+  
+ "Most of the clothes were composed of cattle, sheep, and goat," says study lead author Niall J. O’Sullivan, a PhD candidate at University College Dublin and the EURAC-Institute for Mummies and the Iceman in Italy. 
+  
+ "This affirms previous observations about the Iceman," he tells The Christian Science Monitor, "that he was indeed an agro-pastoralist." 
+  
+ But not all of Ötzi's clothes were from domesticated animals. He also used brown bear furs and roe deer hide. 
+  
+ "The choices that Copper Age people made with respect to animals exploitation were likely dependent on availability, necessity, functionality and symbolism," the researchers write in a paper published Thursday in the journal Scientific Reports. 
+  
+ The mix of domestic and wild animals used illustrate that diversity of utility and dynamics in Ötzi's society. Although farming would have been the dominant way of life, the Iceman and his peers also hunted for food and supplies. 
+  
+ This "gives insight into their daily life," writes Johannes A. Lenstra, editor-in-chief of Animal Genetics and a professor at Utrecht University, who was not part of the study, in an email to the Monitor. "They had to cope!" 
+  
+ Scientists have poked and prodded Ötzi since he was discovered by two hikers in 1991. They know what his last meal was, how he was murdered, and who his living relatives are. 
+  
+ But previous analysis of his clothing was limited because the tanning process, preservation, and subsequent scientific analyses had made the source animals for the leathers and furs difficult to identify. 
+  
+ So Mr. O'Sullivan and his colleagues turned to DNA to identify the species covering Ötzi's body. 
+  
+ Ötzi wore a full outfit when he died, likely to keep him warm in the chilly mountains. A furry hat sat atop his head, straw-stuffed shoes were on his feet, and he wore leggings, a loincloth, and a coat. 
+  
+ The team found that the Iceman's shoes were laced up with strings made of cattle leather, while his loincloth and much of his coat were made of sheep leather. 
+  
+ But his overcoat was a bit of a patchwork. The genetic analysis revealed that this article of clothing was made of both goat and sheep leather. The combination suggests that the Iceman pieced together whatever hides he had available, which would have been necessary as the ancient leather likely deteriorated quickly, the researchers write in the new paper. 
+  
+ Ötzi's leggings, however, seem to be a more deliberate choice. Made of the more supple goat leather, they would have been relatively flexible for walking. Or perhaps goat leather was chosen for its "insulating potential," the researchers write. 
+  
+ A set of 4,500-year-old leggings found in the Swiss Alps were also made of goatskin, so perhaps this was a common use for that material. 
+  
+ The Iceman's hat was made from the skin of a brown bear, which Dr. Lenstra suggests could have had symbolic meaning as well as keeping Ötzi's head warm. 
+  
+ "It is imaginable that with a hat of a skin of an intimidating animal you become more intimidating yourself," he suggests. 
+  
+ And perhaps the quiver Ötzi carried his arrows in also had important symbolic meaning, Lenstra says. 
+  
+ The quiver was made from the hide of roe deer, an animal known to be swift. 
+  
+ "If survival depended on hunting with arrows and individual status on your success as marksman, the belief may have been crept in that a quiver made of a fast-running species increases your chance of hitting well the next time," Lenstra says. 
+  
+ The use of roe deer skin has more concrete implications too. 
+  
+ Researchers had found that Ötzi's diet included venison, from a different species: red deer. They had previously assumed the deer leather was that species too, so finding that the quiver was made from a roe deer suggests a more diverse use of wild species. 
+  
+ The leathers Ötzi wore were not from extinct wild animals, but "animals which are all typically observed in alpine Europe today," O'Sullivan says. Furthermore, "the domestic species, the cattle, sheep, and goat, had the same haplogroups of the modern haplogroups of cattle, sheep, and goats which are observed in Europe today." 
+  
+ In other words, these leathers came from well-established populations of domestic animals, not just wild relatives of today's domestic animals, he says. 
+  
+ Get the Monitor Stories you care about delivered to your inbox. By signing up, you agree to our Privacy Policy 
+  
+ Although clothes likely weren't all about couture in the Copper Age, understanding Ötzi's attire does help bring human history to life, Lenstra says. 
+  
+ So what will archaeologists thousands of years from now think of life in 2016, based on our fashion sense? ||||| Here we present a comprehensive targeted enrichment and species identification of 5,300-year-old leather from the Iceman’s clothes and quiver (Table 1). Of the nine samples taken, all produced libraries with sufficient data to identify the source species of the material. These were cattle, sheep, goat, brown bear and roe deer. Six libraries had sufficient coverage to fully reconstruct the mitogenome and confidently identify mtDNA haplotypes and reconstruct phylogeny (Fig. 1). Three libraries were of reduced coverage, thereby only partially reconstructing the mitogenomes and allowing for an approximated phylogeny (Fig. 2). Nonetheless, the identified cattle, sheep and goats sequences all fall within the range of mitochondrial genetic variability observed today in modern European domestic populations36,37,38. The mitogenomic genetic variability recovered shows that the sheep and goat leather fragments came from multiple hides. The genetic haplotypes of the wild species both roe deer and brown bear are consistent with present day phylogeography in the Alpine region39,40. 
+  
+ The Mitochondrial capture analysis allowed for an effective increase in coverage (between a four and 620-fold increase in coverage) and highlighted the effectiveness of NGS assisted with mitochondrial targeted enrichment to retrieve residual endogenous DNA from suboptimal sources such as skin or tanned leather10,41. Furthermore, our shotgun analysis is the first NGS quantification of the residual endogenous DNA present in archaeological leather. These data show that the endogenous content was highly variable and considerably lower than that of tissue sampled from the Iceman for genomic reconstruction3. This result lends support to the theory that tanning, the restoration processes, or both can remove endogenous markers10,11 and furthermore that the tanning may have exposed the material to a greater degree of bacterial and chemical degradation7. Equally, these results could support the hypothesis that soft tissue has a generally weaker retention of endogenous DNA compared to calcified remains41. Interestingly, enriched libraries displayed neither co-enrichment from other mammalian species or cross contamination from other animals in the mapped data (Supplementary Figs 2–10, Table 1). Hence, there is little genetic evidence from these samples to suggest that leathers and furs were treated with fat and oil extracted from other animals during the ancient tanning process11. Previous studies have however observed residual plant-based oils and fats in ancient leather indicating their use in leather manufacturing. Such as the identification of plant lipids in Neolithic leathers from the contemporaneous Schnidejoch Pass site in Switzerland7. 
+  
+ The Iceman’s garments and quiver are from an assemblage of at least five different species of animal. The coat alone was a combination of at least four hides and two species: goat and sheep. This result may indicate a haphazard stitching together of clothing based upon materials that were available to the Iceman, as ancient rudimentary leather is posited to rapidly deteriorate after manufacture6,12. However, the leggings were composed of goat leather, which was also used in the manufacture of a 4,500-year-old leggings from Schnidejoch, Switzerland. This result lends support to the idea that Copper Age individuals in the Alpine region selected species for specific attributes when manufacturing clothing8. This may also indicate a functional choice of material based on flexibility or insulating potential. 
+  
+ Previous microscopic and proteomic analyses of the Iceman’s clothes could not resolve beyond genus taxonomy or surpass the technical challenges caused by absence of species specific markers4,5. Hollemeyer et al.5 noted that many domestic and wild species germane to the study were too closely related to distinguish PMFs (Peptide mass fingerprints) or that adequate reference databases did not exist. There are inconsistencies between the species identification of our study and Hollemeyer et al.5, contrary to our results they observed chamois and red deer PMFs in parts of the coat, Canid PMFs in the leggings, and cattle PMFs in the quiver. Different sampling locations on the same clothing may explain this disparity, as highlighted by our results from the coat analysis above. 
+  
+ The haplogroups identified in these samples from sheep, goat and cattle all fall within the domestic variability of the source animal in modern Europe, novel SNPs have been recovered that may have been lost from contemporary domestic haplogroups (Supplementary Table 3). In this study, the goat mitogenomes were identified as haplogroup A, yet a goat B1 haplogroup was observed in a study of 4,500-year-old swiss leggings8. The ancient distribution of domestic goat haplogroups are unknown, yet B1’s modern European distribution is restricted to Greece and Turkey8,42. Goat haplogroup B1 is more widespread in western Asia, but is closely related to haplogroup A. The Iceman and his leggings predate the Swiss find by c. 800 years, suggesting an overlap in the distribution of goat haplogroups that is no longer present in Europe. The sheep leather and fur were identified within haplogroup B1 from the three coat fragments and the loincloth. One sheep (coat 10304) mitogenome has the same distinct mutations at loci 16147 and 16440 reported by Olivieri et al.13 in a PCR analysis of fibres from a later excavation the Iceman’s find site. However, other mutations reported by Olivieri et al.13 were not present indicating that they identified sequences from yet another sheep used in the garment assemblage and recovered from the find site. The shoelace mitogenome closely resembled the cattle reference sequence of haplogroup T3, which is the predominant mitochondrial haplotype in European domestic cattle and is observed in high frequency throughout the Neolithic of Europe43. 
+  
+ The quiver was identified as roe deer, clustering near the contemporary central European clade. This is the first time this species has been identified as being part of the Iceman’s leather attire. Notably, red deer (Cervus elaphus) was identified from PCR of hair shafts at the finding site14 and contents of the Iceman’s stomach44, and from PMFs of the quiver5. The evidence that the Iceman utilised at least two deer species shows the variety of wild materials from which he subsisted. The hat sequence clusters inside the Western lineage of brown bears, suggesting regional continuity of this genetic marker. Previous studies of brown bears report complex phylogeography across its range, typified by overlapping ranges of divergent clades of brown bear and introgression with polar bears (Ursus maritimus) due to convoluted gene flow caused by Pleistocene climatic changes40,45. The assignment of the hat to brown bear is important given that previous studies could not resolve its taxonomy beyond Carnivora5, and secondly that it is unambiguously a wild species that was used for clothing manufacture. 
+  
+ Despite the Iceman being established as an agro-pastoralist2,3, the hat and quiver provide evidence of hunting and trapping of wild animals. Other studies have proposed parts of the diet, clothing and equipment as belonging to wild species such as wild canid (for the hat, species previously unresolved), red deer and chamois5,14. Rollo et al.44 demonstrated that the Iceman consumed red deer and alpine ibex (Capra ibex). The choices that Copper Age people made with respect to animals exploitation were likely dependent on availability, necessity, functionality and symbolism46. Given the diversity of the analysed material (each analysed fragment comes from a different animal), the lack of any obvious symbolism and the rapid degradation rate of ancient leather11 it would appear that the Iceman’s leathers and furs were first chosen haphazardly for subsistence as rudimentary leather pieces rapidly disintegrated and required replacement with strips of new hide. There is however likely to be a regional variation in the selection of wild and domestic populations throughout the Copper Age and the Iceman provides a window into the alpine region which may have been unlike other locations46. 
+  
+ These results are based on uni-parental maternal genetic markers, hence the authors cannot exclude the possibility that the analysed domestic species were sourced from herds that were re-stocked with wild males as occurred between cattle and aurochsen populations as is postulated in ancient Britain31. Whole genome sequencing of the Iceman’s attire in the future may increase our knowledge to the degree of introgression with local populations or breeding selection for functional genes. |||||
+
+Summary:

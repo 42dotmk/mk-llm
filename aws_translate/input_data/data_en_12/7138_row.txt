@@ -1,0 +1,25 @@
+The five boxes have a total of 5 x 8 = 40 bags of balloons. So, there are 40 x 12 = 480 balloons.
+The answer: 480
+Reverse engineering the question: A party store ordered 5 boxes of balloons. Each box contains 8 bags of balloons, and there are 12 balloons in each bag. How many balloons are there?
+
+Reasoning and answer: On Tuesday she sells 5 crates * 2 = 10 crates of eggs. On Wednesday she sells 10 crates - 2 crates = 8 crates of eggs. On Thursday she sells 1 / 2 * 10 crates = 5 crates of eggs. She sells a total of 5 crates + 10 crates + 8 crates + 5 crates = 28 crates of eggs.
+The answer: 28
+What was the question?
+Question: Gabrielle sells eggs. On Monday she sells 5 crates of eggs. On Tuesday she sells 2 times as many crates of eggs as Monday. On Wednesday she sells 2 fewer crates than Tuesday. On Thursday she sells half as many crates of eggs as she sells on Tuesday. How many total crates of eggs does she sell for the 4 days?
+
+The farmer had a total of 10 rows of corn stalks * 9 corn cobs each = 90 corn cobs. He also had a total of 5 rows of potatoes * 30 potatoes each = 150 potatoes. This was a total of 90 corn cobs + 150 potatoes = 240 crops. Because pests destroyed half of his crops, he now has 240 crops * 0.5 = 120 crops.
+The answer: 120
+Reverse engineering the question: A farmer is checking his fields to make sure all of his crops are growing as they should. Rows of corn stalks should produce 9 corn cobs each, and rows of potatoes should produce 30 potatoes each. As he’s checking crop quality, he notices that there are more pests than usual and they have destroyed some of his crops. He thinks that half of his crops have been destroyed by the pests. If the farmer has 10 rows of corn stalks and 5 rows of potatoes, how many crops does the farmer still have?
+
+Reasoning and answer: Jules has to earn $200 because 1000 / 5 = 200. He has earned $40 from starting the walks because 20 x 2 = 40. He has to earn $160 from distance, because 200 - 40 = 160. He has to walk 128 blocks because 160 / 1.25 = 128.
+The answer: 128
+What was the question?
+Question: Jules is walking dogs to help pay for his family's vacation. The vacation costs $1,000. There are five members in his family and each one must contribute the same amount towards the vacation cost. He charges $2 to start a walk and $1.25 per block. If he walks 20 dogs, how many blocks in total does he have to walk them?
+
+First find the total sticks from the chairs: 6 sticks / chair * 18 chairs = 108 sticks. Then find the total sticks from the tables: 9 sticks / table * 6 tables = 54 sticks. Then find the total sticks from the stools: 2 sticks / table * 4 stools = 8 sticks. Then add up the total number of sticks she gets: 108 sticks + 54 sticks + 8 sticks = 170 sticks. Then divide the total number of sticks by the number of sticks she burns per hour to find the total number of hours she can keep warm: 170 sticks / 5 sticks / hour = 34 hours.
+The answer: 34
+Reverse engineering the question: Mary is chopping up some old furniture to make firewood. Chairs make 6 sticks of wood, tables make 9 sticks of wood, and stools make 2 sticks of wood. Mary needs to burn 5 sticks of wood per hour to stay warm. If Mary chops up 18 chairs, 6 tables and 4 stools, how many hours can she keep warm?
+
+Each boat will require 3 feet across to fit itself and 2 feet space on one side for a total of 2 + 3 = 5 feet per boat. The last boat will need an additional 2 feet space on its other side, so this 2 feet should be subtracted first from the 42 feet which leaves 42 - 2 = 40 feet. 5 feet per boat on the remaining 40 feet for a total of 40 / 5 = 8 boats.
+The answer: 8
+Reverse engineering the question:

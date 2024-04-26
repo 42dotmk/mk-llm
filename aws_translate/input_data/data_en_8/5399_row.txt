@@ -1,0 +1,27 @@
+Reasoning and answer: 2 pizzas were ordered and had 12 slices each for a total of 2 * 12 = 24 slices. Dean ate 1 / 2 of a 12 sliced pizza so 12 / 2 = 6 slices were left over. Sammy ate 1 / 3 of a 12 sliced pizza so 12 / 3 = 4 slices were left over. Dean ate 6 slices, Sammy ate 4 and Frank had 3 so 6 + 4 + 3 = 13. They started with 24 slices and 13 slices so 24 - 13 = 11 slices left.
+The answer: 11
+What was the question?
+Question: Dean ordered 2 large pizzas that were each cut into 12 slices. His friends Frank and Sammy came over to enjoy some pizza and watch a movie. Dean was hungry and ate half of the Hawaiian pizza. Frank only ate 3 slices of Hawaiian pizza and Sammy ate a third of the cheese pizza. How many total slices were left over?
+
+The store received 20 / 2 = 10 pallets of paper towels. They received 20 / 4 = 5 pallets of tissues. They received 20 / 5 = 4 pallets of paper plates. Thus, the store received 20 - 10 - 5 - 4 = 1 pallet of paper cups.
+The answer: 1
+Reverse engineering the question: A store received 20 pallets of paper products to stock. Half the pallets were paper towels, a quarter were tissues, and a fifth were paper plates. The rest were paper cups. How many pallets of paper cups did the store receive?
+
+Reasoning and answer: The mom dog eats 1.5 cups of food * 3 = 4.5 cups per day. For 6 days the mom dog will need 6 * 4.5 cups = 27 cups of food. The puppies eat 1 / 2 cup of food * 2 = 1 cup per day. There are 5 puppies * 1 cup = 5 cups per day for the puppies. For the 6 days, the puppies will need 5 cups * 6 = 30 cups of food. Combined the dogs will need 27 cups + 30 cups = 57 cups.
+The answer: 57
+What was the question?
+Question: Joy fosters dogs. The mom foster dog eats 1.5 cups of food, three times a day. The puppies each eat 1/2 cup of food, twice a day. There are 5 puppies. How much food will Joy need for the next 6 days?
+
+There are a total of 3 blocks of candy * 30 pieces of candy per candy block = 90 pieces of candy. Using this, Jan can create 90 pieces of candy / 10 pieces of candy per candy necklace = 9 candy necklaces. As Jan is keeping a candy necklace too, there must have been enough candy necklaces for 9 candy necklaces – 1 candy necklace for Jan = 8 friends.
+The answer: 8
+Reverse engineering the question: Jan is making candy necklaces for herself and a few friends. Everyone receives a candy necklace each and each candy necklace is made up of 10 pieces of candies. The pieces of candies come from blocks of candy, which each produce 30 pieces of candy. If Jan breaks down 3 blocks of candy and every single piece of candy from this is used in the candy necklaces, how many friends receive a candy necklace?
+
+Reasoning and answer: Annie spends 4 * 8 = 32 dollars on hamburgers. Annie spends 5 * 6 = 30 dollars on milkshakes. Annie spends 32 + 30 = 62 dollars on hamburgers and milkshakes. Annie had 62 + 70 = 132 dollars at first.
+The answer: 132
+What was the question?
+Question: Annie has some money. The restaurant next door sells hamburgers for $4 each. The restaurant across the street sells milkshakes for $5 each. Annie buys 8 hamburgers and 6 milkshakes. She has $70 left. How much money, in dollars, did Annie have at first?
+
+Reasoning and answer: The total cost of The Life Journey is 3 × $100 = $300. The total cost of When You Rescind is 3 × $85 = $255. The total cost of A Day a Life is 3 × $50 = $150. The total cost for all the CDs is $150 + $255 + $300 = $705.
+The answer: 705
+What was the question?
+Question:

@@ -1,0 +1,22 @@
+Student A:Context: Floral design or floral arts is the art of creating flower arrangements in vases, bowls, baskets, or other containers, or making bouquets and compositions from cut flowers, foliages, herbs, ornamental grasses, and other plant materials. Often the terms "floral design" and "floristry" are considered synonymous. Florists are people who work with flowers and plants, generally at the retail level. Floristry differs from floristics, the study of distribution and relationships of plant species over geographic areas. Floristry also differs from horticulture, which more broadly relates to the cultivation of flowers and plants so they will remain fresh as long as possible, and would be desirable for purchase, which also involves knowledge of customers' requirements and expectations. The ability to create a variety of floral designs such as wreaths, bouquets, corsages, boutonnières /' buttonholes', permanent arrangements, and other more complicated arrangements are also important.
+
+Question: different types of materials used by the florist for making bouquets?
+Student B:OK... To answer the question, consider the following: Floral design or floral arts is the art of creating flower arrangements in vases, bowls, baskets, or other containers, or making bouquets and compositions from cut flowers, foliages, herbs, ornamental grasses, and other plant materials.
+cut flowers , foliages , herbs , ornamental grasses , and other plant materials.
+
+Student A:Context: "Give me liberty, or give me death!" is a quotation attributed to Patrick Henry from a speech he made to the Second Virginia Convention on March 23, 1775, at St. John's Church in Richmond, Virginia.
+
+Question: who said guve me liberty or give me death?
+Student B:OK... To answer this question, we should know that: "Give me liberty, or give me death!" is a quotation attributed to Patrick Henry from a speech he made to the Second Virginia Convention on March 23, 1775, at St. John's Church in Richmond, Virginia.
+Patrick Henry.
+
+Student A:Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+
+Based on this passage, who's the lead singer of panic at the disco?
+Student B:OK... The relevant sentence in the passage is: Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+Brendon Boyd Urie.
+
+Student A:The Tenure of Office Act was a United States federal law (in force from 1867 to 1887) that was intended to restrict the power of the President of the United States to remove certain office-holders without the approval of the Senate. The law was enacted on March 3, 1867, over the veto of President Andrew Johnson. It purported to deny the president the power to remove any executive officer who had been appointed by the president with the advice and consent of the Senate, unless the Senate approved the removal during the next full session of Congress. The act was significantly amended on April 5, 1869. Congress repealed the act in its entirety in 1887.
+
+Based on this passage, when was the tenure of office act passed?
+Student B:

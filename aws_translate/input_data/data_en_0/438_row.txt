@@ -1,0 +1,25 @@
+q... Bristol Temple Meads is the oldest and largest railway station in Bristol, England. It is an important transport hub for public transport in the city. In addition to the train services there are bus services to many parts of the city and surrounding districts, and a ferry to the city centre. Bristol's other major station, Bristol Parkway, is on the northern outskirts of the conurbation.
+
+Based on this passage, what is the main train station in bristol?
+a... The relevant information to answer the above question is: Bristol Temple Meads is the oldest and largest railway station in Bristol, England.
+The answer is Bristol Temple Meads
+
+
+q... Educating Greater Manchester is the fifth series of the BAFTA award winning British documentary television programme Educating broadcast on Channel 4. The eight-episode fifth series began broadcast from 31 August 2017. The documentary follows previous installments in the Educating ... series including the BAFTA Award-winning Educating Essex (2011), Educating Yorkshire (2013), Educating the East End (2014) and Educating Cardiff (2015). The fifth series was filmed at Harrop Fold School in Little Hulton, Salford.
+
+Answer this question: what school is educating greater manchester set in?
+a... This is the relevant information: The fifth series was filmed at Harrop Fold School in Little Hulton, Salford.
+The answer is Harrop Fold School
+
+
+q... Harvey was born in Cincinnati, Ohio. She had hearing problems and underwent several surgeries as a child to try to correct them. Her family moved to Colorado when she was a young child. She sang throughout her childhood and her talent was recognized at Longmont High School, where she graduated in 2006. Harvey gradually lost her hearing as a result of the connective tissues disorder Ehlers-Danlos syndrome. She lost her remaining hearing when she was nineteen, while she was majoring in vocal music education at Colorado State University; as a result she left the university.
+
+How did the girl on americas got talent lose her hearing?
+a... The relevant sentence in the passage is: Harvey gradually lost her hearing as a result of the connective tissues disorder Ehlers-Danlos syndrome.
+The answer is the connective tissues disorder Ehlers - Danlos syndrome
+
+
+q... Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States of America. Founded after the American Revolution as the seat of government of the newly independent country, Washington was named after George Washington, first President of the United States and Founding Father. Washington is the principal city of the Washington Metropolitan Area, which has a population of 6,131,977. Washington is described as the political Capital of the World, owing to its status as the seat of the United States Federal Government and numerous international institutions, such as the World Bank and International Monetary Fund. Washington is one of the most visited cities in the world, with more than 20 million annual tourists.
+
+Based on this passage, what is the full form of wasington d.c?
+a...

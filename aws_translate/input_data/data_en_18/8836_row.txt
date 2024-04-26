@@ -1,0 +1,139 @@
+Q: In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+SECTION 1. REQUIREMENT FOR FEDERAL CONTRACTORS TO POSSESS SATISFACTORY 
+              RECORD OF INTEGRITY AND BUSINESS ETHICS.
+
+    (a) Defense Contractors.--(1) Chapter 137 of title 10, United 
+States Code, is amended by inserting after section 2305a the following 
+new section:
+``Sec. 2305b. Contractor requirement for satisfactory record of 
+              integrity and business ethics
+    ``(a) In General.--No prospective contractor may be awarded a 
+contract with an agency under this title unless the contracting officer 
+for the contract determines that such prospective contractor has a 
+satisfactory record of integrity and business ethics, including a 
+record of satisfactory compliance with the law (including tax, labor 
+and employment, environmental, antitrust, and consumer protection 
+laws).
+    ``(b) Information To Be Considered.--In making a determination as 
+to whether a prospective contractor has a satisfactory record of 
+integrity and business ethics, a contracting officer--
+            ``(1) shall consider all relevant credible information, but 
+        shall give the greatest weight to any violations of law that 
+        have been adjudicated during the 3-year period preceding the 
+        offer by the prospective contractor;
+            ``(2) shall consider any administrative agreements entered 
+        into with the prospective contractor if the prospective 
+        contractor has taken corrective action after disclosing a 
+        violation of law, and may consider such a contractor to be a 
+        responsible contractor if the contractor has corrected the 
+        conditions that led to the misconduct;
+            ``(3) shall consider failure to comply with the terms of an 
+        administrative agreement to be a lack of integrity and business 
+        ethics under this section;
+            ``(4) may consider other relevant information, such as 
+        civil or administrative complaints or similar actions filed by 
+        or on behalf of a Federal agency, board, or commission, if such 
+        action reflects an adjudicated determination by the agency; and
+            ``(5) shall consider the following in descending order of 
+        importance:
+                    ``(A) Convictions of and civil judgments rendered 
+                against the prospective contractor for--
+                            ``(i) commission of fraud or a criminal 
+                        offense in connection with obtaining, 
+                        attempting to obtain, or performing a Federal, 
+                        State, or local contract or subcontract;
+                            ``(ii) violation of Federal or State 
+                        antitrust law relating to the submission of 
+                        offers; or
+                            ``(iii) commission of embezzlement, theft, 
+                        forgery, bribery, falsification, or destruction 
+                        of records, making false statement, tax 
+                        evasion, or receiving stolen property.
+                    ``(B) Indictments for the offenses described in 
+                subparagraph (A).
+                    ``(C) With respect to tax, labor, employment, 
+                environmental, antitrust, or consumer protection laws--
+                            ``(i) Federal or State felony convictions;
+                            ``(ii) adverse Federal court judgments in 
+                        civil cases brought by the United States;
+                            ``(iii) adverse decisions by a Federal 
+                        administrative law judge, board, or commission 
+                        indicating violations of law; and
+                            ``(iv) Federal or State felony 
+                        indictments.''.
+    (2) The table of sections at the beginning of such chapter is 
+amended by inserting after the item relating to section 2305a the 
+following new item:
+
+``2305b. Contractor requirement for satisfactory record of integrity 
+                            and business ethics.''.
+    (b) Other Contractors.--(1) Title III of the Federal Property and 
+Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) is amended 
+by inserting after section 303L the following new section:
+
+``SEC. 303M. CONTRACTOR REQUIREMENT FOR SATISFACTORY RECORD OF 
+              INTEGRITY AND BUSINESS ETHICS.
+
+    ``(a) In General.--No prospective contractor may be awarded a 
+contract with an agency unless the contracting officer for the contract 
+determines that such prospective contractor has a satisfactory record 
+of integrity and business ethics, including a record of satisfactory 
+compliance with the law (including tax, labor and employment, 
+environmental, antitrust, and consumer protection laws).
+    ``(b) Information To Be Considered.--In making a determination as 
+to whether a prospective contractor has a satisfactory record of 
+integrity and business ethics, a contracting officer--
+            ``(1) shall consider all relevant credible information, but 
+        shall give the greatest weight to any violations of law that 
+        have been adjudicated during the 3-year period preceding the 
+        offer by the prospective contractor;
+            ``(2) shall consider any administrative agreements entered 
+        into with the prospective contractor if the prospective 
+        contractor has taken corrective action after disclosing a 
+        violation of law, and may consider such a contractor to be a 
+        responsible contractor if the contractor has corrected the 
+        conditions that led to the misconduct;
+            ``(3) shall consider failure to comply with the terms of an 
+        administrative agreement to be a lack of integrity and business 
+        ethics under this section;
+            ``(4) may consider other relevant information, such as 
+        civil or administrative complaints or similar actions filed by 
+        or on behalf of a Federal agency, board, or commission, if such 
+        action reflects an adjudicated determination by the agency; and
+            ``(5) shall consider the following in descending order of 
+        importance:
+                    ``(A) Convictions of and civil judgments rendered 
+                against the prospective contractor for--
+                            ``(i) commission of fraud or a criminal 
+                        offense in connection with obtaining, 
+                        attempting to obtain, or performing a Federal, 
+                        State, or local contract or subcontract;
+                            ``(ii) violation of Federal or State 
+                        antitrust law relating to the submission of 
+                        offers; or
+                            ``(iii) commission of embezzlement, theft, 
+                        forgery, bribery, falsification, or destruction 
+                        of records, making false statement, tax 
+                        evasion, or receiving stolen property.
+                    ``(B) Indictments for the offenses described in 
+                subparagraph (A).
+                    ``(C) With respect to tax, labor, employment, 
+                environmental, antitrust, or consumer protection laws--
+                            ``(i) Federal or State felony convictions;
+                            ``(ii) adverse Federal court judgments in 
+                        civil cases brought by the United States;
+                            ``(iii) adverse decisions by a Federal 
+                        administrative law judge, board, or commission 
+                        indicating violations of law; and
+                            ``(iv) Federal or State felony 
+                        indictments.''.
+    (2) The table of sections at the beginning of such Act is amended 
+by inserting after the item relating to section 303L the following new 
+item:
+
+``303M. Contractor requirement for satisfactory record of integrity and 
+                            business ethics.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply with respect to contracts for which solicitations are issued 
+after the date of the enactment of this Act.
+A:

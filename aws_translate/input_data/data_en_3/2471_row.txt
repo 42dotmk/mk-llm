@@ -1,0 +1,27 @@
+Reasoning and answer: The following week, he sold 50 x 3 = 150 kg of salmon. So he sold 50 + 150 = 200 kg of fish.
+The answer: 200
+What was the question?
+Question: This week, the fishmonger sold 50 kg of salmon. He sold three times more the following week. What was the total amount of fish sold in two weeks?
+
+Santana has 1 + 1 + 2 = 4 brothers with birthdays in the second half of the year. She has 7 brothers - 4 brothers = 3 brothers with birthdays in the first half of the year. Altogether, she has to buy 4 + 7 = 11 presents in the second half of the year. Therefore, she has to buy 11 - 3 = 8 more presents in the second half of the year.
+The answer: 8
+Reverse engineering the question: Santana has 7 brothers. 3 of them have birthdays in March, 1 of them has a birthday in October, 1 has a birthday in November, and another 2 of them were born in December. If Santana always buys each of her brothers a birthday present and a Christmas present, how many more presents does she have to buy in the second half of the year than the first half of the year?
+
+Reasoning and answer: Jolyn is 2 + 5 = 7 months older than Aivo. Since Leon is 2 months older than Aivo, then Jolyn is 7 - 2 = 5 months older than Leon.
+The answer: 5
+What was the question?
+Question: Four classmates were comparing their ages based on their birth month. They found out that Jolyn is 2 months older than Therese while Therese is 5 months older than Aivo. Then, Leon is 2 months older than Aivo. How much older in months is Jolyn than Leon?
+
+Mara spent $2 x 2 = $4 for riding the bumper car two times. Riley spent $4 x 4 = $16 for riding the space shuttle 4 times. They spent $5 x 3 = $15 each riding the Ferris wheel 3 times. So, they spent a total of $15 x 2 = $30 riding the Ferris wheel. Therefore the total amount they spent at the carnival is $4 + $16 + $30 = $50.
+The answer: 50
+Reverse engineering the question: Mara and Riley went to a carnival, Mara rode the bumper car two times, Riley rode the space shuttle four times, and they both rode the Ferris wheel three times. If a ticket for a bumper car cost $2, a ticket for a space shuttle cost $4, and a ticket for a Ferris wheel cost $5, how much money did they spend?
+
+Reasoning and answer: First find the total number of pages that are crumpled: 42 pages / 7 = 6 pages. Then find the total number of pages that are blurred: 42 pages / 3 = 14 pages. Then find the number of pages that are both blurred and crumpled by finding how many numbers are less or equal to 42 and divisible by both 3 and 7: there are two, 21 and 42. Then subtract the number of crumpled and blurred pages from the total number of pages, and add the number of pages that were double - counted because they were both blurred and crumpled: 42 pages - 6 pages - 14 pages + 2 pages = 24 pages.
+The answer: 24
+What was the question?
+Question: James has an old printer that crumples every seventh page and blurs the ink on every third page. If he prints 42 pages, how many are neither crumpled or blurred?
+
+Reasoning and answer: Larry spends 30 * 2 = 60 minutes per day walking his dog. Larry spends 60 / 5 = 12 minutes every day feeding his dog. Larry spends 60 + 12 = 72 minutes per day on his dog.
+The answer: 72
+What was the question?
+Question:

@@ -1,0 +1,164 @@
+Article:
+
+Mathematicians are a step closer to answering what, for some, is one of life’s most pressing questions – how to make the perfect cup of coffee. 
+  
+ Advanced mathematical analysis of a “hideously complicated” set of variables reveals that the size of the coffee grain is critical, followed by a long list of other factors. 
+  
+ This information is expected to be of particular interest to industrial manufacturers of coffee machines. 
+  
+ The research was carried out by a group from Mathematics Applications Consortium for Science and Industry (MACSI) at University of Limerick (UL), Ireland’s largest industrial mathematics research group. It was published in SIAM Journal on Applied Mathematics on Tuesday. 
+  
+ The research was led by Kevin Moroney of UL and co-authored by Dr William Lee, who now leads the industrial mathematics group at the University of Portsmouth, as well as Professor Stephen O'Brien director of MACSI at UL, Johan Marra and Dr Freek Suijver of Philips Research, Eindhoven. 
+  
+ “There are about 2,000 chemicals in coffee, making it as complex as wine,” said Dr Lee. 
+  
+ Coffee brewing is, the researchers say, poorly understood, and a better understanding of the physics and chemistry of coffee brewing is likely to lead to better designed coffee machines. 
+  
+ They used a combination of experimental and mathematical methods to reveal grain size is one of the most important elements in brewing coffee, but a host of other factors also play an important role. 
+  
+ According to Dr Lee, “what makes the best coffee is hideously complicated – from the shape of the filter, to the scale of a single grain, to the flow rate of water and which machine or tool is used, there are an enormous number of variables”. 
+  
+ “But maths is a way of revealing hidden simplicity. By using mathematical analysis, we can begin to tell the story of which elements and in what order lead to the best coffee – we are now one step closer to the perfect cup of coffee,” he explained. 
+  
+ The team hope to develop a complete theory of coffee brewing that could be used to inform the design of filter coffee machines in the same way that industry uses the theories of fluid and solid mechanics to design aeroplanes and racing cars. 
+  
+ “One of the many challenges that have to be overcome to develop such a theory is to understand the effect the grind size has on the extraction of coffee,” Dr Lee said. 
+  
+ “Our model shows that this can be understood in terms of the grind size controlling the balance between rapid extraction of coffee from the surface of grains and slow extraction from the interior of coffee grains. 
+  
+ “This not only explains qualitatively why grind size plays such an important role in determining the taste of coffee but also quantifies that relationship through formulas. These formulas could allow fine tuning the design of a coffee machine for a particular grind size,” Dr Lee concluded. 
+  
+ This work was funded through the Science Foundation Ireland Investigator Programme. ||||| Image copyright Thinkstock 
+  
+ Mathematicians are a step closer to understanding what makes a perfect cup of coffee. 
+  
+ Through some complex calculations, they have shone a light on the processes governing how coffee is extracted from grains in a filter machine. 
+  
+ This could help drinkers optimise their cuppa by applying a more precise - and scientific - approach. 
+  
+ The work is published in the SIAM Journal on Applied Mathematics. 
+  
+ Composed of over 1,800 chemical components, coffee is one of the most widely consumed drinks in the world. 
+  
+ Estimates put the number of cups drunk around the world at more than a couple of billion each day. 
+  
+ Brewing the perfect cup of coffee is always going to be a subjective endeavour. But the work by Kevin Moroney at the University of Limerick, William Lee at the University of Portsmouth and others offers a better understanding of the parameters that influence the final product. 
+  
+ While past studies have looked at the maths of coffee extraction, there hasn't been that much work on drip filter machines. 
+  
+ Media playback is unsupported on your device Media caption The BBC's Bryony Hopkins asked Londoners for their idea of the perfect cup of coffee. 
+  
+ These make up more than half of the 18 million coffee machines sold yearly in Europe, and involve pouring hot water over a bed of coffee grounds housed in a filter. 
+  
+ Gravity pulls the water through the filter, extracting soluble compounds from the coffee grains during the flow. 
+  
+ "Our overall idea is to have a complete mathematical model of coffee brewing that you could use to design coffee machines, rather like we use a theory of fluid and solid mechanics to design racing cars." Dr Lee told BBC News. 
+  
+ He said this study was a step towards that goal, adding: "We looked at the effect of coffee grain size on the way that coffee comes out of a filter coffee machine. 
+  
+ "The really surprising thing to us is that there are really two processes by which coffee is extracted from grains. There's a very quick process by which coffee's extracted from the surface of the grains. And then there's a slower tail-off where coffee comes out of the interior of the grains." 
+  
+ It had previously been known that grinding beans too finely could result in coffee that is over-extracted and very bitter. On the other hand not grinding them enough can make the end result too watery. 
+  
+ "What our work has done is take that [observation] and made it quantitative," said Dr Lee. 
+  
+ "So now, rather than just saying: 'I need to make [the grains] a bit bigger', I can say: 'I want this much coffee coming out of the beans, this is exactly the size [of grain] I should aim for." 
+  
+ This could help coffee drinkers - like Dr Lee - who grind their own beans, to optimise their coffee-making routines. 
+  
+ Image copyright Thinkstock Image caption The analysis looked at drip filter coffee machines 
+  
+ Dr Lee says he sets his grinder to the largest setting. By doing so, he says: "The grains are a bit larger than you get in the standard grind, which makes the coffee less bitter. Partly because it's adjusting that trade-off between the stuff coming out of the surface and stuff coming out of the interior. When things are larger, you're decreasing the overall surface area of the system. 
+  
+ "Also, the water flows more quickly through a coffee bed of large grains, because the water's spending less time in contact with the coffee, helping reduce the amount of extraction too. 
+  
+ "If it's bitter, it's because you're increasing the amount of surface area in the grains. Also, when the grains are very small, it's hard for the water to slide between them, so the water is spending a lot more time moving through the grains - giving it more time for the coffee to go out of solution." 
+  
+ But what to one person might seem bitter and tarry, to another might seem like the perfect cup of coffee. 
+  
+ "For industrial applications, we'd hope you could optimise the coffee machine for a certain size of grains. You could adjust the flow rate so you get the perfect extraction there," said Dr Lee. 
+  
+ "Or if the coffee machine has an integrated grinder you've got two variables to play around with. You can play around with the grind size and the flow rate." 
+  
+ The researchers are now looking at the shape of the coffee bed in drip filter machines. 
+  
+ "The shape of the coffee bed is deformed as you brew the coffee. When it goes in first, it's sitting flat at the bottom of the filter, but at the end of [brewing] it's coating the walls of the filter. This also seems to play a role in how the coffee tastes," said Dr Lee. 
+  
+ "That would allow us to address another degree of freedom: how exactly you put the water in. Do you put it in as a single jet down the centre, like water pouring out of a tap? Or do you use something more like a shower head, where it's dripping down from lots of places. Those would have different effects in disturbing the coffee bed." 
+  
+ Follow Paul on Twitter. ||||| Coffee is one of the world's most popular beverages. In Canada, two thirds of adults drink at least one cup of joe a day. 
+  
+ But beyond the caffeine kick, cups of coffee can differ wildly. Whether you have a Tim Hortons habit, swear by Starbucks or prefer to brew your own beans at home, you never quite know what you're going to get. 
+  
+ That's why researchers at Ireland's University of Limerick are working on brewing the perfect cup of coffee. 
+  
+ What makes a 'perfect' cup of coffee? 
+  
+ Researchers devised a mathematical model specifically for drip coffee machines, hoping to unlock the secret to the smoothest, most predictable, and most efficient brew. 
+  
+ Although it might seem simple, passing hot water over roasted and ground coffee beans is an incredibly complex process. 
+  
+ A model showing the transfers of water and coffee that go into brewing a cup of drip coffee. (Kevin M. Moroney) 
+  
+ There are over 1,800 chemicals in a typical cup of coffee and many of those contribute to the taste. There are mechanical variables, too: the size of the coffee grounds, the temperature of the hot water, the rate at which the water passes over the grounds, and the density of packing of the grounds all affect the flavour and texture of a humble cup of joe. 
+  
+ How much coffee did the researchers have to drink? 
+  
+ All the authors involved in the study admit that coffee is a part of their daily routine — but their research wasn't as simple as touring the coffee shops of Limerick. Instead, the team considered all the possible variables that go into making coffee and developed a mathematical and computer model that can predict the amount of coffee extraction that will take place under the conditions of a drip coffee machine. 
+  
+ Their initial equations included so many variables that it was far too cumbersome to ever actually use in practice. So the researchers decided to ignore things like brew time and water quality and focused their model on what could truly be measured. 
+  
+ However, if the orders at Starbucks are any indication, what constitutes a good cup of coffee is really based on personal preference. So it wasn't so much about researching the quality of the coffee but more the efficiency of the brew. 
+  
+ What's the biggest variable that changes coffee quality? 
+  
+ According to researcher Kevin Moroney, the size of the grounds is "vitally important" to the extraction of coffee. The larger the grind in drip coffee the less bitter the taste, partially because there are more gaps between the grinds and the hot water can circulate more easily. 
+  
+ While there are a number of factors that affect coffee quality, grind size is the most important variable. (Irene Coco / Unsplash) 
+  
+ The bitterness occurs when the surface area of the grain is high (a fine grind), preventing water from easily flowing between the grounds and increasing the amount of coffee extracted from the beans. 
+  
+ What this means is that bitterness is determined primarily by the size of the coffee grounds. The largest setting of grind size will give you the least bitter taste. But it's a trade off, since smaller grinds pack more of a caffeine punch. 
+  
+ Will this research help us make the perfect cup of coffee? 
+  
+ Yes. In fact, this work has helped them quantify just how many molecules you want to extract from a coffee bean. 
+  
+ "You want to extract about 20 per cent," said Moroney, "because if you extract too little of the mass of the coffee grain, you only get the flavours that come from chemicals of a small molecular mass which extract fast so you don't get that complex flavour you want in the coffee." 
+  
+ There's no way to calculate the perfect 20 per cent extraction at home, but you can bet that coffee machine makers are taking note. 
+  
+ The next step researchers want to take is to determine how specific brewing configurations affect the quality of coffee — and how you can maximize flavour extraction without verging on bitterness. ||||| A lot of math goes into the coffee extraction process. Public domain photo. 
+  
+ Composed of over 1,800 chemical components, coffee is one of the most widely-consumed drinks in the world. The seeds (coffee beans) from the plant of the same name are roasted and ground, allowing a flow of hot water to extract their soluble content. Undissolved solids are filtered from the dissolved particles, and the resulting liquid becomes the concoction that much of the population drinks every day. 
+  
+ Brewers have developed numerous techniques to prepare the popular beverage. All techniques are based on leaching via a solid-liquid extraction, and each method aims to produce the best quality coffee possible – a subjective feat that, despite evaluations from professional coffee tasters, is often a matter of personal preference. Because so many chemical compounds comprise a single batch of coffee, determining precise correlations between the solubles’ physical parameters and the beverage’s quality is difficult. However, understanding the mathematics of extraction can help identify the influence of various parameters on the final product. In a paper publishing today in the SIAM Journal on Applied Mathematics, Kevin M. Moroney, William T. Lee, Stephen B.G. O’Brien, Freek Suijver, and Johan Marra present and analyze a new multiscale model of coffee extraction from a coffee bed. 
+  
+ While past studies have investigated the mathematics of coffee extraction, researchers have previously paid little attention to the drip filter brewing system. Drip filter machines make up about 10 million of the 18+ million coffee machines sold yearly in Europe, and involve pouring hot water over a bed of coffee grounds housed in a filter. Gravity pulls the water through the filter, extracting coffee solubles from the grains during the flow. 
+  
+ (a) Espresso coffee is made by forcing hot water under high pressure through a compacted bed of finely ground coffee. (b) Drip filter brewing involves pouring hot water over a loose bed of coarser coffee in a filter. In either method water flows through the bed, leaching soluble coffee components from the grains. Any undissolved solids in the fluid are filtered from the extract as the liquid leaves the filter. Image credit: Kevin M. Moroney 
+  
+ Moroney et al.’s current paper focuses on drip filter machines and expands upon the authors’ previous work, which was published in Chemical Engineering Science in 2015. “Most of the models of coffee extraction we found in the literature either focused on batch extraction in a well-mixed system, or derived general transport equations without proposing specific extraction mechanisms or validating with experiments,” Moroney said. “In comparison, our model describes flow and extraction in a coffee bed, specifies extraction mechanisms in terms of the coffee grain properties, and compares the model’s performance with experiment. Our initial focus on the flow-through cylindrical brewing chamber allowed us to consider the model in one spatial coordinate and ensure that the model assumption of a static bed was valid.” 
+  
+ The authors’ earlier paper presents the derivation of this general model, which considers bed dimensions, flow rates, grind size distribution, and pressure drop. They assume isothermal conditions (constant temperature), because optimal brewing circumstances require a narrow temperature range of 91-94 degrees Celsius. They also assume that coffee bed properties remain homogeneous in any cross section and that water saturates all pores in the coffee bed, eliminating the need to model unsaturated flow. A set of conservation equations on the bed scale monitor the transport of coffee and liquid throughout the coffee bed. 
+  
+ Now the authors take that model one step further. “The model of coffee brewing published in Chemical Engineering Science was mathematically complete, but I would describe it as a model only a computer could love: a complicated system of coupled partial differential equations that can only be solved numerically,” Lee said. “This new paper analyses that model to produce a reduced system of equations for which approximate analytic solutions can be found.” 
+  
+ Transfers included in the coffee extraction model (reproduced from K. M. Moroney et al, 2015): The diagram shows the transfers of water and coffee which are described by the coffee extraction model presented in the above reference. Image credit: Kevin M. Moroney 
+  
+ Because coffee brewing involves so many components, simplifying the model becomes necessary. “In modelling a complicated physical process such as coffee brewing, one attempts to write down a system of equations which captures the essence of the process,” O’Brien said. “In doing so, we initially make some simplifications, which neglect some aspects of the real problem. For example, real coffee contains a large number of dissolved substances; we simplify our model by considering the case of a single such substance. The mathematical model then comprises conservation laws (mass momentum), which in their complete form cannot be solved exactly.” 
+  
+ The authors then utilize non-dimensionalism, which measures variables with respect to fundamental constants intrinsic to the problem, to further simplify the extraction model. This technique reduces the number of parameters—which include brew ratio, brewing time, water quality and temperature, grind size and distribution, and extraction uniformity—therefore letting the authors recognize the equations’ dominant terms before they begin actively seeking solutions. “Neglecting smaller terms thus allows us to find approximate solutions,” O’Brien said. 
+  
+ Recognizing these approximate solutions helps the authors easily identify typical trends. “Approximate solutions are formed based on the dominant processes in the coffee bed during different stages of the extraction process,” Moroney said. “Initially, the concentration of coffee in the bed is determined by the balance between a rapid extraction from the surfaces of coffee grains and the rate at which coffee is removed from the coffee bed by the extracting water. Later in the process, the extraction is dominated by slow diffusion of coffee from the kernels of larger grains, which was initially negligible.” Although the timescales of the aforementioned extraction methods are much shorter in fine coffee grinds rather than coarse grinds, the authors can still construct approximate solutions because of the timescale ratios’ small size. “The value of the solutions lies in the ability to explicitly relate the performance of a brewing system with the properties of the coffee, water and equipment used,” Moroney said. These solutions help predict the coffee quality for specific brewing configurations. 
+  
+ Location of coffee in the bed: The coffee bed consists of (intergranular) pores and grains. The grains consist of (intragranular) pores and solids. The schematic shows the breakdown of this coffee in the grains (intragranular pores are not represented for clarity). Image credit: Kevin M. Moroney 
+  
+ In the end, the authors intend for their model analysis to expose the mathematics involved in coffee brewing. “The research work is ultimately aimed at improving our understanding of the brewing process and understanding the relation between brewing process parameters and perceived coffee taste,” Marra said. 
+  
+ A possible next step involves incorporating the changing coffee bed shape that occurs while water flows through the conical filter holder of a drip filter machine. “This causes both the extraction and the flow rate through the coffee bed to become a function of position,” Marra said. The authors’ research also has the potential to inspire further models on different extraction processes, including unsaturated flow and the trapping of air pockets in a coffee bed, in the never-ending quest for a perfect cup of coffee. 
+  
+ Source article: Moroney, K.M., Lee, W.T., O'Brien, S.B.G., Suijver, F., & Marra, J. (2016). Asymptotic Analysis of the Dominant Mechanisms in the Coffee Extraction Process. SIAM Journal on Applied Mathematics, 76(6), 2196-2217. 
+  
+ About the authors: Kevin M. Moroney is a Ph.D. researcher with the Mathematics Applications Consortium for Science and Industry (MACSI) in the Department of Mathematics and Statistics at the University of Limerick. William T. Lee is a lecturer in the Department of Mathematics and Statistics at the University of Limerick, and is a part of MACSI. Stephen B.G. O’Brien is director of MACSI and a professor of applied mathematics at the University of Limerick. Freek Suijver is a program manager and senior director of the Program Management Team at Philips Research Laboratories. Johan Marra is a principal scientist and chemical engineer at Philips Research Laboratories. |||||
+What is a summary?

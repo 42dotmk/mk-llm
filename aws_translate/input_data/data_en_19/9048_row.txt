@@ -1,0 +1,245 @@
+Teacher:In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Teacher: Now, understand the problem? Solve this instance: SECTION 1. FINDINGS AND PURPOSE.
+
+    (a) Findings.--Congress finds that--
+            (1) certain scattered parcels of Federal land in Gilpin 
+        County, Colorado, are administered by the Secretary of the 
+        Interior as part of the Royal Gorge Resource Area, Canon City 
+        District, Bureau of Land Management;
+            (2) these land parcels, which comprises approximately 133 
+        separate tracts of land, and range in size from approximately 
+        38 acres to much less than an acre have been identified as 
+        suitable for disposal by the Bureau of Land Management through 
+        its resource management planning process and are appropriate 
+        for disposal; and
+            (3) even though the Federal land parcels in Gilpin County, 
+        Colorado, are scattered and small in size, they nevertheless by 
+        virtue of their proximity to existing communities appear to 
+        have a fair market value which may be used by the Federal 
+        Government to exchange for lands which will better lend 
+        themselves to Federal management and have higher values for 
+        future public access, use and enjoyment, recreation, the 
+        protection and enhancement of fish and wildlife and fish and 
+        wildlife habitat, and the protection of riparian lands, 
+        wetland, scenic beauty and other public values.
+    (b) Purpose.--It is the purpose of this Act to authorize, direct, 
+facilitate and expedite the land exchange set forth herein in order to 
+further the public interest by disposing of Federal lands with limited 
+public utility and acquire in exchange therefor lands with important 
+values for permanent public management and protection.
+
+SEC. 2. LAND EXCHANGE.
+
+    (a) In General.--The exchange directed by this Act shall be 
+consummated if within 90 days after enactment of this Act, Lake Gulch, 
+Inc., a Colorado Corporation (as defined in section 4 of this Act) 
+offers to transfer to the United States pursuant to the provisions of 
+this Act the offered lands or interests in land described herein.
+    (b) Conveyance by Lake Gulch.--Subject to the provisions of section 
+3 of this Act, Lake Gulch shall convey to the Secretary of the Interior 
+all right, title, and interest in and to the following offered lands--
+            (1) certain lands comprising approximately 40 acres with 
+        improvements thereon located in Larimer County, Colorado, and 
+        lying within the boundaries of Rocky Mountain National Park as 
+        generally depicted on a map entitled ``Circle C Church Camp'', 
+        dated August 1994, which shall upon their acquisition by the 
+        United States and without further action by the Secretary of 
+        the Interior be incorporated into Rocky Mountain National Park 
+        and thereafter be administered in accordance with the laws, 
+        rules and regulations generally applicable to the National Park 
+        System and Rocky Mountain National Park;
+            (2) certain lands located within and adjacent to the United 
+        States Bureau of Land Management San Luis Resource Area in 
+        Conejos County, Colorado, which comprise approximately 3,993 
+        acres and are generally depicted on a map entitled ``Quinlan 
+        Ranches Tract'', dated August 1994; and
+            (3) certain lands located within the United States Bureau 
+        of Land Management Royal Gorge Resource Area in Huerfano 
+        County, Colorado, which comprise approximately 4,700 acres and 
+        are generally depicted on a map entitled ``Bonham Ranch-
+        Cucharas Canyon'', dated June 1995: Provided, That it is the 
+        intention of Congress that such lands may remain available for 
+        the grazing of livestock as determined appropriate by the 
+        Secretary in accordance with applicable laws, rules, and 
+        regulations: Provided further, That if the Secretary determines 
+        that certain of the lands acquired adjacent to Cucharas Canyon 
+        hereunder are not needed for public purposes they may be sold 
+        in accordance with the provisions of section 203 of the Federal 
+        Land Policy and Management Act of 1976 and other applicable 
+        law.
+    (c) Substitution of Lands.--If one or more of the precise offered 
+land parcels identified above is unable to be conveyed to the United 
+States due to appraisal or other problems, Lake Gulch and the Secretary 
+may mutually
+ agree to substitute therefor alternative offered lands acceptable to 
+the Secretary.
+    (d) Conveyance by the United States.--(1) Upon receipt of title to 
+the lands identified in subsection (a) the Secretary shall 
+simultaneously convey to Lake Gulch all right, title, and interest of 
+the United States, subject to valid existing rights, in and to the 
+following selected lands--
+            (A) certain surveyed lands located in Gilpin County, 
+        Colorado, Township 3 South, Range 72 West, Sixth Principal 
+        Meridian, Section 18, Lots 118-220, which comprise 
+        approximately 195 acres and are intended to include all 
+        federally owned lands in section 18, as generally depicted on a 
+        map entitled ``Lake Gulch Selected Lands'', dated July 1994;
+            (B) certain surveyed lands located in Gilpin County, 
+        Colorado, Township 3 South, Range 72 West, Sixth Principal 
+        Meridian, Section 17, Lots 37, 38, 39, 40, 52, 53, and 54, 
+        which comprise approximately 96 acres, as generally depicted on 
+        a map entitled ``Lake Gulch Selected Lands'', dated July 1994; 
+        and
+            (C) certain unsurveyed lands located in Gilpin County, 
+        Colorado, Township 3 South, Range 73 West, Sixth Principal 
+        Meridian, Section 13, which comprise approximately 11 acres, 
+        and are generally depicted as parcels 302-304, 306, and 308-326 
+        on a map entitled ``Lake Gulch Selected Lands'', dated July 
+        1994: Provided, however, That a parcel or parcels of land in 
+        section 13 shall not be transferred to Lake Gulch if at the 
+        time of the proposed transfer the parcel or parcels are under 
+        formal application for transfer to a qualified unit of local 
+        government. Due to the small and unsurveyed nature of such 
+        parcels proposed for transfer to Lake Gulch in section 13, and 
+        the high cost of surveying such small parcels, the Secretary is 
+        authorized to transfer such section 13 lands to Lake Gulch 
+        without survey based on such legal or other description as the 
+        Secretary determines appropriate to carry out the basic intent 
+        of the map cited in this subparagraph.
+    (2) If the Secretary and Lake Gulch mutually agree, and the 
+Secretary determines it is in the public interest, the Secretary may 
+utilize the authority and direction of this Act to transfer to Lake 
+Gulch lands in sections 17 and 13 that are in addition to those precise 
+selected lands shown on the map cited herein, and which are not under 
+formal application for transfer to a qualified unit of local 
+government, upon transfer to the Secretary of additional offered lands 
+acceptable to the Secretary or upon payment to the Secretary by Lake 
+Gulch of cash equalization money amounting to the full appraised fair 
+market value of any such additional lands. If any such additional lands 
+are located in section 13 they may be transferred to Lake Gulch without 
+survey based on such legal or other description as the Secretary 
+determines appropriate as long as the Secretary determines that the 
+boundaries of any adjacent lands not owned by Lake Gulch can be 
+properly identified so as to avoid possible future boundary conflicts 
+or disputes. If the Secretary determines surveys are necessary to 
+convey any such additional lands to Lake Gulch, the costs of such 
+surveys shall be paid by Lake Gulch but shall not be eligible for any 
+adjustment in the value of such additional lands pursuant to section 
+206(f)(2) of the Federal Land Policy and Management Act of 1976 (as 
+amended by the Federal Land Exchange Facilitation Act of 1988) (43 
+U.S.C. 1716(f)(2)).
+    (3) Prior to transferring out of public ownership pursuant to this 
+Act or other authority of law any lands which are contiguous to North 
+Clear Creek southeast of the City of Black Hawk, Colorado in the County 
+of Gilpin, Colorado, the Secretary shall notify and consult with the 
+County and City and afford such units of local government an 
+opportunity to acquire or reserve pursuant to the Federal Land Policy 
+and Management Act of 1976 or other applicable law, such easements or 
+rights-of-way parallel to North Clear Creek as may be necessary to 
+serve public utility line or recreation path needs: Provided, however, 
+That any survey or other costs associated with the acquisition or 
+reservation of such easements or rights-of-way shall be paid for by the 
+unit or units of local government concerned.
+
+SEC. 3. TERMS AND CONDITIONS OF EXCHANGE.
+
+    (a) Equalization of Values.--(1) The values of the lands to be 
+exchanged pursuant to this Act shall be equal as determined by the 
+Secretary of the Interior utilizing nationally recognized appraisal 
+standards, including, to the extent appropriate, the Uniform Standards 
+for Federal Land Acquisition, the Uniform Standards of Professional 
+Appraisal Practice, the provisions of section 206(d) of the Federal 
+Land Policy and Management Act of 1976 (43 U.S.C. 1716(d)), and other 
+applicable law.
+    (2) In the event any cash equalization or land sale moneys are 
+received by the United States pursuant to this Act, any such moneys 
+shall be retained by the Secretary of the Interior and may be utilized 
+by the Secretary until fully expended to purchase from willing sellers 
+land or water rights, or a combination thereof, to augment wildlife 
+habitat and protect and restore wetlands in the Bureau
+ of Land Management's Blanca Wetlands, Alamosa County, Colorado.
+    (3) Any water rights acquired by the United States pursuant to this 
+section shall be obtained by the Secretary of the Interior in 
+accordance with all applicable provisions of Colorado law, including 
+the requirement to change the time, place, and type of use of said 
+water rights through the appropriate State legal proceedings and to 
+comply with any terms, conditions, or other provisions contained in an 
+applicable decree of the Colorado Water Court. The use of any water 
+rights acquired pursuant to this section shall be limited to water that 
+can be used or exchanged for water that can be used on the Blanca 
+Wetlands. Any requirement or proposal to utilize facilities of the San 
+Luis Valley Project, Closed Basin Diversion, in order to effectuate the 
+use of any such water rights shall be subject to prior approval of the 
+Rio Grande Water Conservation District.
+    (b) Restrictions on Selected Lands.--(1) Conveyance of the selected 
+lands to Lake Gulch pursuant to this Act shall be contingent upon Lake 
+Gulch executing an agreement with the United States prior to such 
+conveyance, the terms of which are acceptable to the Secretary of the 
+Interior, and which--
+            (A) grant the United States a covenant that none of the 
+        selected lands, (which currently lie outside the legally 
+        approved gaming area) shall ever be used for purposes of gaming 
+        should the current legal gaming area ever be expanded by the 
+        State of Colorado; and
+            (B) permanently hold the United States harmless for 
+        liability and indemnify the United States against all costs 
+        arising from any activities, operations (including the storing, 
+        handling, and dumping of hazardous materials or substances) or 
+        other acts conducted by Lake Gulch or its employees, agents, 
+        successors or assigns on the selected lands after their 
+        transfer to Lake Gulch: Provided, however, That nothing in this 
+        Act shall be construed as either diminishing or increasing any 
+        responsibility or liability of the United States based on the 
+        condition of the selected lands prior to or on the date of 
+        their transfer to Lake Gulch.
+    (2) Conveyance of the selected lands to Lake Gulch pursuant to this 
+Act shall be subject to the existing easement for Gilpin County Road 6.
+    (3) The above terms and restrictions of this subsection shall not 
+be considered in determining, or result in any diminution in, the fair 
+market value of the selected land for purposes of the appraisals of the 
+selected land required pursuant to section 3 of this Act.
+    (c) Revocation of Withdrawal.--The Public Water Reserve established 
+by Executive order dated April 17, 1926 (Public Water Reserve 107), 
+Serial Number Colorado 17321, is hereby revoked insofar as it affects 
+the NW\1/4\ SW\1/4\ of Section 17, Township 3 South, Range 72 West, 
+Sixth Principal Meridian, which covers a portion of the selected lands 
+identified in this Act.
+
+SEC. 4. MISCELLANEOUS PROVISIONS.
+
+    (a) Definitions.--As used in this Act.
+            (1) The term ``Secretary'' means the Secretary of the 
+        Interior.
+            (2) The term ``Lake Gulch'' means Lake Gulch, Inc., a 
+        Colorado corporation, or its successors, heirs or assigns.
+            (3) The term ``offered land'' means lands to be conveyed to 
+        the United States pursuant to this Act.
+            (4) The term ``selected land'' means lands to be 
+        transferred to Lake Gulch, Inc., or its successors, heirs or 
+        assigns pursuant to this Act.
+            (5) The term ``Blanca Wetlands'' means an area of land 
+        comprising approximately 9,200 acres, as generally depicted on 
+        a map entitled ``Blanca Wetlands'', dated April 1994, or such 
+        land as the Secretary may add thereto by purchase from willing 
+        sellers after the date of enactment of this Act utilizing funds 
+        provided by this Act or such other moneys as Congress may 
+        appropriate.
+    (b) Time Requirement for Completing Transfer.--It is the intent of 
+Congress that unless the Secretary and Lake Gulch mutually agree 
+otherwise the exchange of lands authorized and directed by this Act 
+shall be completed not later than 6 months after the date of enactment 
+of this Act. In the event the exchange cannot be consummated within 
+such 6-month-time period, the Secretary, upon application by Lake 
+Gulch, is directed to sell to Lake Gulch at appraised fair market value 
+any or all of the parcels (comprising a total of approximately 11 
+acres) identified in section 2(d)(1)(C) of this Act as long as the 
+parcel or parcels applied for are not under formal application for 
+transfer to a qualified unit of local government.
+    (c) Administration of Lands Acquired by United States.--In 
+accordance with the provisions of section 206(c) of the Federal Land 
+Policy and Management Act of 1976 (43 U.S.C. 1716(c)), all lands 
+acquired by the United States pursuant to this Act shall upon 
+acceptance of title by the United States and without further action by 
+the Secretary concerned become part of and be managed as part of the 
+administrative unit or area within which they are located.
+Student:

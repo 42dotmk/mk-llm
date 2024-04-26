@@ -1,0 +1,27 @@
+Part #1: Reading the given passage.
+Usage: Read the entire passage and understand the information presented. Explain why you think it meets the criteria.
+Example: The passage discusses small-world networks in epidemics, interactions within infected hubs, and the methods to prevent transmission jumps between hubs. This meets the criteria because it provides necessary information to create a question.
+
+Part #2: Creating a question that is unambiguous.
+Usage: Formulate a question that has a clear, specific meaning. Explain why you think it meets the criteria.
+Example: What are two examples of successful implementation of treatment methods to prevent transmission jumps between hubs? This meets the criteria because it clearly asks for two examples mentioned in the passage.
+
+Part #3: Creating a question that is answerable from the passage.
+Usage: Construct a question that can be answered using the information provided in the passage. Explain why you think it meets the criteria.
+Example: How can infection rates in small-world networks be drastically reduced? This meets the criteria because the passage provides information on how to prevent transmission jumps between infected and susceptible hubs, leading to reduced infection rates.
+
+Part #4: Creating a question with a unique answer.
+Usage: Formulate a question that has only one possible answer from the passage. Explain why you think it meets the criteria.
+Example: What was the virus that led to the use of ring culling or vaccination of potentially susceptible livestock in adjacent farms in 2001? This meets the criteria because it has a unique answer - the foot-and-mouth virus.
+
+Part #5: Creating a question with an answer that is a continuous text span from the paragraph.
+Usage: Construct a question in which the answer can be quoted directly from the passage. Explain why you think it meets the criteria.
+Example: What is the main focus to drastically reduce infection rates in small-world networks? This meets the criteria because the answer can be directly taken from the passage - "prevention of transmission jumps between hubs."
+
+Part #6: Avoiding questions that can be answered without understanding the paragraph.
+Usage: Craft a question that requires the understanding of the passage to answer it correctly. Explain why you think it meets the criteria.
+Example: What is the significance of needle exchange programs in areas with a high density of drug users with HIV? This meets the criteria because understanding the passage clarifies that these programs help prevent transmission jumps between hubs in small-world networks.
+
+Part #7: Avoiding questions that use the same words or phrases from the passage.
+Usage: Create a question that does not use the same words or phrases as the passage. Explain why you think it meets the criteria.
+Example: In what way did the livestock industry combat the spread of the foot-and-mouth virus in 2001? This meets the criteria because it does not use the same words or phrases, yet still points toward the answer found in the passage - "ring culling or vaccination of potentially susceptible livestock in adjacent farms."

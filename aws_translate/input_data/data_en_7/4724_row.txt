@@ -1,0 +1,19 @@
+Question: An alcoholic drink, or alcoholic beverage, is a drink that contains alcohol (ethanol), a depressant which in low doses causes euphoria, reduced anxiety, and sociability and in higher doses causes intoxication (drunkenness), stupor and unconsciousness. Long-term use can lead to alcohol abuse, physical dependence, and alcoholism.
+
+Answer this question based on the passage: what kind of alcohol is in alcoholic beverages?
+Answer: This is the relevant information: An alcoholic drink, or alcoholic beverage, is a drink that contains alcohol (ethanol), a depressant which in low doses causes euphoria, reduced anxiety, and sociability and in higher doses causes intoxication (drunkenness), stupor and unconsciousness. The answer is ethanol.
+
+Question: The Works Progress Administration (WPA; renamed in 1939 as the Work Projects Administration) was the largest and most ambitious American New Deal agency, employing millions of people (mostly unskilled men) to carry out public works projects, including the construction of public buildings and roads. In a much smaller project, Federal Project Number One, the WPA employed musicians, artists, writers, actors and directors in large arts, drama, media, and literacy projects.
+
+Answer this question: what was the purpose of the works progress administration?
+Answer: To answer the above question, the relevant sentence is: The Works Progress Administration (WPA; renamed in 1939 as the Work Projects Administration) was the largest and most ambitious American New Deal agency, employing millions of people (mostly unskilled men) to carry out public works projects, including the construction of public buildings and roads. The answer is to carry out public works projects , including the construction of public buildings and roads.
+
+Question: A run batted in (RBI), plural runs batted in (RBI or RBIs), is a statistic in baseball and softball that credits a batter for making a play that allows a run to be scored (except in certain situations such as when an error is made on the play). For example, if the batter bats a base hit, then another player on a higher base can head home to score a run, and the batter gets credited with batting in that run.
+
+What is the meaning of rbi in baseball?
+Answer: To answer the question, consider the following: A run batted in (RBI), plural runs batted in (RBI or RBIs), is a statistic in baseball and softball that credits a batter for making a play that allows a run to be scored (except in certain situations such as when an error is made on the play). The answer is a statistic in baseball and softball that credits a batter for making a play that allows a run to be scored ( except in certain situations such as when an error is made on the play ).
+
+Question: Passage: The jaguar is the largest cat species in the Americas and the third-largest after the tiger and the lion. This spotted cat closely resembles the leopard, but is usually larger and sturdier. It ranges across a variety of forested and open terrains, but its preferred habitat is tropical and subtropical moist broadleaf forest, swamps and wooded regions. The jaguar enjoys swimming and is largely a solitary, opportunistic, stalk-and-ambush predator at the top of the food chain. As a keystone species it plays an important role in stabilizing ecosystems and regulating prey populations.
+
+Question: Based on this passage, what is the largest cat in the americas?
+Answer:

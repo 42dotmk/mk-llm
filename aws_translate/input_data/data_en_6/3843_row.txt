@@ -1,0 +1,25 @@
+If she changes the box weekly, then in 210 days, she will change the box 210 / 7 = 30 times. At 15 pounds of litter for every box change, she will require 30 * 15 = 450 pounds of cat litter in 210 days. If she buys 45 - pound containers, then for 450 pounds she will need to buy 450 / 45 = 10 containers of litter. At $21 per container, to buy enough cat litter for 210 days, it will cost 10 * $21 = $210.
+The answer: 210
+Reverse engineering the question: Janet buys 45-pound containers of cat litter for $21 each. If her cat litter box holds 15 pounds of cat litter, and she changes out the litter weekly, how much will it cost, in dollars, for her to buy enough litter to last 210 days?
+
+Reasoning and answer: There are 400 / 4 = 100 white homes in Belize. There are 400 - 100 = 300 non - white homes in Belize. There are 300 / 5 = 60 non - white homes that have a fireplace. There are 300 - 60 = 240 non - white homes that do not have a fireplace.
+The answer: 240
+What was the question?
+Question: The town of Belize has 400 homes. One fourth of the town's homes are white. One fifth of the non-white homes have a fireplace. How many of the non-white homes do not have a fireplace?
+
+Let M be the number of trees he plants on Monday. On Monday the forest was three times larger from the trees that were originally there and the M trees: 3 * 30 = 30 + M trees. So, 90 = 30 + M. And, M = 60 trees. On Tuesday, he planted 60 trees / 3 = 20 trees. In total, he has planted 60 trees + 20 trees = 80 trees.
+The answer: 80
+Reverse engineering the question: A forester is planting trees. The forest already has 30 native trees. On Monday he triples the number of total trees in the forest by planting new trees. On Tuesday, he plants a third of the amount he planted on Monday. How many trees has the forester planted in total?
+
+Reasoning and answer: The total capacity of the 40 chairs was 40 * 2 = 80 people. If 2 / 5 of the chairs were unoccupied, 2 / 5 * 80 = 32 people missed the board meeting since the number of members was the same as the chair's capacity. The number of board members who attended the meeting was 80 - 32 = 48.
+The answer: 48
+What was the question?
+Question: In a conference room, 40 chairs with a capacity of 2 people each were arranged in rows in preparation for the board meeting of a company, whose number of members was the same as the chairs' capacity. If 2/5 of the chairs were not occupied, and the rest each had two people, calculate the number of board members who did attend the meeting.
+
+He paid 25% of the new home price because 100 - 75 = 25. He paid $125,000 towards the new home because 500,000 x .25 = 125,000. Therefore he paid $100,000 for his first home because 125,000 / 1.25 = 100,000.
+The answer: 100000
+Reverse engineering the question: Tommy's home is worth 25% more than he bought it for. He sells it and buys a new house that costs $500,000. If he had to take a loan for the 75% he can't pay, how much did he buy his first house for?
+
+From the 200 cookies, Javier's wife ate 30 / 100 * 200 = 60. After the wife ate 60 cookies, the number of cookies that remained was 200 - 60 = 140. The daughter also ate 40 cookies leaving 140 - 40 = 100 cookies. If Javier ate half of the remaining cookies, he ate 1 / 2 * 100 = 50. The number of cookies that remained is 100 - 50 = 50.
+The answer: 50
+Reverse engineering the question:

@@ -1,0 +1,34 @@
+Student A:Due to the financial success of the first film, Universal Pictures had long been interested in a sequel. The film was officially announced in May 2017, with Parker hired to write and direct. In June 2017, many of the original cast confirmed their involvement, with James being cast in the role of Young Donna that July. Filming took place from August to December 2017 in Croatia, and at Shepperton Studios in Surrey, England. A British and American joint venture, the film was co-produced by Playtone, Littlestar Productions and Legendary Entertainment.
+
+Based on this passage, where was mama mia herewe go again filmed?
+Student B:OK... To answer this question, we should know that: Filming took place from August to December 2017 in Croatia, and at Shepperton Studios in Surrey, England.
+Croatia , and at Shepperton Studios in Surrey , England.
+
+Problem:The Sisters of Charity of Australia (formally the Religious Sisters of Charity, who use the postnominal initials of R.S.C.) is a congregation of Religious Sisters in the Catholic Church who have served the people of Australia since 1838.
+
+Answer this question: when was the sisters of charity founded in australia?
+Solution:OK... To answer the above question, the relevant sentence is: The Sisters of Charity of Australia (formally the Religious Sisters of Charity, who use the postnominal initials of R.S.C.) is a congregation of Religious Sisters in the Catholic Church who have served the people of Australia since 1838.
+1838.
+
+Student A:In IEEE 754-2008 the 32-bit base-2 format is officially referred to as binary32. It was called single in IEEE 754-1985. In older computers, different floating-point formats of 4 bytes were used, e.g., GW-BASIC's single-precision data type was the 32-bit MBF floating-point format.
+
+Ieee single precision floating point number in binary?
+Student B:OK... To answer the question, consider the following: In IEEE 754-2008 the 32-bit base-2 format is officially referred to as binary32.
+binary32.
+
+Problem:Passage: "Lookin' for Love" is a song written by Wanda Mallette, Bob Morrison and Patti Ryan, and recorded by American country music singer Johnny Lee. It was released in June 1980 as part of the soundtrack to the film Urban Cowboy, released that year. Marcy Levy was one of the female singers who provided backing vocals on the track.
+
+Question: Based on this passage, who sings lookin for love in all the wrong places?
+Solution:OK... To answer the above question, the relevant sentence is: "Lookin' for Love" is a song written by Wanda Mallette, Bob Morrison and Patti Ryan, and recorded by American country music singer Johnny Lee.
+Johnny Lee.
+
+Student A:Agatha (/ ˈæɡəθə /), ) also Agata, is a feminine given name derived from the Ancient Greek word ἀγαθός (agathos), meaning good.
+
+Answer this question: what is the meaning of the name agatha?
+Student B:OK... The relevant information is: Agatha (/ ˈæɡəθə /), ) also Agata, is a feminine given name derived from the Ancient Greek word ἀγαθός (agathos), meaning good.
+derived from the Ancient Greek word ἀγαθός ( agathos ) , meaning good.
+
+Student A:Context: Perumal Murugan is an Indian author, scholar and literary chronicler who writes novels in Tamil. He has written six novels, four collections of short stories and four anthologies of poetry to his credit. Three of his novels have been translated into English: Seasons of the Palm, which was shortlisted for the Kiriyama Prize in 2005, Current Show and One Part Woman. He was a professor of Tamil at the Government Arts College in Namakkal.
+
+Question: the book one part woman has been authored by whom?
+Student B:

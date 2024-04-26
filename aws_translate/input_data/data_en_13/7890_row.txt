@@ -1,0 +1,25 @@
+The vet made 8 * 15 = $120 in dog vet fees. The vet made 3 * 13 = $39 in cat vet fees. The total vet fees were 120 + 39 = $159. The vet donated 1 / 3 of the fees, so they donated 159 / 3 = $53 back to the shelter.
+The answer: 53
+Reverse engineering the question: An animal shelter is having a pet adoption event where owners can adopt an animal for just the cost of the vet fees. Vet fees for dogs are $15, and vet fees for cats are $13. Eight families adopt dogs and three adopt cats. The vet donates a third of the fees they were paid for the adoption checkups back to the shelter. How many dollars did the vet donate?
+
+Reasoning and answer: In the first part of her trip, Diana will cover 2 hours * 3 mph = 6 miles. In the second part of her trip, Diana will need to cover an additional 10 miles - 6 miles = 4 miles. To cover 4 miles * 1 mph = will take Diana 4 hours. Total biking time to get home for Diana will be 2 hours + 4 hours = 6 hours.
+The answer: 6
+What was the question?
+Question: Diana needs to bike 10 miles to get home. She can bike 3 mph for two hours before she gets tired, and she can bike 1 mph until she gets home. How long will it take Diana to get home?
+
+On the first day, Cleo and Ignacio took 3 / 5 * 30 marbles = 18 marbles from the jar. When they shared the marbles, each got 18 marbles / 2 people = 9 marbles / person. The total number of marbles remaining in the jar is 30 marbles - 18 marbles = 12 marbles. On the third day, Cleo took 1 / 2 * 12 marbles = 6 marbles from the jar. The total number of marbles she has on the third day is 6 marbles + 9 marbles = 15 marbles.
+The answer: 15
+Reverse engineering the question: Cleo and Ignacio placed 30 of their marbles in a jar on a Monday. They took 3/5 of the marbles from the jar the next day and divided them equally. On the third day, Cleo took 1/2 of the marbles remaining in the jars. How many marbles did Cleo have on the third day?
+
+Reasoning and answer: He is buying 16 pounds of chicken and half that amount in hamburgers so he's buying 16 / 2 = 8 pounds of hamburgers. He's going to buy 2 more pounds of hotdogs than hamburgers, which are 8 pounds so he'll have 2 + 8 = 10 pounds of hot dogs. He's going to buy sides that weigh half the amount of the hot dogs so that's 10 / 2 = 5 pounds of sides. He's buying 16 pounds of chicken, 8 pounds of hamburgers, 10 pounds of hot dogs and 5 pounds of sides for a total of 16 + 8 + 10 + 5 = 39 pounds of food.
+The answer: 39
+What was the question?
+Question: For the family reunion, Peter is buying 16 pounds of bone-in chicken and half that amount in hamburgers. He's going to buy 2 more pounds of hot dogs than hamburgers. He's also going to buy several sides that will weigh half the amount of hot dogs. How many pounds of food will he buy?
+
+Travis has lost or broken 12 + 15 = 27 bowls. Travis will need to pay the store 27 x $4 = $108 dollars. Travis has safely taken 638 - 27 = 611 bowls. For this, he will be paid 611 x $3 = $1833 dollars. In total Travis will be paid $1833 + $100 = $1933 dollars. Since Travis has to pay the home goods 108 for the broken and lost bowls, he will end up with $1933 - $108 = $1825.
+The answer: 1825
+Reverse engineering the question: Travis is hired to take 638 bowls from the factory to the home goods store. The home goods store will pay the moving company a $100 fee, plus $3 for every bowl that is delivered safely. Travis must pay the home goods store $4 each for any bowls that are lost or broken. If 12 bowls are lost, 15 bowls are broken, and the rest are delivered safely, how much should Travis be paid?
+
+There were 36 - 16 = 20 without pre - printed name badges. Then 20 / 2 = 10 made hand - written badges. There were 20 - 10 = 10 with no name badge.
+The answer: 10
+Reverse engineering the question:

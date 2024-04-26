@@ -1,0 +1,19 @@
+Question: The Power Elite is a 1956 book by sociologist C. Wright Mills, in which Mills calls attention to the interwoven interests of the leaders of the military, corporate, and political elements of society and suggests that the ordinary citizen is a relatively powerless subject of manipulation by those entities.
+
+Answer this question based on the passage: who is associated with the concept of power elite?
+Answer: The important part for answering this question is: The Power Elite is a 1956 book by sociologist C. Wright Mills, in which Mills calls attention to the interwoven interests of the leaders of the military, corporate, and political elements of society and suggests that the ordinary citizen is a relatively powerless subject of manipulation by those entities. The answer is sociologist C. Wright Mills.
+
+Question: Passage: The solar wind is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. This plasma consists of mostly electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV. Embedded within the solar-wind plasma is the interplanetary magnetic field. The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field.
+
+Question: Based on this passage, what is made up of charged particles that continually escape from the corona?
+Answer: The important part for answering this question is: The solar wind is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. The answer is The solar wind.
+
+Question: Context: Strange Case of Dr Jekyll and Mr Hyde is a gothic novella by the Scottish author Robert Louis Stevenson first published in 1886. The work is also known as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll & Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the evil Edward Hyde. The novella's impact is such that it has become a part of the language, with the very phrase "Jekyll and Hyde" entering the vernacular to refer to people with an unpredictably dual nature: usually very good, but sometimes shockingly evil instead.
+
+Question: who wrote the strange case of dr jekyll and mr hyde?
+Answer: To answer this question, we should know that: Strange Case of Dr Jekyll and Mr Hyde is a gothic novella by the Scottish author Robert Louis Stevenson first published in 1886. The answer is the Scottish author Robert Louis Stevenson.
+
+Question: A period is a horizontal row in the periodic table. Although groups generally have more significant periodic trends, there are regions where horizontal trends are more significant than vertical group trends, such as the f-block, where the lanthanides and actinides form two substantial horizontal series of elements.
+
+Based on this passage, this is a horizontal arrangement of elements in the periodic table?
+Answer:

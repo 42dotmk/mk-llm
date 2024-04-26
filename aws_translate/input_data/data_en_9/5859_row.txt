@@ -1,0 +1,27 @@
+Reasoning and answer: First subtract the 7 double - counted animals from Mary's total: 60 animals - 7 animals = 53 animals. Then add the animals she missed to find the real total: 53 animals + 3 pigs = 56 animals.
+The answer: 56
+What was the question?
+Question: Mary is trying to count the animals in the petting zoo, but they kept moving around so she double-counts 7 sheep and forgets to count 3 pigs. If Mary thinks there are 60 animals, how many are there really?
+
+First, we need to determine how many miles Tony drives in 4 weeks. We do this by performing 50 * 5 = 250 miles per week. Next, we multiply the weekly total by 4 by performing 4 * 250 = 1000 miles in 4 weeks. Now, we need to find out how many times Tony needs to fill up his gas tank. His gas tank holds enough gas to last 25 * 10 = 250 miles. This means in 4 weeks, he needs to fill up his tank 1000 / 250 = 4 times. Since Tony's gas tank holds 10 gallons, this means he needs to pay for 4 * 10 - 40 gallons of gas in a month. Since gas costs $2 a gallon, this means Tony spends 40 * 2 = $80 on gas every month,.
+The answer: 80
+Reverse engineering the question: Tony drives a car that gets 25 miles to the gallon. He drives 50 miles round trip to work 5 days a week. His tank holds 10 gallons. He begins the week with a full tank and when he runs out he fills up at the local gas station for $2 a gallon. How much money does Tony spend on gas in 4 weeks?
+
+Reasoning and answer: First calculate the price of the two normally priced tickets by multiplying the price and the quantity: $50 * 2 = $100. Then calculate the scalper's initial asking price by multiplying the normal cost of two tickets by 240%: $100 * 2.4 = $240. Then subtract the $10 discount Jenna negotiated: $240 - $10 = $230. Now calculate the price of the discounted ticket Jenna's friend gets through her job by multiplying the normal ticket price by 60%: $50 * .6 = $30. Finally, add up the price of all the tickets to find the total: $100 + $230 + $30 = $360.
+The answer: 360
+What was the question?
+Question: Jenna is buying concert tickets for her group of five friends. She's able to get two of the tickets from the concert website for $50 each before they sell out. A scalper offers to sell her two more tickets for 240% of the normal price, but Jenna convinces him to give her $10 off that total payment. Finally, one of her friends gets a discounted ticket through her job for 60% of the normal price. How much do Jenna's friends pay for their tickets in total?
+
+Jane's chickens lay 10 chickens * 6 eggs = 60 eggs per week. Jane's chickens lay 60 eggs / 12 = 5 dozen eggs per week. Each week that Jane sells her eggs she can make 5 dozen * $2 = $10 per week. In two weeks Jane would make 2 * $10 / week = $20.
+The answer: 20
+Reverse engineering the question: Jane runs a small farm. She has 10 chickens that lay 6 eggs each per week. She can sell the eggs for $2/dozen. How much money will she make in 2 weeks if she sells all her eggs?
+
+Reasoning and answer: He needs 1.5 * 40 = 60 pounds of potatoes. So he needs to buy 60 / 20 = 3 bags of potatoes. So it cost 3 * 5 = $15.
+The answer: 15
+What was the question?
+Question: James makes potatoes for a group. Each person eats 1.5 pounds of potatoes. He makes potatoes for 40 people. A 20-pound bag of potatoes costs $5. How much does it cost?
+
+Reasoning and answer: The rectangular tables seat 7 * 10 = 70 pupils. The square tables will seat 90 - 70 = 20 pupils. The library needs 20 / 4 = 5 square tables.
+The answer: 5
+What was the question?
+Question:

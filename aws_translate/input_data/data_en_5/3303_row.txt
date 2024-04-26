@@ -1,0 +1,25 @@
+q... Context: Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a giant planet with a mass one-thousandth that of the Sun, but two-and-a-half times that of all the other planets in the Solar System combined. Jupiter and Saturn are gas giants; the other two giant planets, Uranus and Neptune are ice giants. Jupiter has been known to astronomers since antiquity. The Romans named it after their god Jupiter. When viewed from Earth, Jupiter can reach an apparent magnitude of − 2.94, bright enough for its reflected light to cast shadows, and making it on average the third-brightest object in the night sky after the Moon and Venus.
+
+Question: what number planet is jupiter in the solar system?
+a... The relevant information to answer the above question is: Jupiter is the fifth planet from the Sun and the largest in the Solar System.
+The answer is the fifth planet
+
+
+q... The movie starts with Deanna Miles (Melissa McCarthy) going with her husband Dan (Matt Walsh) to drop off their daughter Maddie (Molly Gordon) to her senior year at Decatur University in Atlanta. After saying bye to Maddie, Deanna tells Dan how she's looking forward to their trip to Italy until Dan flat-out tells her he wants a divorce because he has fallen in love with another woman. To make things worse, he is selling their house since everything is under his name, meaning Deanna has to leave. Deanna angrily kicks his car and takes an Uber home.
+
+Based on this passage, who plays the husband in life of the party?
+a... To answer this question, we should know that: The movie starts with Deanna Miles (Melissa McCarthy) going with her husband Dan (Matt Walsh) to drop off their daughter Maddie (Molly Gordon) to her senior year at Decatur University in Atlanta.
+The answer is Matt Walsh
+
+
+q... James and the Giant Peach is a popular children's novel written in 1961 by British author Roald Dahl. The original first edition published by Alfred Knopf featured illustrations by Nancy Ekholm Burkert. There have been reillustrated versions of it over the years, done by Michael Simeon for the first British edition, Emma Chichester Clark, Lane Smith and Quentin Blake. It was adapted into a film of the same name in 1996.
+
+When was james and the giant peach written?
+a... The relevant sentence in the passage is: James and the Giant Peach is a popular children's novel written in 1961 by British author Roald Dahl.
+The answer is 1961
+
+
+q... Ruthenium is a chemical element with symbol Ru and atomic number 44. It is a rare transition metal belonging to the platinum group of the periodic table. Like the other metals of the platinum group, ruthenium is inert to most other chemicals. The Russian-born scientist of Baltic-German ancestry and a member of the Russian Academy of Science Karl Ernst Claus discovered the element in 1844 at Kazan State University in Russia and named it after the Latin name of his homeland, Rus. Ruthenium is usually found as a minor component of platinum ores; the annual production is about 20 tonnes. Most ruthenium produced is used in wear-resistant electrical contacts and thick-film resistors. A minor application for ruthenium is in platinum alloys and as a chemistry catalyst.
+
+Answer this question based on the passage: where is ruthenium found on the periodic table?
+a...

@@ -1,0 +1,25 @@
+Maria wants to give away 5 cookies, so she will be left with 19 - 5 = 14 cookies. Half of these will go to her family, which means 14 / 2 = 7 cookies. Maria decided to eat 2 / 7 * 7 = 2 cookies. So she will be left with 7 - 2 = 5 cookies.
+The answer: 5
+Reverse engineering the question: Maria has 19 cookies. She decided to give her friend 5 of them, and half of the rest to her family. From the rest, Maria decided to eat 2 cookies. How many cookies will she have left?
+
+Reasoning and answer: Dan takes 58 licks, Michael takes 63, Sam takes 70, David takes 70 and Lance takes 39 for a total of 58 + 63 + 70 + 70 + 39 = 300 licks. There are 5 people and the total amount of licks is 300 so the average is 300 / 5 = 60 licks to get to the center of a lollipop.
+The answer: 60
+What was the question?
+Question: Dan can get to the center of a lollipop in 58 licks. Micheal does it in 63 licks. Sam & David each take 70 licks to get to the center of a lollipop while Lance only needs 39 licks. What is the average amount of licks it takes to get to the center of a lollipop?
+
+Apollo had to pay 3 * 6 = 18 golden apples for the first six months. For the second six months, he had to pay twice that amount, or 18 * 2 = 36 golden apples. Thus, Apollo had to pay 18 + 36 = 54 golden apples for a year of chariot wheels.
+The answer: 54
+Reverse engineering the question: Apollo pulls the sun across the sky every night. Once a month, his fiery chariot’s wheels need to be replaced. He trades golden apples to Hephaestus the blacksmith to get Hephaestus to make him new wheels. Hephaestus raised his rates halfway through the year and now demands twice as many golden apples as before. He charged three golden apples for the first six months. How many golden apples does Apollo have to pay for the entire year of chariot wheels?
+
+Reasoning and answer: If Liz needs only $4,000 to buy a new $30,000 car, that means she has $30,000 - $4,000 = $26,000 from the proceeds of selling her old car. If she sold her car at 80% of what she originally paid for and sold it for $26,000 then she originally paid $26,000 / 80% = $32,500 for her old car. If she paid $32,500 for her old car and the new one is $30,000 then, the new one is $32,500 - $30,000 = $2,500 cheaper.
+The answer: 2500
+What was the question?
+Question: Liz sold her car at 80% of what she originally paid. She uses the proceeds of that sale and needs only $4,000 to buy herself a new $30,000 car. How much cheaper is her new car versus what she originally paid for her old one?
+
+First find how many zombies there were one day ago: 480 zombies / 2 = 240 zombies. Then find how many zombies there were two days ago: 240 zombies / 2 = 120 zombies. Then find the number of zombies there were three days ago: 120 zombies / 2 = 60 zombies. Then find the number of zombies there were four days ago: 60 zombies / 2 = 30 zombies, which is less than 50, so there were less than 50 zombies 4 days ago.
+The answer: 4
+Reverse engineering the question: There are 480 zombies in the shopping mall. If the number of zombies doubled every day, how many days ago were there less than 50 zombies in the mall?
+
+The books will cost $40 because 8 x 5 = 40. He needs to save up $27 because 40 - 13 = 27.
+The answer: 27
+Reverse engineering the question:

@@ -1,0 +1,25 @@
+On her second birthday she adds $.5 because 2 x .25 = .5. On her third birthday she adds $.35 because 3 x .25 = .75. On her fourth birthday she adds $1 because 4 x .25 = 1. On her fifth birthday she adds $1.25 because 5 x .25 = 1.25. On her six birthday she adds $1.5 because 6 x .25 = 1.5. On her seventh birthday she adds $1.75 because 7 x .25 = 1.75. The total is $7 because .25 + .5 + .75 + 1 + 1.25 + 1.5 + 1.75 = 7.
+The answer: 7
+Reverse engineering the question: Every year, Mabel gets as many quarters as she is years old. She always puts these and nothing else in a piggy bank. When she turns 7, how much money is in the bank?
+
+Reasoning and answer: Sonja will spend $3 + $23 = $26. Barbara will spend 5 + ( 2 * 2) = $9. Mario and Rick will spend 2 * 3 = $6. Everyone but Sonijs spend $9 + $6 + $4 = $19. Sonija spent $26 - $19 = $7 more than the rest of the people at the party.
+The answer: 7
+What was the question?
+Question: Five people are planning a party. Sonja will buy a loaf of French bread ($3 a loaf) and a platter of cold cuts ($23). Barbara will buy the soda ($1 per person) and two boxes of crackers ($2 per box). Mario and Rick will split the cost of two packages of Cheese Doodles ($3 per package). Danica will supply a package of paper plates for $4. How much more will Sonja spend than the rest of the office put together?
+
+She has 240 minutes to write because 4 x 60 = 240. She will write 2,400 words because 240 x 10 = 2,400. She will earn $240 for the words because 2,400 x .1 = 240. She will earn $180 from the articles because 3 x 60 = 180. She will earn $420 in total because 240 + 180 = 420. She will average $105 an hour because 420 / 4 = 105.
+The answer: 105
+Reverse engineering the question: A reporter is paid by the word and per article. She earns $.1 per word. She earns $60 per article. She has to finish three stories in the next 4 hours. She averages 10 words a minute. How much can she expect to earn per hour if she writes the entire time?
+
+Reasoning and answer: There are twenty - two people in a waiting room, and if three more people arrive, the number increases to 22 + 3 = 25. If three more people arrive, the number of people in the waiting room becomes five times the number of people that are inside the interview room, meaning there are 25 / 5 = 5 people inside the interview room.
+The answer: 5
+What was the question?
+Question: There are twenty-two people in a waiting room. If three more people arrive, the number of people in the waiting room becomes five times the number of people inside the interview room. How many people are in the interview room?
+
+Roger has 35 x 2 = 70 apps on his phone. He needs to delete 70 - 50 = 20 apps.
+The answer: 20
+Reverse engineering the question: For Roger's phone to function optimally, he can have a maximum of 50 apps on his phone. However, the recommended number of apps is 35. If Roger has twice the recommended number of apps, how many apps must he delete for his phone to function optimally again?
+
+Each half of the year consists of 52 / 2 = 26 weeks. For the first half of the year, Nicki ran a total of 20 * 26 = 520 miles. For the second half of the year, Nicki ran a total of 30 * 26 = 780 miles. For the entire year, Nicki ran a total of 520 + 780 = 1,300 miles.
+The answer: 1300
+Reverse engineering the question:

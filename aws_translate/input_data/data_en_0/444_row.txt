@@ -1,0 +1,19 @@
+Q: The Drake equation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy.
+
+Answer this question: the drake equation is used to predict the number of?
+A: active , communicative extraterrestrial civilizations in the Milky Way galaxy. How to explain the answer? The relevant information is: The Drake equation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy.
+
+Q: Star Wars: The Clone Wars is a 2008 American 3D animated science fiction-space opera film that takes place within the Star Wars saga, leading into a TV series of the same name produced by Lucasfilm Animation. The film is set during the three-year time period between the films Star Wars: Episode II -- Attack of the Clones (2002) and Star Wars: Episode III -- Revenge of the Sith (2005). Distributed by Warner Bros. Pictures, which also holds the home media distribution rights to both this film and the first five seasons of the television series, the film premiered on August 10, 2008 at the Grauman's Egyptian Theatre, while screening in wide-release on August 14, 2008 across Australia, and August 15 in the United States, Canada and the United Kingdom. The Clone Wars served as an introduction to the television series of the same name, which debuted on October 3, 2008. Though critical reception was negative, the film was a box office success, and grossed $68.3 million worldwide against an $8.5 million budget.
+
+Where does the clone wars fit in with the movies?
+A: during the three - year time period between the films Star Wars : Episode II -- Attack of the Clones ( 2002 ) and Star Wars : Episode III -- Revenge of the Sith ( 2005 ). How to explain the answer? To answer this question, we should know that: The film is set during the three-year time period between the films Star Wars: Episode II -- Attack of the Clones (2002) and Star Wars: Episode III -- Revenge of the Sith (2005).
+
+Q: Passage: The fifth season of the American crime thriller television series The Blacklist premiered on NBC on September 27, 2017 with a timeslot change from Thursday at 10: 00 PM to Wednesday at 8: 00 PM. The season was produced by Davis Entertainment, Universal Television and Sony Pictures Television, and the executive producers are Jon Bokenkamp, John Davis, John Eisendrath, John Fox, and Joe Carnahan. The season will consist of 22 episodes and will contain the series' 100th episode. The show's fall finale aired on November 15, 2017, the series will return on January 3, 2018.
+
+Question: Based on this passage, when does season 5 of the blacklist come out?
+A: September 27 , 2017. How to explain the answer? This is the relevant information: The fifth season of the American crime thriller television series The Blacklist premiered on NBC on September 27, 2017 with a timeslot change from Thursday at 10: 00 PM to Wednesday at 8: 00 PM.
+
+Q: Context: Escobar is a Spanish surname. Notable people with the surname include:
+
+Question: where does the last name escobar originate from?
+A:

@@ -1,0 +1,34 @@
+Problem:Passage: Food from the stomach is allowed into the duodenum through the pylorus by a muscle called the pyloric sphincter.
+
+Question: Based on this passage, the terminal part of the stomach that opens into the duodenum is the?
+Solution:OK... This is the relevant information: Food from the stomach is allowed into the duodenum through the pylorus by a muscle called the pyloric sphincter.
+pylorus.
+
+Student A:Context: Tamil is the most spoken Indian language in Singapore and the only Indian language among Singapore's four official languages, alongside Mandarin, (the language of trade) Malay (the national language) and English (the language of administration), and 3.1 % of Singapore residents speak Tamil at home. Singapore is one of the three countries in the world to make Tamil an official language, the others being India and Sri Lanka.
+
+Question: which indian language has official status in singapore?
+Student B:OK... To answer the question, consider the following: Tamil is the most spoken Indian language in Singapore and the only Indian language among Singapore's four official languages, alongside Mandarin, (the language of trade) Malay (the national language) and English (the language of administration), and 3.1 % of Singapore residents speak Tamil at home.
+Tamil.
+
+Problem:The fourth season began airing on October 10, 2017, on The CW.
+
+Answer this question: when is season 4 of the flash coming?
+Solution:OK... The relevant information is: The fourth season began airing on October 10, 2017, on The CW.
+October 10 , 2017.
+
+Student A:Passage: "Fortune favours the bold", "Fortune favours the brave", "Fortune helps the brave", and "Fortune favours the strong" are common translations of a Latin proverb. The slogan has been used historically in the military in the Anglo-Saxon world, and it is used up to the present in the US Army and on the coats of arms of individual families and clans.
+
+Question: Based on this passage, where does the saying fortune favors the brave come from?
+Student B:OK... The important part for answering this question is: "Fortune favours the bold", "Fortune favours the brave", "Fortune helps the brave", and "Fortune favours the strong" are common translations of a Latin proverb.
+a Latin proverb.
+
+Problem:Context: "I Love Rock' n' Roll" is a rock song written in 1975 by Alan Merrill of the Arrows, who recorded the first released version. The song was later made famous by Joan Jett & the Blackhearts in 1982. Alan Merrill has played the song live in Europe, Japan and most often in his home town New York City.
+
+Question: who sang the original i love rock and roll?
+Solution:OK... To answer the question, consider the following: "I Love Rock' n' Roll" is a rock song written in 1975 by Alan Merrill of the Arrows, who recorded the first released version.
+the Arrows.
+
+Problem:Context: The American Civil War (also known by other names) was a war fought in the United States (U.S.) from 1861 to 1865. The Civil War is the most studied and written about episode in U.S. history. Largely as a result of the long-standing controversy over the enslavement of black people, war broke out in April 1861, when secessionist forces attacked Fort Sumter in South Carolina, shortly after United States President Abraham Lincoln was inaugurated. The loyalists of the Union in the North proclaimed support for the Constitution. They faced secessionists of the Confederate States in the South, who advocated for states' rights to uphold slavery.
+
+Question: when did the civil war take place in america?
+Solution:

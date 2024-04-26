@@ -1,0 +1,25 @@
+Herman buys himself and 3 team members breakfast 5 days a week so that’s 4 * 5 = 20 breakfast combo meals. Each combo meals costs $4.00 and he buys 20 of them a week so that’s 4 * 20 = $80.00. Over a 16 week period he spends 16 * 80 = $1,280.00 on breakfast.
+The answer: 1280
+Reverse engineering the question: When Herman’s team is busy working on large projects he stops at the drive-through 5 days, every week to buy a breakfast combo for himself and 3 members of his team. Each meal costs $4.00. This current project will last 16 weeks. How much will Herman spend on breakfast?
+
+Reasoning and answer: They already have 20 tubs in storage, so they only need to buy 100 needed tubs - 20 tubs in storage = 80 tubs. From the new vendor, they buy 80 tubs / 4 = 20 tubs. They now have a total of 20 + 20 = 40 tubs. They are therefore going to buy 100 needed tubs - 40 owned tubs = 60 tubs from the usual vendor.
+The answer: 60
+What was the question?
+Question: A pharmacy is buying enough tubs for them to make their prescriptions this week. They already have 20 tubs left in storage but they need a total of 100 tubs for the week. Of the tubs they still need to buy, they buy a quarter from a new vendor then decide to go to their usual vendor for the rest. How many tubs is the pharmacy going to buy from the usual vendor?
+
+First find the total number of pieces of mail the post office receives per day: 60 letters + 20 packages = 80 pieces of mail. Then multiply the daily amount of mail by the number of days per month: 80 pieces / day * 30 days / month = 2400 pieces / month. Then multiply that number by 6 to find the total number of pieces of mail handled: 2400 pieces / month * 6 months = 14400 pieces.
+The answer: 14400
+Reverse engineering the question: The post office receives 60 letters and 20 packages per day. How many pieces of mail does it handle in six months if all the months have 30 days?
+
+Reasoning and answer: 24 / 2 = 12 students are doing silent reading. 24 / 3 = 8 students are playing board games. So 12 + 8 = 20 students are accounted for. Then 24 - 20 = 4 students are catching up on homework.
+The answer: 4
+What was the question?
+Question: In the class of 24 students, half are doing silent reading, and a third are playing board games. The rest are catching up on homework. How many students are catching up on homework?
+
+Ken paints 3 tiles / minute + 2 tiles / minute = 5 tiles / minute. Laura can paint 5 tiles / minute x 2 = 10 tiles / minute. Kim can paint 10 tiles / minute - 3 tiles / minute = 7 tiles / minute. All 4 can paint 3 tiles / minute + 5 tiles / minute + 10 tiles / minute + 7 tiles / minute = 25 tiles / minute. In 15 minutes, they can paint 15 minutes x 25 tiles / minute = 375 tiles.
+The answer: 375
+Reverse engineering the question: Don can paint 3 tiles a minute, Ken can paint 2 more tiles a minute than Don and Laura can paint twice as many tiles as Ken. Kim can paint 3 fewer tiles than Laura can in a minute. How many tiles can Don, Ken, Laura and Kim paint in 15 minutes?
+
+It would take Lily 255 words / 15 wpm = 17 minutes to type without taking a break. Since Lily takes a break after 10 minutes of typing she takes 17 minutes + 2 minutes = 19 minutes.
+The answer: 19
+Reverse engineering the question:

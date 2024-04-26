@@ -1,0 +1,22 @@
+Student A:Context: The temperature range in which food-borne bacteria can grow is known as the danger zone. Food safety agencies, such as the United States' Food Safety and Inspection Service (FSIS), define the danger zone as roughly 4 to 60 ° C (39 to 140 ° F). The FSIS stipulates that potentially hazardous food should not be stored at temperatures in this range in order to prevent foodborne illness (for example, a refrigerator's temperature must be kept below 4 ° C ( 40 ° F) ), and that food that remains in this zone for more than two hours should not be consumed. Foodborne microorganisms grow much faster in the middle of the zone, at temperatures between 21 and 47 ° C (70 and 117 ° F).
+
+Question: what is the temperature of food danger zone?
+Student B:OK... The relevant sentence in the passage is: Food safety agencies, such as the United States' Food Safety and Inspection Service (FSIS), define the danger zone as roughly 4 to 60 ° C (39 to 140 ° F).
+roughly 4 to 60 ° C ( 39 to 140 ° F ).
+
+Student A:Context: The advantage of task-oriented leadership is that it ensures that deadlines are met and jobs are completed, and it's especially useful for team members who do n't manage their time well. Additionally, these types of leaders tend to exemplify a strong understanding of how to get the job done, focusing on the necessary workplace procedures and delegating work accordingly to ensure that everything gets done in a timely and productive manner.
+
+Question: when is task focused leader behavior most important?
+Student B:OK... To answer the question, consider the following: The advantage of task-oriented leadership is that it ensures that deadlines are met and jobs are completed, and it's especially useful for team members who do n't manage their time well.
+it 's especially useful for team members who do n't manage their time well.
+
+Student A:The fourth and final season of the Fox television series Sleepy Hollow premiered on January 6, 2017 and concluded on March 31, 2017, and consisted of 13 episodes.
+
+When does sleepy hollow return for season 4?
+Student B:OK... To answer this question, we should know that: The fourth and final season of the Fox television series Sleepy Hollow premiered on January 6, 2017 and concluded on March 31, 2017, and consisted of 13 episodes.
+January 6 , 2017.
+
+Student A:Boston Celtics center Bill Russell holds the record for the most NBA championships won with 11 titles during his 13-year playing career. He won his first championship with the Boston Celtics in his rookie year. Afterwards, he went on to win ten championships in the next 12 years, including eight consecutive championships from 1959 to 1966. He won the last two championships in 1968 and 1969 as player-coach. Russell's teammate, Sam Jones, won ten championships from 1959 to 1969, the second most in NBA history. Four Celtics players, Tom Heinsohn, K.C. Jones, Satch Sanders and John Havlicek, won eight championships each. Two other Celtics, Jim Loscutoff and Frank Ramsey, won seven championships each. Four players, Bob Cousy, Kareem Abdul-Jabbar, Michael Jordan and Scottie Pippen, won six championships each. Jordan and Pippen are members of the Chicago Bulls team who won three consecutive championships twice in the 1990s. George Mikan won two championships in the NBL before it merged with the BAA to form the NBA, and won five championships in the NBA.
+
+Answer this question based on the passage: who has the most nba championships in nba history?
+Student B:

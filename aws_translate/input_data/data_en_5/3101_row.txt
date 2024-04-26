@@ -1,0 +1,29 @@
+Please briefly summarize this news article:
+
+The FTC is getting a new chief technologist: Carnegie Mellon’s Lorrie Cranor
+
+The Federal Trade Commission is one of the government's major online privacy watchdogs. And it's getting a new chief technologist: Carnegie Mellon University professor Lorrie Cranor, who will step into the role in January.
+
+“Technology is playing an ever more important role in consumers’ lives, whether through mobile devices, personal fitness trackers, or the increasing array of Internet-connected devices we find in homes and elsewhere,” FTC Chairwoman Edith Ramirez said Thursday in a press release announcing the shift. “[Cranor] will play a key role in helping guide the many areas of FTC work involving new technologies and platforms."
+
+Cranor teaches computer science and engineering and public policy at Carnegie Mellon, where she serves as the director of the university's CyLab Usable Privacy and Security Laboratory. She's also on the board of the Electronic Frontier Foundation and previously worked at AT&T Labs Research.
+
+In an email statement, Cranor said she looks forward "to participating in the great work the agency has done in the areas of consumer privacy and data security."
+
+She will replace Ashkan Soltani, who has served as chief technologist since November 2014. Soltani was a privacy practitioner who worked with The Washington Post to parse technical details of surveillance programs revealed by documents from Edward Snowden.
+
+That's different from the academics who previously held the job. "I was definitely an anomaly," Soltani said, but added that his background was helpful because it gave "the agency insight into what the industry is doing."
+
+Cranor will return the job to academic hands, a tradition started with the agency's first chief technologist, Princeton professor Ed Felten, who now serves as a deputy U.S. chief technology officer at the White House.
+
+The flexibility of academics to take sabbaticals so they can work for the government is likely a factor in that trend -- and one that has led to short terms when those academics return to their old posts. Cranor will be the fifth person in the job since Felten first took it up in 2011, and no one has lasted two years. In fact, Soltani's 14-month stint was on the longer side of the spectrum for the job.
+
+"There's not a lot of people who would be qualified for, and would take, this role," Soltani said. Cranor, he added, is a "big score" for the agency.
+
+It's unclear what Soltani's own next steps will be, but the agency expanded its technical capacity during his time in its top tech spot. In March, it launched a new office dedicated to technology research and investigations. That same month, it also took steps to secure visitor's connections to its web sites.
+
+But the FTC also lost some privacy enforcement ground to the Federal Communications Commission this year when a regulatory shift put the network activities of Internet Service Providers outside of its grasp. The two agencies are trying to work together on consumer privacy issues as the FCC is beefing up its own technology staff.
+
+Andrea Peterson covers technology policy for The Washington Post, with an emphasis on cybersecurity, consumer privacy, transparency, surveillance and open government.
+
+Summary:

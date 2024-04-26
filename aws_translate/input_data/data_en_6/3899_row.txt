@@ -1,0 +1,22 @@
+Ques & Ans: Hospital emergency codes have often varied widely by location, even between hospitals in the same community. Confusion over these codes has led to the proposal for and sometimes adoption of standardized codes. In many American, Canadian, New Zealand and Australian hospitals, for example "code blue" indicates a patient has entered cardiac arrest, while "code red" indicates that a fire has broken out somewhere in the hospital facility.
+
+Based on this passage, what does code red mean in the emergency room?
+a fire has broken out somewhere in the hospital facility
+
+Stream of consciousness: To answer the question, consider the following: In many American, Canadian, New Zealand and Australian hospitals, for example "code blue" indicates a patient has entered cardiac arrest, while "code red" indicates that a fire has broken out somewhere in the hospital facility.
+
+
+Ques & Ans: Passage: Mannitol salt agar or MSA is a commonly used selective and differential growth medium in microbiology. It encourages the growth of a group of certain bacteria while inhibiting the growth of others. This medium is important in medical laboratories by distinguishing pathogenic microbes in a short period of time. It contains a high concentration (about 7.5 %-10 %) of salt (NaCl), making it selective for Gram-positive bacteria (Staphylococcus and Micrococcaceae) since this level of salt is inhibitory to most other bacteria. It is also a differential medium for mannitol-fermenting staphylococci, containing carbohydrate mannitol and the indicator phenol red, a pH indicator for detecting acid produced by mannitol-fermenting staphylococci. Staphylococcus aureus produces yellow colonies with yellow zones, whereas other coagulase-negative staphylococci produce small pink or red colonies with no colour change to the medium. If an organism can ferment mannitol, an acidic byproduct is formed that causes the phenol red in the agar to turn yellow. It is used for the selective isolation of presumptive pathogenic (pp) Staphylococcus species.
+
+Question: Based on this passage, what is the role of phenol red in the mannitol salt medium?
+a pH indicator for detecting acid produced by mannitol - fermenting staphylococci
+
+Stream of consciousness: The important part for answering this question is: It is also a differential medium for mannitol-fermenting staphylococci, containing carbohydrate mannitol and the indicator phenol red, a pH indicator for detecting acid produced by mannitol-fermenting staphylococci.
+
+
+Ques & Ans: Both teams had progressed through three stages to reach the final. Australia was unbeaten thus far, while India had lost one game -- against Australia in the first stage. Australia -- led by Ricky Ponting -- entered the game as firm favourites. After winning the toss, India captain Sourav Ganguly decided to field first before a crowd of nearly 32,000. The Australian opening pair, Adam Gilchrist and Matthew Hayden, added 105 runs in 14 overs. After their dismissals, Ponting (140 not out) and Damien Martyn (88 not out) were involved in a partnership of 234 runs, then an Australian record, and took the total to 359 runs at the end of the innings. Harbhajan Singh took both of the Australian wickets, conceding 49 runs.
+
+Answer this question based on the passage: who won the toss in 2003 world cup final?
+India
+
+Stream of consciousness:

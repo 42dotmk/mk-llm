@@ -1,0 +1,34 @@
+Student A:Taylor Michel Momsen (born July 26, 1993) is an American singer, songwriter, former actress and model. She is known for portraying the character of Jenny Humphrey on the CW teen drama series Gossip Girl (2007 -- 2012) and Cindy Lou Who in the film How the Grinch Stole Christmas! (2000). She is also known for being the lead singer and frontwoman of the American rock band The Pretty Reckless.
+
+The girl that played cindy lou who in the grinch?
+Student B:OK... To answer this question, we should know that: She is known for portraying the character of Jenny Humphrey on the CW teen drama series Gossip Girl (2007 -- 2012) and Cindy Lou Who in the film How the Grinch Stole Christmas! (2000).
+Taylor Michel Momsen.
+
+Problem:Passage: Manufactured in East Liberty, Ohio, the Element was offered with front-wheel or all-wheel drive in the United States and Canada from model years 2003 through 2011.
+
+Question: Based on this passage, what was the last year honda element was made?
+Solution:OK... To answer the above question, the relevant sentence is: Manufactured in East Liberty, Ohio, the Element was offered with front-wheel or all-wheel drive in the United States and Canada from model years 2003 through 2011.
+2011.
+
+Student A:Passage: The idiom is apparently derived from a centuries-old Scottish proverb, though some other references to pigs flying or pigs with wings are more famous. At least one appears in the works of Lewis Carroll:
+
+Question: Based on this passage, where did the phrase when pigs fly come from?
+Student B:OK... The important part for answering this question is: The idiom is apparently derived from a centuries-old Scottish proverb, though some other references to pigs flying or pigs with wings are more famous.
+a centuries - old Scottish proverb.
+
+Problem:Passage: "Do n't Forget Me (When I'm Gone)" is a song by Canadian rock band Glass Tiger. It was released in January 1986 as the lead from their debut album, The Thin Red Line. The song reached number-one in Canada and number 2 in the United States. The song features backing vocals by rock singer Bryan Adams.
+
+Question: Based on this passage, who sang don't forget me when i'm gone?
+Solution:OK... The important part for answering this question is: "Do n't Forget Me (When I'm Gone)" is a song by Canadian rock band Glass Tiger.
+Glass Tiger.
+
+Student A:During late 2012, Patrick Henry and his family competed on Family Feud, remaining champions for four days before being defeated on their fifth and final day; the family was later brought back because of a technical error and given another chance to retire undefeated, but were again unsuccessful.
+
+Answer this question: why was the hughes family back on family feud?
+Student B:OK... The relevant information is: During late 2012, Patrick Henry and his family competed on Family Feud, remaining champions for four days before being defeated on their fifth and final day; the family was later brought back because of a technical error and given another chance to retire undefeated, but were again unsuccessful.
+because of a technical error.
+
+Student A:Angela Olive Carter-Pearce (née Stalker; 7 May 1940 -- 16 February 1992), who published under the pen name Angela Carter, was an English novelist, short story writer and journalist, known for her feminist, magical realism, and picaresque works. She is best known for her book The Bloody Chamber, which was published in 1979. In 2008, The Times ranked Carter tenth in their list of "The 50 greatest British writers since 1945". In 2012, Nights at the Circus was selected as the best ever winner of the James Tait Black Memorial Prize.
+
+20th century english writer known for her feminist and magical works?
+Student B:

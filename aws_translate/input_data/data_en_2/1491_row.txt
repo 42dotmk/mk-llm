@@ -1,0 +1,25 @@
+The answer is B: Gravity.
+
+Mars, just like any other planet in the solar system, remains in orbit around the Sun due to the force of gravity or gravitational attraction. This force of gravity, which the Sun exerts on Mars and, indeed, on all bodies in the solar system, results from the mass of the Sun and the distance between the Sun and Mars. 
+
+Let's explain further:
+
+Every object in the universe that has mass, whether it's a planet, a star, or even something as small as an apple, attracts every other object with a force known as gravity. This force was described by Sir Isaac Newton in his law of universal gravitation in 1687, which states that every particle of matter in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers.
+
+In the context of Mars and the Sun, the Sun, being substantially more massive than Mars or any other planet in our solar system, exerts a strong gravitational force which pulls objects towards its center. Mars, being affected by this gravitational pull, constantly falls towards the Sun. 
+
+However, because Mars is also moving laterally (that is, sideways relative to the Sun) at a high speed, it doesn't fall straight into the Sun, but rather falls around it. This creates a balance between the Sun's gravitational force pulling Mars in, and the planet's momentum pushing it out and keeps Mars traveling in a nearly circular path around the Sun. This path is what we call an "orbit".
+
+Of course, gravity isn't the only force at work in our solar system. There's also the centrifugal force, which is an apparent force that acts outward on a body moving around a center, arising from the body's inertia. In the case of Mars and the Sun, the centrifugal force due to Mars' orbital motion counteracts the Sun's gravitational pull and, in the absence of any other forces, keeps Mars moving in its orbit instead of falling into the Sun. 
+
+So the story of why Mars stays in orbit around the Sun is a tale of a delicate cosmic balance between gravity and inertia.
+
+To touch on the other options - friction, magnetism, and solar power - none of these have sufficient impact on a planet's orbit to keep it in place. 
+
+Friction, for instance, is a force that opposes motion. It's experienced when two surfaces slide past each other. In a vacuum of space, where there is no atmosphere, friction does not affect the motion of planets.
+
+Magnetism, while a force that exists between bodies, doesn't have a significant role in maintaining a planet's orbit around the Sun. The Sun does have a magnetic field, as does Mars, but their effects are minor compared to the gravitational forces.
+
+Solar power, which is a form of energy derived from the Sun's radiation, also does not directly contribute to holding planets in their orbits. Although solar radiation does exert a pressure, the force it exerts is extremely small compared to gravity. Therefore, its influence on the orbit of a planet like Mars is negligible. 
+
+The key force, therefore, is gravity - the force that makes the world, and indeed the universe, go around!

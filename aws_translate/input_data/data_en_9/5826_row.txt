@@ -1,0 +1,19 @@
+Q: It has been an unbroken convention for decades now, to appoint the senior-most judge of the supreme court as the CJI.
+
+Based on this passage, who is appointed the chief justice of india?
+A: the senior-most judge of the supreme court. How to explain the answer? The relevant information to answer the above question is: It has been an unbroken convention for decades now, to appoint the senior-most judge of the supreme court as the CJI.
+
+Q: The cell cycle, or cell-division cycle, is the series of events that take place in a cell leading to its division and duplication of its DNA (DNA replication) to produce two daughter cells. In bacteria, which lack a cell nucleus, the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells. In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. During interphase, the cell grows, accumulating nutrients needed for mitosis, preparing it for cell division and duplicating its DNA. During the mitotic phase, the chromosomes separate. During the final stage, cytokinesis, the chromosomes and cytoplasm separate into two new daughter cells. To ensure the proper division of the cell, there are control mechanisms known as cell cycle checkpoints.
+
+Answer this question: when does cytokinesis occur in the cell cycle?
+A: the final stage. How to explain the answer? The important part for answering this question is: During the final stage, cytokinesis, the chromosomes and cytoplasm separate into two new daughter cells.
+
+Q: Context: The human hand normally has five digits: four fingers plus one thumb. In some languages, the human hand is said to have five fingers, including the thumb as one of the fingers. It has 27 bones, not including the sesamoid bone, the number of which varies between people, 14 of which are the phalanges (proximal, intermediate and distal) of the fingers and thumb. The metacarpal bones connect the fingers and the carpal bones of the wrist. Each human hand has five metacarpals and eight carpal bones.
+
+Question: the five long thin bones that form the palm of the hand are the?
+A: The metacarpal bones. How to explain the answer? The relevant sentence in the passage is: The metacarpal bones connect the fingers and the carpal bones of the wrist.
+
+Q: The Siege of Yorktown, also known as the Battle of Yorktown, the Surrender at Yorktown, German Battle or the Siege of Little York, ending on October 19, 1781, at Yorktown, Virginia, was a decisive victory by a combined force of American Continental Army troops led by General George Washington and French Army troops led by the Comte de Rochambeau over a British Army commanded by British peer and Lieutenant General Charles Cornwallis. The culmination of the Yorktown campaign, the siege proved to be the last major land battle of the American Revolutionary War in the North American theater, as the surrender by Cornwallis, and the capture of both him and his army, prompted the British government to negotiate an end to the conflict. The battle boosted faltering American morale and revived French enthusiasm for the war, as well as undermining popular support for the conflict in Great Britain.
+
+Based on this passage, who was defeated in the battle of yorktown?
+A:

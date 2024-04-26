@@ -1,0 +1,22 @@
+Student A:The Bundestag (German pronunciation: ( ˈbʊndəstaːk), "Federal Diet" ) is the German federal parliament. It can be compared to the lower house of parliament along the lines of the United States House of Representatives, the Irish Dáil Éireann or the House of Commons of the United Kingdom, with the Bundesrat, though a separate institution, having a similar role to the upper house of a bicameral parliament.
+
+Answer this question: what is the name given to the german parliament?
+Student B:OK... This is the relevant information: The Bundestag (German pronunciation: ( ˈbʊndəstaːk), "Federal Diet" ) is the German federal parliament.
+The Bundestag ( German pronunciation : ( ˈbʊndəstaːk ) , `` Federal Diet '' ).
+
+Student A:Moscow is situated on the Moskva River in the Central Federal District of European Russia, making it Europe's most populated inland city. The city is well known for its architecture, particularly its historic buildings such as Saint Basil's Cathedral with its brightly coloured domes. With over 40 percent of its territory covered by greenery, it is one of the greenest capitals and major cities in Europe and the world, having the largest forest in an urban area within its borders -- more than any other major city -- even before its expansion in 2012. The city has served as the capital of a progression of states, from the medieval Grand Duchy of Moscow and the subsequent Tsardom of Russia to the Russian Empire to the Soviet Union and the contemporary Russian Federation.
+
+Answer this question: which city was the capital of the former soviet union and is today the capital of russia?
+Student B:OK... This is the relevant information: The city has served as the capital of a progression of states, from the medieval Grand Duchy of Moscow and the subsequent Tsardom of Russia to the Russian Empire to the Soviet Union and the contemporary Russian Federation.
+Moscow.
+
+Student A:Brian Robeson is a thirteen-year-old son of divorced parents. As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies. Brian tries to land the plane, but ends up crash-landing into a lake in the forest. He must learn to survive on his own with nothing but his hatchet -- a gift his mother gave him shortly before his plane departed.
+
+Answer this question based on the passage: where was brian going in the book hatchet?
+Student B:OK... The relevant information is: As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies.
+the oil fields in Northern Canada.
+
+Student A:A deadweight loss, also known as excess burden or allocative inefficiency, is a loss of economic efficiency that can occur when equilibrium for a good or a service is not achieved. That can be caused by monopoly pricing in the case of artificial scarcity, an externality, a tax or subsidy, or a binding price ceiling or price floor such as a minimum wage.
+
+Answer this question: deadweight loss measures the inefficiency as the loss of?
+Student B:

@@ -1,0 +1,27 @@
+Reasoning and answer: First find the total time Carly practices the butterfly stroke in a week: 3 hours / day * 4 days / week = 12 hours / week. Then find the total time Carly practices the backstroke stroke in a week: 2 hours / day * 6 days / week = 12 hours / week. Then add those two amounts of time to find her total practice time each week: 12 hours / week + 12 hours / week = 24 hours / week. Then multiply her weekly practice time by the number of weeks in a month to find her monthly practice time: 24 hours / week * 4 weeks / month = 96 hours / month.
+The answer: 96
+What was the question?
+Question: Carly practices her butterfly stroke for 3 hours a day, 4 days a week, and her backstroke for 2 hours a day, six days a week. How much time does she spend practicing swimming in a month with 4 weeks?
+
+If they are to save every month for three years to reach the target amount, and each year has 12 months, they'll save for 12 * 3 = 36 months. If the house's downpayment is $108000, the total amount they both save per month is $108000 / 36 = $3000 every month. Since they share the monthly savings, each person will pay $3000 / 2 =  = $1500.
+The answer: 1500
+Reverse engineering the question: It will take Richard and Sarah 3 years to save enough for a down payment on a house at their current rates. If the house's downpayment is $108000, calculate the amount each person saves per month if they share the monthly savings.
+
+Reasoning and answer: Janine has 2 * 3 = 6 bottle caps. Sammy has 6 + 2 = 8 bottle caps.
+The answer: 8
+What was the question?
+Question: Sammy has 2 more bottle caps than Janine. Janine has 3 times as many bottle caps as Billie. If Billie has 2 bottle caps, how many does Sammy have?
+
+The total ratio representing the number of children in the family is 5 + 7 = 12. From the total ratio of children in the family, 5 / 12 represent the number of boys, meaning that the number of boys in the family is 5 / 12 * 180 = 75. If the boys are given $3900 to share, each boy receives $3900 / 75 = $52.
+The answer: 52
+Reverse engineering the question: The ratio of boys to girls in a family is 5:7. The total number of children in the family is 180. If the boys are given $3900 to share, how much money does each boy receive?
+
+Reasoning and answer: The price of the cheaper pair after the discount was $40 / 2 = $20. The total price of both pairs of shoes $20 + $60 = $80. The final discount was $80 / 4 = $20. The price he ends up paying was $80 - $20 = $60.
+The answer: 60
+What was the question?
+Question: James was doing some shopping in his favorite shop and he saw an offer on shoes that give him a second pair of shoes for half off the original price. He took the offer and took the first pair of shoes for $40 and the second one for $60. At the cashier, the lady told him that the offer applies strictly to the cheaper pair of shoes, and also that he was selected for an extra discount of a fourth off the total amount. How much money did James end up paying for both pairs of shoes?
+
+Reasoning and answer: The shampoo and conditioner cost $10 each so 2 * $10 = $20.00. 3 bottles of lotion cost $6.00 each so 3 * $6 = $18.00. So far she has spent $20 + $18 = $38.00. You need to spend $50.00 for free shipping and she has spent $38.00 already so she needs to buy $50 - $38 = $12.00 more in products.
+The answer: 12
+What was the question?
+Question:

@@ -1,0 +1,36 @@
+Ans: Alice Eve
+Ques: Passage: Lancelot crashes a performance of the Camelot musical, starring Hugh Jackman and Alice Eve as King Arthur and Queen Guinevere, but Larry and the others chase him to the theatre roof, where the New York exhibits begin to die. Lancelot then sees that the quest was about them and gives the tablet back. The moonlight restores the tablet's power, saving the exhibits. They decide that Ahkmenrah and the tablet should stay with his parents, even if it means the New York exhibits will no longer come to life. Back in New York, Larry spends some final moments with his friends before sunrise.
+
+Question: Based on this passage, who played lady guinevere in night at the museum 3?
+CoT: The relevant information is: Lancelot crashes a performance of the Camelot musical, starring Hugh Jackman and Alice Eve as King Arthur and Queen Guinevere, but Larry and the others chase him to the theatre roof, where the New York exhibits begin to die.
+
+
+Ans: Bobby Vee
+Ques: "Take Good Care of My Baby" is a song written by Carole King and Gerry Goffin. The song was made famous by Bobby Vee, when it was released in 1961.
+
+Who sang take good care of my baby in 1961?
+CoT: The relevant sentence in the passage is: The song was made famous by Bobby Vee, when it was released in 1961.
+
+
+Answer: Joshua. Now, what could be the question and solution-maybe?
+Ques: Context: Anthony Joshua vs. Wladimir Klitschko was a professional boxing match contested between Anthony Joshua and Wladimir Klitschko. The event took place on 29 April 2017 at Wembley Stadium in London, England, with Joshua's IBF and the vacant WBA (Super) and IBO heavyweight titles on the line. Joshua won the match via technical knockout in the 11th round. Klitschko announced his retirement from boxing a few months after the fight.
+
+Question: who won the boxing between joshua and klitschko?
+CoT: The relevant information to answer the above question is: Joshua won the match via technical knockout in the 11th round.
+
+
+Ans: IESVS NAZARENVS REX IVDÆORVM
+Ques: The acronym INRI represents the Latin inscription IESVS NAZARENVS REX IVDÆORVM (Iesus Nazarenus, Rex Iudaeorum), in English reads as "Jesus the Nazarene, King of the Jews" (John 19: 19). John 19: 20 states that this was written in three languages: Hebrew, Latin and Greek and was put on the cross of Jesus. The Greek version reads ΙΝΒΙ.
+
+Based on this passage, what does the letters inri stand for on the cross?
+CoT: To answer the question, consider the following: The acronym INRI represents the Latin inscription IESVS NAZARENVS REX IVDÆORVM (Iesus Nazarenus, Rex Iudaeorum), in English reads as "Jesus the Nazarene, King of the Jews" (John 19: 19).
+
+
+Ans: June 17 , 2018
+Ques: Passage: The 2018 Money in the Bank pay-per-view took place on June 17, 2018, at the Allstate Arena in the Chicago suburb of Rosemont, Illinois. For the first time since 2011, the event was dual-branded, involving both the Raw and SmackDown brands. The event included one male match and one female match. The contracts granted the winners a match for the world championship of their respective brand. The men's contract granted the winner a match for either Raw's Universal Championship or SmackDown's WWE Championship, while the women's contract granted the winner a Raw Women's Championship or SmackDown Women's Championship match.
+
+Question: Based on this passage, when does the money in the bank start?
+CoT: To answer the above question, the relevant sentence is: The 2018 Money in the Bank pay-per-view took place on June 17, 2018, at the Allstate Arena in the Chicago suburb of Rosemont, Illinois.
+
+
+Answer: April 12 -- 13 , 1861. Now, what could be the question and solution-maybe?

@@ -1,0 +1,26 @@
+Answer this question please:
+Context: The Congress of Vienna redrew the borders of Europe, and brought a lasting peace to the continent. The wars had profound consequences on global history; it fostered the spread of nationalism and liberalism, saw the rise of the British Empire as the world's foremost power, independence movements in Latin America and the subsequent collapse of the Spanish Empire, the fundamental reorganisation of German and Italian territories into larger states, and the establishment of radically new methods of conducting warfare.
+
+Question: which nation emerged as the strongest country in the world as a result of the napoleonic wars?
+
+Stream of random thoughts: To answer this question, we should know that: The wars had profound consequences on global history; it fostered the spread of nationalism and liberalism, saw the rise of the British Empire as the world's foremost power, independence movements in Latin America and the subsequent collapse of the Spanish Empire, the fundamental reorganisation of German and Italian territories into larger states, and the establishment of radically new methods of conducting warfare.... The answer is the British Empire.
+----
+Answer this question please:
+Passage: Lisa Loring (born Lisa Ann DeCinces; February 16, 1958) is an American actress. She is best known for having played Wednesday Addams on the 1964 -- 1966 sitcom The Addams Family.
+
+Question: Based on this passage, who played wednesday in the original addams family?
+
+Stream of random thoughts: This is the relevant information: She is best known for having played Wednesday Addams on the 1964 -- 1966 sitcom The Addams Family.... The answer is Lisa Loring.
+----
+Answer this question please:
+Established in 1891, as a result of the Populist movement, the People's Party reached its peak in the 1892 presidential election, when its ticket, composed of James B. Weaver and James G. Field, won 8.5 % of the popular vote and carried five states (Colorado, Idaho, Kansas, Nevada and North Dakota), and the 1894 House of Representatives elections, when it took over 10 % of the vote. Built on a coalition of poor, white cotton farmers in the South (especially North Carolina, Alabama and Texas) and hard-pressed wheat farmers in the Plains states (especially Kansas and Nebraska), the Populists represented a radical crusading form of agrarianism and hostility to elites, cities, banks, railroads, and gold.
+
+Answer this question: who did the peoples party nominate for president in 1892?
+
+Stream of random thoughts: The relevant information is: Established in 1891, as a result of the Populist movement, the People's Party reached its peak in the 1892 presidential election, when its ticket, composed of James B. Weaver and James G. Field, won 8.5 % of the popular vote and carried five states (Colorado, Idaho, Kansas, Nevada and North Dakota), and the 1894 House of Representatives elections, when it took over 10 % of the vote.... The answer is James B. Weaver.
+----
+Answer this question please:
+George Hudson proposed the idea of daylight saving in 1895. The German Empire and Austria-Hungary organized the first nationwide implementation, starting on April 30, 1916. Many countries have used it at various times since then, particularly since the energy crisis of the 1970s.
+
+Answer this question based on the passage: when did daylight savings time first come into effect?
+

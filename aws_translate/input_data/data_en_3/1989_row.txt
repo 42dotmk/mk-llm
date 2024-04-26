@@ -1,0 +1,27 @@
+Reasoning and answer: The farmer has 125 cows because 50 / .4 = 125. The farmer has 75 female cows because 125 x .6 = 75. The farmer will get 150 gallons of milk a day because 75 x 2 = 150.
+The answer: 150
+What was the question?
+Question: 40% of a farmer's cattle are males. The rest are females. If a female cow produces 2 gallons of milk a day, how much milk will the farmer get a day if he has 50 male cows?
+
+When 43 books were checked out on Wednesday, Suzy remained with 98 - 43 = 55 books. After 23 books were returned on Thursday, she ended with 55 + 23 = 78 books. However, 5 books were checked out on the same day meaning that 78 - 5 = 73 books were left. After 7 books were returned on Friday, Suzy had 73 + 7 = 80 books.
+The answer: 80
+Reverse engineering the question: When Suzy the librarian sat at her desk on Wednesday morning, she had 98 books ready for checkout. The same day, 43 books were checked out. The following day, 23 books were returned, but 5 books were checked out. On Friday, 7 books were returned. How many books did Suzy have?
+
+Reasoning and answer: They approved 20% off of the $20.00 item so .20 * 20 = $4.00. The item has a $4.00 discount which can be applied from his final total of $54.00 so 54 - 4 = $50.00. Now he can use his 10% coupon on the $50.00 total so .10 * 50 = $5.00. The total was $50.00 but his $5.00 discount now makes it 50 - 5 = $45.00.
+The answer: 45
+What was the question?
+Question: Ralph has $54.00 worth of products in his cart. At the register, he asks if he could have a 20% discount on an item with a small issue. This item is $20.00 to start. They agree.  Ralph also has a 10% coupon on his purchase, which he uses after the 20% discount on the item with the small issue. How much will all of his items cost?
+
+Helen lives 3 / 4 * 4500 = 3375 steps directly west of Lake High. To reach Helen, Mabel would have to walk to 4500 + 3375 = 7875 steps.
+The answer: 7875
+Reverse engineering the question: Mabel lives 4500 steps directly east of Lake High school. Helen lives 3/4 the number of steps that Mabel lives, directly west of the school. What's the total number of steps Mabel will walk to visit Helen so that they can do their assignments together?
+
+Reasoning and answer: Of her original 25 apples, Sarah gave five to friends, meaning she has no more than 25 - 5 = 20 apples available to give to teachers. She ate one while walking home, meaning she had no more than 20 - 1 = 19 apples available to give to teachers. And since she had three apples remaining when she got home, then the amount she had given to teachers was 19 - 3 = 16 apples.
+The answer: 16
+What was the question?
+Question: Sarah walked to school carrying a bag containing 25 apples. At school, she gave each teacher she saw an apple. She also gave a single apple to each of 5 of her closest friends. And while she walked home, she also ate one of the apples. If she had three apples left in the bag when she got home, how many apples had she given away to teachers?
+
+Reasoning and answer: There is $350 - $100 = $250 available to pay for the students' admission fees. This means they can afford to bring $250 / $10 = 25 students on the trip.
+The answer: 25
+What was the question?
+Question:

@@ -1,0 +1,20 @@
+Q: You are given a paragraph, a question and some answer options (associated with "A", "B", "C", "D", etc.) You need to list all the correct answer options with their associated letters (e.g. "A" can be a valid answer). Note that sometimes, more than one option can answer the question correctly and completely. In those cases, please generate all such options separated by a comma (e.g. "A, B" is a valid answer). Do not generate anything else apart from one or more of the following characters: 'A', 'B, 'C', 'D', etc.
+Paragraph- Sent 1: After becoming disabled in a machete attack on a visit to his native Haiti, Jean-Claude Joseph needed help persuading his landlord to move him from a fifth-floor apartment to one on the ground floor.
+Sent 2: Isaac Benjamin became ensnared in a bureaucratic snafu that took away his Social Security disability payments for more than two years.
+Sent 3: The story of Martha, a woman from Sierra Leone, was more compelling.
+Sent 4: Beaten, raped and tortured in her politically repressive homeland, she knowingly used someone else's passport to escape to America, but was caught by immigration authorities upon her arrival.
+Sent 5: She desperately sought political asylum.
+Sent 6: Not the kind of cases that lead to ground-breaking upheavals in the law, but the kind of cases that are handled day in and day out by lawyers for the legally disenfranchised who have no where else to turn.
+Sent 7: The work of attorneys from Legal Services of New Jersey will be highlighted in a onehour documentary, "Quest for Justice," to be aired 9 p.m.
+Sent 8: today on New Jersey Network.
+Sent 9: Produced by NYD2, a communications firm based in Somerset, the documentary features case histories of clients whose needs ranged from housing to fighting off deportation.
+Sent 10: Joseph, a 54-year-old naturalized citizen, turned to Legal Services when the landlord of his federally subsidized apartment complex in Elizabeth turned a deaf ear to his request for a ground-floor apartment.
+Sent 11: Having lost the use of his left arm in warding off the machete attack during a robbery attempt, Joseph said he found it increasingly difficult to negotiate the five flights of stairs lugging groceries or laundry on the frequent occasions when the building's elevator was out of order.
+Sent 12: "With this, it became impossible for me to stay upstairs," he said, pointing to the scars on his forearm.
+Sent 13: "If I cannot carry my groceries or my laundry, how can I live?"Sent 14: "It was a compelling case," said Legal Services attorney Stephen St. Hilaire.
+Sent 15: "The key for us -- and we have to make tough decisions all the time on whether to take a case -- was visualizing what he had to do to get to the fifth floor, struggling with a bag of groceries," he said.
+Sent 16: Benjamin, 53, of Jersey City had been collecting Social Security disability after undergoing double bypass surgery when the checks stopped coming.
+Sent 17: He said the agency claimed he had failed to return a form updating the condition of his health.
+Sent 18: "But what got me was they didn't let me know they didn't get it, they just cut me off," he said, adding he found it impossible to negotiate the Social Security bureaucracy himself. 
+Question: Why was Benjamin of New Jersy seeking legal help? (A) His social security checks stopped coming (B) He was seeking assylum (C) He wanted to move to a ground floor apartment (D) Sell apartment (E) To buy a house (F) To get SS back (G) To object his cut off Social Security disability benefits?.
+A:

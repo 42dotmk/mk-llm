@@ -1,0 +1,22 @@
+Student A:The U.S. federal court system hears cases involving litigants from two or more states, violations of federal laws, treaties, and the Constitution, admiralty, bankruptcy, and related issues. In practice, about 80 % of the cases are civil and 20 % criminal. The civil cases often involve civil rights, patents, and Social Security while the criminal cases involve tax fraud, robbery, counterfeiting, and drug crimes. The trial courts are U.S. district courts, followed by United States courts of appeals and then the Supreme Court of the United States. The judicial system, whether state or federal, begins with a court of first instance, whose work may be reviewed by an appellate court, and then ends at the court of last resort, which may review the work of the lower courts.
+
+What are the two federal courts under the supreme court?
+Student B:OK... The relevant information to answer the above question is: The trial courts are U.S. district courts, followed by United States courts of appeals and then the Supreme Court of the United States.
+The trial courts are U.S. district courts , followed by United States courts of appeals.
+
+Student A:Passage: The Maryland Hunt Cup is four miles long with 22 timber fences. Its permanent home is in Worthington Valley, Maryland. The 2013 edition of the race was the 117th running of the Maryland Hunt Cup. The race has been run each year since 1894, except for three years during the Second World War, 1943 -- 1945.
+
+Question: Based on this passage, where is the maryland hunt cup race held?
+Student B:OK... The relevant information is: Its permanent home is in Worthington Valley, Maryland.
+Worthington Valley , Maryland.
+
+Student A:The Grand Canyon Skywalk is a horseshoe-shaped cantilever bridge with a glass walkway in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon. USGS topographic maps show the elevation at the Skywalk's location as 4,770 ft (1,450 m) and the elevation of the Colorado River in the base of the canyon as 1,160 ft (350 m), and they show that the height of the precisely vertical drop directly under the skywalk is between 500 ft (150 m) and 800 ft (240 m).
+
+Answer this question based on the passage: where is the skywalk located in the grand canyon?
+Student B:OK... The relevant information is: The Grand Canyon Skywalk is a horseshoe-shaped cantilever bridge with a glass walkway in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon.
+in Arizona near the Colorado River on the edge of a side canyon in the Grand Canyon West area of the main canyon.
+
+Student A:While the Dodgers have won the National League West fourteen times compared to the Giants' eight since the beginning of the Divisional Era in 1969, the Giants have more total wins, head-to-head wins, National League pennants (23 -- 22), and World Series titles (8 -- 6) in franchise history. Since moving to California, Los Angeles holds the edge in pennants (10 -- 6) and World Series titles (5 -- 3). Each team has advanced to the postseason as the wild card twice, the Giants most recently in 2016. The 2014 World Series was the Giants' most recent championship, while the Dodgers lost the 2017 World Series.
+
+Who won more world series dodgers or giants?
+Student B:

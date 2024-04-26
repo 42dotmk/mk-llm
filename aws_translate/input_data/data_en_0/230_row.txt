@@ -1,0 +1,17 @@
+The speed or velocity of a moving object in a forward direction can be influenced by several factors originating from physics principles like forces, inertia, and momentum. Understanding these can give insights into what compels an object to accelerate or increase its speed in a forward direction.
+
+1. Applied Force: The application of an unbalanced external force is one of the most direct ways to get an object to speed up. This works on the basis of Newton's Second Law of Motion which states that Force equals mass multiplied by acceleration (F = ma). The direction of the force also matters. If the force is applied in the same direction as the object's movement, it will increase its speed.
+
+2. Gravity: If the object is in a gravity field (like anything on earth), gravity can cause an object to increase its speed. For instance, when an object falls down, it accelerates due to the gravitational force of the earth. The acceleration due to gravity near the surface of the Earth is approximately 9.81 m/s². In principle, this acceleration continues until a terminal velocity is reached, wherein the speed remains constant.
+
+3. Inclination or slope: An object moving on an inclined plane will see an increase in speed if it is moving in the direction of the slope. This is again due to the effect of gravity. The component of gravitational force acting along the slope drives the object downwards, increasing its speed.
+
+4. Decrease in Friction: Friction tends to oppose motion. Therefore, reducing friction can cause a moving object to increase its speed. For instance, a sled moves faster on ice than on dry ground because of the reduced friction on ice. Similarly, a car with wet, well-maintained tires on a smooth roadway will have less rolling resistance and can therefore go faster.
+
+5. Momentum and Collisions: If a moving object collides with another object in its own direction of motion and if the second object is either moving in the same direction (but slower) or stationary, the first object can speed up. This is due to the law of conservation of momentum. The total momentum before the collision must equal the total momentum after the collision.
+
+6. Propulsion: For objects like rockets or birds in flight, propulsion can cause an increase in speed. They essentially push matter (rocket exhaust or air) one way, which via Newton's Third Law gives them a push in the opposite direction. The more force applied to the expulsion of this matter, the faster the object will go.
+
+7. Elastic potential energy: Objects that have their shape distorted can build up elastic potential energy, like a drawn bow or a compressed spring. When released, this energy is converted to kinetic energy, increasing the speed of the object.
+
+In summary, various factors ranging from applied forces, gravitational fields, reduction of opposing forces, effective use of potential energy, and reactions from collisions or propulsion can cause a moving object to increase its speed in a forward direction. Of course, each situation has its own unique combination of these factors which must be taken into account.

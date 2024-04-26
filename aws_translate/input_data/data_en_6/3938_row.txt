@@ -1,0 +1,36 @@
+Ans: Joanne Wheatley
+Ques: Passage: Three and a half thousand people applied for the competition, and 12 were selected. Each episode was filmed over two 14-hour days. The competition was won by Joanne Wheatley.
+
+Question: Based on this passage, who won the second series of the great british bake off?
+CoT: This is the relevant information: The competition was won by Joanne Wheatley.
+
+
+Answer: from Louisville , Kentucky to Cleveland , Ohio. Now, what could be the question and solution-maybe?
+Ques: U.S. Route 42 (US 42) is an east -- west United States highway that runs southwest-northeast for 355 miles (571 km) from Louisville, Kentucky to Cleveland, Ohio. The route has several names including Pearl Road from Cleveland to Medina in Northeast Ohio, Reading Road in Cincinnati, Cincinnati and Lebanon Pike in southwestern Ohio and Brownsboro Road in Louisville. Traveling east, the highway ends in downtown Cleveland, Ohio; and traveling west it ends in Louisville.
+
+Answer this question: where does us route 42 start and end?
+CoT: The relevant information is: U.S. Route 42 (US 42) is an east -- west United States highway that runs southwest-northeast for 355 miles (571 km) from Louisville, Kentucky to Cleveland, Ohio.
+
+
+Ans: Qui - Gon Jinn
+Ques: Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as one of the main protagonists of the 1999 film Star Wars: Episode I -- The Phantom Menace.
+
+Who does liam neeson play in star wars 1?
+CoT: The relevant sentence in the passage is: Qui-Gon Jinn is a fictional character in the Star Wars franchise, portrayed by Liam Neeson as one of the main protagonists of the 1999 film Star Wars: Episode I -- The Phantom Menace.
+
+
+Ans: 3 : 43.13
+Ques: The world record in the mile run is the best mark set by a male or female runner in the middle-distance track and field event. The IAAF is the official body which oversees the records. Hicham El Guerrouj is the current men's record holder with his time of 3: 43.13, while Svetlana Masterkova has the women's record of 4: 12.56. Since 1976, the mile has been the only non-metric distance recognized by the IAAF for record purposes.
+
+Answer this question based on the passage: whats the world record for running a mile?
+CoT: The relevant information is: Hicham El Guerrouj is the current men's record holder with his time of 3: 43.13, while Svetlana Masterkova has the women's record of 4: 12.56.
+
+
+Answer: Sean Patrick Hayes. Now, what could be the question and solution-maybe?
+Ques: Sean Patrick Hayes (born June 26, 1970) is an American actor, comedian, and producer. He is best known for his role as Jack McFarland on the NBC sitcom Will & Grace, for which he won an Emmy Award, four SAG Awards, and one American Comedy Award, and earned six Golden Globe nominations. He also runs a television production company called Hazy Mills Productions, which produces shows such as Grimm, Hot in Cleveland, The Soul Man, and Hollywood Game Night.
+
+Answer this question based on the passage: actor who plays jack in will and grace?
+CoT: The important part for answering this question is: He is best known for his role as Jack McFarland on the NBC sitcom Will & Grace, for which he won an Emmy Award, four SAG Awards, and one American Comedy Award, and earned six Golden Globe nominations.
+
+
+Ans: hyaline cartilage ( `` articular cartilage '' )

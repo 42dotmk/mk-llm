@@ -1,0 +1,36 @@
+Ans: Dianne Feinstein
+Ques: This page contains a list of the longest-living United States Senators among those currently living (incumbent or former) and a list of the individuals who, at the time of their deaths, were the longest-lived United States Senators among those current or former senators then living. Of those living, the longest-lived senator is Ernest Hollings. The oldest sitting senator is Dianne Feinstein (born 1933). The longest-lived senator in history is Cornelius Cole, who died at 102.
+
+Answer this question based on the passage: who is the oldest senator currently serving in congress?
+CoT: The relevant information is: The oldest sitting senator is Dianne Feinstein (born 1933).
+
+
+Ans: on location in New York City with occasional references to nearby suburbs
+Ques: Blue Bloods is an American police procedural drama series that airs on CBS. The series is filmed on location in New York City with occasional references to nearby suburbs. The series debuted on September 24, 2010, with episodes airing on Fridays following CSI: NY before being moved to Wednesdays at 10: 00 p.m. Eastern and Pacific time and 9: 00 p.m. Central and Mountain time for a four-week tryout. After four weeks, it returned to its original Friday 10: 00 p.m. Eastern time slot, where it has remained since. On March 23, 2017, CBS renewed the series for an eighth season. The season premiered on September 29, 2017.
+
+Where is the tv show blue bloods filmed?
+CoT: The relevant sentence in the passage is: The series is filmed on location in New York City with occasional references to nearby suburbs.
+
+
+Answer: the fall and winter. Now, what could be the question and solution-maybe?
+Ques: There is an average of forty-five inches of rain a year (fifty in the mountains). July storms account for much of this precipitation. As much as 15 % of the rainfall during the warm season in the Carolinas can be attributed to tropical cyclones. Mountains usually see some snow in the fall and winter. Moist winds from the southwest drop an average of 80 inches (2,000 mm) of precipitation on the western side of the mountains, while the northeast-facing slopes average less than half that amount.
+
+Answer this question based on the passage: when does it snow in north carolina mountains?
+CoT: The relevant information is: Mountains usually see some snow in the fall and winter.
+
+
+Ans: New York City , New York
+Ques: Setting: New York City, New York
+
+Answer this question: where does the action of royall tyler's play the contrast take place?
+CoT: To answer the above question, the relevant sentence is: Setting: New York City, New York
+
+
+Ans: . ai
+Ques: Adobe Illustrator Artwork (AI) is a proprietary file format developed by Adobe Systems for representing single-page vector-based drawings in either the EPS or PDF formats. The. ai filename extension is used by Adobe Illustrator.
+
+Answer this question based on the passage: what is the file extension for adobe illustrator?
+CoT: The relevant information is: The. ai filename extension is used by Adobe Illustrator.
+
+
+Answer: Giant City State Park , just south of Carbondale , Illinois. Now, what could be the question and solution-maybe?

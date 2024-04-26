@@ -1,0 +1,60 @@
+Mosquitofish: surprisingly violent. Credit: Shutterstock Despite what you might think, evolution rarely happens because something is good for a species. Instead, natural selection favours genetic variants that are good for the individuals that possess them. This leads to a much more complicated and messy world, with different selective forces pushing in many directions, even within a single species. 
+  
+ One prominent consequence of this is "sexual conflict". This is the term evolutionary biologists use when one sex evolves a feature that gives benefits to the sex carrying it, but disadvantages the other sex, which in turn develops its own adaptations to counter this. Sexual conflict seems to explain some of the most bizarre manifestations of reproductive biology that we know of. The enormous, curly penises of some duck species or the tendency of male bed bugs to punch holes in their partners' abdominal walls to inseminate them are good examples of this. 
+  
+ Now a new study has suggested that, in some species, this conflict between the sexes can have some surprising results. Specifically, avoiding conflict with males can cause females to evolve bigger brains. 
+  
+ To understand the effects of sexual conflict, sometimes it can help to think about evolution in other antagonistic systems. In 2010, Japanese researcher Michio Kondoh showed that brain size evolution can depend on predator-prey conflicts. 
+  
+ Both avoiding predators and catching prey demand brain power. By studying several hundred species of fish, Kondoh showed that prey eaten by large-brained predators tend to have larger brains themselves. It seems that both predator and prey tend to evolve towards higher cognitive functioning to give themselves an edge in their competition. 
+  
+ Recently, a team of Swedish and Australian researchers led by Séverine Buechel from Stockholm University, noticed that predator-prey conflict is, in some ways, like sexual conflict. This is because it features two antagonistic partners constantly evolving to better outwit the other. The researchers wondered if, like predator-prey conflict, sexual conflict might also affect the evolution of brain size. 
+  
+ To test this idea, they carried out a laboratory evolution experiment using a fish called the eastern mosquitofish, a relative of the guppy originally found in the Southern US. Male mosquitofish are particularly unpleasant. Unlike many fish, these animals reproduce by fertilising eggs inside the female's body. But instead of wooing a female and trying to impress her with his prowess, the male mosquitofish simply sneaks up on her and tries to force her to mate. 
+  
+ The male fertilises the female's eggs using a tubular structure called a gonopodium, a modified anal fin that the male attempts to insert into the unwilling female. Not to put too fine a point on it, it's basically rape. Unsurprisingly, this is not good for the females, who are continually being harassed and have little control over the parenthood of their own offspring. 
+  
+ Beuchel and her colleagues bred lines of fish where the males either had especially long gonopodia or especially short ones, as well as control lines where they didn't select for gonopodia size. Those with longer gonopodia would have an advantage in their attempts at coercive mating and so experience greater levels of sexual conflict. 
+  
+ After nine generations of evolution in the laboratory, the researchers measured the sizes of the brains of the male and female fish from all their selection lines and from unselected control lines. They found that in the lines where males were selected to have longer gonopodia, the females had evolved larger brains that were around 6% heavier than the brains of females from the other lines. 
+  
+ Bigger brains, better reproduction 
+  
+ What seems to be happening is that, when sexual conflict is most intense, females who can use their brains to avoid coercive mating are actually the most successful at reproducing. This could be because these clever females are harassed less and can get on with things like feeding, or because they are better able to select the best quality males to father their offspring. 
+  
+ These results suggest that conflict between the sexes can, at least in this case, cause the evolution of larger brains. But how general might this process be? Species where the males are this boorish and aggressive towards females are, thankfully, infrequent, and there are plenty other important evolutionary factors which can also lead to the evolution of bigger brains. For example, living in large, complicated social groups seems to require bigger brains (the so-called "social brain hypothesis"). 
+  
+ In particular, trying to understand human intelligence in terms of sexual conflict would be premature and could lead to some very unwelcome misunderstandings. Having said that, low-level sexual conflict is not rare in the animal kingdom. So we might well have to look more closely at the battle of the sexes if we want a full understanding of the evolution of big brains. 
+  
+ Explore further: Too much sex causes genitals to change shape, beetle study shows 
+  
+ More information: Séverine D. Buechel et al. Artificial selection on male genitalia length alters female brain size, Proceedings of the Royal Society B: Biological Sciences (2016). DOI: 10.1098/rspb.2016.1796 
+  
+  ||||| Male mosquitofish with bigger genitals are typically best at coercing females into the "sack," but now researchers have found that females that are not interested in such pushy lovers grow bigger brains to fight back. 
+  
+ Having more brain power may give the females the smarts they need to find clever ways of avoiding male assaults, researchers said. 
+  
+ This is just one example of the arms race that takes place between the sexes. The conflict arises in the animal kingdom because of the different strategies that males and females often take when it comes to continuing their genetic legacies. Females of most species are typically seen as choosy about their mates, because they often have to pay a high biological price for bearing offspring. On the other hand, sex usually exacts a low biological toll on males, so an approach that they frequently pursue is to mate as often as possible. [The 7 Weirdest Animal Penises] 
+  
+ To learn more about the consequences of sexual conflict, researchers investigated the eastern mosquitofish (Gambusia holbrooki), a tiny fish that is native to the eastern and southern United States. Unlike most of the rest of the animal kingdom, in this species, males do not generally court females. Instead, male eastern mosquitofish usually try to force themselves upon females, making up to 1,000 attempts per day. 
+  
+ Previous research has found that male eastern mosquitofish with larger gonopodiums (a modified fin that's the fish equivalent of a penis) are better at coercing females into sex than their less-endowed counterparts. 
+  
+ Prior work that was published in 2010 in the journal Functional Ecology has also revealed that prey species often have relatively larger brains than their predators — likely in order to escape their hunters. Perhaps, in order to avoid such coercion from males with oversized genitals (the "predators" in this scenario), female eastern mosquitofish would develop larger brains, the researchers surmised. 
+  
+ The researchers bred two different groups of male eastern mosquitofish: one was chosen for large genitals, and the other for small genitals. Females that were born in each group only mated with males of their group. [See Photos of a Weird 'Penis Head' Fish] 
+  
+ After eight generations of breeding, the large-genital males had private parts that averaged about 6.4 millimeters long, while those of the small-genital males averaged only about 5.8 mm long. (In comparison, the average body size of both groups of males was 22.18 mm.) 
+  
+ The researchers then paired each of the 30 to 40 small- and large-genital males with two virgin females (upping the chances the males would sire offspring). The female offspring from each group were then raised (10 females for one male) with a male from their group, so offspring with big-genital fathers would be raised with other big-genital males from the same genetic line. 
+  
+ The scientists found that females in the group bred for larger male genitals had brains that were on average 4.6 percent heavier than their wild counterparts, and 6.5 percent heavier than females in the group that was bred for smaller male genitals. The brains of the males did not undergo such changes in either group. 
+  
+ "We did not expect to find that female, but not male, brain size increased in lines selected for a longer gonopodium," said study lead author Séverine Buechel, an evolutionary biologist at Stockholm University. "We expected both evading a male and pursuing a female to be cognitively demanding, and we therefore expected male coercion to select for larger brains in both sexes." 
+  
+ All in all, "the mating system adopted by a species is an important factor shaping male and female brain anatomy," Buechel told Live Science. "We hope that this study provides a prospect for future research on brain evolution in relation to different mating strategies." 
+  
+ Buechel and her colleaguesdetailed their findings online Nov. 23 in the journal Proceedings of the Royal Society B. 
+  
+ Original article on Live Science. ||||| Starting in 1996, Alexa Internet has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the Wayback Machine after an embargo period. |||||
+What is a one-paragraph summary of the above article?

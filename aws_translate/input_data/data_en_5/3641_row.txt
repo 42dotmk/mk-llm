@@ -1,0 +1,29 @@
+## question
+Luke Kleintank (born May 18, 1990) is an American actor. He is best known for playing Noah Newman on The Young and the Restless and Joe Blake in The Man in the High Castle.
+
+Answer this question: joe from the man in the high castle actor?
+## answer
+To answer the above question, the relevant sentence is: He is best known for playing Noah Newman on The Young and the Restless and Joe Blake in The Man in the High Castle.
+So the answer must be Luke Kleintank
+
+## question
+Context: No mention of an office of vice president was made at the 1787 Constitutional Convention until near the end, when an 11-member committee on "Leftover Business" proposed a method of electing the president and vice president, and recommended that the vice president succeed the executive in the event of a vacancy in that position, but would otherwise serve as the president of the Senate, casting a vote only to break a tie. Although delegates approved establishing the office, with both its executive and senatorial functions, not many understood the extent of the vice president's duties. Only a few states had an analogous position. Among those that did, New York's constitution provided that, "The lieutenant-governor shall, by virtue of his office, be president of the Senate, and, upon an equal division, have a casting voice in their decisions, but not vote on any other occasion."
+
+Question: when was the office of the vice president created?
+## answer
+The relevant sentence in the passage is: No mention of an office of vice president was made at the 1787 Constitutional Convention until near the end, when an 11-member committee on "Leftover Business" proposed a method of electing the president and vice president, and recommended that the vice president succeed the executive in the event of a vacancy in that position, but would otherwise serve as the president of the Senate, casting a vote only to break a tie.
+So the answer must be 1787
+
+## question
+Electronegativity, symbol χ, is a chemical property that describes the tendency of an atom to attract electrons (or electron density) towards itself. An atom's electronegativity is affected by both its atomic number and the distance at which its valence electrons reside from the charged nucleus. The higher the associated electronegativity number, the more an element or compound attracts electrons towards it.
+
+The ability of an atom to attract electron towards itself is called?
+## answer
+To answer this question, we should know that: Electronegativity, symbol χ, is a chemical property that describes the tendency of an atom to attract electrons (or electron density) towards itself.
+So the answer must be Electronegativity
+
+## question
+The Twelfth Amendment requires each elector to cast one vote for president and another vote for vice president. In each state and the District of Columbia, electors are chosen every four years on the Tuesday after the first Monday in November, and then meet to cast ballots on the first Monday after the second Wednesday in December. The candidates who receive a majority of electoral votes among the states are elected President and Vice President of the United States when the Electoral College vote is certified by Congress in January.
+
+Answer this question: in order to be elected president of the united states a candidate must win?
+## answer

@@ -1,0 +1,29 @@
+## question
+Context: Washington, D.C., is located in the mid-Atlantic region of the U.S. East Coast. Due to the District of Columbia retrocession, the city has a total area of 68.34 square miles (177.0 km), of which 61.05 square miles (158.1 km) is land and 7.29 square miles (18.9 km) (10.67 %) is water. The District is bordered by Montgomery County, Maryland, to the northwest; Prince George's County, Maryland, to the east; and Arlington and Alexandria, Virginia, to the south and west.
+
+Question: where's washington dc located on a map?
+## answer
+The relevant sentence in the passage is: Washington, D.C., is located in the mid-Atlantic region of the U.S. East Coast.
+So the answer must be the mid-Atlantic region of the U.S. East Coast
+
+## question
+The Horsehead Nebula (also known as Barnard 33) is a dark nebula in the constellation Orion. The nebula is located just to the south of the star Alnitak, which is farthest east on Orion's Belt, and is part of the much larger Orion Molecular Cloud Complex. The nebula was first recorded in 1888 by Scottish astronomer Williamina Fleming on photographic plate B2312 taken at the Harvard College Observatory. The Horsehead Nebula is approximately 1500 light years from Earth. It is one of the most identifiable nebulae because of the shape of its swirling cloud of dark dust and gases, which bears some resemblance to a horse's head when viewed from Earth.
+
+Answer this question: how far is the horsehead nebula from earth?
+## answer
+The important part for answering this question is: The Horsehead Nebula is approximately 1500 light years from Earth.
+So the answer must be approximately 1500 light years
+
+## question
+The Master is a fictional character on the action-horror / fantasy television series Buffy the Vampire Slayer (1997 -- 2003). He is a centuries-old vampire portrayed by Mark Metcalf, determined to open the portal to hell below Sunnydale High School in the fictional town of Sunnydale where the main character Buffy Summers lives. The premise of the series is that Buffy (Sarah Michelle Gellar) is a Slayer, a teenage girl endowed with superhuman strength and other powers which she uses to kill vampires and other evil beings. Each season of the series Buffy and the small group of family and friends who work with her, nicknamed the Scooby Gang, must defeat an evil force referred to as the Big Bad; the villain is usually trying to bring on an apocalypse. The Master is the first season's Big Bad.
+
+Who plays the master in buffy season 1?
+## answer
+The relevant information to answer the above question is: He is a centuries-old vampire portrayed by Mark Metcalf, determined to open the portal to hell below Sunnydale High School in the fictional town of Sunnydale where the main character Buffy Summers lives.
+So the answer must be Mark Metcalf
+
+## question
+It was originally written by Alan J. Lerner (lyrics) and Frederick Loewe (music) for the stage musical Paint Your Wagon in 1951. When the film of the musical was made in 1969, Lee Marvin took the role of prospector Ben Rumson. Not a natural singer, Marvin nevertheless sang all of his songs in the film, rejecting the idea of miming to another singer's voice. Despite the film being a box office flop, the soundtrack became a success. Orchestrated and arranged by Nelson Riddle, Marvin's version of the song "Wand'rin Star" became a number-one single in Ireland and the UK, keeping The Beatles at number two in the UK with their single "Let It Be". Marvin never released a follow-up single, so he is considered a one-hit wonder.
+
+Answer this question based on the passage: who wrote i was born under a wandering star?
+## answer

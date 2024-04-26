@@ -1,0 +1,19 @@
+Question: In the United States, prisoners may wait many years before execution can be carried out due to the complex and time-consuming appeals procedures mandated in the jurisdiction. The time between sentencing and execution has increased relatively steadily between 1977 and 2010, including a 22 % jump between 1989 and 1990 and a similar jump between 2008 and 2009. In 2010, a death row inmate waited an average of 178 months (roughly 15 years) between sentencing and execution. Nearly a quarter of inmates on death row in the U.S. die of natural causes while awaiting execution.
+
+Answer this question: how long is an inmate on death row?
+Answer: This is the relevant information: In 2010, a death row inmate waited an average of 178 months (roughly 15 years) between sentencing and execution. The answer is an average of 178 months ( roughly 15 years ).
+
+Question: Passage: The song is about Dolores's yearning for her simple life as a child after having achieved success, and includes a string arrangement composed by O'Riordan.
+
+Question: Based on this passage, what is ode to my family by the cranberries about?
+Answer: To answer the above question, the relevant sentence is: The song is about Dolores's yearning for her simple life as a child after having achieved success, and includes a string arrangement composed by O'Riordan. The answer is Dolores 's yearning for her simple life as a child after having achieved success.
+
+Question: Context: Redding, officially the City of Redding, is the county seat of Shasta County, California, in the northern part of the state. It lies along the Sacramento River, 162 miles (261 kilometers) north of Sacramento, and 120 miles (190 km) south of California's northern border, shared with the state of Oregon. Interstate 5 bisects the entire city, from the south to north before it approaches Shasta Lake, which is located 15 miles (24 km) to the north. The 2010 population was 89,861. Redding is the largest city in the Shasta Cascade region, and it is the sixth-largest city in the Sacramento Valley, behind Sacramento, Elk Grove, Roseville, Vacaville and Chico.
+
+Question: where is redding california located on a map?
+Answer: To answer the question, consider the following: It lies along the Sacramento River, 162 miles (261 kilometers) north of Sacramento, and 120 miles (190 km) south of California's northern border, shared with the state of Oregon. The answer is along the Sacramento River , 162 miles ( 261 kilometers ) north of Sacramento , and 120 miles ( 190 km ) south of California 's northern border.
+
+Question: The Pareto principle (also known as the 80 / 20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80 % of the effects come from 20 % of the causes. Management consultant Joseph M. Juran suggested the principle and named it after Italian economist Vilfredo Pareto, who noted the 80 / 20 connection while at the University of Lausanne in 1896, as published in his first paper, "Cours d'économie politique". Essentially, Pareto showed that approximately 80 % of the land in Italy was owned by 20 % of the population; Pareto developed the principle by observing that about 20 % of the peapods in his garden contained 80 % of the peas.
+
+Answer this question based on the passage: where did the 80 20 rule come from?
+Answer:

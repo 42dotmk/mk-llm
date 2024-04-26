@@ -1,0 +1,19 @@
+Q: Context: "Let It Be" is a song by the English rock band the Beatles, released in March 1970 as a single, and (in an alternate mix) as the title track of their album Let It Be. At the time, it had the highest debut on the Billboard Hot 100, beginning its chart run at number 6. It was written and sung by Paul McCartney. It was their final single before McCartney announced his departure from the band. Both the Let It Be album and the US single "The Long and Winding Road" were released after McCartney's announced departure from and the subsequent break-up of the group. The alternate mix on their album Let It Be features an additional guitar solo and some minor differences in the orchestral sections.
+
+Question: who wrote the lyrics to let it be?
+A: Paul McCartney. How to explain the answer? The relevant information to answer the above question is: It was written and sung by Paul McCartney.
+
+Q: Context: The Red Desert is a high altitude desert and sagebrush steppe located in south central Wyoming, comprising approximately 9,320 square miles (24,000 km). Among the natural features in the Red Desert region are the Great Divide Basin, a unique endorheic drainage basin formed by a division in the Continental Divide, and the Killpecker Sand Dunes, the largest living dune system in the United States. In the 19th century, the Oregon, California and Mormon Trails crossed the Continental Divide at South Pass, just north of the Red Desert. Today, busy Interstate 80 bisects the desert's southern region while gas field roads cross the desert.
+
+Question: where is the red desert located in wyoming?
+A: south central Wyoming. How to explain the answer? To answer this question, we should know that: The Red Desert is a high altitude desert and sagebrush steppe located in south central Wyoming, comprising approximately 9,320 square miles (24,000 km).
+
+Q: Since 1993, the city of Fort Myers in Lee County, Florida, United States has been the Spring training home of the Boston Red Sox when the club moved from Winter Haven. Boston trains at the JetBlue Park at Fenway South since the ballpark opened in 2012, and the minor-league facility, featuring five full fields, is also within the Fenway South complex.
+
+Based on this passage, where is the red sox spring training held?
+A: the city of Fort Myers in Lee County , Florida , United States. How to explain the answer? To answer the question, consider the following: Since 1993, the city of Fort Myers in Lee County, Florida, United States has been the Spring training home of the Boston Red Sox when the club moved from Winter Haven.
+
+Q: "You've Really Got a Hold on Me" is a song written by Smokey Robinson which became a 1962 Top 10 hit single for The Miracles on Motown's Tamla label. One of the Miracles' most covered tunes, this million-selling song received a 1998 Grammy Hall of Fame Award. It has also been selected as one of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll. It was covered by English rock group the Beatles on their second album, With the Beatles and many other musicians.
+
+Answer this question based on the passage: who wrote the song you really got a hold on me?
+A:

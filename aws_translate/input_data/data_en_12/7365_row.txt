@@ -1,0 +1,25 @@
+Since Guise was eating 2 more hot dogs each day than the previous day and ate 10 hot dogs on Monday, he ate 10 + 2 = 12 hot dogs on Tuesday. By Tuesday Guise had eaten 12 + 10 = 22 hot dogs. On Wednesday, after eating two more hot dogs than the previous day, the total number of hot dogs he ate is 12 + 2 = 14. In the three days, Guise ate 14 + 22 = 36 hotdogs.
+The answer: 36
+Reverse engineering the question: Guise went to a restaurant and ate ten hot dogs on a Monday. That week, he ate two more dogs each day than the previous day. How many hot dogs had Guise eaten by Wednesday that week?
+
+Reasoning and answer: The total cost of the ball, the shorts, and the shoes is $3.75 + $2.40 + $11.85 = $18. Zachary needs $18 − $10 = $8 more.
+The answer: 8
+What was the question?
+Question: For football season, Zachary wants to buy a new football, a pair of shorts, and a pair of football shoes. The ball costs $3.75, the shorts cost $2.40, and the shoes cost $11.85. Zachary has $10. How much more money does Zachary need?
+
+Joey Chestnut ate 75 hotdogs to claim the record and Lisa has eaten 20 hot dogs so far, so she still needs to eat 75 - 20 = 55 hotdogs to tie Joey Chestnut. Lisa has a 10 minute time period to eat the hotdogs and half the time has already passed, which means Lisa has 10 / 2 = 5 minutes left until the competition is over. If she needs to eat 55 hotdogs to tie Joey Chestnut and there are 5 minutes left in the competition period then she needs to eat 55 / 5 = 11 hot dogs per minute to have a chance of tying for a win.
+The answer: 11
+Reverse engineering the question: Lisa is looking to attempt a World Record. She has decided to try and match Joey Chestnut's record of eating 75 full hotdogs, buns included, in 10 minutes. Halfway through the time Lisa has eaten 20 hotdogs. How many hotdogs will she have to eat per minute to at least tie Joey Chestnut's record?
+
+Reasoning and answer: First find how many minute Andy had to get to school when he left his house: 8:00 AM - 7:15 AM = 45 minutes. Then find the total time he spent waiting at red lights: 3 minutes / light * 4 lights = 12 minutes. Now add the normal travel time, red light time, and construction wait time to find Andy's total travel time: 30 minutes + 12 minutes + 10 minutes = 52 minutes. Now subtract the amount of time Andy had when he left his house from that number to find how many minute late he is: 52 minutes - 45 minutes = 7 minutes.
+The answer: 7
+What was the question?
+Question: Andy is running late. School starts at 8:00 AM and it normally takes him 30 minutes to get there, but today he had to stop for 3 minutes each at 4 red lights and wait 10 minutes to get past construction. If he left his house at 7:15, how many minutes late will he be?
+
+First, we figure out the price per meal by adding the steak and the drink together, finding a cost of 20 + 5 = 25 per meal. Then we multiply this by 2, as there are two people eating, meaning a total cost of 25 * 2 = 50 for both meals. Then we find the total tip amount for a 20% tip, by multiplying 50 * .2 = 10. Then we find out what 80% of this tip amount is by multiplying the desired tip of 10 by .8, finding 10 * .8 = 8 dollars that Billy should contribute.
+The answer: 8
+Reverse engineering the question: If Billy and Jenny each order a $20 steak along with a $5 drink, how much will Billy have to pay in tips if he wants to cover 80% of a 20% tip for the two of them?
+
+The amount she spends on buying drinks is $2 * 10 = $20. The amount she spends on buying cakes is $10 * 5 = $50. The amount she spends on buying ice creams is $5 * 100 = $500. The total amount she spends is $20 + $50 + $500 = $570.
+The answer: 570
+Reverse engineering the question:

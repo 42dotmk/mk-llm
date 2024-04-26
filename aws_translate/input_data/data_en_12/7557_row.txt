@@ -1,0 +1,25 @@
+q... Passage: As acoustic sensors in mammals, stereocilia are lined up in the organ of Corti within the cochlea of the inner ear. In hearing, stereocilia transform the mechanical energy of sound waves into electrical signals for the hair cells, which ultimately leads to an excitation of the auditory nerve. Stereocilia are composed of cytoplasm with embedded bundles of cross-linked actin filaments. The actin filaments anchor to the terminal web and the top of the cell membrane and are arranged in grade of height. As sound waves propagate in the cochlea, the movement of endolymph fluid bends the stereocilia. If the direction of movement is towards the taller stereocilia, tension develops in the tip links, mechanically opening transduction channels near the tips. Cations from the endolymph flow into the cell, depolarizing the hair cell and triggering the release of neurotransmitters to nearby nerves, which send an electrical signal to the central nervous system.
+
+Question: Based on this passage, stereocillia on the organ of corti are arranged?
+a... To answer the above question, the relevant sentence is: As acoustic sensors in mammals, stereocilia are lined up in the organ of Corti within the cochlea of the inner ear.
+The answer is within the cochlea of the inner ear
+
+
+q... The album, largely based on material from Disney's 1991 animated version, features songs and instrumental score composed by Alan Menken with lyrics by Howard Ashman and three new songs composed by Alan Menken with lyrics by Tim Rice. The songs feature vocal performances by the film's ensemble cast including Emma Watson, Dan Stevens, Luke Evans, Kevin Kline, Josh Gad, Ewan McGregor, Stanley Tucci, Audra McDonald, Gugu Mbatha-Raw, Nathan Mack, Ian McKellen, and Emma Thompson.
+
+Answer this question based on the passage: who wrote the songs for beauty and the beast 2017?
+a... This is the relevant information: The album, largely based on material from Disney's 1991 animated version, features songs and instrumental score composed by Alan Menken with lyrics by Howard Ashman and three new songs composed by Alan Menken with lyrics by Tim Rice.
+The answer is Alan Menken with lyrics by Howard Ashman and three new songs composed by Alan Menken with lyrics by Tim Rice
+
+
+q... Passage: The oldest living U.S. president is George H.W. Bush, born June 12, 1924 (age 93 years, 261 days). On November 25, 2017, he also became the longest-lived president, surpassing the lifespan of Gerald Ford, who died at the age of 93 years, 165 days. The second oldest living president, Jimmy Carter, has the distinction of having the longest post-presidency in U.S. history, currently at 37 years, 39 days. He surpassed the previous record, held by Herbert Hoover (31 years, 230 days) on September 7, 2012. The youngest living president is Barack Obama, born August 4, 1961 (age 56 years, 208 days).
+
+Question: Based on this passage, who was the longest living president of the united states?
+a... To answer the above question, the relevant sentence is: The oldest living U.S. president is George H.W. Bush, born June 12, 1924 (age 93 years, 261 days).
+The answer is George H.W. Bush
+
+
+q... The College World Series, or CWS, is an annual June baseball tournament held in Omaha, Nebraska. The CWS is the culmination of the National Collegiate Athletic Association (NCAA) Division I Baseball Championship tournament -- featuring 64 teams in the first round -- which determines the NCAA Division I college baseball champion. The eight participating teams are split into two, four-team, double-elimination brackets, with the winners of each bracket playing in a best-of-three championship series.
+
+Which city and state hosts the annual college world series?
+a...

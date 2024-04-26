@@ -1,0 +1,26 @@
+Answer this question please:
+The Ministry of Law and Justice in the Government of India is a cabinet ministry which deals with the management of the legal affairs, legislative activities and administration of justice in India through its three departments namely the Legislative Department and the Department of Legal Affairs and Department of Justice respectively. The Department of Legal Affairs is concerned with advising the various Ministries of the Central Government while the Legislative Department is concerned with drafting of principal legislation for the Central Government. The ministry is headed by a cabinet rank minister appointed by the President of India on the recommendation of the Prime Minister of India. Ravi Shankar Prasad is the current minister for law and justice in India.
+
+Based on this passage, who is the present law minister of india?
+
+Stream of random thoughts: The relevant sentence in the passage is: Ravi Shankar Prasad is the current minister for law and justice in India.... The answer is Ravi Shankar Prasad.
+----
+Answer this question please:
+The Ranch is an American comedy web television series starring Ashton Kutcher, Danny Masterson, Debra Winger, Elisha Cuthbert, and Sam Elliott that debuted in 2016 on Netflix. The show takes place on the fictional Iron River Ranch in the fictitious small town of Garrison, Colorado; detailing the life of the Bennetts, a dysfunctional family consisting of two brothers, their rancher father, and his divorced wife and local bar owner. While the opening sequence shows scenes from Norwood and Ouray, Colorado and surrounding Ouray and San Miguel Counties, The Ranch is filmed on a sound stage in front of a live audience in Burbank, California. Each season consists of 20 episodes broken up into two parts, each containing 10 episodes.
+
+Answer this question based on the passage: where was the netflix show the ranch filmed?
+
+Stream of random thoughts: The relevant information is: While the opening sequence shows scenes from Norwood and Ouray, Colorado and surrounding Ouray and San Miguel Counties, The Ranch is filmed on a sound stage in front of a live audience in Burbank, California.... The answer is on a sound stage in front of a live audience in Burbank , California.
+----
+Answer this question please:
+Context: During fertilization, a sperm must first fuse with the plasma membrane and then penetrate the female egg in order to fertilize it. Fusing to the egg usually causes little problem, whereas penetrating through the egg's hard shell or extracellular matrix can present more of a problem to the sperm. Therefore, sperm cells go through a process known as the acrosome reaction which is the reaction that occurs in the acrosome of the sperm as it approaches the egg. The acrosome is a cap-like structure over the anterior half of the sperm's head.
+
+Question: when does the acrosome reaction occur in sperm?
+
+Stream of random thoughts: To answer the question, consider the following: Therefore, sperm cells go through a process known as the acrosome reaction which is the reaction that occurs in the acrosome of the sperm as it approaches the egg.... The answer is as it approaches the egg.
+----
+Answer this question please:
+Context: Since the Supreme Court was established in 1789, 17 persons have served as chief justice. The first was John Jay (1789 -- 1795). The current chief justice is John Roberts (since 2005). Four -- Edward Douglass White, Charles Evans Hughes, Harlan Fiske Stone, and William Rehnquist -- were previously confirmed for associate justice and subsequently confirmed for chief justice separately.
+
+Question: who is the chief justice of the united states supreme court?
+

@@ -1,0 +1,36 @@
+Answer: Lord Dalhousie. Now, what could be the question and solution-maybe?
+Ques: The Central Public Works Department of India (Hindi: केंद्रीय लोक निर्माण विभाग), commonly referred to as the CPWD, is a central government owned authority in charge of public sector works. The Central Public Works Department, under the Ministry of Urban Development Now MoHUA (Ministry of Housing and Urban Affairs), builds and maintains public buildings. CPWD came into existence in July 1854 when Lord Dalhousie established a central agency for execution of public works and set up Ajmer Provincial Division. It has now grown into a comprehensive construction management department, which provides services from project concept to completion, and maintenance management.
+
+Answer this question based on the passage: who started the public works department in india 1848?
+CoT: The relevant information is: CPWD came into existence in July 1854 when Lord Dalhousie established a central agency for execution of public works and set up Ajmer Provincial Division.
+
+
+Ans: April 15 , 2018
+Ques: The fourth season of Fear the Walking Dead, an American horror-drama television series on AMC, premiered on April 15, 2018, and will comprise 16 episodes split into two eight-episode parts. The second half of the season premiered on August 12, 2018. It is a companion series to The Walking Dead, and the season premiere contained the first crossover between the two series. The season features new showrunners Andrew Chambliss and Ian B. Goldberg, as well as several new cast members including The Walking Dead's Lennie James, who portrays Morgan Jones. The series also moved to a new filming location, Austin, Texas.
+
+Answer this question: when does fear the walking dead season 4 come out?
+CoT: The important part for answering this question is: The fourth season of Fear the Walking Dead, an American horror-drama television series on AMC, premiered on April 15, 2018, and will comprise 16 episodes split into two eight-episode parts.
+
+
+Ans: in Massachusetts , in the fictional town of Marshport
+Ques: Set in Massachusetts, in the fictional town of Marshport, the series tells the story of the Diaz family, specifically focusing on Harley, the middle of the seven children. Harley makes her way using her creativity to deal with living in a large family.
+
+Answer this question based on the passage: where does stuck in the middle take place?
+CoT: The important part for answering this question is: Set in Massachusetts, in the fictional town of Marshport, the series tells the story of the Diaz family, specifically focusing on Harley, the middle of the seven children.
+
+
+Answer: Andrew Dorff , Matthew Ramsey , and Brad Tursi. Now, what could be the question and solution-maybe?
+Ques: "Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney. It was released in June 2015 as the fourth and final single from Chesney's album The Big Revival.
+
+Who wrote save it for a rainy day?
+CoT: The relevant information to answer the above question is: "Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney.
+
+
+Ans: cervicalgia
+Ques: Passage: Neck pain (or cervicalgia) is a common problem, with two-thirds of the population having neck pain at some point in their lives.
+
+Question: Based on this passage, what is the medical term for neck pain?
+CoT: This is the relevant information: Neck pain (or cervicalgia) is a common problem, with two-thirds of the population having neck pain at some point in their lives.
+
+
+Ans: Aufrecht , Melcher and Großaspach ( Aufrecht 's birth town )

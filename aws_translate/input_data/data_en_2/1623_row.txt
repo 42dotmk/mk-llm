@@ -1,0 +1,25 @@
+q... By the end of 2014, the total installed global power generating capacity is nearly 6.142 TW (million MW) which does not include the DG sets not connected to local electricity grids. In 2014, world energy consumption for electricity generation was coal 40.8 %, natural gas 21.6 %, nuclear 10.6 %, hydro 16.4 %,' others' (solar, wind, geothermal, biomass, etc.) 6.3 % and oil 4.3 %. Coal and natural gas were the most popular energy fuels for generating electricity. The world's electricity consumption was 18,608 TWh in 2012. This figure is about 18 % smaller than the generated electricity, due to grid losses, storage losses, and self-consumption from power plants (gross generation). Cogeneration (CHP) power stations use some of the energy that is otherwise wasted for heating buildings or in industrial processes.
+
+Answer this question: what percentage of the world's electricity is supplied by coal?
+a... The relevant information is: In 2014, world energy consumption for electricity generation was coal 40.8 %, natural gas 21.6 %, nuclear 10.6 %, hydro 16.4 %,' others' (solar, wind, geothermal, biomass, etc.) 6.3 % and oil 4.3 %.
+The answer is 40.8
+
+
+q... Context: During the last 10,000 years, Mount Shasta has erupted an average of every 800 years, but in the past 4,500 years the volcano has erupted an average of every 600 years. The last significant eruption on Mount Shasta may have occurred about two centuries ago.
+
+Question: when was the last time mount shasta was active?
+a... The relevant information to answer the above question is: The last significant eruption on Mount Shasta may have occurred about two centuries ago.
+The answer is about two centuries ago
+
+
+q... The first season premiered on Netflix on June 10, 2016, and consisted of 13 episodes. The series has a 78-episode commitment from Netflix. It has been released globally in United States, Canada, United Kingdom, Australia, New Zealand, Ireland, France, Germany, Austria, Switzerland, Scandinavia, Benelux Union and Latin America. The second season premiered on Netflix on January 20, 2017, and consisted of 13 episodes. The third season premiered on Netflix on August 4, 2017, and consisted of 7 episodes while the fourth season premiered on October 13, 2017, and consisted of 6 episodes. The fifth season premiered on March 2, 2018, and consists of six episodes. The sixth season will premiere on June 15, 2018 and will consist of seven episodes. The series' success has spawned several comics, action figures, and other toys.
+
+When is season 6 of voltron coming out?
+a... The relevant sentence in the passage is: The sixth season will premiere on June 15, 2018 and will consist of seven episodes.
+The answer is June 15 , 2018
+
+
+q... Lens speed refers to the maximum aperture diameter, or minimum f-number, of a photographic lens. A lens with a larger maximum aperture (that is, a smaller minimum f-number) is called a "fast lens" because it can achieve the same exposure with a faster shutter speed. Conversely, a smaller maximum aperture (larger minimum f-number) is "slow" because it delivers less light intensity and requires a slower (longer) shutter speed.
+
+What does the speed of a lens mean?
+a...

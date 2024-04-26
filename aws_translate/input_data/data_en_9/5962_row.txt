@@ -1,0 +1,25 @@
+If 50% of individuals that like football play it, and there are 24 out of 60 individuals that like it, then 24 * 50% = 12 out of 60 individuals play it. If 12 individuals play it out of 60 individuals then that means only 12 / 60 = 1 / 5 or 20% play it. If 20% of individuals play football out of a group of 250 people, one would expect 250 * 20% = 50 individuals to play it.
+The answer: 50
+Reverse engineering the question: If 24 out of every 60 individuals like football and out of those that like it, 50% play it, how many people would you expect play football out of a group of 250?
+
+Reasoning and answer: Louie got 100% - 80% = 20% of the total items incorrect, which is equal to 5 items. So 1% is equal to 5 / 20 = 1 / 4 of an item. Hence, the total number of items, represented by 100%, on the math quiz was 1 / 4 of an item x 100 = 25.
+The answer: 25
+What was the question?
+Question: Louie obtained 80% on a math quiz. He had 5 mistakes. How many items were there on the math quiz?
+
+In her old company, if she worked for three years, the total number of months she was paid for is 3 years * 12, which is the number of months in a year = 36 months. If each month she was paid $5000, her total earnings in the old company were $5000 * 36 = $180000. In her new company, she is paid 20% more, which is 20 / 100 * $5000 = $1000 per month more than what she was paid at the old company. In total, she earns $5000 + $1000 = $6000 per month in her new company. Since she's worked five months more in the new company than the old company, she has worked for 36 + 5 = 41 months in the new company. The total amount she's earned in the new company is $6000 * 41 = $246000. The combined total for both companies is $246000 + $180000 = $426000.
+The answer: 426000
+Reverse engineering the question: Cadence has worked for her new company five months longer than she worked for her old company. If she worked at her old company for 3 years earning $5000 per month, and she's now earning 20% more in the new company, calculate the total amount of money she's earned in both companies in the period she's worked for them?
+
+Reasoning and answer: 60 x 3 / 4 = 45 females are married which means there are also 45 married males. If 1 / 4 of the men are married, which represents 45 men, then 4 * 45 = 180 is the total number of men who attended the party. Thus, there are a total of 60 women and 180 men, or a total of 60 + 180 = 240 people at the party.
+The answer: 240
+What was the question?
+Question: There were 60 women at the party, and three-fourths of these women were married and brought their husbands with them to the party. If 3/4 of the men at the party were single, how many people attended the party?
+
+Let x represent the score of the third bowler. Bowler 2:3x. Bowler 1:3x(1 / 3) = x. Total:x + 3x + x = 810. 5x = 810. x = 162 points.
+The answer: 162
+Reverse engineering the question: A high school bowling team's 3 members scored a total of 810 points in their first match. The first bowler scored 1/3 as many points as the second, and the second bowler scored 3 times as high as the third bowler. How many points did the third bowler score?
+
+Since Onur bikes 250 kilometers in a day, he bikes 5 * 250 = 1250 kilometers for five days in a week. Onur's friend Hanil bikes 40 more kilometers in a day than Onur, meaning he bikes for 250 + 40 = 290 kilometers. In five days of the week, Hanil covers 290 * 5 = 1450 kilometers. In total, the two bikes for 1450 + 1250 = 2700 kilometers in 5 days of a week.
+The answer: 2700
+Reverse engineering the question:

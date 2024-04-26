@@ -1,0 +1,19 @@
+Question: The Mississippi Freedom Democratic Party (MFDP) was an American political party created in 1964 as a branch of the populist Freedom Democratic organization in the state of Mississippi during the Civil Rights Movement. It was organized by African Americans and whites from Mississippi to challenge the legitimacy of the regular Mississippi Democratic Party, which allowed participation only by whites, when African Americans made up 40 % of the state population.
+
+Answer this question: why did the mississippi freedom democratic party emerge at the democratic party convention in 1964?
+Answer: To answer the above question, the relevant sentence is: It was organized by African Americans and whites from Mississippi to challenge the legitimacy of the regular Mississippi Democratic Party, which allowed participation only by whites, when African Americans made up 40 % of the state population. The answer is to challenge the legitimacy of the regular Mississippi Democratic Party , which allowed participation only by whites , when African Americans made up 40 % of the state population.
+
+Question: The 2017 US Open was the 137th edition of tennis' US Open and the fourth and final Grand Slam event of the year. It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City. Experimental rules featured in qualifying for the main draw as well as in the junior, wheelchair and exhibition events.
+
+Based on this passage, where is the us tennis open being held this year?
+Answer: The relevant sentence in the passage is: It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City. The answer is the USTA Billie Jean King National Tennis Center in New York City.
+
+Question: Passage: In France under the Old Regime, the Estates General (French: États généraux) or States-General was a legislative and consultative assembly (see The Estates) of the different classes (or estates) of French subjects. It had a separate assembly for each of the three estates (clergy, nobility and commoners), which were called and dismissed by the king. It had no true power in its own right -- unlike the English parliament it was not required to approve royal taxation or legislation -- instead it functioned as an advisory body to the king, primarily by presenting petitions from the various estates and consulting on fiscal policy. The Estates General met intermittently until 1614 and only once afterwards, but was not definitively dissolved until after the French Revolution.
+
+Question: Based on this passage, what was the composition of the estate general of france?
+Answer: The relevant information is: It had a separate assembly for each of the three estates (clergy, nobility and commoners), which were called and dismissed by the king. The answer is clergy , nobility and commoners.
+
+Question: Context: The NSO is conducted on two levels each year. It was the first Olympiad to be conducted by SOF.It has been conducted since 1996. Students from class I-XII may participate in the examination.
+
+Question: how many levels are there in science olympiad?
+Answer:

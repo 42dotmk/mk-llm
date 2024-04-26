@@ -1,0 +1,22 @@
+You will be given a definition of a task first, then some input of the task.
+In this task, you are given an article. Your task is to summarize the article in a sentence.
+
+Gareth Bennett has linked immigration in Cardiff to rubbish in City Road.
+But UKIP's spokesman on migration Steven Woolfe MEP said there is no room in the party for xenophobic comments.
+UKIP Wales leader Nathan Gill said Mr Bennett's comments are not the views of the party.
+Mr Bennett was quoted in WalesOnline saying: "I think in Cardiff the starkest area which has changed completely is City Road.
+"That's probably where we have a multiplicity, a melting pot of different races all getting on each other's nerves, I think, and certainly causing lots of problems because of different cultural attitudes, very visible problems of rubbish which is being left on the street uncollected all the time."
+Mr Bennett was asked on BBC's Daily Politics what evidence he had for his claim. He said: "I haven't got any firm evidence to give you now."
+He said he had sent a draft legal letter to UKIP, saying "if they try to deselect me without due process they will face a legal action from me for lost earnings of Â£300,000".
+Mr Woolfe told BBC's Daily Politics: "It's not for me to actually make the deselection process.
+"That will be the NEC and I understand that they will do so."
+The MEP added: "If he has also said that in terms of the language that you blame migrants or those who come to this country for all the ills of this country, if there is a tone of any form of racism in there whatsoever I will be demanding that the NEC takes the strongest terms possible to deal with this man.
+"I would ask those who have examined him and approved him that they too should be reprimanded by the NEC because there is no room in this party... for anyone who makes any racist, xenophobic or other types of comments".
+Nathan Gill, leader of UKIP Wales, said the NEC have ratified the candidate lists "subject to a final ongoing assessment which we are in the middle of and which takes place right up until the paperwork is presented to the electoral offices".
+"The comments that Mr Bennett made, [and] also his performance in the media, will play a major part in that assessment," he said.
+Mr Gill said he didn't share "any of the views that Mr Bennett has expressed about immigration in Cardiff. We as a party are not anti-immigration, we are anti uncontrolled immigration and uncontrolled immigration only. We want an Australian-style points based system."
+"Mr Bennett has expressed his own views and they are clearly not the views of the party," he added.
+A UKIP Wales source called for his deselection. He said it was "absolutely crazy" to blame immigration for rubbish, and said a lot of candidates wanted the issue "dealt with properly", although he had a right to a "fair trial".
+The source also criticised the fact that Mr Bennett had spoken about immigration "when it isn't a devolved issue".
+UKIP's central office has told BBC Wales that it "will not make any comment about the matter until they have spoken with Mr Bennett".
+Output:

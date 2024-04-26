@@ -1,0 +1,19 @@
+Q: Context: The 2017 FA Cup Final was the 136th final of the FA Cup, the world's oldest football cup competition. It took place on 27 May 2017 at Wembley Stadium in London, England and was contested between London rivals Arsenal and Chelsea. Arsenal won the game 2 -- 1 to secure a record 13th title, while manager Arsène Wenger became the most successful manager in the tournament's history with seven wins.
+
+Question: who won the emirates fa cup last year?
+A: Arsenal. How to explain the answer? The relevant sentence in the passage is: Arsenal won the game 2 -- 1 to secure a record 13th title, while manager Arsène Wenger became the most successful manager in the tournament's history with seven wins.
+
+Q: Context: Thwarted, the five alien women merge to become a giantess who swallows Tommy alive. The giantess then crawls out of the amusement center and chases Jesse and Chester. The cultists tell them to activate the Photon Accelerator Annihilation Beam on the Transfunctioner. However, the button that activates it is too far in to reach. At the last second, Chester remembers the nature show with the tool-using chimps and uses a straw to push the recessed button, thus destroying the alien (Tommy survives, but Christie breaks up with him in favor of Nelson). The protectors thank Jesse, Chester and the twins for saving the world, and erase their minds concerning the events. The protectors park the duo's car, a Renault Le Car, behind a mail truck for them to find the following morning. Jesse and Chester salvage their relationships with the twins and discover the special treat from the girls turns out to be matching knitted caps and scarves. The protectors leave a gift for their girlfriends (and, for the two men): Breast Enhancement Necklaces. The film ends with Jesse, Chester, and the twins going in Jesse's car out for Chinese food while arguing what the tattoo said on each other's back.
+
+Question: what is the car in dude where my car?
+A: Renault Le Car. How to explain the answer? The relevant information to answer the above question is: The protectors park the duo's car, a Renault Le Car, behind a mail truck for them to find the following morning.
+
+Q: "Remember Me" is a song from the 2017 animated Pixar film Coco, written by Robert Lopez and Kristen Anderson-Lopez. The song is performed variously within the film by Benjamin Bratt, Gael García Bernal, Anthony Gonzalez, and Ana Ofelia Murguía. Miguel and Natalia Lafourcade perform a pop version of the song that is featured in the film's end credits. Carlos Rivera recorded a cover version of the song, titled "Recuérdame" for the film's Spanish-language soundtrack album. It won Best Original Song at the 90th Academy Awards in 2018.
+
+Who sings remember me in the coco credits?
+A: Miguel and Natalia Lafourcade. How to explain the answer? The relevant information to answer the above question is: Miguel and Natalia Lafourcade perform a pop version of the song that is featured in the film's end credits.
+
+Q: Context: Covered by numerous artists in various genres, "All Along the Watchtower" is strongly identified with the interpretation Jimi Hendrix recorded for Electric Ladyland with the Jimi Hendrix Experience. The Hendrix version, released six months after Dylan's original recording, became a Top 20 single in 1968 and was ranked 47th in Rolling Stone magazine's 500 Greatest Songs of All Time.
+
+Question: when did jimi hendrix cover all along the watchtower?
+A:

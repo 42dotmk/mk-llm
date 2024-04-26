@@ -1,0 +1,27 @@
+Reasoning and answer: If Mary collected twice the number of red marbles collected by Jenny, she got 2 * 30 = 60 red marbles. Anie collected 20 more red marbles than Mary, which is 60 + 20 = 80 red marbles. The total number of red marbles is 60 + 80 + 30 = 170 red marbles. If Anie collected twice the number of blue marbles collected by Jenny, then she got 2 * 25 = 50 blue marbles. Mary collected half the number of blue marbles collected by Anie, thus 1 / 2 * 50 = 25 marbles. The total number of blue marbles collected is 50 + 25 + 25 = 100 blue marbles.
+The answer: 100
+What was the question?
+Question: Mary and her two friends came up with the idea of collecting marbles each day for their play on weekends. From Monday to Friday, Mary collected twice as many red marbles as Jenny and half the number of blue marbles collected by Anie, who collected 20 more red marbles than Mary and twice the number of blue marbles Jenny collected. If Jenny collected 30 red marbles and 25 blue marbles, what's the total number of blue marbles collected by the friends together?
+
+She bought 10 - 4 = 6 adult tickets. So 6 * 30 = $180 was the cost for adult tickets. Children tickets cost 30 / 2 = $15 each. So the children tickets cost 15 * 4 = $60. So the total cost of tickets is 60 + 180 = $240. They get a 240 * .2 = $48 discount. So the tickets cost 240 - 48 = $192. So in total she paid 192 + 5 = $197.
+The answer: 197
+Reverse engineering the question: A waterpark opens up and charges $30 for admission. Kids' tickets are half price. If a group of people brings a soda, they can get 20% off the total price of admission. Janet gets tickets for 10 people and 4 of them are children. She buys a soda for $5 to take advantage of the discount for her group. How much did she pay for everything?
+
+Reasoning and answer: First find the total number of starfish arms: 7 starfish * 5 arms / starfish = 35 arms. Then add the number of seastar arms to find the total number of arms: 35 arms + 14 arms = 49 arms.
+The answer: 49
+What was the question?
+Question: Carly collected 7 starfish with 5 arms each and one seastar with 14 arms. How many arms do the animals she collected have in total?
+
+Martha spent 6 / 2 = 3 dollars. Martha and Doris spent 6 + 3 = 9 dollars. There were 21 - 9 = 12 dollars left in the cookie jar.
+The answer: 12
+Reverse engineering the question: There were 21 dollars in the cookie jar. Doris spent $6 from the cookie jar. Martha spent half as much as Doris. How much money, in dollars, was left in the cookie jar?
+
+Reasoning and answer: The number of trucks + 2(number of trucks) = 60. Therefore 3(number of trucks) = 60. Number of trucks = 20 because 60 / 3 = 20.
+The answer: 20
+What was the question?
+Question: Jeff is collecting matchbox cars. He has twice as many cars as trucks. He has 60 total vehicles. How many trucks does he have?
+
+Reasoning and answer: He gets his pool cleaned 30 / 3 = 10 times a month. Each time he gets it cleaned he tips 150 * .1 = $15. So he pays 150 + 15 = $165. So he pays 165 * 10 = $1650 a month on cleaning. The chemicals cost 200 * 2 = $400. So in total, he pays 1650 + 400 = $2050.
+The answer: 2050
+What was the question?
+Question:

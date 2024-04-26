@@ -1,0 +1,36 @@
+Answer: 13,167 feet ( 4,013 m ). Now, what could be the question and solution-maybe?
+Ques: Wheeler Peak is the highest natural point in the U.S. state of New Mexico. It is located northeast of Taos and south of Red River in the northern part of the state, and just 2 miles (3.2 km) southeast of the ski slopes of Taos Ski Valley. It lies in the Sangre de Cristo Mountains, the southernmost subrange of the Rocky Mountains. The peak's elevation is 13,167 feet (4,013 m).
+
+Answer this question based on the passage: what's the highest elevation in new mexico?
+CoT: The relevant information is: The peak's elevation is 13,167 feet (4,013 m).
+
+
+Ans: Holes
+Ques: Passage: Holes is a 1998 young adult mystery comedy novel written by Louis Sachar and first published by Farrar, Straus and Giroux. The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present. These interconnecting stories touch on themes such as racism, homelessness, illiteracy, and arranged marriage.
+
+Question: Based on this passage, what children's book was set in camp green lake texas?
+CoT: To answer the above question, the relevant sentence is: The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft.
+
+
+Ans: Thomas Stanley Holland
+Ques: Passage: Thomas Stanley Holland (born 1 June 1996) is an English actor and dancer. He is best known for starring as Peter Parker / Spider-Man in the superhero films Captain America: Civil War (2016) and Spider-Man: Homecoming (2017), as part of the Marvel Cinematic Universe (MCU).
+
+Question: Based on this passage, who plays spiderman in captain america civil war?
+CoT: This is the relevant information: He is best known for starring as Peter Parker / Spider-Man in the superhero films Captain America: Civil War (2016) and Spider-Man: Homecoming (2017), as part of the Marvel Cinematic Universe (MCU).
+
+
+Answer: one. Now, what could be the question and solution-maybe?
+Ques: Context: The 20 World Cup tournaments have been won by eight different national teams. Brazil have won five times, and they are the only team to have played in every tournament. The other World Cup winners are Germany and Italy, with four titles each; Argentina and inaugural winner Uruguay, with two titles each; and England, France and Spain, with one title each.
+
+Question: how many times have spain won world cup?
+CoT: To answer this question, we should know that: The other World Cup winners are Germany and Italy, with four titles each; Argentina and inaugural winner Uruguay, with two titles each; and England, France and Spain, with one title each.
+
+
+Ans: in the borough of Manhattan in New York City , between Central Park / Fifth Avenue , 59th Street , the East River , and 96th Street
+Ques: The Upper East Side is a neighborhood in the borough of Manhattan in New York City, between Central Park / Fifth Avenue, 59th Street, the East River, and 96th Street. The area incorporates several smaller neighborhoods, including Lenox Hill, Carnegie Hill, and Yorkville. Once known as the Silk Stocking District, it is now one of the most affluent neighborhoods in New York City.
+
+Answer this question based on the passage: where is the upper east side of nyc?
+CoT: The relevant information is: The Upper East Side is a neighborhood in the borough of Manhattan in New York City, between Central Park / Fifth Avenue, 59th Street, the East River, and 96th Street.
+
+
+Ans: Matthew David Lewis

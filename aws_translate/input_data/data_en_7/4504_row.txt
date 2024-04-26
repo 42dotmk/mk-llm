@@ -1,0 +1,19 @@
+Question: Surrealism is a cultural movement that began in the early 1920s, and is best known for its visual artworks and writings. Artists painted unnerving, illogical scenes with photographic precision, created strange creatures from everyday objects, and developed painting techniques that allowed the unconscious to express itself. Its aim was to "resolve the previously contradictory conditions of dream and reality into an absolute reality, a super-reality".
+
+Which artistic movements were impacted by theories of the unconscious?
+Answer: The relevant sentence in the passage is: Artists painted unnerving, illogical scenes with photographic precision, created strange creatures from everyday objects, and developed painting techniques that allowed the unconscious to express itself. The answer is Surrealism.
+
+Question: Context: As of July 24, 2017, 39 episodes of Counting On have aired, concluding the fifth season. Season 6 premiered on September 11, 2017.
+
+Question: when is season 6 of counting on coming out?
+Answer: The relevant sentence in the passage is: Season 6 premiered on September 11, 2017. The answer is September 11 , 2017.
+
+Question: In 2004, Harrah's Entertainment (now Caesars Entertainment) purchased Binion's Horseshoe, retained the rights to the Horseshoe and World Series of Poker brands, sold the hotel and casino to MTR Gaming Group, and announced that the 2005 Series events would be held at the Harrah's-owned Rio Hotel and Casino, located just off the Las Vegas Strip. The final two days of the main event in 2005 were held downtown at what is now the MTR-operated "Binion's" in celebration of the centennial of the founding of Las Vegas. The WSOP also added a made-for-television $2 million "freeroll" invitational Tournament of Champions (TOC) event first won by Annie Duke as a "winner-take-all" event.
+
+Answer this question based on the passage: when did the wsop move to the rio?
+Answer: To answer the above question, the relevant sentence is: In 2004, Harrah's Entertainment (now Caesars Entertainment) purchased Binion's Horseshoe, retained the rights to the Horseshoe and World Series of Poker brands, sold the hotel and casino to MTR Gaming Group, and announced that the 2005 Series events would be held at the Harrah's-owned Rio Hotel and Casino, located just off the Las Vegas Strip. The answer is 2005.
+
+Question: The 2018 Winter Olympics, officially known as the XXIII Olympic Winter Games (Korean: 제 23 회 동계 올림픽, translit. Jeisipsamhoe Donggye Ollimpik) and commonly known as PyeongChang 2018, was a major multi-sport event held between 9 and 25 February 2018 in Pyeongchang County, Gangwon Province, South Korea, with the opening rounds for certain events held on 8 February 2018, the eve of the opening ceremony. Pyeongchang was elected as the host city in July 2011, during the 123rd IOC Session in Durban, South Africa. This marks the first time South Korea has hosted the Winter Olympics, and the second time the Olympic games have been held in the country, after the 1988 Summer Olympics in Seoul. It also marks the third time East Asia has hosted the Winter Games, after Sapporo, Japan (1972), and Nagano, Japan (1998), and the sixth overall Olympic Games held in East Asia. It was the first of three consecutive Olympic Games to be held in East Asia, preceding Tokyo 2020 (Summer) and Beijing 2022 (Winter).
+
+Where is the 2018 winter olympics taking place?
+Answer:

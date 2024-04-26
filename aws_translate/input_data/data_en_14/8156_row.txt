@@ -1,0 +1,86 @@
+News article:
+
+Looking to buy a home? It’s better to be on a “Way” than a “Street,” pick a female real-estate agent and try to be close to a Starbucks. 
+  
+ That’s the advice of Spencer Rascoff, CEO of Zillow.com, who collected statistics from his site’s database of 110 million homes to find trends in real-estate pricing. Along with Zillow economist Stan Humphries, he has written “The New Rules of Real Estate” (Grand Central), out Tuesday. Some of his findings: 
+  
+ The Starbucks effect. Take two identical homes sold in 1997. One near Starbucks would have sold for an average of $137,000, while the same home without a Starbucks would have sold for $102,000. Fast-forward 15 years: the average US home appreciated 65 percent to $168,000, but the property next to Starbucks skyrockets 96 percent to $269,000. 
+  
+ All renovations are not created equal. The greatest return for your investment is a mid-range bathroom remodel, a $3,000 job that returns $1.71 for every dollar spent. The worst home improvements for value are kitchen remodeling and finishing a basement. A top-of-the-line kitchen reno will cost you $22,000, and you’ll only get about $0.51 back for every $1 you spend. 
+  
+ Use the right words in a listing. Avoid “unique,” “TLC,” “investment” and “potential” — these could lower sale prices by as much as 7 percent. But words like “luxurious” for bottom-tier homes and “captivating” for top-tier homes could add 8.2 percent to your home’s value. Longer, more-detailed listings often sell for more. 
+  
+ “When” is as important as “how much.” In New York, the worst time to sell is the second week of December (listings sold for 2.8 percent less than average). The best time is March, when homes sold faster and for 2 percent more. 
+  
+ Seven is an unlucky number. Homes with “777” as their address sell for 2.1 percent less than their estimated value; house numbers that just include 777 (such as 17779 Main St.), sell for 1.8 percent less. Oddly, houses with just 7 as their number sell for 1.8 percent more than the estimated sale price. 
+  
+ Psychological pricing works. Listings with a nine in the thousand digit ($450,000 vs. $449,000) sell anywhere from four days to a full week faster. 
+  
+ Female agents tend to sell homes faster and for higher prices. ||||| What fuels gentrification? The answer is the same thing that fuels the rest of us: coffee. 
+  
+ But not just any old cup o’ joe. 
+  
+ Starbucks, the iconic coffee roaster and retailer, has grown into a $15 billion company, with more than 19,000 locations in more than 60 countries. You can spot that familiar green-and-white logo from Saudi Arabia to Switzerland, in a Dubai shopping mall, or on a Carnival Cruise ship. Where the Berlin Wall once stood, there’s a shiny new Starbucks instead. Conveniently, one of our desks has a view of the original Starbucks store in Pike Place Market. 
+  
+ Starbucks’ mission is “to inspire and nurture the human spirit—one person, one cup and one neighborhood at a time.” Any college student downing venti caramel macchiatos to stay awake the night before a big exam can testify to Starbucks’, in a word, nurturing qualities. But as it turns out, Starbucks correlates with something else, too: rising home values. 
+  
+ To explore exactly how closely the two correlate, we compared a database of Starbucks locations with Zillow data. And since Starbucks’ corporate headquarters in Seattle is located just a few miles down the road from Zillow, we also took the opportunity to pay our neighbors a visit, and to pick the brains of Starbucks’ own real estate analytics team—the whizzes who determine where to put that next Starbucks location. 
+  
+ Here’s what we can tell you: Starbucks equates with venti-sized home-value appreciation. Moreover, Starbucks seems to be fueling—not following—these higher home values. 
+  
+ And the reason why is that Starbucks’ real estate choices are, in their words, “as much an art as a science.” When deciding where to hang its next shingle, the company marries right-brain ingenuity with hard-headed, left-brain analysis—exactly as you should. 
+  
+ Let’s take these fresh-brewed insights one at a time. 
+  
+ Starbucks equals big bucks 
+  
+ Although some may scoff that the predictive value of a given retail chain doesn’t mean much, locations near Starbucks are, indisputably, highly lucrative. 
+  
+ True, properties near Starbucks locations tend to start out more expensive. But as you can see, these properties appreciate at a faster rate than US housing on the whole. Interestingly, they’re also recovering much more quickly from the housing bust. 
+  
+ What does that look like in practice? Let’s look at the historical home value appreciation of areas that now are located within a quarter mile of a Starbucks. A home that is now near a Starbucks would have sold, on average, for $137,000. A home that is not near a Starbucks would have sold, on average, for $102,000. 
+  
+ Fast-forward 17 years to 2014. That average American home has now appreciated 65%, to $168,000. But the Starbucks-adjacent property has far outpaced that, appreciating 96% to $269,000. 
+  
+ Starbucks is the fuel, not the follower 
+  
+ “Try some decaf,” you may be thinking. “Home prices rise and fall for a lot of reasons. How do we know this has anything to do with Starbucks?” For instance, maybe this isn’t a Starbucks Effect at all. Maybe it’s just a coffeeshop effect. 
+  
+ To examine that possibility, we took a look at another prominent coffee chain, Dunkin’ Donuts. 
+  
+ What did we learn? Homes near Dunkin’ Donuts reflect a similar historical trend. But while they appreciate faster than the nation’s housing as a whole, they still don’t appreciate as fast as properties that are now a quarter-mile from a Starbucks. 
+  
+ In fact, between 1997 and 2012, homes now located near Starbucks and Dunkin’ Donuts followed similar historical trajectories, substantially outpacing the overall home value appreciation. But their paths diverged during the recent housing recovery such that, today, homes near Dunkin’ Donuts have appreciated 80% since 1997 whereas homes near Starbucks have appreciated 96%, almost doubling their value. 
+  
+ Even so, you may be saying, is it possible that the Starbucks Effect is really just a coastal effect? Or an urban effect? 
+  
+ Maybe people really like living in Seattle and Boston, and the Starbucks locations dotting their neighborhoods are just incidental. We wondered this, too. After all, when we looked at a map of Starbucks locations in the United States, it’s readily apparent that historically they have clustered on the coasts, in the Midwest, and in urban areas. 
+  
+ Moreover, maybe Starbucks and Dunkin’ Donuts are just waiting for a neighborhood’s property values to heat up before moving in and setting up shop. What’s to say that Starbucks is the cause, rather than a consequence, of higher home values? 
+  
+ To attempt to rule out these possibilities, we tracked values of homes in a very tight ring within a quarter mile of Starbucks (so close you could practically smell the dark roast from your front porch) and compared those very-Starbucks-adjacent homes to houses slightly farther away, in a ring of homes between a quarter- and a half-mile from a Starbucks. And we compared home values in these two rings (adjacent and nearby) for only the five years after the Starbucks location actually opened, in order to see whether the effect took place after the opening or already existed before the store opened. 
+  
+ Lo and behold, the adjacent homes beat out the nearby homes. Those houses closest to Starbucks appreciated a little more than 21% over five years, while the houses slightly farther away only appreciated just less than 17%. So, yes, some of the difference is related to the location itself, but there’s still a healthy difference attributable to the arrival of a Starbucks. 
+  
+ Whatever the reasons—because they genuinely like drinking coffee, or because they see Starbucks as a proxy for gentrification—it seems pretty clear that people are paying a premium for homes near Starbucks. And furthermore, it looks like Starbucks itself is driving the increase in home values. 
+  
+ Picking locations—An art and a science 
+  
+ Armed with this data, we headed down Seattle’s First Avenue to Starbucks HQ. There, we had the pleasure of chatting with Arthur Rubinfeld, who oversees Starbucks’ location selection process, and his extremely talented team. We asked them, is the Starbucks Effect the product of careful, data-driven decisions on their part? And their answer was, more or less, yes. 
+  
+ The Starbucks team explained that while they have 20 or so analytics experts around the world poring over maps and geographic information systems data—assessing factors like an area’s traffic patterns and businesses—the company also empowers dozens of regional teams to come to their own conclusions about location, store design, and a host of other issues. 
+  
+ Yet, even with their reams of data and locally-driven decision making, our Starbucks friends noted that there was no single silver bullet. “The beauty of Starbucks is our understanding of real-estate site locationing,” Arthur told us. “It’s an art and a science.” 
+  
+ We couldn’t have put it better ourselves. 
+  
+ There have been times and places—like before the financial crisis, when Starbucks bet on an up-and-coming Seattle commercial area that never materialized—where the art of site location is displayed in all of its messiness. In other instances, the science has delivered big-time returns. 
+  
+ Ultimately, one Starbucks pro told us, “We try to provide consistency in the science… so that local decision makers have everything they need at their fingertips to make easy decisions.” 
+  
+ Indeed, at the end of the day, where you buy a home is based on countless subjective factors. As in Moby-Dick—whose pages gave us the first mate Starbuck and inspired the Starbucks name—finding that perfect, ahead-of-the- curve home can sometimes seem like chasing your very own white whale. But some factors can make that search a little bit easier. So grab a venti skim latte—hey, get the extra shot—and go find the right home for you. 
+  
+ This is excerpted from Zillow Talk: The New Rules of Real Estate by Spencer Rascoff and Stan Humphries. Published by Grand Central Publishing this month, it is available at bookstores and online at zillow.com. 
+  
+ This article is part of Quartz Ideas, our home for bold arguments and big thinkers. |||||
+What is a shorter version of the above article?

@@ -1,0 +1,25 @@
+q... The Super Kings have lifted the IPL title thrice (in 2010, 2011 and 2018), and have the best win percentage among all teams in the IPL (61.56). They hold the records of most appearances in the IPL playoffs (nine) and in the final (seven). In addition, they have also won the Champions League Twenty20 in 2010 and 2014. The brand value of the Super Kings in 2018 was estimated at $65 million, making them the most valuable franchise in the IPL.
+
+Answer this question based on the passage: how many times csk reached final in ipl?
+a... To answer the above question, the relevant sentence is: They hold the records of most appearances in the IPL playoffs (nine) and in the final (seven).
+The answer is seven
+
+
+q... Pakistan officially joined the United Nations (UN) on 30 September 1947 just over a month after its independence from the British Empire. Today, it is a charter member and participates in all of the UN's specialised agencies and organisations. Pakistan has been elected seven times (tied with Colombia and India) into the UN Security Council, with the most recent term in 2013. It is also one of the countries which has had a diplomat, Muhammad Zafarullah Khan, serve a term as the President of the United Nations General Assembly.
+
+Answer this question based on the passage: when did pakistan become member of united nations?
+a... To answer the above question, the relevant sentence is: Pakistan officially joined the United Nations (UN) on 30 September 1947 just over a month after its independence from the British Empire.
+The answer is 30 September 1947
+
+
+q... The Thing from Another World, sometimes referred to as The Thing, is a 1951 American black-and-white science fiction-horror film, directed by Christian Nyby, produced by Edward Lasker for Howard Hawks' Winchester Pictures Corporation, and released by RKO Pictures. The film stars Margaret Sheridan, Kenneth Tobey, Robert Cornthwaite, and Douglas Spencer. James Arness plays The Thing, but he is difficult to recognize in costume and makeup due to both low lighting and other effects used to obscure his features. The film is based on the 1938 novella Who Goes There? by John W. Campbell (writing under the pseudonym of Don A. Stuart).
+
+When was the original movie the thing made?
+a... To answer the question, consider the following: The Thing from Another World, sometimes referred to as The Thing, is a 1951 American black-and-white science fiction-horror film, directed by Christian Nyby, produced by Edward Lasker for Howard Hawks' Winchester Pictures Corporation, and released by RKO Pictures.
+The answer is 1951
+
+
+q... The Sun's color is white, with a CIE color-space index near (0.3, 0.3), when viewed from space or when the Sun is high in the sky. When measuring all the photons emitted, the Sun is actually emitting more photons in the green portion of the spectrum than any other. When the Sun is low in the sky, atmospheric scattering renders the Sun yellow, red, orange, or magenta. Despite its typical whiteness, most people mentally picture the Sun as yellow; the reasons for this are the subject of debate. The Sun is a G2V star, with G2 indicating its surface temperature of approximately 5,778 K (5,505 ° C, 9,941 ° F), and V that it, like most stars, is a main-sequence star. The average luminance of the Sun is about 1.88 giga candela per square metre, but as viewed through Earth's atmosphere, this is lowered to about 1.44 Gcd / m. However, the luminance is not constant across the disk of the Sun (limb darkening).
+
+Temperature of the surface of the sun in kelvin?
+a...

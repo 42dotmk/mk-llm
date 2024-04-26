@@ -1,0 +1,33 @@
+The questions you asked are not the same; they address two different aspects of Quora – one is related to the collapsing of answers and reviews, while the other involves appealing a Quora Moderation decision. Let's discuss each topic separately and in detail:
+
+1. Why are answers and reviews on Quora collapsed?
+
+Answers and reviews on Quora can be collapsed for several reasons, mainly to ensure the content provided adheres to the platform's guidelines and policies. Collapsing means that the answer or review is hidden from public view. The collapse of content can occur due to the following reasons:
+
+a. Violation of Quora's policies and guidelines: If the content is found to be abusive, offensive, or it contains plagiarism, then it may be collapsed. Quora has strict guidelines in place to maintain a respectful and constructive environment for its users. 
+
+b. Low-quality content: Quora values high-quality and informative answers. If the answer is poorly written, offers no valuable information, or it is too brief and fails to address the question, it is more likely to be collapsed.
+
+c. Unverifiable or speculative content: If an answer contains information that can't be verified or is purely speculative, there's a chance that it will be collapsed to maintain the standard and credibility of the platform.
+
+d. Spam or promotion: Quora is not a platform for self-promotion or spam. If an answer or review contains links to commercial websites, affiliations, or if it serves as an advertisement, it can be collapsed.
+
+e. User reports or flags: If other users on the platform find the answer or review offensive or inappropriate, they can report it. Based on the number of reports, the Quora Moderation team may decide to collapse the content.
+
+2. How do I appeal a Quora Moderation decision?
+
+If you believe that your content was collapsed in error or you have a disagreement with the moderation decision, you can appeal it. Here are the steps to appeal a Quora Moderation decision:
+
+a. First, you need to find the email notification from Quora, informing you about the collapsed answer or review. This email will contain a link to the content.
+
+b. Once you have located the link, click on it. You should be redirected to the collapsed content on Quora's website or app.
+
+c. Below the collapsed content, you will see an option to appeal the decision. Click on "Appeal" to begin the process.
+
+d. A form will be displayed, asking you to provide a reason for your appeal. Here, you can explain why you believe the collapsed content is in line with Quora's guidelines and policies, or describe the corrections you've made to the content.
+
+e. After submitting the appeal form, Quora Moderation will review your request. You will receive an email notification once the decision is made.
+
+Please note that the appeals process may take some time, depending on the volume of requests the Moderation team is handling.
+
+In conclusion, the two questions you asked address different aspects of using the Quora platform: one relates to the reasons behind the collapsing of content, while the other focuses on the process of appealing a moderation decision.

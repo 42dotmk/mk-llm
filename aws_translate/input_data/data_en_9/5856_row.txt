@@ -1,0 +1,45 @@
+Instructions: Given a post that is a real-life anecdote of a complex ethical situation and a question asks if AUTHOR, NOBODY, EVERYBODY, or OTHER is wrong in the situation. Answer the question and classify your answers into yes or no.
+Input: Is OTHER wrong in the post ? POST : AITA for disliking my mother? I've always had issues with my own mother but recently I had enough and said things that maybe could've been left unspoken.
+
+&amp;#x200B;
+
+Apologize in advance as english isn't my first language and that this post might take a while to read.
+
+&amp;#x200B;
+
+I was playing games and talking with friends over discord in my room, when suddenly I heard a loud banging on my door. When I openend the door I saw my mother fuming and throwing stuff from the bathroom, that is located across my room, on the floor. (She does that quite often, throwing stuff around that is) And when I asked her what her problem was, she said, that she was having a talk with my younger brother (who was caught smoking weed, which she understandibly dislikes) and I was being too loud and the laughter irritated her. I asked her why she didn't ask like a normal person for me to be quiet first and her reply was:"because you always say you're busy but all you do is play games!" I replied angrily and said that saturday nights are the only time I actually have time to play games besides going to uni and working part-time. After I cleaned up the stuff on the floor, while getting berated I told her I'm done and slammed my door. She said she wasn't done and will cut the internet, to which I responded with:"Good, I don't care! I'm done playing anyways!"
+
+&amp;#x200B;
+
+Later when my father returned home he asked me to go downstairs to the living room and talk it out. I agreed under the condition that it will be a dialogue and not a monologue. But it turned out to be a monologue by my mother anyways.
+
+&amp;#x200B;
+
+There she kept going on that playing games only makes me a worse person, how it will affect my relationship with my GF, my grades at Uni and my work. It will also make me a more agressive person somehow. How I prioritize my friends over family and in general have a lack of respect for her authority. Why I can't have a better hobby.
+
+&amp;#x200B;
+
+I asked her what rational person would throw shit around in a fit of rage. - No answer.
+
+&amp;#x200B;
+
+I asked her how come my younger brother can stay out for days and be praised for joining a basketball club, while I get scolded when I started a gaming club/association (fighting games) with a friend. - "Atleast he is doing something to be active."
+
+&amp;#x200B;
+
+I asked why she always thinks what I'm thinking and doesn't let me talk - "Because I know you."
+
+&amp;#x200B;
+
+Fed up with her non-answers I said:"If you can't respect me as who I am how can you expect me to respect you? I'm going to be frank, I dislike everything you say and I don't even know why, I should as you said respect and love you but I can't bring myself to do it and I don't know why but this is the truth, you are irrational, don't want to make compromises, never apologizes and can't understand what makes me happy!" and walked away from the living room.
+
+&amp;#x200B;
+
+This incident happened 2 months ago and I still think about it and find myself at the crossroad:
+
+On one hand I know she just wants for me to healthy and only wishes the best for me but on the other hand I don't understand why she can't just see who I am and what I truly like.
+
+&amp;#x200B;
+
+I will greatly appreciate all answers.
+Output:

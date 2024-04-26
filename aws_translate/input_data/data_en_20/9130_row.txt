@@ -1,0 +1,172 @@
+The Post's Lena Sun visited Walter Reed Army Institute of Research in Silver Spring, Md., where scientists there identified a strain of bacteria resistant to the last-resort antibiotic, colistin. The bacteria was found in a Pennsylvania woman. Microbiologist Patrick McGann explains how his team identified the gene that gives the bacteria this resistance (Monica Akhtar,Lena Sun/The Washington Post) 
+  
+ For the first time, researchers have found a person in the United States carrying bacteria resistant to antibiotics of last resort, an alarming development that the top U.S. public health official says could mean “the end of the road” for antibiotics. 
+  
+ The antibiotic-resistant strain was found last month in the urine of a 49-year-old Pennsylvania woman. Defense Department researchers determined that she carried a strain of E. coli resistant to the antibiotic colistin, according to a study published Thursday in Antimicrobial Agents and Chemotherapy, a publication of the American Society for Microbiology. The authors wrote that the discovery “heralds the emergence of a truly pan-drug resistant bacteria.” 
+  
+ [How these biomedical detectives identified the dreaded new superbug in U.S.] 
+  
+ Colistin is the antibiotic of last resort for particularly dangerous types of superbugs, including a family of bacteria known as CRE, which health officials have dubbed “nightmare bacteria.” In some instances, these superbugs kill up to 50 percent of patients who become infected. The Centers for Disease Control and Prevention has called CRE among the country’s most urgent public health threats. 
+  
+ Health officials said the case in Pennsylvania, by itself, is not cause for panic. The strain found in the woman is still treatable with other antibiotics. But researchers worry that its colistin-resistance gene, known as mcr-1, could spread to other bacteria that can already evade other antibiotics. 
+  
+ [Superbug known as ‘phantom menace’ on the rise in U.S.] 
+  
+ It’s the first time this colistin-resistant strain has been found in a person in the United States. In November, public health officials worldwide reacted with alarm when Chinese and British researchers reported finding the colistin-resistant strain in pigs and raw pork and in a small number of people in China. The deadly strain was later discovered in Europe and elsewhere. 
+  
+ In this Nov. 2015 video, Centers for Disease Control and Prevention director Dr. Thomas Frieden said that the CDC is committed to fighting antibiotic resistance. (YouTube/CDC) 
+  
+ “It basically shows us that the end of the road isn’t very far away for antibiotics — that we may be in a situation where we have patients in our intensive care units, or patients getting urinary-tract infections for which we do not have antibiotics,” CDC Director Tom Frieden said in an interview Thursday. 
+  
+ [1 in 3 antibiotics prescribed in U.S. are unnecessary] 
+  
+ “I’ve been there for TB patients. I’ve cared for patients for whom there are no drugs left. It is a feeling of such horror and helplessness,” Frieden added. “This is not where we need to be.” 
+  
+ Separately, researchers at the Agriculture Department and the Department of Health and Human Services reported that testing of hundreds of livestock and retail meats turned up the same colistin-resistant bacteria in a sample from a pig intestine in the United States. USDA said it is working to identify the farm the pig came from. 
+  
+ CDC officials are working with Pennsylvania health authorities to interview the patient and family to identify how she may have contracted the bacteria, including reviewing recent hospitalizations and other health-care exposures. The CDC hopes to screen the patient and her contacts to see if others might be carrying the organism. Local and state health departments also will be collecting cultures as part of the investigation. 
+  
+ ['A nightmare superbug': What is it? And what are the risks?] 
+  
+ The woman was treated in an outpatient military facility in Pennsylvania, according to a Defense Department blog post about the findings. Samples were sent to the Walter Reed National Military Medical Center for initial testing. Additional testing was done by a special Defense Department system that tracks multi-drug-resistant organisms. 
+  
+ Thursday’s study did not disclose further details about the Pennsylvania woman or the outcome of her case. The authors could not be reached for comment. A spokesman at the Pennsylvania Department of Health was not immediately available to comment on the case. 
+  
+ Pennsylvania Gov. Tom Wolfe (D) issued a statement saying his administration immediately began working with the CDC and the Defense Department to coordinate "an appropriate and collaborative" response. 
+  
+ [Feds ramp up efforts to deal with antibiotic resistance] 
+  
+ "We are taking the emergence of this resistance gene very seriously," he said, adding that authorities will take all necessary actions to prevent it from becoming a widespread problem with "potentially serious consequences." 
+  
+ Sen. Robert P. Casey Jr. (D-Pa.) said he is concerned about the reports. In a statement, Casey said he supported legislation for and participated in hearings about antibiotic-resistant bacteria, which he said “present an urgent public health problem that we must focus on intensively.” He said he planned to get a full briefing on the case in the coming days. 
+  
+ Colistin is widely used in Chinese livestock, and this probably led bacteria to evolve and gain a resistance to the drug. The gene probably leaped from livestock to human microbes through food, said Yohei Doi, an infectious-disease doctor at the University of Pittsburgh who has studied the problem. 
+  
+ This animated video from 2013 from the Centers for Disease Control and Prevention highlights the key points and graphics of the "Antibiotic Threats in the United States" report. (YouTube/CDC) 
+  
+ "Food handlers may be at higher risk," he said. In places like China, where live animal markets are often in close proximity to food stalls, it may be more likely for the bacteria to spread from animals to humans. 
+  
+ He and other experts in infectious diseases called for speedier action to curb the overuse of antibiotics in livestock worldwide. 
+  
+ "It's hard to imagine worse for public health in the United States," Lance Price, director of the Antibiotic Resistance Action Center and a George Washington University professor, said Thursday in a statement about the case. "We may soon be facing a world where CRE infections are untreatable." 
+  
+ Scientists rang the alarm bells about the gene in November, but not enough attention was paid. "Now we find that this gene has made its way into pigs and people, and people in the U.S.," Price said. "If our leaders were waiting to act until they could see the cliff's edge -- I hope this opens their eyes to the abyss that lies before us." 
+  
+ Scientists and public health officials have long warned that if the resistant bacteria continue to spread, treatment options could be seriously limited. Routine operations could become deadly. Minor infections could become life-threatening crises. Pneumonia could be more and more difficult to treat. 
+  
+ Already, doctors had been forced to rely on colistin as a last-line defense against antibiotic-resistant bacteria. The drug is hardly ideal. It is more than half a century old and can seriously damage a patient’s kidneys. And yet, because doctors have run out of weapons to fight a growing number of infections that evade more-modern antibiotics, it has become a critical tool in fighting off some of the most tenacious infections. 
+  
+ Bacteria develop antibiotic resistance in two ways. Many acquire mutations in their own genomes that allow them to withstand antibiotics, although that ability can’t be shared with pathogens outside their own family. 
+  
+ [Scientists discover why pancreatic cancer resists chemotherapy drug] 
+  
+ Other bacteria rely on a shortcut: They get infected with something called a plasmid, a small piece of DNA, carrying a gene for antibiotic resistance. That makes resistance genes more dangerous because plasmids can make copies of themselves and transfer the genes they carry to other bugs within the same family as well as jump to other families of bacteria, which can then “catch” the resistance directly without having to develop it through evolution. 
+  
+ The colistin-resistant E. coli found in the Pennsylvania woman has this type of resistance gene. 
+  
+ Public health officials say they have been expecting this resistance gene to turn up in the United States. 
+  
+ “This is definitely alarming,” said David Hyun, a senior officer leading an antibiotic-resistance project at the Pew Charitable Trust. “The fact that we found it in the United States confirms our suspicions and adds urgency to actions we need to work on antibiotic stewardship and surveillance for this type of resistance.” 
+  
+ Late last year, as part of a broader budget deal, Congress agreed to give hundreds of millions of dollars to the federal agencies engaged in the battle against antibiotic-resistant bacteria. 
+  
+ The largest chunk of that money, more than $150 million, was slated to go to the CDC as part of an effort to build and strengthen capacity at state and local health departments to prevent and monitor superbug outbreaks. 
+  
+ Other funding went to the National Institutes of Health for research on combating antimicrobial resistance, as well as to an agency known as BARDA, which works on national preparedness for chemical and biological threats, including developing new therapies. 
+  
+ Read more: 
+  
+ Superbug investigation: 'It’s likely we will find more of these,' CDC says 
+  
+ What we know so far about the superbug in the Pennsylvania case 
+  
+ Fight against superbugs gets dramatic funding boost under congressional budget plan 
+  
+ Why the United States is so vulnerable to the alarming spread of Zika virus 
+  
+ 7 things about vaccines and autism that the movie ‘Vaxxed’ won’t tell you 
+  
+ Is 10,000-steps goal more myth than science? Study seeks fitness truths through our phones and more 
+  
+ With Memorial Day and summer travel coming up, it’s time to get serious about Zika 
+  
+ Like our Health & Wellness page on Facebook for more science news about the ins and outs of the human body and mind, essays and advice. You can sign up here for our newsletter. ||||| Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. 
+  
+ / Updated By Maggie Fox 
+  
+ A drug-resistant “superbug” that doctors have been dreading has shown up in the U.S. for the first time, researchers reported Thursday. 
+  
+ The bacteria has genetic changes that make it resistant to a last-ditch antibiotic called colistin and while it had been seen in Europe and China, no one in the U.S. had been seen with it before. 
+  
+ A team at the Walter Reed Army Institute for Research identified a strain of E coli from a Pennsylvania woman that carries a much-feared gene called mcr-1 that turns bacteria into "superbugs. Here, a lab worker tests some of the sample. Walter Reed Army Institute of Research 
+  
+ It doesn’t spell doom just yet. 
+  
+ The mutant E. coli germ was found in a Pennsylvania woman with symptoms of a urinary tract infection, but it does not appear to be spreading at epidemic proportions. And it was susceptible to other antibiotics, so the patient was not left without any hope. 
+  
+ What's worrying is the gene that made the E. coli drug-resistant. It's called mcr-1, and it is passed from one bacteria to another. It sits on a piece of material called a plasmid, which makes it easy for one species of bacteria to pass it along to another species of bacteria. 
+  
+ Scientist fear an E. coli bacteria with the mcr-1 gene could pass it to another superbug with other mutations-- creating a truly super-superbug that resists all known antibiotics. 
+  
+ "It is the end of the road for antibiotics unless we act urgently." 
+  
+ If such a superbug spread, it would take the world back to a time when there were no antibiotics, says Dr. Tom Frieden, director of the Centers for Disease Control and Prevention. 
+  
+ "It is the end of the road for antibiotics unless we act urgently," he said. 
+  
+ This discovery suggests the drug-resistance gene has been here in the U.S., flying under the radar. 
+  
+ “This patient hadn’t traveled,” Frieden said. 
+  
+ Patrick McGann and colleagues at the Walter Reed Army Institute of Research just outside Washington D.C. have been looking at samples from patients, keeping an eye out for bacteria with the mutation. 
+  
+ They reported Thursday they found one. The sample is E. coli bacteria with mcr-1. 
+  
+ "I was extremely surprised when it came up positive," McGann told NBC News. It was the very first sample his lab tested in the new search for the gene. 
+  
+ This little stretch of DNA, which bacteria can swap easily among themselves, gives them the ability to fight off the effects of colistin. 
+  
+ "It was an old antibiotic, but it was the only one left for what I called nightmare bacteria, carbapenem-resistant enterobacteriaceae, or CRE," Frieden said. 
+  
+ Luckily, this particular bacteria was not also resistant to carbapenems. But it was resistant to several other classes of antibiotics, including fluoroquinolones, and the fact that it had the mcr-1 gene raises alarm bells. 
+  
+ “To the best of our knowledge, this is the first report of mcr-1 in the USA,” the Walter Reed researchers wrote in their report, published in the journal Antimicrobial Agents and Chemotherapy. 
+  
+ They’ve only been looking for this particular mutation for three weeks, so they said they’re not sure just how widespread it is. 
+  
+ “We know now that the more we look, the more we are going to find,” Frieden said in a speech at the National Press Club in Washington. “The more we look at drug resistance, the more concerned we become.” 
+  
+ Later Thursday, the health and Human Services Department said scientists had also found the mcr-1 mutation in a sample from a pig. "Out of 949 animal samples screened so far, one strain of colistin-resistant E. coli was found in a pig intestinal sample," it said in a statement. 
+  
+ "The DNA sequence of this isolate revealed that the strain contained the mcr-1 gene on a plasmid. The scientists also determined that the mcr-1 carrying colistin-resistantE. coli is resistant to other antibiotics including ampicillin, streptomycin, sulfisoxazole, and tetracycline." 
+  
+ CDC has been warning for years about the threat of drug-resistant bacteria. It’s been urging drug companies to develop new antibiotics, and asking people to make better use of the antibiotics now available so that more superbugs do not evolve. 
+  
+ “The medicine cabinet is empty for some patients,” Frieden said. 
+  
+ The CDC said it was working with the state health department in Pennsylvania to talk to the patient and her family to see how she may have been infected. 
+  
+ "We know now that the more we look, the more we are going to find." 
+  
+ They’ll also test others in the area who may have been in contact to see if they are carrying the bacteria – which may not necessarily cause illness or any symptoms at all. 
+  
+ "An urgent public health response is underway to contain and prevent potential spread of mcr-1," Walter Reed said in a statement. 
+  
+ Dr. David Hyun of the Pew Charitable Trusts, who follows the issue of drug-resistant bacteria, said details will be important. "I am very interested in finding out how did this patient do," he told NBC News. "What kind of treatment did she receive?" 
+  
+ There have been reports in other countries of patients with bacteria carrying mcr-1, but not many details of how they were cared for or whether other antibiotics cured their infections. 
+  
+ Related: Patients Carry Superbugs on Their Hands 
+  
+ Colistin, used to treat carbapenem-resistant Enterobacteriaceae or CRE, is an older antibiotic with some tough side-effects such as kidney damage. That's why it's only used as a last resort. 
+  
+ Hyun said in several of the international cases, people have been infected with CRE that carried the mcr-1 gene. That would leave them with few, if any, option for treatment. "If we are finding it in other countries, chances are that it's already happened in the United States as well," he said. 
+  
+ Bacteria develop resistance to drugs quickly. Even before penicillin was introduced in 1943, staphylococcus germs had genes that would have made them resistant to its effects. 
+  
+ Just nine years after tetracycline was introduced in 1950, a resistant strain of Shigella evolved. Methicillin-resistant Staphylococcus aureus (MRSA) evolved just two years after methicillin hit the market in 1960. The last new antibiotic to be introduced was ceftaroline, in 2010. It took just a year for the first staph germ to evolve that resisted its effects. 
+  
+ The CDC says more than two million people are infected by drug-resistant germs each year, and 23,000 die of their infections. The biggest killer by far in the U.S. is diarrhea-causing C. difficile. 
+  
+ Near-untreatable cases of diarrhea, sepsis, pneumonia and gonorrhea are infecting millions more globally, the World Health Organization says. |||||
+What is a one-paragraph summary of the above article?

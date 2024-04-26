@@ -1,0 +1,25 @@
+The number of yellow blocks is 18 blocks + 7 blocks = 25 blocks. The number of blue blocks is 18 blocks + 14 blocks = 32 blocks. The total number of red, yellow, and blue blocks is 18 blocks + 25 blocks + 32 blocks = 75 blocks.
+The answer: 75
+Reverse engineering the question: Jacob loves to build things. In Jacob's toy bin there are 18 red blocks. There are 7 more yellow blocks than red blocks. There are also 14 more blue blocks than red blocks. How many blocks are there in all?
+
+Reasoning and answer: The number of students that play sports is 400 * 0.52 = 208 students. The number of students that play soccer is 208 * .125 = 26 students.
+The answer: 26
+What was the question?
+Question: There are 400 students in the senior class at East High School. 52% of the students play sports. Of the students that play sports, 12.5% play soccer. How many students play soccer?
+
+First find the total number of strands the two of them can cut per minute: 8 strands + 3 strands = 11 strands. Then divide the total number of strands by the number of strands they cut per minute to find the number of minutes it takes to cut all the strands: 22 strands / 11 strands / minute = 2 minutes.
+The answer: 2
+Reverse engineering the question: Hannah comes home from work to find her older son taped her younger son to a chair with 22 strands of duct tape. If Hannah can cut 8 strands per minute and her son can cut 3 strands per minute, how long will it take them to free her younger son?
+
+Reasoning and answer: Mary fed Luna 1 + 1 = 2 cups of kibble. Frank fed Luna 1 - cup plus twice 1 - cup, or 1 + 2 = 3 cups of kibble. In total, they fed Luna 2 + 3 = 5 cups of kibble. Thus, if the new bag held 12 cups of kibble, the next morning, 12 - 5 = 7 cups of kibble remained in the bag.
+The answer: 7
+What was the question?
+Question: Luna, the poodle, is supposed to eat 2 cups of kibble every day. But Luna's master, Mary, and her husband, Frank, sometimes feed Luna too much kibble. One day, starting with a new, 12-cup bag of kibble, Mary gave Luna 1 cup of kibble in the morning and 1 cup of kibble in the evening, But on the same day, Frank also gave Luna 1 cup of kibble in the afternoon and twice as much in the late evening as he had given Luna in the afternoon. The next morning, how many cups of kibble will Mary find remaining in the bag?
+
+Let's say the river's length in the straight part of the river is x. The total length of the river is the length of the straight part plus 3 times the length of the straight part for the crooked part, which is x + 3x = 80. The total length of the river is 4x = 80. The straight part of the river is x = 80 / 4 = 20 miles.
+The answer: 20
+Reverse engineering the question: The length of the straight part of a river is three times shorter than the crooked part. If the river is 80 miles long, how long is the straight part of the river?
+
+If the price of a lawnmower was $1800 a year ago, 2 / 5 less than the cost right now, then it now costs 2 / 5 * 1800 = $720 more to buy one lawnmower. The total cost of buying one lawnmower right now is $1800 + $720 = $2520. To purchase 4 such lawnmowers, Mr. Lucian will have to pay $2520 * 4 = $10080.
+The answer: 10080
+Reverse engineering the question:

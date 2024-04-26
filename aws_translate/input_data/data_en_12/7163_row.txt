@@ -1,0 +1,25 @@
+Half of the 50 seeds, or 50 / 2 = 25 seeds germinated and grew. If each of the 25 plants produces 50 seeds, then a total of 25 * 50 = 1250 seeds would be produced.
+The answer: 1250
+Reverse engineering the question: One dandelion seed floated onto Mrs. Middleton's lawn, landed on good soil, and began to grow. After one month, the dandelion plant had grown to full size and developed a flower. At the end of the second month, the flower turned to 50 fluffy, white seeds, which blew onto the lawn. Only half of these seeds landed onto good soil, germinated, and began to grow, just as the first seed had done. If each of these new seedling plants produces the same number of seeds in the same amount of time as the original plant, what is the total number of seeds that these newest plants will produce in two months' time?
+
+Reasoning and answer: Three sandwiches cost 3 x $2 = $6. So, Selene spends $6 + $2 = $8. Two hamburgers cost 2 x $2 = $4. Two cans of fruit juice cost 2 x $2 = $4. Thus, Tanyah spends $4 + $4 = $8. Therefore, Selene and Tanya spend $8 + $8 = $16.
+The answer: 16
+What was the question?
+Question: A school canteen sells a sandwich at $2, a hamburger at $2, one stick of hotdog at $1, and a can of fruit juice at $2 each can. Selene buys three sandwiches and a can of fruit juice. Tanya buys two hamburgers and two cans of fruit juice. How much do Selene and Tanya spend together?
+
+There are a total of 11 + 1 = 12 boys in the class. Hence, there are a total of 12 boys + 13 girls = 25 students in a class. So 13 / 25 x 100% = 52% of the class are girls.
+The answer: 52
+Reverse engineering the question: There are 11 boys and 13 girls in a class. If 1 boy is added to the class, what percentage of the class are girls?
+
+Reasoning and answer: For an 8 - hour dive, she will use her 2 - hour primary tanks and will need supplemental tanks for 8 - 2 = 6 additional hours. Since each supplemental tank holds 1 hour of oxygen, for 6 hours she will need 6 / 1 = 6 supplemental tanks.
+The answer: 6
+What was the question?
+Question: Beth is a scuba diver. She is excavating a sunken ship off the coast of a small Caribbean island and she must remain underwater for long periods. Her primary tank, which she wears when she first enters the water, has enough oxygen to allow her to stay underwater for 2 hours. She also has several 1-hour supplemental tanks that she takes with her as well as stores on the ocean floor so she can change tanks underwater without having to come up to the surface. She will need to be underwater for 8 hours. How many supplemental tanks will she need?
+
+First figure out how many liters of water are left in the pool when it's 80% full: 2000L * .8 = 1600 L. Now subtract that amount from the pool's total capacity to find how much water can splash out before Jim has to refill it: 2000 L - 1600 L = 400 L. Now multiply that amount by 1000 to convert it to milliliters: 400 L * 1000 ml / L = 400,000 ml. Finally, divide that amount by the amount that splashes out with each jump to find the number of jumps before pool cleaning: 400,000 ml / 400 ml / jump = 1000 jumps.
+The answer: 1000
+Reverse engineering the question: Jim is a maintenance worker at a pool. Every time someone jumps in the pool, they cause 400 ml of water to splash out and evaporate. Jim has to get everyone out of the pool, clean, and refill it when it gets below 80% full. If the pool holds 2000 L of water, how many times can people jump in the pool before Jim has to clean it?
+
+Knowing that dogs live 4 times the age of hamsters, dogs live 4 * 2.5 = 10 years. If Ruth takes care of the fish, it can live 10 + 2 = 12 years.
+The answer: 12
+Reverse engineering the question:

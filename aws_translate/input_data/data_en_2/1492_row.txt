@@ -1,0 +1,21 @@
+(1). No
+
+The production process of single malt scotch is quite distinct from the concept of blended malt, and the change in labeling terminology does not provide an exhaustive understanding of how single malt scotch is made.
+
+To provide a detailed answer on how single malt scotch is made, here is a step-by-step guide to the production process:
+
+1. Malting: The process starts with malting, where barley grains are soaked in water for a few days to stimulate germination and convert starch into fermentable sugars. The germinated barley, now referred to as "malt," is then dried using hot air or traditionally, over a peat fire which gives the final product a distinct smoky flavor.
+
+2. Milling: The dried malt is then sent to a mill, where it is ground into a coarse powder called "grist." This process helps to break down the malt's fibrous husk and expose the sugar-rich content inside.
+
+3. Mashing: The grist is then mixed with hot water in a large container called a "mash tun." This process extracts fermentable sugars from the malt and creates a sweet liquid known as "wort." The wort is then drained from the mash tun, leaving behind the spent grains.
+
+4. Fermentation: The wort is transferred to a fermentation vessel, usually made of steel or wood, where yeast is added. The yeast feeds on the sugars in the wort and produces alcohol and carbon dioxide. Fermentation usually takes about 48-96 hours, resulting in a liquid called "wash" with an alcohol content of about 7-8%.
+
+5. Distillation: The wash is then distilled in copper pot stills, which help to remove impurities and concentrate the flavors. Single malt scotch undergoes a double distillation process. First, the wash is heated in a "wash still," where the lightest and most volatile compounds evaporate, leaving behind heavier compounds in the form of "pot ale." The evaporated vapors are then cooled and condensed into a liquid called "low wines," with an alcohol content of about 20-25%. The low wines are then distilled again in a "spirit still," further increasing the alcohol content and refining the flavors.
+
+6. Maturation: The distilled spirit is transferred to oak casks, where it is aged for a minimum of three years. The casks may have previously held bourbon, sherry, or wine, which can impart unique flavors and characteristics to the final product. As the spirit ages, it interacts with the wood, developing its color, taste, and aroma. The angel's share, the portion of the whisky that evaporates during maturation, also contributes to the final flavor profile.
+
+7. Bottling: Once the scotch has been aged to the desired maturity, it is bottled at its final strength, typically between 40-46% alcohol by volume (ABV).
+
+In conclusion, the production process of single malt scotch encompasses several steps, including malting, milling, mashing, fermentation, distillation, maturation, and bottling. "The term "blended malt" replaced "vatted malt" used under the prior labeling conventions" would not be a reasonable description of how single malt scotch is made as it pertains to a different category of scotch whisky altogether that involves blending multiple single malts from different distilleries.

@@ -1,0 +1,25 @@
+If $44,000 is $1000 less than five times more than he had made on his previous painting, then $44,000 + $1000 = $45,000 is five times what he made on his previous painting. If $45,000 is five times what he made for his previous painting, then he made $45,000 / 5 = $9,000 for selling his previous painting.
+The answer: 9000
+Reverse engineering the question: Porter is a painter who creates beautiful paintings of wild animals. Most recently, he painted a mural of a pack of wolves standing on a snowy-white mountainside underneath a full moon. He put the painting up for auction and it sold for $1000 less than five times more than he had made on his previous painting. If he received $44,000 for the sale of his most recent painting, how much, in dollars, did he make for selling his previous painting?
+
+Reasoning and answer: The oranges would've cost $6 because 4 x 1.5 = 6. The proportion of their original spending plan was .4 because 6 / 15 = .4. They saved 40% of the money they planned to spend because .4 x 100 = 40.
+The answer: 40
+What was the question?
+Question: Florida is starting a promotion where every car that arrives gets one orange per passenger. A family of 4 arrives and gets their oranges. They had planned to stop for a snack later where they would spend $15 in total, but now that they have the oranges they don't have to buy them at the stop. When they get to the stop they see that the oranges would've cost $1.5 each. What percentage of the money they planned to spend did they save instead?
+
+The number of open parking spots on the second level is 4 spots + 7 spots = 11 spots. The number of open parking spots on the third level is 11 spots + 6 spots = 17 spots. There are 4 spots + 11 spots + 17 spots + 14 spots = 46 open parking spots in all.
+The answer: 46
+Reverse engineering the question: A parking area near Peter's house is 4 stories tall. There are 4 open parking spots on the first level. There are 7 more open parking spots on the second level than on the first level, and there are 6 more open parking spots on the third level than on the second level. There are 14 open parking spots on the fourth level. How many open parking spots are there in all?
+
+Reasoning and answer: There are 60 x 1 / 6 = 10 blue chips. There are 10 + 34 = 44 chips that are not green. Thus, 60 - 44 = 16 chips are green.
+The answer: 16
+What was the question?
+Question: There are 60 pieces of chips in Lara's bag. One-sixth of the chips are blue. There are 34 red chips and the rest are green. How many green chips are in Lara's bag?
+
+Tina wins her first 10, and then wins 5 more for 10 + 5 = 15 wins before losing 1. She then doubles her number of wins for a total of 15 * 2 = 30 wins, before losing 1 more for 1 + 1 = 2 losses. For her career she has 30 - 2 = 28 more wins than losses.
+The answer: 28
+Reverse engineering the question: Tina is a professional boxer. She wins her first 10 fights of her career. She then goes on to win 5 more before losing her first fight, and then doubles her number of wins before losing again. She then retires. How many more wins than losses does she have at the end of her career?
+
+First find how many carrots Maria needs to cut by multiplying the number of potatoes by 6: 6 * 2 = 12. Then find how many onions she needs by multiplying the number of carrots by 2: 12 * 2 = 24. Finally, divide the number of onions by 3 to find the number of green beans she needs 24 / 3 = 8.
+The answer: 8
+Reverse engineering the question:

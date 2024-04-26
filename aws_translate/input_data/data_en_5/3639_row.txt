@@ -1,0 +1,25 @@
+What is the most logical completion of this news story?.
+
+A senior member of an Al Qaeda-affiliated terror group has spoken out in support of Peter Kassig - the American aid worker threatened by the Islamic State following the murder of Alan Henning. Abu Omar Aqidi - a prominent member of the Syria-based Nusra Front - pleaded with ISIS to spare Kassig's life after he identified the Muslim convert as a medic who helped treat his shrapnel wounds. Kassig is a former Methodist who converted to Islam after being captured and taken prisoner by ISIS in October last year and now calls himself Abdul Rahman. His life was threatened by the militant known as 'Jihadi John' earlier this month following the sickening filmed beheading of Henning - with ISIS sympathisers last night claiming the terrorists plan to murder Kassig in the coming days after a Wednesday 'deadline' for the U.S. to stop bombing them passed.
+
+Both extremists who met Kassig before he embraced
+
+OPTIONS:
+- Abdul Rahman and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Abu Omar Aqidi and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Al Qaeda and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Alan Henning and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- American and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Henning and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- ISIS and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Islam and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Islamic State and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Jihadi John and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Kassig and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Muslim and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Nusra Front and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Peter Kassig and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Syria and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- Syrian and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- U.S. and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.
+- former Methodist and former prisoners who were held alongside him have argued that the aid worker's conversion is without doubt sincere.

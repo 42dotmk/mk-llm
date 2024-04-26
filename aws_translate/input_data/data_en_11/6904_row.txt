@@ -1,0 +1,36 @@
+Answer: controlled the colony 's entire civil administration. Now, what could be the question and solution-maybe?
+Ques: The Intendant of New France was an administrative position in the French colony of New France. He controlled the colony's entire civil administration. He gave particular attention to settlement and economic development, and to the administration of justice. The office of the Intendant of New France was created by Louis XIV. In 1663, Louis and his minister decided to give New France a new constitution. The charter of the One Hundred Associates was cancelled and the old Council of Quebec, which was formed in 1647, reorganized and became the Sovereign Council of New France. The Sovereign Council was composed of the governor, the bishop, the intendant, an attorney-general, a secretary, and five councilors. Because the Intendant of New France managed the financial matters like money and so on, as well as the infrastructure of the colony, he had enormous amount of influence in the colony's government.
+
+What was the job of the intendant in new france?
+CoT: The relevant information to answer the above question is: He controlled the colony's entire civil administration.
+
+
+Ans: Starship
+Ques: "Nothing's Gonna Stop Us Now" is a song co-written by Albert Hammond and Diane Warren, recorded by the American rock band Starship in 1986. It is a duet featuring Starship vocalists Grace Slick and Mickey Thomas. Featured as the theme to the romantic comedy film Mannequin, it hit No. 1 in the Billboard Hot 100 on April 4, 1987 and reached No. 1 on the UK Singles Chart for four weeks the following month and became the UK's 2nd biggest selling single of 1987. The song also reached the top 10 in six European countries. The single became the first number one single by songwriter Diane Warren. At the time, it made Grace Slick (aged 47) the oldest woman to have a number one single in the United States though the record was later broken by Cher's "Believe" in 1999 (aged 52).
+
+Answer this question based on the passage: who sings nothings going to stop us now?
+CoT: This is the relevant information: "Nothing's Gonna Stop Us Now" is a song co-written by Albert Hammond and Diane Warren, recorded by the American rock band Starship in 1986.
+
+
+Ans: sometime in 2019
+Ques: The second season is scheduled to air sometime in 2019.
+
+When is final space season 2 coming out?
+CoT: The relevant sentence in the passage is: The second season is scheduled to air sometime in 2019.
+
+
+Answer: Temne. Now, what could be the question and solution-maybe?
+Ques: Context: The largest ethnic group is the Temne at about 36 % of Sierra Leone's population. The Temne predominate in the Northern Sierra Leone and the areas around the capital of Sierra Leone.
+
+Question: what is the largest tribe in sierra leone?
+CoT: The relevant information to answer the above question is: The largest ethnic group is the Temne at about 36 % of Sierra Leone's population.
+
+
+Ans: the Samoan Islands
+Ques: Context: The Samoan people are a Polynesian ethnic group of the Samoan Islands, sharing genetics, language, history and culture. As a result of colonialism, the home islands are politically and geographically divided between the country of Samoa, official name Independent State of Samoa (formerly Western Samoa until country name change in 1997) and American Samoa, an unincorporated territory of the United States.
+
+Question: where are you from if you are samoan?
+CoT: The relevant sentence in the passage is: The Samoan people are a Polynesian ethnic group of the Samoan Islands, sharing genetics, language, history and culture.
+
+
+Ans: American rock band Boston

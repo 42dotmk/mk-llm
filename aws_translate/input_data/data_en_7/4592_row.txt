@@ -1,0 +1,34 @@
+Problem:Passage: Jack Peter Shepherd (born 14 January 1988) is an English actor. He has portrayed the character of David Platt in the ITV soap opera Coronation Street since April 2000.
+
+Question: Based on this passage, actor who plays david platt in coronation street?
+Solution:OK... The important part for answering this question is: He has portrayed the character of David Platt in the ITV soap opera Coronation Street since April 2000.
+Jack Peter Shepherd.
+
+Student A:Directed by Daniel "Cloud" Campos, the music video for "Say Amen (Saturday Night)" premiered on March 21, 2018. Panic! at the Disco frontman Brendon Urie confirmed that the music video serves as a prequel to the band's 2013 music video, "This Is Gospel", from the band's fourth studio album Too Weird to Live, Too Rare to Die! and the 2015 music video for "Emperor's New Clothes," from the band's fifth studio album Death of a Bachelor. The actress featured is Chloe Holmes.
+
+Answer this question: panic at the disco say amen music video girl?
+Student B:OK... This is the relevant information: The actress featured is Chloe Holmes.
+Chloe Holmes.
+
+Problem:The film won more than twenty awards, including three Academy Awards for its technical achievements in visual effects and sound design. Jurassic Park is considered a landmark in the development of computer-generated imagery and animatronic visual effects, and was followed by three commercially successful sequels, The Lost World: Jurassic Park (1997), Jurassic Park III (2001), and Jurassic World (2015). A fifth film, titled Jurassic World: Fallen Kingdom, is scheduled for a June 2018 release.
+
+When did the last jurassic park come out?
+Solution:OK... The relevant sentence in the passage is: Jurassic Park is considered a landmark in the development of computer-generated imagery and animatronic visual effects, and was followed by three commercially successful sequels, The Lost World: Jurassic Park (1997), Jurassic Park III (2001), and Jurassic World (2015).
+2015.
+
+Student A:During the final stage of World War II, the United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively. The United States dropped the bombs after obtaining the consent of the United Kingdom, as required by the Quebec Agreement. The two bombings killed at least 129,000 people, most of whom were civilians. They remain the only use of nuclear weapons in the history of warfare.
+
+Based on this passage, where were the two atomic bombs dropped in japan?
+Student B:OK... To answer the question, consider the following: During the final stage of World War II, the United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively.
+Hiroshima and Nagasaki.
+
+Problem:John Mathai presented the first Railway Budget for independent India in November 1947.
+
+Answer this question: first railway budget of india was presented by?
+Solution:OK... The important part for answering this question is: John Mathai presented the first Railway Budget for independent India in November 1947.
+John Mathai.
+
+Problem:The first use of the term "weapon of mass destruction" on record is by Cosmo Gordon Lang, Archbishop of Canterbury, in 1937 in reference to the aerial bombardment of Guernica, Spain:
+
+Answer this question based on the passage: who coined the term weapons of mass destruction?
+Solution:

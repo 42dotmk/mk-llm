@@ -1,0 +1,70 @@
+Here is a news article: CLOSE The National Transportation Safety Board is investigating a crash and fire involving a Telsa Model S car. Two teens died in Fort Lauderdale, Florida crash on Tuesday. The probe is not expected to involve Tesla's semi-autonomous Autopilot system. (May 11) AP 
+  
+ A Tesla sedan with a semi-autonomous Autopilot feature rear-ended a fire department truck at 60 mph (97 kph) apparently without braking before impact on May 11, 2018, but police say it's unknown if the Autopilot feature was engaged. (Photo: South Jordan Police Department/AP) 
+  
+ SAN FRANCISCO — A Tesla Model S that crashed into a stopped fire truck at high speed was operating in Autopilot mode, the driver of the car told Utah police officials. 
+  
+ Tesla says it continues to work with police on the investigation, and has not yet released details of the incident based on the car's computer logs. 
+  
+ The driver of the vehicle, a 28-year-old woman from Lehi, Utah, slammed into the truck in South Jordan, Utah on Friday. The woman also told police she was looking at her phone prior to the collision and estimated her speed at 60 mph, which is consistent with eyewitness accounts, according to a police statement issued late Monday. 
+  
+ The result of the violent crash was an accordioned front end for the electric car, but only a broken foot for the driver, according to Sgt. Sam Winkler of the South Jordan Police Department. 
+  
+ The driver of the United Fire Authority mechanic truck was evaluated for whiplash and was not checked into the hospital. 
+  
+ Tesla said the company's previous response to the crash still stood, which noted that Autopilot — a semi-autonomous system that works like a souped-up cruise control — requires constant vigilance and is not meant to take over driving responsibilities while the driver focuses on other chores. 
+  
+ Winkler said that South Jordan police was continuing to investigate the crash, and would be working with Tesla to gather vehicle information from the Model S's computers over the coming days. Police officials also said they were getting technical assistance from National Transportation Safety Board officials. 
+  
+ Eyewitness accounts indicate the Model S did not slow down or swerve as it rammed into the back of the truck, which was stopped at a traffic light in the far right lane. 
+  
+ More: Elon Musk shakes up Tesla as another Model S faces crash queries 
+  
+ More: Tesla crash that killed two Florida teens probed by NTSB investigators 
+  
+ Autopilot has been in the crosshairs of federal crash investigators, dating back to a 2016 crash of Tesla Model S in Autopilot mode that killed its driver after the car failed to stop for a tractor trailer that cut across its path. 
+  
+ More recently, the NTSB was called in to review details of a March crash in which a Tesla Model X slam into a highway divider in Mountain View, Calif. The driver died. 
+  
+ Tesla has said the California driver ignored the car's warnings to take back control of the vehicle. But the driver's family is considering suing on the grounds that Tesla ignored the driver's previously raised concerns about Autopilot acting up on that same stretch of Silicon Valley highway. 
+  
+ NTSB and National Highway Traffic Safety Administration officials also are investigating a recent Tesla Model S crash in Florida in which two teens died and one was injured. 
+  
+ The car hit a concrete barrier at high speed in a residential neighborhood and burst into flames. Autopilot is not thought to be a factor, but investigators are looking into the ensuing battery fire. 
+  
+ Just prior to Utah police announcing that the driver indicated Autopilot had been in use, Tesla CEO Elon Musk posted a series of tweets that emphasized the safety of his product. 
+  
+ What’s actually amazing about this accident is that a Model S hit a fire truck at 60mph and the driver only broke an ankle. An impact at that speed usually results in severe injury or death. — Elon Musk (@elonmusk) May 14, 2018 
+  
+ "What’s actually amazing about this accident is that a Model S hit a fire truck at 60mph and the driver only broke an ankle," Musk tweeted (although initially reported as an ankle injury, South Jordan officials said the injury was a broken foot). "An impact at that speed usually results in severe injury or death." 
+  
+ Musk also lamented media coverage that he said glossed over the 40,000 annual U.S. road deaths, and acknowledged that while no technology is perfect "a system that, on balance, saves lives & reduces injuries should be released." 
+  
+ Follow USA TODAY tech reporter Marco della Cava on Twitter. 
+  
+ Read or Share this story: https://usat.ly/2rDPulU ||||| Long before the fatal crash of a Tesla car in March, some developers of the vehicle’s Autopilot system expressed concern there weren’t enough safeguards to ensure drivers remained attentive, people familiar with the discussions said. 
+  
+ Tesla Inc.’s engineers repeatedly discussed adding sensors that would ensure drivers look at the road or keep their hands on the wheel both before and after the driver-assistance system was introduced in 2015, these people said. 
+  
+ ... ||||| Engineers inside Tesla wanted to add robust driver monitoring systems to the company’s cars to help make sure drivers safely use Autopilot, and Tesla even worked with suppliers on possible solutions, according to The Wall Street Journal. But those executives — Elon Musk included — reportedly rejected the idea out of worry that the options might not work well enough, could be expensive, and because drivers might become annoyed by an overly nagging system. 
+  
+ Tesla considered a few different types of monitoring: one that would track a driver’s eyes using a camera and infrared sensors, and another that involved adding more sensors to the steering wheel to make sure that the driver is holding on. Both ideas would help let the car’s system know if the driver has stopped paying attention, which could reduce the chance of an accident in situations where Autopilot disengages or is incapable of keeping the car from crashing. 
+  
+ Musk later confirmed on Twitter that the eye tracking option was “rejected for being ineffective, not for cost.” 
+  
+ Musk later confirmed the news on Twitter This is false. Eyetracking rejected for being ineffective, not for cost. WSJ fails to mention that Tesla is safest car on road, which would make article ridiculous. Approx 4X better than avg. — Elon Musk (@elonmusk) May 14, 2018 
+  
+ While a name like “Autopilot” might suggest there aren’t situations a Tesla car can’t handle, accidents still happen even when Autopilot is engaged, and three people have died while using the feature. Tesla promises that Autopilot will one day be capable of fully driving the car itself, but the system currently more closely resembles the limited driver assistance packages offered by GM, Nissan, and others. 
+  
+ Tesla cars do lightly monitor drivers by using a sensor to measure small movements in the steering wheel. If the driver doesn’t have their hands on the wheel, they are repeatedly warned, and eventually the car pulls itself to the side of the road and has to be reset before Autopilot can be turned on again. That capability had to be added months after Autopilot was released in 2015, though, after a rash of drivers posted videos of themselves using the driver assistance feature in reckless ways. Even now, there is evidence that it’s possible to fool the steering wheel sensor. 
+  
+ In contrast, GM’s semi-autonomous system, Super Cruise, watches a driver’s face to make sure they’re paying attention to the road. It also allows hands-free driving. 
+  
+ Broadly, though, the National Transportation Safety Board said last September that the whole industry needs to do better at installing safeguards that help make sure these driver assistance features aren’t misused. 
+  
+ The NTSB’s statements came with the conclusion of the safety board’s investigation into the June 2016 death of Joshua Brown, who was the first person to die while using Autopilot in the United States. (A driver who was killed while using Autopilot in China in January 2016 is now believed to be the first person in the world to have been killed while using a driver assistance feature.) At the time, the safety board specifically recommended that Tesla find ways beyond steering wheel sensors to monitor drivers. The NTSB is currently investigating the most recent Autopilot death, which happened in March in California. 
+  
+ Tesla often points out that the number of accidents involving the use of Autopilot is small compared to the scale and frequency of more typical auto accidents. And Musk recently pledged to regularly release data about the performance of Autopilot, which it will start doing at the end of this financial quarter. But Musk also recently said that Autopilot accidents tend to happen because drivers’ attention can drift — something that might be solved with better driver monitoring. 
+  
+ “When there is a serious accident it is almost always, in fact maybe always, the case that it is an experienced user, and the issue is more one of complacency,” Musk said on a quarterly earnings call earlier this month. “They just get too used to it. That tends to be more of an issue. It’s not a lack of understanding of what Autopilot can do. It’s [drivers] thinking they know more about Autopilot than they do.” ||||| It’s super messed up that a Tesla crash resulting in a broken ankle is front page news and the ~40,000 people who died in US auto accidents alone in past year get almost no coverage https://www.washingtonpost.com/business/tesla-with-autopilot-slams-into-truck-stopped-at-red-light/2018/05/12/18d2e740-563e-11e8-a6d4-ca1d035642ce_story.html?noredirect=on&utm_term=.7466cb626644 … |||||
+A summary of this is?

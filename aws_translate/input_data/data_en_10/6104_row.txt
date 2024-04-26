@@ -1,0 +1,27 @@
+Reasoning and answer: First find the number of matches the dog eats: 10 matches * 2 = 20 matches. Then subtract all the lost matches from the starting number to find the final number: 70 matches - 10 matches - 20 matches = 40 matches.
+The answer: 40
+What was the question?
+Question: Nate starts his camping trip with 70 matches. He drops 10 in a creek and his dog eats twice as many. How many matches does he have left?
+
+Vikki earnt 10 × $42 = $420 in one week. She then gets taxed $420 × 0.2 = $84. She also loses $420 × 0.05 = $21 due to insurance. Vikki also pays $5 in union dues. In total Vikki loses $84 + $21 + $5 = $110 because of deductions. Her final total pay after deductions is $420 - $110 = $310.
+The answer: 310
+Reverse engineering the question: Vikki worked 42 hours in one week. Her hourly pay rate is $10. From her weekly earnings, 20% is deducted as tax, 5% is deducted as insurance cover, and $5 is deducted for union dues. How much money, in dollars, does Vikki take home after deductions?
+
+Reasoning and answer: The total number of jewelry Jessy had before going to the store is 10 necklaces + 15 earrings = 25. At the store, Jessy bought 2 / 3 * 15 = 10 earrings. When she got back from the store, Jessy received 1 / 5 * 10 = 2 more earrings than the ones she bought at the store from her mother. The total number of earrings Jessy received from her mother is 2 + 10 = 12 earrings. The total number of earrings Jesy has after being given 12 more from her mother is 10 + 12 = 22 earrings outside the jewelry box. When Jessy puts all the jewelry in the box, the total number becomes 22 new earrings + 10 new necklaces + 25(the total number of jewelry she had before) = 57.
+The answer: 57
+What was the question?
+Question: A jewelry box has 10 necklaces and 15 earrings. Jessy goes to the jewelry stores and buys 10 more necklaces and 2/3 as many earrings as before. After returning home, her mother gives her 1/5 times more earrings than the number she purchased at the store. Calculate the total number of jewelry pieces Jessy has in her box if she puts all of them together.
+
+The judge dismissed 2 cases, leaving 17 - 2 = 15 cases. Of the remaining 15 cases, 2 / 3 * 15 = 10 were ruled innocent. One ruling was delayed, so the judge ruled guilty on 15 - 10 - 1 = 4 cases.
+The answer: 4
+Reverse engineering the question: A judge oversaw seventeen court cases. Two were immediately dismissed from court. Two-thirds of the remaining cases were ruled innocent, one ruling was delayed until a later date, and the rest were judged guilty. On how many cases did the judge rule guilty?
+
+Reasoning and answer: Jean's dress was $10 less than Pauline's $30 dress, meaning it was 30 - 10 = 20 dollars. Ida's dress was $30 more than Jean's $20 dress, meaning it was 30 + 20 = 50 dollars. Patty's dress was $10 more than Ida's $50 dress, meaning it was 50 + 10 = 60 dollars. Therefore, all four women together spent 60 + 50 + 20 + 30 = 160 dollars.
+The answer: 160
+What was the question?
+Question: If Patty's dress was $10 more than Ida's dress, and Ida's dress was $30 more than Jean's dress, and Jean's dress was $10 less than Pauline's dress, and lastly Pauline's dress was $30, how much did all the ladies spend on dressed put together?
+
+Reasoning and answer: Ned has gone up 165 / 11 = 15 flights of stairs. Thus, he has 20 - 15 = 5 flights of stairs left to run up. He will spend 5 * 11 = 55 seconds running up the remaining stairs to the bomb. Therefore, he will have 72 - 55 = 17 seconds to defuse the bomb.
+The answer: 17
+What was the question?
+Question:

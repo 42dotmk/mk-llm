@@ -1,0 +1,121 @@
+Write a summary based on this article:
+
+The app shows users when it's safe to have unprotected sex (a green day) or when other contraceptive methods such as condoms should be used (a red day) thanks to body temperature readings -- after ovulation a rise in progesterone makes women's bodies up to 0.8 Fahrenheit higher than usual. The app helps women both plan and prevent pregnancy, and has proven just as effective for those with irregular periods, or those who have just come off other cycle-disrupting forms of contraception, such as the pill or injections. 
+  
+ Natural Cycles was the first app to be approved as a form of contraception in the EU, and the company has made no secret of its plans to win certification worldwide. Getting FDA approval for use in the US would be a significant milestone. In August this year The Verge published an article examining Natural Cycles' position in the mobile health space, noting that its published research to date didn't yet meet contraceptive efficacy standards. This new study moves the goalposts, meaning that the FDA could approve a fertility app sooner than expected, and when it does, it will very likely be this one. ||||| The FDA on Friday cleared the first-ever app to prevent pregnancy — but not everyone is convinced it works. 
+  
+ The app, Natural Cycles, isn’t your typical form of contraception. It asks women to take their temperature upon waking and keep a daily log in its interface. It uses that data to help women keep track of when they’re ovulating. 
+  
+ The FDA cleared the app as a medical device, using a regulatory pathway reserved for low-to-moderate risk devices. 
+  
+ advertisement 
+  
+ According to the FDA’s press release, the app’s typical-use failure rate was about 6.5 percent in large-scale clinical trials — far better than the reported 24 percent typical failure rate of “fertility awareness,” commonly known as the “rhythm method.” 
+  
+ The typical-use failure rate of the birth control pill is about 9 percent, according to the CDC. A hormonal IUD has a failure rate of less than 1 percent, while condoms alone have a typical-use failure rate of 18 percent. 
+  
+ “Consumers are increasingly using digital health technologies to inform their everyday health decisions, and this new app can provide an effective method of contraception if it’s used carefully and correctly,” Terri Cornelison, the assistant director for the health of women in the FDA’s Center for Devices and Radiological Health, stated in a press release. 
+  
+ Natural Cycles got European clearance in February 2017. But in January, the Swedish Medical Products Agency announced it was investigating the app after reports that 37 women in one Swedish clinic who were using the app had become pregnant accidentally. One woman wrote about her own experiences in The Guardian in July. 
+  
+ Some people have expressed concerns via social media that basal temperature, estimated by taking the measurement immediately after waking, may be an unreliable metric to use. 
+  
+ Both the app @NaturalCycles and the EU should know better. You DO NOT launch an app that tracks female fertility based *solely* on basal temperature and you certainly DO NOT approve it as a method of contraception. This is so utterly irresponsible. — Anna Rascouët-Paz (@rascouet) July 25, 2018 
+  
+ Dr. Juan Acuna, an OB-GYN specialist at Florida International University and one of Natural Cycle’s scientific advisers, said “the whole realm of natural contraception has always been deemed as not being one of the safest.” 
+  
+ Monitoring ovulation properly relies on multiple measurements over a long time — and even then, stress and other factors affect the data. The app, he said, makes otherwise difficult calculations simpler. All forms of birth control come with at least a small risk of failure. “During the first two or three or four months, you need to use two methods,” he said. 
+  
+ And even Acuna noted that basal temperature isn’t the best possible way to predict fertility. “The gold standard [to measure ovulation] is ultrasound,” Acuna noted. “It might not be the safest form of data, but when you balance the pros and cons, all in all, of doing other tests and the cumbersome process of measuring cervical mucus characteristics, then body temperature is still a good measurement to take.” 
+  
+ This app’s clearance also means that future contraceptive apps will be able to go through a different, simpler process — albeit with some special considerations. Now that one app is on the market, any other app that is substantially similar will be able to go through the FDA’s 510(k) medical device marketing notification procedure. But they must meet the agency’s new “special controls” — criteria that the agency says will “provide a reasonable assurance of safety and effectiveness for apps used for contraception.” 
+  
+ The FDA didn’t immediately comment on what those criteria would include. 
+  
+ The FDA also on Friday approved a contraceptive vaginal ring that can be used for a full year. ||||| CLOSE An app that claims to help women track their fertility just cleared a hurdle from the FDA. USA TODAY 
+  
+ A screenshot of the mobile app Natural Cycles. (Photo: Natural Cycles) 
+  
+ The U.S. Food and Drug Administration has approved marketing for a smartphone app claiming to help prevent pregnancy. 
+  
+ Stockholm-based Natural Cycles bills itself as a contraception app leaning on fertility awareness, where a woman tracks the days when she is fertile based on body temperature readings and the timing of her menstrual cycle. 
+  
+ The app requires women who use it to check their temperature daily using a basal body thermometer. The app groups days as either green or red. During red days, users are advised to avoid sex or use protection such as a condom. 
+  
+ "Consumers are increasingly using digital health technologies to inform their everyday health decisions, and this new app can provide an effective method of contraception if it’s used carefully and correctly," said Terri Cornelison, assistant director for the health of women in the FDA’s Center for Devices and Radiological Health, in a statement Friday. 
+  
+ According to the Natural Cycles website, the app has proven to be 93 percent effective at preventing unwanted pregnancies. 
+  
+ Aug. 8: Boxers or briefs? Men who wore boxers had higher sperm counts, study says 
+  
+ Cornelison also warns despite the high effectiveness rate, Natural Cycles isn't a foolproof solution. "Women should know that no form of contraception works perfectly, so an unplanned pregnancy could still result from correct usage of this device." 
+  
+ Questions have been raised over whether this app is as effective in preventing pregnancy as its makers claim. The U.K.-based Advertising Standards Authority announced in June it was launching an investigation into Natural Cycles after reports women became pregnant while using it, reports the Guardian. 
+  
+ In January, the app faced investigation from Swedish medical authorities after 37 women who used the app became pregnant, reports The Verge. 
+  
+ Follow Brett Molina on Twitter: @brettmolina23 
+  
+ Read or Share this story: https://usat.ly/2nqDXET ||||| The Advertising Standards Authority has launched a formal investigation into marketing for a Swedish app that claims to be an effective method of contraception, after reports that women have become pregnant while using it. 
+  
+  
+  
+ An ASA spokesman said it had received three complaints about Natural Cycles and its paid advertising on Facebook, which describes the app as highly accurate contraception that has been clinically tested. 
+  
+ “We would require robust substantiation from any company to support such a claim,” he said. 
+  
+ A spokesperson for Natural Cycles confirmed the investigation, but said it related to a 2017 ad and that it had accepted the ASA’s draft recommendations. 
+  
+ Natural Cycles is also being investigated in Sweden by the Medical Products Agency after it emerged that of 668 women who sought an abortion at a Stockholm hospital between September and December last year, 37 had been using the app for birth control. 
+  
+  
+  
+ The UK statistics are unknown, but one user wrote in the Guardian that she had become pregnant and had an abortion after relying on the app to indicate the days when she could not conceive. 
+  
+ The Family Planning Association is also concerned about the app. A spokeswoman said: “The use of the word ‘certified’ suggests that there is independent evidence supporting these claims, whereas in fact the only evidence is from the company itself. It has amassed a vast database, which is very interesting, but that is not the same as verified independent evidence. 
+  
+ “Many other apps focus on getting to know your own body, but Natural Cycles is specifically targeting itself as a contraceptive, which is concerning.” 
+  
+ The app’s promotion as a natural means of birth control was attractive to many women worried about taking hormones, but the association’s concern was that a generation which has come to believe there is an app for everything may be over-reliant on it without realising how motivated and disciplined users have to be to make it effective, she said. 
+  
+ Women are turning to birth control smartphone apps for a reason | Dawn Foster Read more 
+  
+ The app was developed by two scientists from Sweden and Austria: Elina Berglund, who worked at the Cern laboratory in Geneva on the discovery of the Higgs Boson particle, and Raoul Scherwitzl. The married couple originally devised the algorithm for their own family planning, and now both work full time for the company they founded. They claim to have 600,000 users worldwide, who pay an annual subscription. 
+  
+ Users monitor their fertility with the app by taking their temperature each morning. It tracks the results to detect ovulation, and advises which days are safe or unsafe to have unprotected sex without the risk of conception. 
+  
+ The app relies on users taking their temperature at around the same time every morning, and cautions: “Remember that you must always measure as soon as you wake up before you snooze, sit/get up, or check your phone.” 
+  
+  
+  
+ The Facebook page is full of tributes from users, and one woman has posted the launch of a petition against any possibility of the app being banned in Sweden following the Medical Product Agency’s investigation. 
+  
+ A spokeswoman for Natural Cycles said: “We are in contact with the ASA and, since the investigation is ongoing, it would not be appropriate for us to speculate on the outcome. 
+  
+ “We can confirm however, that the ASA complaint in relation to the Facebook advertisement in question was actually raised in 2017. The advertisement which only ran for a few weeks has been taken out of circulation and we have accepted the draft recommendations very recently shared with us by the ASA.” ||||| Sweden’s medical regulator says it is continuing to investigate the contraceptive app Natural Cycles over 37 unintended pregnancies, despite claims from Natural Cycles that the company is “all clear” following the investigation. The Medical Products Agency (MPA) says reports that the investigation has closed are incorrect. 
+  
+ Natural Cycles, the contraceptive app that is certified in the EU as a form of birth control, was hit with a complaint earlier this month after Södersjukhuset hospital in Stockholm reported the app to the MPA. Thirty-seven women had visited the hospital for abortions after becoming pregnant while using the app. 
+  
+ Earlier today, Natural Cycles put out a statement saying it was “all clear” after the closure of investigations into each pregnancy. “This proves that we have acted according to regulations regarding contraception, both when it comes to the actual product, but also the way we market it,” said co-founder and CEO Raoul Scherwitzl in the statement. 
+  
+ But the regulator says while it's closed the first part of the investigation, it’s now moving on to the next step. 
+  
+ “Now the investigation goes on to the next step, which means that we collect information to be able to decide if any action is needed.” 
+  
+ The MPA’s manager, Ewa-Lena Hartman, said the investigation of Natural Cycles is ongoing. “The MPA has decided to escalate the ongoing market surveillance investigation to review parts of the documentation that was compiled as a justification for the CE mark certification issued by a third party,” Hartman said in an emailed statement to The Verge. 
+  
+ The MPA said it had completed the first phase of the investigation and will collect more information and ask Natural Cycles for its clinical data, risk analysis, and aftermarket control. That information will be used to determine any shortcomings in the product, or how the manufacturer can follow up the product’s information and use. 
+  
+ “The result of our investigation will form a base for a decision if further action is needed related to the contraception app placed on the EU market,” Hartman said. 
+  
+ In an email to The Verge, Natural Cycles said it did not claim the investigation had ended: 
+  
+ Yes, we agree with the MPA, we have not claimed otherwise. The Medical Products Agency has decided that all reports concerning Natural Cycles will be transitioned to trend reporting, in order to continuously monitor and report any unintentional pregnancies given the spread of the popular contraception app. Natural Cycles welcomes further data from the public to strengthen our clinical studies and aftermarket follow-up, [sic] why our open case at the Medical Products Agency is important to us. 
+  
+ Natural Cycles’ original statement implied that no investigation was continuing. 
+  
+ Natural Cycles says its app is 93 percent effective at typical use. The company also states that as more people start to use a contraceptive, more unplanned pregnancies would be linked to that contraceptive. Natural Cycles says it’s experienced a boom in users in the last year, with the number of UK women using the app soaring from 5,000 to 125,000. The company has over 600,000 users worldwide. 
+  
+ Moving forward, Natural Cycles said it will work together with the MPA on trend reporting to monitor rates of unintended pregnancies. |||||
+
+Summary:

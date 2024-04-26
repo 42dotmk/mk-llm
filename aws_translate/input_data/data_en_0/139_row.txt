@@ -1,0 +1,23 @@
+# QUESTION
+The Battle of the Marne (French: Première bataille de la Marne, also known as the Miracle of the Marne, Le Miracle de la Marne) was a World War I battle fought from 6 -- 10 September 1914. It resulted in an Allied victory against the German armies in the west. The battle was the culmination of the German advance into France and pursuit of the Allied armies which followed the Battle of the Frontiers in August and had reached the eastern outskirts of Paris. A counter-attack by six French armies and the British Expeditionary Force (BEF) along the Marne River forced the Imperial German Army to retreat north-west, leading to the First Battle of the Aisne and the Race to the Sea. The battle was a victory for the Allied Powers but led to four years of trench warfare stalemate on the Western Front.
+
+Answer this question based on the passage: who won in the first battle of marne?
+# ANSWER
+The important part for answering this question is: The battle was a victory for the Allied Powers but led to four years of trench warfare stalemate on the Western Front.
+FINAL ANSWER: the Allied Powers
+
+
+# QUESTION
+Passage: Scuttle (scully) is a seagull and friend of Ariel, voiced by Buddy Hackett in the 1989 film and 2000 sequel. He appears as an expert on human objects with whom Ariel consults about items she salvages, though his identifications consist of nonsense. He wrongly names a fork a "dinglehopper" and says that it is used as a comb, and a smoking pipe a "snarfblatt" while claiming it works like a trumpet. Despite his erroneous information on human things, Scuttle provides support and advice when he learns that Ariel has to win Eric's heart in three days. On the third day, Scuttle is the one who discovers that Vanessa, the woman Eric has decided to marry instead, is actually Ursula. He immediately tells Ariel this information, and helps stall the wedding with help from other marine creatures so to allow Ariel to arrive and confront Eric (as well as smashing Ursula's shell that held Ariel's voice, thus restoring it and freeing Eric from Ursula's spell).
+
+Question: Based on this passage, what is the seagull's name in the little mermaid?
+# ANSWER
+This is the relevant information: Scuttle (scully) is a seagull and friend of Ariel, voiced by Buddy Hackett in the 1989 film and 2000 sequel.
+FINAL ANSWER: Scuttle ( scully )
+
+
+# QUESTION
+Orange Is the New Black (sometimes abbreviated to OITNB) is an American comedy-drama web television series created by Jenji Kohan for Netflix. The series is based on Piper Kerman's memoir, Orange Is the New Black: My Year in a Women's Prison (2010), about her experiences at FCI Danbury, a minimum-security federal prison. Orange Is the New Black premiered on July 11, 2013 on the streaming service Netflix. In February 2016, the series was renewed for a fifth, sixth, and seventh season. The fifth season was released on June 9, 2017. The sixth season is scheduled to be released on July 27, 2018. The series is produced by Tilted Productions in association with Lionsgate Television.
+
+When was orange is the new black released?
+# ANSWER

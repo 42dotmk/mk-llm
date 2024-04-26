@@ -1,0 +1,27 @@
+Reasoning and answer: In 5 years, Heath will be 16 + 5 = 21 years old. In 5 years, Jude will be 21 / 3 = 7 years old. The difference in their ages is 21 - 7 = 14 years. Today, Jude will be 16 - 14 = 2 years old.
+The answer: 2
+What was the question?
+Question: In 5 years, Heath will be 3 times as old as Jude. If Heath is 16 years old today, how old is Jude today?
+
+First figure out how many times the alligator population doubles in one year by dividing the number of months in a year by the number of months it takes the population to double: 12 months / 6 months = 2. The alligator population doubles twice. Now double the alligator population once: 4 alligators * 2 = 8 alligators. Now double it again: 8 alligators * 2 = 16 alligators.
+The answer: 16
+Reverse engineering the question: There are 4 alligators living on a golf course in Florida. If the number of alligators doubles every six months, how many alligators will there be at the end of a year?
+
+Reasoning and answer: In total, the 3 tea leaf plants have 18 x 3 = 54 green leaves. One - third of the yellow leaves falling off of all plants is 54 / 3 = 18. The number of remaining green leaves on the plants is 54 - 18 = 36.
+The answer: 36
+What was the question?
+Question: There are 18 green leaves on each of the 3 tea leaf plants. One-third of them turn yellow and fall off on each of the tea leaf plants. How many green leaves are left on the tea leaf plants?
+
+Clare bought half of 18 pencils which is 18 / 2 = 9 pencils. One - third of 18 pencils is (1 / 3) * 18 = 6 pencils. Jeanine gave out 6 pencils so he has 18 - 6 = 12 pencils left. Jeanine now has 12 - 9 = 3 pencils.
+The answer: 3
+Reverse engineering the question: Jeanine bought 18 pencils and Clare bought half as many pencils. If Jeanine gave one third of his pencils to Abby, how many more pencils than Clare does Jeanine have now?
+
+Reasoning and answer: They collected $250 from Bronze Status families because 10 times 25 equals 250. They collected $350 from Silver Status families because 7 times 50 equals 350. They collected $100 from Gold Status families because 1 times 100 equals 100. Therefore, they collected $700 thus far because 250 plus 350 plus 100 equals 700. They need to collect $50 more because 750 minus 700 equals 50.
+The answer: 50
+What was the question?
+Question: The school decided to have a fundraiser to collect $750 for new basketball equipment. Families could donate $25, $50, or $100. Families who donated $25 got Bronze Status. Families who donated $50 got Silver Status. Families who donated $100 got Gold Status. With one day left in the fundraiser, the school has 10 Bronze Status families, 7 Silver Status Families and 1 Gold Status family. How much do they need to raise on the final day to reach their goal?
+
+Reasoning and answer: There will be a total of (1) Brian + (1) Brian's wife + (2) two kids + (2) Brian's parents + (2) Brian's in - laws = 1 + 1 + 2 + 2 + 2 = 8 people eating. If 1 person eats 2 serving of lasagna then 8 people will eat 8 * 2 = 16 servings. If each serving requires 1 / 2 cup of milk then 16 servings require 16 * 1 / 2 cups = 8 cups of milk. If one cup of milk equals 250 ml, then 8 cups of milk equal 8 * 250 = 2000 ml of milk. 1L carton of milk equals 1000ml of milk, therefore Brian needs 2000 / 1000 = 2 cartons of 1L milk.
+The answer: 2
+What was the question?
+Question:

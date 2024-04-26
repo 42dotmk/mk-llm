@@ -1,0 +1,34 @@
+Problem:The phrase "under God" was incorporated into the Pledge of Allegiance on June 14, 1954, by a Joint Resolution of Congress amending § 4 of the Flag Code enacted in 1942.
+
+Answer this question based on the passage: when did they add under god in the pledge of allegiance?
+Solution:OK... The relevant information is: The phrase "under God" was incorporated into the Pledge of Allegiance on June 14, 1954, by a Joint Resolution of Congress amending § 4 of the Flag Code enacted in 1942.
+June 14 , 1954.
+
+Student A:Context: "Find Out Who Your Friends Are" is a song written by Casey Beathard and Ed Hill, and recorded by American country music artist Tracy Lawrence. It was the lead-off single for his album For the Love, which was released in early 2007 on Rocky Comfort Records, a label which Lawrence owns. The song was originally released to radio stations on August 21, 2006, ahead of its album release on January 30, 2007. The single did not enter the Top 40 on the Billboard Hot Country Songs chart until January 2007.
+
+Question: who sings the song you find out who your friends are?
+Student B:OK... The relevant information to answer the above question is: "Find Out Who Your Friends Are" is a song written by Casey Beathard and Ed Hill, and recorded by American country music artist Tracy Lawrence.
+American country music artist Tracy Lawrence.
+
+Problem:Mathew Frazer Horne (born 6 September 1978) is an English actor, comedian, television presenter, and narrator. He is best known for appearing on several BBC sketch shows and sitcoms, most notably Gavin & Stacey (as Gavin Shipman), The Catherine Tate Show, 20 Things to do Before You're 30, Teachers, Horne and Corden, and Bad Education.
+
+Answer this question: actor who played gavin in gavin and stacey?
+Solution:OK... To answer the above question, the relevant sentence is: He is best known for appearing on several BBC sketch shows and sitcoms, most notably Gavin & Stacey (as Gavin Shipman), The Catherine Tate Show, 20 Things to do Before You're 30, Teachers, Horne and Corden, and Bad Education.
+Mathew Frazer Horne.
+
+Student A:It is Pakistan's oldest and largest foreign commercial bank. It employs over 9000 people in its 94 branches in Pakistan.
+
+Answer this question based on the passage: how many branches of standard chartered bank in pakistan?
+Student B:OK... The important part for answering this question is: It employs over 9000 people in its 94 branches in Pakistan.
+94.
+
+Problem:It has been an unbroken convention for decades now, to appoint the senior-most judge of the supreme court as the CJI.
+
+Based on this passage, who is appointed the chief justice of india?
+Solution:OK... The relevant information to answer the above question is: It has been an unbroken convention for decades now, to appoint the senior-most judge of the supreme court as the CJI.
+the senior-most judge of the supreme court.
+
+Problem:Context: The Absolutely True Diary of a Part Time Indian is a 2007 novel for young adults written by Sherman Alexie and illustrated by Ellen Forney. The book won several awards, and was the first young adult fiction work by Alexie, a stand-up comedian, screenwriter, film producer, and songwriter who has previously written adult novels, short stories, poems, and screenplays. Alexie stated, "I did (write the book) because so many librarians, teachers, and teenagers kept asking me to write one."
+
+Question: who wrote the absolutely true diary of a part-time indian?
+Solution:

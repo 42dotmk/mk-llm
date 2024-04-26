@@ -1,0 +1,22 @@
+Find the right ending to this passage.
+
+Democrats are looking to turn up the heat on Republican Rep. Bill Cassidy as he heads into the final days of his runoff battle with Louisiana Sen. Mary Landrieu with two ethics complaints focused on his work at Louisiana State University. Both a Louisiana citizen affiliated with the Louisiana Democratic Party and the American Democracy Legal Fund filed complaints with the Office of Congressional Ethics on Wednesday alleging that Cassidy's work for the university violates multiple ethics rules and guidelines and calling for an investigation. The ADLF complaint, obtained by CNN, alleges that Cassidy failed to receive required approval from the Ethics Committee to engage in teaching activities from 2011-2014.
+
+And it also argues that Cassidy received compensation from
+
+OPTIONS:
+- ADLF for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- American Democracy Legal Fund for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Bill Cassidy for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- CNN for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Cassidy for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Democratic for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Democrats for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Ethics Committee for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- LSU for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Louisiana for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Louisiana Democratic Party for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Louisiana State University for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Mary Landrieu for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Office of Congressional Ethics for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.
+- Republican for months when he didn't put in any hours there, meaning the compensation constitutes a gift in excess of the $100 limit lawmakers must adhere to.

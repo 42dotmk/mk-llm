@@ -1,0 +1,16 @@
+Problem:Passage: The Preakness Stakes is an American flat thoroughbred horse race held on the third Saturday in May each year at Pimlico Race Course in Baltimore, Maryland. It is a Grade I race run over a distance of 9.5 furlongs (1 ⁄ miles ( 1,900 m) on dirt. Colts and geldings carry 126 pounds (57 kg); fillies 121 lb (55 kg). It is the second jewel of the Triple Crown, held two weeks after the Kentucky Derby and two or three weeks before the Belmont Stakes.
+
+Question: Based on this passage, where is the preakness horse race held at?
+Solution:OK... The relevant information is: The Preakness Stakes is an American flat thoroughbred horse race held on the third Saturday in May each year at Pimlico Race Course in Baltimore, Maryland.
+Pimlico Race Course in Baltimore , Maryland.
+
+Problem:The Cold War split the temporary wartime alliance against Nazi Germany, leaving the Soviet Union and the United States as two superpowers with profound economic and political differences. The USSR was a Marxist -- Leninist state led by its Communist Party, which in turn was dominated by a leader with different titles over time, and a small committee called the Politburo. The Party controlled the press, the military, the economy and many organizations. It also controlled the other states in the Eastern Bloc, and funded Communist parties around the world, sometimes in competition with Communist China, particularly following the Sino-Soviet split of the 1960s. In opposition stood the capitalist West, led by the United States, a federal republic with a two-party presidential system. The First World nations of the Western Bloc were generally liberal democratic with a free press and independent organizations, but were economically and politically entwined with a network of banana republics and other authoritarian regimes throughout the Third World, most of which were the Western Bloc's former colonies. Some major Cold War frontlines such as Vietnam, Indonesia, and the Congo were still Western colonies in 1947.
+
+Answer this question based on the passage: what were the two super powers during the cold war?
+Solution:OK... The important part for answering this question is: The Cold War split the temporary wartime alliance against Nazi Germany, leaving the Soviet Union and the United States as two superpowers with profound economic and political differences.
+the Soviet Union and the United States.
+
+Problem:Mount Rushmore National Memorial is a sculpture carved into the granite face of Mount Rushmore, a batholith in the Black Hills in Keystone, South Dakota, United States. Sculptor Gutzon Borglum created the sculpture's design and oversaw the project's execution from 1927 to 1941 with the help of his son, Lincoln Borglum. Mount Rushmore features 60-foot (18 m) sculptures of the heads of four United States presidents: George Washington (1732 -- 1799), Thomas Jefferson (1743 -- 1826), Theodore Roosevelt (1858 -- 1919), and Abraham Lincoln (1809 -- 1865). The memorial park covers 1,278.45 acres (2.00 sq mi; 5.17 km) and is 5,725 feet (1,745 m) above sea level.
+
+Who are the four presidents on mount rushmore?
+Solution:

@@ -1,0 +1,27 @@
+Reasoning and answer: Heaven spent 2 * 5 = $10 on sharpeners. She also spent 4 * 5 = $20 on notebooks. Heaven's brother used 10 * 4 = $40 to buy erasers. The total amount of money Heaven and her sister spent on sharpeners, notebooks, and erasers is 40 + 20 + 10 = $70. The total amount of money her brother spent on highlighters is 100 - 70 = $30.
+The answer: 30
+What was the question?
+Question: Heaven and her younger brother want to buy school supplies, so they ask their father for money, who gives them $100 in total to use. Heaven buys two sharpeners and four notebooks at $5 each, and her brother uses the remaining amount to buy ten erasers at $4 each and some highlighters. How much money did Heaven's brother spend on highlighters?
+
+Twice the number of participants in 2018 is 150 participants x 2 = 300 participants. The number of participants in 2019 was 300 participants + 20 participants = 320 participants. Half the number of participants in 2019 is 320 participants / 2 = 160 participants. The number of participants in 2020 was 160 participants - 40 participants = 120 participants. There were 320 participants - 120 participants = 200 more participants in 2019 than in 2020.
+The answer: 200
+Reverse engineering the question: In a school, the number of participants in the 2018 Science Quiz Bowl was 150. There were 20 more than twice the number of participants in 2019 as there were in 2018. In 2020, the number of participants was 40 less than half the number of participants in 2019. How many more participants were there in 2019 than in 2020?
+
+Reasoning and answer: First find how thick the blanket will be after 1 folding: 3 inches * 2 = 6 inches. Then find how thick the blanket will be after 2 foldings: 6 inches * 2 = 12 inches. Then find how thick the blanket will be after 3 foldings: 12 inches * 2 = 24 inches. Then find how thick the blanket will be after 4 foldings: 24 inches * 2 = 48 inches.
+The answer: 48
+What was the question?
+Question: Every time Janet folds her blanket its thickness doubles. If it starts out 3 inches thick, how thick will it be after 4 foldings?
+
+The pen is half the price of the pencil, so it's 8 * 0.5 = $4. So both the pen and the pencil cost Maria 8 + 4 = $12.
+The answer: 12
+Reverse engineering the question: Maria has a pen and a pencil. She bought the pen for half the price of the pencil. The pencil cost her $8. How much did Maria pay for both the pen and the pencil?
+
+Reasoning and answer: Since Calvin loses 10 pounds every month, his total weight loss after one year is 12 * 8 = 96 pounds. Calvin weighs 250 - 96 = 154 pounds after a year of hitting the gym.
+The answer: 154
+What was the question?
+Question: Calvin signed up for a gym training service to lose some pounds. If he weighed 250 pounds to start with and lost 8 pounds every month during the training sessions, what's his weight after one year?
+
+Reasoning and answer: Angela has 6 + 3 * 20 = 66 plates. Angela has 1 / 2 * 66 = 33 cutlery. Sharon wants to buy 1 / 2 * 20 = 10 pots. Sharon wants to buy 3 * 66 - 20 = 178 plates. Sharon wants to buy 2 * 33 = 66 cutlery. Sharon wants to buy a total of 10 + 178 + 66 = 254 kitchen supplies.
+The answer: 254
+What was the question?
+Question:

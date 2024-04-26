@@ -1,0 +1,26 @@
+Answer this question please:
+The rings are five interlocking rings, coloured blue, yellow, black, green, and red on a white field, known as the "Olympic rings". The symbol was originally designed in 1912 by de Coubertin. He appears to have intended the rings to represent the five participating regions: Africa, Asia, America, Oceania and Europe. According to Coubertin, the colours of the rings together with the white of the background included the colours composing every competing nation's flag at the time. Upon its initial introduction, Coubertin stated the following in the August 1912 edition of Olympique:
+
+Answer this question based on the passage: what are the 5 colors of the olympic flag?
+
+Stream of random thoughts: The relevant information is: The rings are five interlocking rings, coloured blue, yellow, black, green, and red on a white field, known as the "Olympic rings".... The answer is blue , yellow , black , green , and red.
+----
+Answer this question please:
+The eye is a region of mostly calm weather at the center of strong tropical cyclones. The eye of a storm is a roughly circular area, typically 30 -- 65 km (20 -- 40 miles) in diameter. It is surrounded by the eyewall, a ring of towering thunderstorms where the most severe weather and highest winds occur. The cyclone's lowest barometric pressure occurs in the eye and can be as much as 15 percent lower than the pressure outside the storm.
+
+Based on this passage, what is the weather like in the eye of a hurricane?
+
+Stream of random thoughts: To answer the question, consider the following: The eye is a region of mostly calm weather at the center of strong tropical cyclones.... The answer is mostly calm.
+----
+Answer this question please:
+Passage: For reasons that are not clear (although no doubt connected to the religious significance of the Egyptian god Khepri), amulets in the form of scarab beetles had become enormously popular in Ancient Egypt by the early Middle Kingdom (approx. 2000 BCE) and remained popular for the rest of the pharaonic period and beyond. During that long period the function of scarabs repeatedly changed. Primarily amulets, they were also inscribed for use as personal or administrative seals or were incorporated into jewelry. Some scarabs were apparently created for political or diplomatic purposes to commemorate or advertise royal achievements. By the early New Kingdom, heart scarabs had become part of the battery of amulets protecting mummies.
+
+Question: Based on this passage, what is the name of the egyptian beetle?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: For reasons that are not clear (although no doubt connected to the religious significance of the Egyptian god Khepri), amulets in the form of scarab beetles had become enormously popular in Ancient Egypt by the early Middle Kingdom (approx. 2000 BCE) and remained popular for the rest of the pharaonic period and beyond.... The answer is scarab beetles.
+----
+Answer this question please:
+Context: "No One Is to Blame" is a song by British musician Howard Jones. The song, in its original version, can be found on his second studio album, Dream into Action, which was released in 1985. Following the success of the previous singles taken from the album, the original track for "No One Is to Blame" was re-recorded to give the song a more radio-friendly sound. Phil Collins and Hugh Padgham produced the re-recording, with Collins adding his own backing vocals and drum work. This new version of the song was included on the 1986 US EP Action Replay as well as the CD version of Jones's 1986 studio album, One to One.
+
+Question: who sings no one ever is to blame?
+

@@ -1,0 +1,22 @@
+Student A:Passage: The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue was dedicated on October 28, 1886.
+
+Question: Based on this passage, who made the statue of liberty in new york?
+Student B:OK... The important part for answering this question is: The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel.
+designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel.
+
+Problem:Passage: Established in 1872, the Cape of Good Hope SPCA (Society for the Prevention of Cruelty to Animals) in Cape Town is the founding society of the SPCA movement in South Africa and is the oldest animal welfare organisation in the country. A registered non-profit organisation and Public Benefit Organisation, the society is affiliated to the Royal Society for the Protection of Animals (RSPCA) and are Executive Members of the National Council of SPCAs South Africa (NSPCA), as well as a member of the World Animal Protection organization.
+
+Question: Based on this passage, when was the spca established in south africa?
+Solution:OK... This is the relevant information: Established in 1872, the Cape of Good Hope SPCA (Society for the Prevention of Cruelty to Animals) in Cape Town is the founding society of the SPCA movement in South Africa and is the oldest animal welfare organisation in the country.
+1872.
+
+Student A:Vivek Express is a chain of express trains on the Indian Railways network. These trains were announced in the Railway Budget of 2011-12 by the then Railway Minister. These trains were started to commemorate the 150th birth anniversary of Swami Vivekananda, to be held in 2013. One of the Vivek Express trains, the one from Dibrugarh to Kanyakumari; is the longest route on the Indian Railways network, in terms of distance and time, and is the 9th longest in the world.
+
+Answer this question: which is the longest running train in india?
+Student B:OK... The important part for answering this question is: One of the Vivek Express trains, the one from Dibrugarh to Kanyakumari; is the longest route on the Indian Railways network, in terms of distance and time, and is the 9th longest in the world.
+One of the Vivek Express trains , the one from Dibrugarh to Kanyakumari.
+
+Student A:Passage: The third series of the British reality dating programme Celebs Go Dating began airing from 4 September 2017 on E4 and finished on 29 September 2017. It was commissioned along with series 2 in late 2016. The show sees celebrities go on number of dates with members of the public to see if they can find love. The third series again stars Eden Blackman and Nadia Essex as the dating experts, and Tom Read Wilson as the agency's receptionist.
+
+Question: Based on this passage, when does celebs go dating series 3 start?
+Student B:

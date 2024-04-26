@@ -1,0 +1,19 @@
+Q: A proof-of-work (PoW) system (or protocol, or function) is an economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer. The concept was invented by Cynthia Dwork and Moni Naor as presented in a 1993 journal article. The term "Proof of Work" or POW was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels. An early example of the proof-of-work system used to give value to a currency is the shell money of the Solomon Islands.
+
+Based on this passage, what is the point of proof of work?
+A: an economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester , usually meaning processing time by a computer. How to explain the answer? To answer this question, we should know that: A proof-of-work (PoW) system (or protocol, or function) is an economic measure to deter denial of service attacks and other service abuses such as spam on a network by requiring some work from the service requester, usually meaning processing time by a computer.
+
+Q: In Peter Jackson's Lord of the Rings trilogy and The Hobbit prequel trilogy, Galadriel is played by Cate Blanchett. In the movies, other than possessing the Ring Nenya, Galadriel displays an ability to communicate with others telepathically and to assume a radiant and terrifying appearance.
+
+Based on this passage, who played the girl elf in lord of the rings?
+A: Cate Blanchett. How to explain the answer? The relevant sentence in the passage is: In Peter Jackson's Lord of the Rings trilogy and The Hobbit prequel trilogy, Galadriel is played by Cate Blanchett.
+
+Q: Passage: Lynn's relationship with the Wilburn Brothers and her appearances on the Grand Ole Opry, beginning in 1960, helped Lynn become the number one female recording artist in country music. Her contract with the Wilburn Brothers gave them the publishing rights to her material. She was still fighting to regain these rights 30 years after ending her business relationship with them but was ultimately denied the publishing rights. Lynn stopped writing music in the 1970s because of these contracts. Although Kitty Wells had become the first major female country vocalist during the 1950s, by the time Lynn recorded her first record, only three other women -- Patsy Cline, Skeeter Davis, and Jean Shepard -- had become top stars. Lynn joined The Grand Ole Opry on September 25, 1962.
+
+Question: Based on this passage, when did loretta lynn first appear on the grand ole opry?
+A: 1960. How to explain the answer? The important part for answering this question is: Lynn's relationship with the Wilburn Brothers and her appearances on the Grand Ole Opry, beginning in 1960, helped Lynn become the number one female recording artist in country music.
+
+Q: The left coronary artery (abbreviated LCA) is an artery that arises from the aorta above the left cusp of the aortic valve and feeds blood to the left side of the heart. It is also known as the left main coronary artery (abbreviated LMCA) and the left main stem coronary artery (abbreviated LMS). It is one of the coronary arteries.
+
+Answer this question based on the passage: where is the left main coronary artery located?
+A:

@@ -1,0 +1,23 @@
+Write a title for this article:
+
+Michael Mace at Rubicon Consulting, a small research firm based in Los Gatos, Calif., has done anybody interested in the iPhone two favors: 1) He published a first-rate piece of research on the impact of the device on its owners and Apple’s APPL competitors, and 2) He has made his results easily — and freely — available on the Web.
+
+The key findings — based on interviews with 460 randomly selected iPhone users in the United States — are summarized in a dozen Quick Facts and ten Implications, both available here. Some of the bullet points:
+
+The full 35-page white paper — with color charts — can be downloaded as a PDF from the same Rubicon site. It’s easy reading and worth your time.
+
+For those of you who don’t make it all the way to the white paper, three charts struck me as particularly useful.
+
+The first is a bar chart showing what people do with their iPhones — daily, occasionally or never. Checking e-mail jumps out as the No. 1 thing most do every day, but it’s interesting how many fewer actually compose e-mail on the device. And it’s also interesting to see what most iPhone users never or rarely do with the device — like buy music, watch videos or read maps.
+
+One function we wish had been included in the first chart — use the iPhone to make and receive phone calls — is explored in the pie chart below. It turns out, one out of three iPhone owners carry around two phones. The RIM RIMM BlackBerry is the most popular second phone — used by nearly one in ten iPhone owners. Mace speculates that that will probably change when the iPhone gets Exchange support. But we wonder how many iPhone owners keep a simple, cheap cell phone with them either because they’re running out their contract with their original carrier or because it just works better as a phone.
+
+The third chart is the one that shows whose ox got gored when Apple entered the smartphone market. The big loser was Motorola MOT ; nearly a quarter of iPhone owners traded up from a Razr. Another big slice comes from RIM, but Mace believes that it’s Microsoft MSFT — squeezed between Apple and GOOG — that faces the biggest challenge down the road. More on that below the chart.
+
+Here’s why Mace believes Microsoft faces “severe challenges” in the smartphone market:
+
+Microsoft’s Windows Mobile is sandwiched between two big competitors, Google and Apple. Apple is crafting hardware-software systems that deliver a great user experience, while Google is giving away an operating system to the very companies that license Windows Mobile today. It’s possible for Microsoft to try to compete on both fronts, but creating a proprietary device and at the same time selling an operating system to others is extraordinarily difficult (Palm tried to do it and ended up splitting the company in two).
+
+We think Microsoft should probably decide whether it wants to compete in devices (in which case it will need to create its own phones, as it did for music players with the Zune) or compete in operating systems (in which case it will probably have to give away Windows Mobile for free).
+
+Both alternatives are very high-risk, and require business models that are outside Microsoft’s core competencies. The company’s recent purchase of Danger, which designed the TMobile Sidekick, may indicate that it intends to go the device route. (link)

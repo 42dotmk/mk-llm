@@ -1,0 +1,19 @@
+Q: Passage: The general structure of the endoplasmic reticulum is a network of membranes called cisternae. These sac-like structures are held together by the cytoskeleton. The phospholipid membrane encloses the cisternal space (or lumen), which is continuous with the perinuclear space but separate from the cytosol. The functions of the endoplasmic reticulum can be summarized as the synthesis and export of proteins and membrane lipids, but varies between ER and cell type and cell function. The quantity of both rough and smooth endoplasmic reticulum in a cell can slowly interchange from one type to the other, depending on the changing metabolic activities of the cell. Transformation can include embedding of new proteins in membrane as well as structural changes. Changes in protein content may occur without noticeable structural changes.
+
+Question: Based on this passage, what describes a function of the endoplasmic reticulum within a cell?
+A: the synthesis and export of proteins and membrane lipids , but varies between ER and cell type and cell function. How to explain the answer? The important part for answering this question is: The functions of the endoplasmic reticulum can be summarized as the synthesis and export of proteins and membrane lipids, but varies between ER and cell type and cell function.
+
+Q: The Chronicles of Narnia is a series of films based on The Chronicles of Narnia, a series of novels by C.S. Lewis. From the seven novels, there have been three film adaptations so far -- The Lion, the Witch and the Wardrobe (2005), Prince Caspian (2008) and The Voyage of the Dawn Treader (2010) -- which have grossed over $1.5 billion worldwide among them.
+
+What is the sequel to the lion the witch and the wardrobe?
+A: Prince Caspian. How to explain the answer? To answer this question, we should know that: From the seven novels, there have been three film adaptations so far -- The Lion, the Witch and the Wardrobe (2005), Prince Caspian (2008) and The Voyage of the Dawn Treader (2010) -- which have grossed over $1.5 billion worldwide among them.
+
+Q: In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows a Wi-Fi device to connect to a wired network. The AP usually connects to a router (via a wired network) as a standalone device, but it can also be an integral component of the router itself. An AP is differentiated from a hotspot, which is the physical location where Wi-Fi access to a WLAN is available.
+
+Answer this question: in wifi network which acts as a base station?
+A: a wireless access point ( WAP ) , or more generally just access point ( AP ). How to explain the answer? To answer the above question, the relevant sentence is: In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows a Wi-Fi device to connect to a wired network.
+
+Q: Passage: The 2026 FIFA World Cup (Spanish: Copa mundial de la FIFA de 2026; French: Coupe du monde de la FIFA de 2026) will be the 23rd FIFA World Cup, the quadrennial international men's football championship contested by the national teams of the member associations of FIFA. The tournament will be jointly hosted by 16 cities in three North American countries; 60 matches, including the quarterfinals, semi-finals, and the final, will be hosted by the United States while neighboring Canada and Mexico will each host 10 matches. The tournament will be the first hosted by three nations.
+
+Question: Based on this passage, where is going to be the next world cup in 2026?
+A:

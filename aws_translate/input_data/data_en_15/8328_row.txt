@@ -1,0 +1,81 @@
+Given the task definition and input, reply with output. In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+
+Calling herself “the victim of a character assassination,” the college professor who asked a student with a severe stutter not to pose questions in class said that her actions were misinterpreted, and that she did not mean to silence him. 
+  
+ In an interview, the professor, Elizabeth Snyder, said Thursday that since the dispute was first reported this week in The New York Times, “I’ve gotten the most hateful, vile, vicious e-mails,” making her fear for her safety. 
+  
+ The student, Philip Garber Jr., is a 10th grader taking courses at the County College of Morris, in Randolph, N.J., but talking for him is slow and difficult. He was enrolled in a history course taught by Ms. Snyder, an adjunct professor. After a few classes, she sent him an e-mail asking that he pose questions after class, “so we do not infringe on other students’ time,” and that he write answers to her questions rather than try to reply out loud. 
+  
+ She did so, she said, partly to put him at ease, and also because he would have taken up too much class time if she had let him. “He seemed to want to answer every question,” she said, adding, “you’d have to take into consideration the amount of time he takes to get the answer out.” 
+  
+ But she insisted that her ideas were only suggestions, and that “there was never any intent to stop him from speaking.” 
+  
+ In fact, Ms. Snyder said, she told him that she would call on him once per class. 
+  
+ Philip said that one day, he kept his hand raised for most of a class, but she did not call on him. 
+  
+ In a statement she composed before the interview, Ms. Snyder wrote, “I did not call on Philip in this class nor did I call on anyone else, simply because I had a detailed presentation planned for the class and I wanted to be finished in the prescribed time. 
+  
+ “He misinterpreted this and assumed it had something to do with his stuttering; I interpreted his hand up for 75 minutes as someone unfamiliar with a college lecture format and frankly a little rude,” she said. “In hindsight, I should have stopped my lecture and called on Philip because he had become so fixated on making a statement that it didn’t seem to matter to him that he was interrupting my presentation.” 
+  
+ Philip contends Ms. Snyder did, in fact, call on other students that day. She disputed his account, and his assertion that after that class, she told him, “Your speaking is disruptive.” 
+  
+ Both say that they had agreed that he would send her an e-mail listing his concerns, but he never did, and that she tried to arrange meetings with him and a college dean, but Philip backed out of them. Ms. Snyder said she also consulted a speech therapist about the situation. 
+  
+ Ms. Snyder declined to comment for the initial article, which was published on the front page of The Times on Tuesday. Instead, she referred questions to the college, which she said the college had advised her to do. 
+  
+ The article elicited hundreds of comments from readers, some of them furious at Ms. Snyder, and others furious that the story was told without comments from her. It also prompted extensive coverage in other news media. 
+  
+ College administrators said Tuesday that she had acted improperly, and that what Philip had experienced was discrimination — a label Ms. Snyder disputes. 
+  
+ Philip said that he felt sympathy for Ms. Snyder for the negative attention she had received and that he had no interest in seeing her penalized. “Most people’s mistakes do not become national news,” he said. 
+  
+ Ms. Snyder has taught history for 37 years, first in middle school and for the last decade at the county college, and students give her generally positive marks. In May, the college’s Educational Opportunity Fund named her educator of the year, for her work with financially and academically challenged students. 
+  
+ “I’ve been an advocate for kids my entire life,” she said. “But people’s rush to judgment on this, it feels like it’s pretty much destroyed my life.” ||||| While Philip’s case is unusual, stuttering is not: About 5 percent of people stutter at some point, and about 1 percent stutter as adults, according to the National Institutes of Health . 
+  
+ His classroom experience underlines a perennial complaint among stutterers, that society does not recognize the condition as a disability, and touches on an age-old pedagogical — and social — theme: the balance between the needs of an individual and the good of a group. 
+  
+ “As we do with all students seeking accommodations, we have taken action to resolve Philip’s concerns so he can successfully continue his education,” said Kathleen Brunet Eagan, the college’s communications director. 
+  
+ She would not say if Ms. Snyder, who declined to discuss the matter, had been disciplined, but noted that the college “strives to educate faculty and staff on how to accommodate students.” 
+  
+ Ms. Snyder has taught history at the college for a decade, and several current and former students on campus said in interviews that they had largely positive views of her. She was one of the first students when the college opened in 1968, then earned bachelor’s and master’s degrees at Montclair State University , and taught middle school social studies for more than 30 years. 
+  
+ For Philip, who has spent most of his life being home-schooled or attending a small charter school , the teacher’s attitude was a surprise and a disappointment. “I’ve never experienced any kind of discrimination,” he said, “so for it to happen in a college classroom was quite shocking.” 
+  
+ Jim McClure, a board member of the National Stuttering Association and its spokesman, said Philip’s experience is unusual — because most stutterers avoid speaking in class. 
+  
+ Advertisement Continue reading the main story 
+  
+ “Teachers ignore them, or have to coax them to speak out,” Mr. McClure said. “The fact that this guy wants to participate is a really healthy sign.” 
+  
+ Kasey Errico, who taught most of Philip’s seventh- and eighth-grade classes at the Ridge and Valley Charter School in Blairstown, N.J., noted that there were always students who monopolized class time. 
+  
+ “I wonder what this professor has done with those students, the ones who didn’t stutter,” Ms. Errico said. “If she told them the same thing she told Philip, then I might understand.” 
+  
+ Two students in Ms. Snyder’s class, who spoke on the condition of anonymity to avoid alienating their teacher, said that Philip did take up more time than the other students, but not egregiously so, and that his contributions were solid. They said they did not know what happened between him and Ms. Snyder, but did notice the day he held his hand up for most of the class and never got called on. 
+  
+ “What about a kid who’s got a thick accent and has to repeat everything?” asked Philip’s father, also named Philip, the managing editor of two small newspapers. “I don’t think you’d tell that kid he can’t talk.” 
+  
+ But advocates for people who stutter say that the same people who accept a delay in a bus ride to load a disabled passenger are often less patient with those who struggle to speak clearly. 
+  
+ Doctors once saw stuttering as a psychological issue, but the current medical view is that its origins are physiological and hereditary, though emotions can make it worse. Last year, the National Institutes of Health identified the first genes linked to stuttering. 
+  
+ The outlines of Philip’s experience are common: there was a family history (an uncle who stuttered), the problem began before he reached school age, and he spent years going to speech therapists, some of whom did more harm than good. His most recent therapist gave Philip confidence and some techniques for managing his speech, but he decided last winter to stop going, at least for now. 
+  
+ Advertisement Continue reading the main story 
+  
+ “I understand that it can be hard to listen to someone who stutters, but the answer can’t just be to shut him down,” said his mother, Marin Martin, a nurse. As it is, she said, “there are social situations where he just can’t be part of the conversation.” 
+  
+ Talking with Philip requires a degree of patience — all the more so because he is remarkably uninhibited, and tends to speak in complete paragraphs, as displayed in videos on his YouTube channel. For the listener, the payoff is insight and wry wit. 
+  
+ He has suppressed a trait common to stutterers — bouncing all or part of the body, as if trying to force a word out. “I found it’s hard to get people to listen when they think you’re having a seizure ,” he said. An avid amateur photographer, he hopes to make a career of it, but worries that “even if nobody expects the photographer to say much, you do have to talk.” 
+  
+ After years of speech therapy, Philip can force himself to speak fairly fluidly, but it requires such intense concentration that he cannot hold a train of thought for long while doing it. 
+  
+ For now, he is taking courses in history and English composition at the college, home-schooling in other subjects and traveling into Manhattan once a week to work on acting and playwriting with Our Time Theater Company, a group for people who stutter. 
+  
+ As for Ms. Snyder, he said he might have had some sympathy for the professor’s quandary if she had expressed it less harshly. 
+  
+ “I’ve been very lucky to never have been teased, bullied or anything, but some people who stutter completely stop speaking because of that kind of abuse,” Philip said. “People don’t think of it as a legitimate disability. They just need to learn.” |||||

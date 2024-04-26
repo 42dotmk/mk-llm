@@ -1,0 +1,68 @@
+News article:
+
+For years, scientists have known that growing up on a farm protects children from asthma, but the reasons for this weren’t entirely clear. A fascinating comparative analysis of Amish and Hutterite farming communities has finally uncovered the specific aspects of farm life that are responsible for this built-in immune protection. 
+  
+ In a new study published in the New England Journal of Medicine, researchers from the University of Chicago Medical Center and the University of Arizona have shown that substances found in house dust in Amish homes have a profound impact on the development of the body’s innate immune system in ways that protect children from asthma. Revealingly, the same could not be said for Hutterites, who share similar ancestry, lifestyles, and cultural values. But it’s the differences between these two farming communities that shed light on the reasons why. 
+  
+ “You can’t put a cow in every family’s house, but we may be able to protect children from asthma by finding a way to re-create the time-tested Amish experience.” 
+  
+ The American Amish and Hutterite communities were established by immigrants from Central Europe in the 18th and 19th centuries. Consequently, they provide an incredible opportunity for scientists to conduct comparative analyses; the Amish and Hutterites not only share genetic ancestry, they also share similar lifestyles and customs, such as a Germanic diet, having large families, breastfeeding, drinking raw milk, not allowing indoor pets, and favoring childhood vaccinations. 
+  
+  
+  
+ But these communities differ in one very important way: they engage in different farming practices. The Amish still cling to traditional methods, such as living on single-family dairy farms and relying on horses for fieldwork and transportation. The Hutterites, by contrast, live on large communal farms and use modern, industrialized farm machinery. As a result, Hutterite children aren’t exposed to farm animals to the same degree that Amish children are. 
+  
+  
+  
+ Advertisement 
+  
+ Over the years, researchers have noticed a disparity in the prevalence of asthma between the two groups. Around five percent of Amish children aged six to 14 have asthma, which is about half of the US average. By contrast, around 21 percent of Hutterite children have asthma. As study co-author Carole Ober put it in a press statement, that’s a “whopping discrepancy.” 
+  
+  
+  
+ To figure out what’s going on, the researchers studied 60 Amish and Hutterite children aged seven to 14. In addition to performing genetic analyses, the researchers compared the types of immune cells in their blood, collected dust from their homes, and measured the amount of microbes in the homes of both communities. 
+  
+ Advertisement 
+  
+ A key discovery was the presence of neutrophils among Amish children—blood cells that are crucial to fighting infections. They also found a lack of eosinophils among the Amish, which promote allergic reactions, such as inflammation. Genetic analysis also showed that Amish children have a more reactive immune system. 
+  
+ In a follow-up to these findings, immunologist Donata Vercelli exposed genetically modified mice to house dust extracted from the homes (these mice were engineered to have weakened immune responses). She found that the airways of mice exposed to Amish dust were protected from asthma-like responses to allergens. The same could not be said for mice exposed to Hutterite dust. The dust collected from Amish homes contained more microbes—6.8 times more to be precise. 
+  
+ “Neither the Amish nor the Hutterites have dirty homes,” explained Ober. “Both are tidy. The Amish barns, however, are much closer to their homes. Their children run in and out of them, often barefoot, all day long. There’s no obvious dirt in the Amish homes, no lapse of cleanliness. It’s just in the air, and in the dust.” 
+  
+ Advertisement 
+  
+ This study strongly suggests that early and frequent exposure to farming microbes, particular those that come from livestock, boosts Amish children’s disease-fighting immune system. The authors hope that these findings will point the way towards therapies or medicines that will help to prevent asthma and other allergies. As Ober put it, “You can’t put a cow in every family’s house, but we may be able to protect children from asthma by finding a way to re-create the time-tested Amish experience.” 
+  
+ [New England Journal of Medicine] ||||| One way to reduce children's rates of asthma may come from dairy farms, a new study finds. And not just any dairy farms — Amish dairy farms, to be exact. 
+  
+ Kids who grow up in Amish communities have much lower rates of asthma than the general population, potentially thanks to their exposure to the communities' dairy farms at an early age, according to the study, published today (Aug. 3) in the New England Journal of Medicine. 
+  
+ Indeed, exposure to an "Amish-like" environment appears to protect kids against asthma, said Carole Ober, a professor of human genetics at the University of Chicago and a co-author of the study. [9 Weirdest Allergies] 
+  
+ In the study, the researchers compared two relatively isolated farming communities: an Amish community in Indiana and a Hutterite community in South Dakota. The researchers wanted to compare these communities because the two groups have many similar cultural traditions, Ober said. For example, both groups shun television, radio and the internet; have large families; and breast-feed their children for a long time, she said. The two groups also eat similar diets, she said. However, there's a striking difference in the rate of asthma, which is much higher in Hutterite kids than in Amish children, she said. 
+  
+ The researchers looked at blood samples from 30 kids from ages 7 and 14 from the Amish community, and 30 kids of the same age range from the Hutterite community. In addition, the researchers collected a small amount of dust from 10 houses in each community. 
+  
+ The blood samples showed that the Amish kids had higher levels of immune cells that play a role in the body's "innate immune response." This response is the most ancient part of the immune system, shared by all animals, Ober said. Because the scientists figured out that the innate immune system is likely involved in the differences between these two communities, the researchers can now focus more on figuring out which parts of the innate immune system may reduce a child's risk of asthma, Ober said. 
+  
+ The researchers also took the house dust that they collected and exposed mice to it. The animals that were exposed to the Amish house dust did not get asthma when they were later exposed to things that would normally trigger the condition, the researchers found. The Hutterite house-dust, on the other hand, did not have a protective effect. 
+  
+ This suggests something in the dust in Amish homes has a protective effect against asthma, Ober told Live Science. Moving forward, the researchers hope to figure out exactly what component of the dust is beneficial, she said. It's likely bacteria or fungi, she added, but it's unclear what types of bacteria or fungi, or what combinations of microbes. 
+  
+ The researchers think that the potentially beneficial bacteria or fungi in Amish house dust can probably be traced back to the Amish dairy farms, Ober said. In these communities, the families live much closer to dairy farms than kids in Hutterite communities do, and Amish children often start going into barns at a very young age, she said. This exposes the kids to animals and the microbes that often accompany them, according to the study. These microbes can make their way into house dust. 
+  
+ In Hutterite communities, on the other hand, the families live much farther from the farms, and kids don't come into contact with animals at a young age, Ober said. 
+  
+ The study illustrates what researchers call the hygiene hypothesis, Ober said. This idea proposes that in the past several decades or so, the environments that people live in have gotten much cleaner, but this cleanliness has had a negative impact on the human immune system, she said. As a result, people are now more susceptible to immune-related diseases such as asthma, she said. 
+  
+ One of the biggest changes related to cleanliness is the switch from farming communities to nonfarming communities, Ober said. Indeed, researchers in Germany have found that being exposed to things you would find on a farm — cows, in particular — may have a protective effect against certain diseases, Ober said. (Other research has shown that if families have a pet dog when their child is born, the child has a lower risk of asthma, she added.) [7 Surprising Benefits of Dog Ownership] 
+  
+ But for kids who don't grow up on dairy farms, the findings may still be relevant, she said. 
+  
+ "I keep saying if everyone would just put a cow in their house, no kid would have asthma, but that's not very practical," Ober said. Instead, Ober said that she envisions an air mister that parents could use in a child's bedroom during their first year of life, that would spray the beneficial microbes into the air. 
+  
+ The age at which kids are exposed to the microbes is important, too, because the benefits seem to only take effect if a child is exposed as an infant, Ober said. In future studies, she would like to encourage Hutterites to get their babies to be around animals very early, and see if this reduces the children's risk of asthma, she said. 
+  
+ Originally published on Live Science. |||||
+What is a shorter version of the above article?

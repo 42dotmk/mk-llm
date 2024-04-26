@@ -1,0 +1,25 @@
+She has 120 minutes to practice because 2 x 60 = 120. She has already spent 93 minutes on her work because 30 + 25 + 38 = 93. She has 27 minutes to use on finger exercise because 120 - 93 = 27.
+The answer: 27
+Reverse engineering the question: Joan has 2 hours to get all her music practice done. She spends 30 minutes on the piano, 25 minutes writing music on her computer, and 38 minutes reading about the history of the piano. Her final work is to use a special finger exerciser. How much time does she have left to use this?
+
+Reasoning and answer: The insurance cost 24 * 20 = $480. With insurance he pays 5000 * .2 = $1000 for the procedure. So he paid 1000 + 480 = $1480. So he saved 5000 - 1480 = $3520.
+The answer: 3520
+What was the question?
+Question: Tom's cat needs an expensive surgery. He has had pet insurance for 24 months that cost $20 per month. The procedure cost $5000 but the insurance covers all but 20% of this. How much money did he save by having insurance?
+
+Megan gives Emily 6 * 2 = 12 marbles. Emily then has 6 + 12 = 18 marbles. Emily gives Megan 18 / 2 + 1 = 10 marbles. Emily has 18 - 10 = 8 marbles now.
+The answer: 8
+Reverse engineering the question: Emily has 6 marbles. Megan gives Emily double the number she has. Emily then gives Megan back half of her new total plus 1. How many marbles does Emily have now?
+
+Reasoning and answer: Elaine was in the pool for 2 * 3 = 6 minutes. George was in the pool for 6 / 3 = 2 minutes. Kramer never found the pool and thus swam for 0 minutes. In total, Jerry and his friend were in the cold water for 3 + 6 + 2 + 0 = 11 minutes.
+The answer: 11
+What was the question?
+Question: At the polar bear club, Jerry and his three friends, Elaine, George, and Kramer, took turns jumping into a swimming pool filled with freezing-cold water. Jerry was in the pool for 3 minutes before becoming too cold to remain in the cold water. Elaine stayed in the pool for twice as long as Jerry. George could only stay in the pool for one-third as long as Elaine. And Kramer, who accidentally locked himself in the bathroom, could not find the pool. What is the combined total of minutes that Jerry and his friends were in the cold water?
+
+The total percentage of money that Reese spent in February and March is 20% + 40% = 60%. This means the April expenses and the money left in her account make up 100% - 60% = 40% of her savings. Reese had $2900 + $1500 = $4400 for the April expenses and the money left in her account. So, $4400 is equal to 40% which means every 1% is equal to $4400 / 40 = $110. Therefore, Reese originally had $110 x 100 = $11000 in her savings account.
+The answer: 11000
+Reverse engineering the question: Reese had a sum of money in her savings account. The company she used to work with was not doing well which is why she lost her job. So she spent 20% of her savings for her expenses in February, 40% of it in March, and $1500 in April. How much did she have in her savings account if she still has $2900 after spending those amounts?
+
+Captain America is 1456 / 13 = 112 years old. Peter Parker is 112 / 7 = 16 years old. Ironman is 16 + 32 = 48 years old.
+The answer: 48
+Reverse engineering the question:

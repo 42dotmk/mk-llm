@@ -1,0 +1,19 @@
+Question: Context: Their creation was inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The IOC is the governing body of the Olympic Movement, with the Olympic Charter defining its structure and authority.
+
+Question: where was the first olympic games held in mordern times?
+Answer: To answer the question, consider the following: Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first modern Games in Athens in 1896. The answer is Athens.
+
+Question: Passage: The term Tyndale's Bible is not strictly correct, because Tyndale never published a complete Bible. That task was completed by Miles Coverdale who supplemented Tyndale's translations with his own to produce the first complete printed bible in English in 1535. Prior to his execution Tyndale had only finished translating the entire New Testament and roughly half of the Old Testament. Of the latter, the Pentateuch, Jonah and a revised version of the book of Genesis were published during his lifetime. His other Old Testament works were first used in the creation of the Matthew Bible and also heavily influenced every major English translation of the Bible that followed.
+
+Question: Based on this passage, who completed tyndales english translation of the bible?
+Answer: The relevant information is: That task was completed by Miles Coverdale who supplemented Tyndale's translations with his own to produce the first complete printed bible in English in 1535. The answer is Miles Coverdale.
+
+Question: "Flight" is the twenty-fourth and final episode of the eighth season of the American television medical drama Grey's Anatomy, and the show's 172nd episode overall. It was written by series creator Shonda Rhimes, and directed by Rob Corn. The episode was originally broadcast on the American Broadcasting Company (ABC) in the United States on May 17, 2012. In the episode, six doctors from Seattle Grace Mercy West Hospital who are victims of an aviation accident fight to stay alive, but Dr. Lexie Grey (Chyler Leigh) ultimately dies. Other storylines occur in Seattle where Dr. Richard Webber (James Pickens, Jr.) plans his annual dinner for the departing residents, Dr. Owen Hunt (Kevin McKidd) fires Dr. Teddy Altman (Kim Raver), and Dr. Miranda Bailey (Chandra Wilson) gets engaged.
+
+Answer this question based on the passage: what episode of greys anatomy does the plane crash?
+Answer: To answer the above question, the relevant sentence is: In the episode, six doctors from Seattle Grace Mercy West Hospital who are victims of an aviation accident fight to stay alive, but Dr. Lexie Grey (Chyler Leigh) ultimately dies. The answer is Flight.
+
+Question: At liquid -- air interfaces, surface tension results from the greater attraction of liquid molecules to each other (due to cohesion) than to the molecules in the air (due to adhesion). The net effect is an inward force at its surface that causes the liquid to behave as if its surface were covered with a stretched elastic membrane. Thus, the surface becomes under tension from the imbalanced forces, which is probably where the term "surface tension" came from. Because of the relatively high attraction of water molecules for each other through a web of hydrogen bonds, water has a higher surface tension (72.8 millinewtons per meter at 20 ° C) compared to that of most other liquids. Surface tension is an important factor in the phenomenon of capillarity.
+
+Based on this passage, what is the high surface tension of water due to?
+Answer:

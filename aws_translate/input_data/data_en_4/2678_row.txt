@@ -1,0 +1,27 @@
+Reasoning and answer: He breaks 2 strings a night for 6 nights for a total of 2 * 6 = 12 broken strings. He breaks 12 strings per week so over 12 weeks, he will need to replace 12 * 12 = 144 guitar strings.
+The answer: 144
+What was the question?
+Question: Dave breaks 2 guitar strings per night when playing live. If he performs 6 shows a week for 12 weeks, how many guitar strings will he need to replace?
+
+The roses cost 150 * 20 = $3000. The gardener works 4 * 5 = 20 hours. So the gardener charges 30 * 20 = $600. The soil added another 5 * 100 = $500. So in total the cost was 3000 + 600 + 500 = $4100.
+The answer: 4100
+Reverse engineering the question: Bob has to hire someone to fix his garden. A storm destroyed all 20 of his rose bushes. He decides to replant all the rose bushes. Each rose bush costs $150. He also needs to pay a gardener $30 an hour, 5 hours each day for 4 days. The final expense is 100 cubic feet of soil sold for $5 per cubic foot. How much did the entire gardening project cost?
+
+Reasoning and answer: To deliver all the coal, you need to pass by 6 coal / 2 coal / station = 3 stations. To deliver all the iron, you need to pass by 12 iron / 3 iron / station = 4 stations. To deliver all the wood, you need to pass by 2 wood / 1 wood / station = 2 stations. So 4 stations are needed to deliver everything, so 4 stations * 25 minutes / station = 100 minutes are needed.
+The answer: 100
+What was the question?
+Question: A train leaves its departure station with 6 coal cars, 12 iron cars, and 2 wood cars. Between each station, there are 6 miles, and it takes 25 minutes to travel between them. At each station, the train can deposit up to 2 coal cars, 3 iron cars, and 1 wood car. How many minutes will it take to deliver all the cars?
+
+Hearty bought a total of 3 + 5 = 8 packages. Therefore, she has a total of 8 x 40 = 320 beads.
+The answer: 320
+Reverse engineering the question: Hearty bought 3 packages of blue and 5 packages of red. If there are 40 beads in each package, how many beads does Hearty have in all?
+
+Reasoning and answer: The amount spent on mango juice is 94 - 54 = 40 dollars. Dividing the 40 dollars by the cost of a glass of mango juice gives us 40 / 5 = 8 people. Since a glass of pineapple juice goes for $6, the number that ordered is 54 / 6 = 9 people. Adding both numbers gives a total of 8 + 9 = 17 people.
+The answer: 17
+What was the question?
+Question: A group of friends walked into Juju’s Juice Bar ordered a glass of fruit juice each. They spent a total of $94. Some of them ordered mango juice, which sells for $5 a glass, while others asked for pineapple juice, at $6 a glass. If $54 was spent on pineapple juice, how many people were in the group?
+
+Reasoning and answer: First find Carolyn's total violin practice time by tripling her piano practice time: 20 minutes / day * 3 = 60 minutes / day. Then find the total amount of time she spends practicing each day: 60 minutes / day + 20 minutes / day = 80 minutes / day. Then find the total time she spends practicing each week: 80 minutes / day * 6 days / week = 480 minutes / week. Then find the total time she spends practicing each month: 480 minutes / week * 4 weeks / month = 1920 minutes / month.
+The answer: 1920
+What was the question?
+Question:

@@ -1,0 +1,24 @@
+Summarize:
+
+They included sensitive information including prisoners' names, ethnicity, addresses and release dates.
+The breaches were only discovered when the third recipient alerted the prison to the fact they had received a file.
+The ministry said the prison had altered its procedures since the incidents in August 2011.
+The fine was imposed by the Information Commissioner's Office (ICO).
+After the data breach was reported an internal investigation was launched and the same error was found to have occurred on two previous occasions within the previous month, with details sent to different inmates' families.
+The ICO said neither incident was reported at the time.
+The emails about upcoming visits came from the prison clerk but also included a spreadsheet containing sensitive information including the names, ethnicity, addresses, sentence length, release dates and coded details of the offences carried out by all of the prison's 1,182 inmates.
+The ICO said police and a member of the prison staff were sent to visit the homes of those who had received the emails to check that the files had been deleted.
+The unauthorised disclosures were reported to the ICO on 8 September 2011.
+The ICO's investigation found that there was a clear lack of management oversight at the prison, with the clerk working unsupervised despite only having been at the prison for two months and having limited experience and training.
+A lack of audit trails also meant that the disclosures would have gone unnoticed if they had not been reported by one of the recipients, said the ICO.
+ICO deputy commissioner and director of data protection David Smith said: "The potential damage and distress that could have been caused by this serious data breach is obvious.
+"Disclosing this information not only had the potential to put the prisoners at risk, but also risked the welfare of their families through the release of their home addresses.
+"Fortunately it appears that the fall-out from this breach was contained, but we cannot ignore the fact that this breach was caused by a clear lack of management oversight of a relatively new member of staff."
+Furthermore, said Mr Smith, the prison service failed to have procedures in place to spot the original mistakes.
+"It is only due to the honesty of a member of the public that the disclosures were uncovered as early as they were and that it was still possible to contain the breach," he added.
+The investigation also found problems with the manner in which prisoners' records were handled, with unencrypted floppy disks regularly used to transfer large volumes of data between the prison's two separate networks.
+A Ministry of Justice spokesperson said: "We treat the security of information very seriously and took immediate steps to recover the data as soon as the loss was reported to ensure that it went no further.
+"These types of incidents are extremely rare but this does not mean that we are complacent.
+"A thorough investigation was held by the prison who immediately altered their procedures, and further changes were implemented across the prison estate."
+
+Summary:

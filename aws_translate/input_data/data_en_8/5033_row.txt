@@ -1,0 +1,34 @@
+Problem:Santa Claus Is Comin' to Town is a 1970 Christmas stop motion animated television special produced by Rankin / Bass Productions. The film stars Fred Astaire as the narrator S.D. Kluger, Mickey Rooney as Kris Kringle / Santa Claus, Keenan Wynn as the Winter Warlock, and Paul Frees in various roles. The film tells the story of how Santa Claus and several Claus-related Christmas traditions came to be. It is based on the hit Christmas song Santa Claus Is Comin' to Town, which was introduced on radio by Eddie Cantor in 1934, and the story of Saint Nicholas.
+
+Answer this question: when was santa claus is coming to town released?
+Solution:OK... To answer the above question, the relevant sentence is: Santa Claus Is Comin' to Town is a 1970 Christmas stop motion animated television special produced by Rankin / Bass Productions.
+1970.
+
+Student A:The atlas is the topmost vertebra and with the axis forms the joint connecting the skull and spine. The atlas and axis are specialized to allow a greater range of motion than normal vertebrae. They are responsible for the nodding and rotation movements of the head.
+
+Answer this question based on the passage: what bone allows the head to nod yes?
+Student B:OK... The relevant information is: They are responsible for the nodding and rotation movements of the head.
+atlas and axis.
+
+Problem:Jonathan Mayhew, Old West Church's second Congregational pastor, used the phrase, "No Taxation Without Representation" in a sermon in 1750. The phrase revives a sentiment central to the cause of the English Civil War following the refusal of parliamentarian John Hampden to pay ship money tax. "No Taxation Without Representation," in the context of British American Colonial taxation, appeared for the first time in the February 1768 London Magazine headline, on page 89, in the printing of Lord Camden's "Speech on the Declaratory Bill of the Sovereignty of Great Britain over the Colonies."
+
+Answer this question based on the passage: who made the slogan no taxation without representation?
+Solution:OK... To answer the above question, the relevant sentence is: Jonathan Mayhew, Old West Church's second Congregational pastor, used the phrase, "No Taxation Without Representation" in a sermon in 1750.
+Jonathan Mayhew.
+
+Student A:Ozzy Osbourne -- vocals, harmonica Tony Iommi -- guitar, slide guitar Geezer Butler -- bass Bill Ward -- drums
+
+Answer this question: who played harmonica on the wizard black sabbath?
+Student B:OK... This is the relevant information: Ozzy Osbourne -- vocals, harmonica
+Ozzy Osbourne.
+
+Problem:As of 2014, the Guinness World Record for largest corn maze was 60 acres, created by Cool Patch Pumpkins in Dixon, California.
+
+Answer this question based on the passage: where is the worlds largest corn maze located?
+Solution:OK... The relevant information is: As of 2014, the Guinness World Record for largest corn maze was 60 acres, created by Cool Patch Pumpkins in Dixon, California.
+Dixon , California.
+
+Problem:The Shape of Water is a 2017 American romantic dark fantasy drama film directed by Guillermo del Toro and written by del Toro and Vanessa Taylor. It stars Sally Hawkins, Michael Shannon, Richard Jenkins, Doug Jones, Michael Stuhlbarg, and Octavia Spencer. Set in Baltimore in 1962, the story follows a mute custodian at a high-security government laboratory who falls in love with a captured humanoid amphibian creature.
+
+Who wrote the story for the shape of water?
+Solution:

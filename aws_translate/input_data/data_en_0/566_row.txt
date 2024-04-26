@@ -1,0 +1,22 @@
+Student A:Khamoshi (Hindi: ख़ामोशी, Urdu: خاموشی, translation: "Silence") is a 1970 black-and-white Hindi drama film directed by Asit Sen, starring Waheeda Rehman and Rajesh Khanna. It is especially remembered for its songs with excellent music by Hemant Kumar and some excellent lyrics by Gulzar in songs such as "Tum Pukar Lo ... Tumhara Intezaar Hai" sung by Hemant Kumar, "Woh Shaam Kuch Ajeeb Thi" by Kishore Kumar and "Humne Dekhi Hai In Aankhon Ki Mehekti Khushboo" sung by Lata Mangeshkar. Though what really made this film stand out was the B&W cinematography by Kamal Bose, who won the Filmfare Award for his work in the film and critical acclaim received for Rajesh Khanna's performance. The film is considered Waheeda Rehman's finest acting feat, as she carries the entire film through her powerful yet understated acting; she received a Filmfare nomination for it. This movie is often considered to be most successful film of Waheeda Rehman box-office wise as it ran due to the craze for Rajesh Khanna.
+
+Answer this question based on the passage: humne dekhi hai un aankhon ki mehakti khushboo movie name?
+Student B:OK... The relevant information is: It is especially remembered for its songs with excellent music by Hemant Kumar and some excellent lyrics by Gulzar in songs such as "Tum Pukar Lo ... Tumhara Intezaar Hai" sung by Hemant Kumar, "Woh Shaam Kuch Ajeeb Thi" by Kishore Kumar and "Humne Dekhi Hai In Aankhon Ki Mehekti Khushboo" sung by Lata Mangeshkar.
+Khamoshi.
+
+Student A:Passage: J'son is a fictional character appearing in American comic books published by Marvel Comics. He is the father of Star-Lord.
+
+Question: Based on this passage, in marvel comics who is star lord's father?
+Student B:OK... The important part for answering this question is: He is the father of Star-Lord.
+J'son.
+
+Student A:Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+
+Based on this passage, who's the lead singer of panic at the disco?
+Student B:OK... The relevant sentence in the passage is: Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+Brendon Boyd Urie.
+
+Student A:Context: The temperature range in which food-borne bacteria can grow is known as the danger zone. Food safety agencies, such as the United States' Food Safety and Inspection Service (FSIS), define the danger zone as roughly 4 to 60 ° C (39 to 140 ° F). The FSIS stipulates that potentially hazardous food should not be stored at temperatures in this range in order to prevent foodborne illness (for example, a refrigerator's temperature must be kept below 4 ° C ( 40 ° F) ), and that food that remains in this zone for more than two hours should not be consumed. Foodborne microorganisms grow much faster in the middle of the zone, at temperatures between 21 and 47 ° C (70 and 117 ° F).
+
+Question: what is the temperature of food danger zone?
+Student B:

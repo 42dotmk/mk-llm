@@ -1,0 +1,25 @@
+q... Peter Rabbit is a 2018 live-action / computer-animated comedy film directed by Will Gluck and written by Rob Lieber and Gluck, based on the stories of Peter Rabbit created by Beatrix Potter. The film stars the voice of James Corden as the title character, with Rose Byrne, Domhnall Gleeson, Sam Neill, Daisy Ridley, Elizabeth Debicki, and Margot Robbie also starring. The film was released on February 9, 2018, received mixed reviews from critics and has grossed over $341 million worldwide, making it the tenth highest-grossing film of 2018. A sequel is set for a February 7, 2020 release.
+
+Answer this question: who does the voice of peter in peter rabbit?
+a... The important part for answering this question is: The film stars the voice of James Corden as the title character, with Rose Byrne, Domhnall Gleeson, Sam Neill, Daisy Ridley, Elizabeth Debicki, and Margot Robbie also starring.
+The answer is James Corden
+
+
+q... Passage: The 2017 CONCACAF Gold Cup was the 14th edition of the CONCACAF Gold Cup, the biennial international men's football championship of the North, Central American and Caribbean region organized by CONCACAF, and 24th CONCACAF regional championship overall. The tournament was played between July 7 -- 26, 2017 in the United States.
+
+Question: Based on this passage, where is the men's gold cup played?
+a... This is the relevant information: The tournament was played between July 7 -- 26, 2017 in the United States.
+The answer is the United States
+
+
+q... Passage: Good automated manufacturing practice (GAMP) is both a technical subcommittee of the International Society for Pharmaceutical Engineering (ISPE) and a set of guidelines for manufacturers and users of automated systems in the pharmaceutical industry. More specifically, the ISPE's guide The Good Automated Manufacturing Practice (GAMP) Guide for Validation of Automated Systems in Pharmaceutical Manufacture describes a set of principles and procedures that help ensure that pharmaceutical products have the required quality. One of the core principles of GAMP is that quality can not be tested into a batch of product but must be built into each stage of the manufacturing process. As a result, GAMP covers all aspects of production; from the raw materials, facility and equipment to the training and hygiene of staff. Standard operating procedures (SOPs) are essential for processes that can affect the quality of the finished product.
+
+Question: Based on this passage, guide for validation of automated systems in pharmaceutical manufacture?
+a... This is the relevant information: Good automated manufacturing practice (GAMP) is both a technical subcommittee of the International Society for Pharmaceutical Engineering (ISPE) and a set of guidelines for manufacturers and users of automated systems in the pharmaceutical industry.
+The answer is Good automated manufacturing practice ( GAMP )
+
+
+q... Context: The aphorism is found in the Second Epistle of Paul the Apostle (with Silvanus and Timothy) to the Thessalonians, in which Paul writes:
+
+Question: where in the bible does it say he who does not work does not eat?
+a...

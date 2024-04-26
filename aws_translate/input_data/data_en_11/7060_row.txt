@@ -1,0 +1,19 @@
+Question: It was first performed during the Weekend Update segment of the season 18 episode of Saturday Night Live on November 21, 1992 as a duet between Sandler and Weekend Update anchor Kevin Nealon; it was originally intended to be a recurring Thanksgiving tradition with other cast members debuting their own original songs, but the next year, it was again Sandler, doing another version of the same song in the style of Bruce Springsteen. A live performance of the original song was recorded at The Strand in Redondo Beach, California on July 25, 1993. The version at The Strand was featured on Sandler's debut album They're All Gonna Laugh at You! and was released as a single.
+
+Answer this question: what year did adam sandler sing the thanksgiving song?
+Answer: The relevant information is: It was first performed during the Weekend Update segment of the season 18 episode of Saturday Night Live on November 21, 1992 as a duet between Sandler and Weekend Update anchor Kevin Nealon; it was originally intended to be a recurring Thanksgiving tradition with other cast members debuting their own original songs, but the next year, it was again Sandler, doing another version of the same song in the style of Bruce Springsteen. The answer is 1992.
+
+Question: Context: The NBA Championship ring is an annual award given by the National Basketball Association to the team that wins the NBA Finals. Rings are presented to the team's players, coaches, and members of the executive front office. Red Auerbach has the most rings overall with 16. Phil Jackson has the most as coach and Bill Russell has the most as a player (11 each)
+
+Question: when a team wins a championship who gets rings?
+Answer: To answer this question, we should know that: Rings are presented to the team's players, coaches, and members of the executive front office. The answer is the team 's players , coaches , and members of the executive front office.
+
+Question: The Iberian Peninsula / aɪ ˈbɪəriən pəˈnɪnsjʊlə /, also known as Iberia / aɪ ˈbɪəriə /, is located in the southwest corner of Europe. The peninsula is principally divided between Portugal and Spain, comprising most of their territory. It also includes Andorra, the disputed Catalan Republic, and a small part of France along the peninsula's northeastern edge, as well as Gibraltar on its south coast, a small peninsula that forms an overseas territory of the United Kingdom. With an area of approximately 582,000 km (225,000 sq mi), it is the second largest European peninsula, after the Scandinavian.
+
+Where is the iberian peninsula located on a map of europe?
+Answer: The relevant sentence in the passage is: The Iberian Peninsula / aɪ ˈbɪəriən pəˈnɪnsjʊlə /, also known as Iberia / aɪ ˈbɪəriə /, is located in the southwest corner of Europe. The answer is the southwest corner.
+
+Question: The U.S. federal court system hears cases involving litigants from two or more states, violations of federal laws, treaties, and the Constitution, admiralty, bankruptcy, and related issues. In practice, about 80 % of the cases are civil and 20 % criminal. The civil cases often involve civil rights, patents, and Social Security while the criminal cases involve tax fraud, robbery, counterfeiting, and drug crimes. The trial courts are U.S. district courts, followed by United States courts of appeals and then the Supreme Court of the United States. The judicial system, whether state or federal, begins with a court of first instance, whose work may be reviewed by an appellate court, and then ends at the court of last resort, which may review the work of the lower courts.
+
+What are the two federal courts under the supreme court?
+Answer:

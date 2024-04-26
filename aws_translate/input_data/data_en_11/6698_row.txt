@@ -1,0 +1,33 @@
+Question 1: What is the best way of moving a really big file from one computer to another?
+
+The best way to move a really big file from one computer to another depends on your available resources, time constraints, and the size of the file. Here are a few different methods to consider:
+
+1. External hard drive: Using an external hard drive is one of the most straightforward ways to move a large file between computers. Connect the drive to the source computer, copy the file to the drive, then connect the drive to the destination computer and copy the file from the drive to the new location. This method is relatively fast and is suitable for files that are too large for other transfer methods.
+
+2. Network transfer: If both the source and destination computers are on the same local network, you can transfer the file directly between them without using an external drive. Set up a shared folder on one of the computers, then copy the file to that shared folder using the other computer. This can take a while depending on your network speed and file size, but it's convenient because it doesn't require additional hardware.
+
+3. Cloud storage: Uploading the file to a cloud storage service like Google Drive, Dropbox, or OneDrive is another option, particularly if the computers are not in the same physical location. Upload the file to your chosen cloud storage from one computer, then download it to the other. This method can be slow, depending on your internet connection speed and the file size, and it might require a paid subscription to accommodate large files.
+
+4. File transfer tools: Some applications, like FileZilla, TeraCopy, and Resilio Sync, are specifically designed for transferring large files quickly and efficiently. These tools often use optimized algorithms to improve transfer speeds and can handle files of any size.
+
+5. Physical mail: In some cases, especially when transferring really large files and when there's no time constraint, it might be more convenient to copy the file to an external hard drive or high-capacity USB drive and then physically mail it to the recipient. This is often referred to as the "sneakernet" method.
+
+Question 2: How can I play video from one file and audio from another file simultaneously so that I can enjoy video playback from one file and audio from another?
+
+To play video from one file and audio from another file simultaneously, you will need to use a media player that supports this functionality. Here are two popular media players that allow you to do this:
+
+1. VLC Media Player:
+- Open the video file in VLC Media Player.
+- Pause the video.
+- In the menu, go to "Audio" -> "Audio Track" -> "Open File."
+- Browse to the audio file and select it.
+- The audio will now play in sync with the video. You can adjust the synchronization by going to "Tools" -> "Track Synchronization."
+
+2. MPC-HC (Media Player Classic - Home Cinema):
+- Open the video file in MPC-HC.
+- Pause the video.
+- In the menu, go to "Play" -> "Filters" -> "MPC Audio Renderer" -> "Properties."
+- Click "Add External File," browse to the audio file, and select it.
+- The audio will now play in sync with the video. You can adjust the synchronization by using the +/- keys on your keyboard or going to "View" -> "Options" -> "Internal Filters" -> "Audio Switcher."
+
+Regarding whether the answer to these two questions would be the same, the answer is [ii] yes, because the methods and tools discussed in each question vary significantly. Question 1 focuses on transferring large files between computers, while question 2 deals with playing video and audio from separate files simultaneously.

@@ -1,0 +1,29 @@
+## question
+Passage: The Blue Bombers were founded in 1930 as the Winnipeg Football Club, which remains the organization's legal name today. Since that time, they have won the league's Grey Cup championship 10 times, most recently in 1990. With 10 wins, they have the third-highest win total in the Grey Cup among active and defunct CFL teams. Though they are currently the team with the longest Grey Cup drought (and in the West Division overall ( although their 1990 win, their most recent, came when they played in the East Division) ), no other CFL franchise has as many Grey Cup appearances as the Blue Bombers' current 25. The Blue Bombers were the first team not located in Ontario or Quebec to win a championship.
+
+Question: Based on this passage, when was the last time the bombers won a grey cup?
+## answer
+To answer the above question, the relevant sentence is: Since that time, they have won the league's Grey Cup championship 10 times, most recently in 1990.
+So the answer must be 1990
+
+## question
+Arguably the most iconic toadstool species, the fly agaric is a large white-gilled, white-spotted, usually red mushroom, and is one of the most recognisable and widely encountered in popular culture.
+
+Answer this question based on the passage: what is the red mushroom with white dots?
+## answer
+This is the relevant information: Arguably the most iconic toadstool species, the fly agaric is a large white-gilled, white-spotted, usually red mushroom, and is one of the most recognisable and widely encountered in popular culture.
+So the answer must be the fly agaric
+
+## question
+In the early 1970s, Ford and General Motors began offering cars equipped with airbags, initially in government fleet purchased Chevrolet automobiles. GM's Oldsmobile Toronado was the first domestic vehicle to include a passenger airbag. The automaker discontinued the option for its 1977 model year, citing lack of consumer interest. Ford and GM then spent years lobbying against air-bag requirements, claiming that the devices were unfeasible and inappropriate. Chrysler made a driver-side airbag standard on 1988 -- 1989 models, but it was not until the early 1990s that airbags became widespread in American cars.
+
+Based on this passage, when did airbags become standard in u s?
+## answer
+The relevant sentence in the passage is: Chrysler made a driver-side airbag standard on 1988 -- 1989 models, but it was not until the early 1990s that airbags became widespread in American cars.
+So the answer must be the early 1990s
+
+## question
+George Herbert Walker Bush (born June 12, 1924) is an American politician who served as the 41st President of the United States from 1989 to 1993. Prior to assuming the presidency, Bush served as the 43rd Vice President of the United States from 1981 to 1989. A member of the Republican Party, he had previously been a Congressman, Ambassador and Director of Central Intelligence. During his career in public service, he was known simply as George Bush; since 2001, he has often been referred to as "George H.W. Bush", "Bush 41", or "George Bush Senior" in order to distinguish him from his eldest son, George W. Bush, the 43rd president of the United States. He is the nation's oldest living president and vice president, as well as the longest-lived president in history.
+
+Who was the 41st president of the united states of america?
+## answer

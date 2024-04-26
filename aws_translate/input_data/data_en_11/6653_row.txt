@@ -1,0 +1,27 @@
+Reasoning and answer: Tina has 12 - 9 = 3 green pens. Tina has 3 + 3 = 6 blue pens. In total Tina has 12 + 3 + 6 = 21 pens.
+The answer: 21
+What was the question?
+Question: Tina has 12 pink pens. She has 9 fewer green pens than pink pens. Tina has 3 more blue pens than green pens. How many pens does Tina have in total?
+
+If Anna can read 1 page in 1 minute, then her speed is 1 / 1 = 1 page per min. If Carole can read at Anna's same speed then her speed is also 1 page per min. If Carole is only half the speed of Brianna, then that means Brianna is twice as fast as Carole, so 2 * 1 page per min = 2 pages per min. If a book is 100 pages long and Brianna can read 2 pages per minute, then it will take her 100 / 2 = 50 minutes to read the book.
+The answer: 50
+Reverse engineering the question: Anna can read 1 page in 1 minute. Carole can read as fast as Anna but at half the speed of Brianna. How long does it take Brianna to read a 100-page book?
+
+Reasoning and answer: On the first trip, Ishmael sees 28 male whales * 2 = 56 female whales. So in total, he sees 28 male whales + 56 female whales = 84 whales on the first trip. On the second trip, each baby whale travels with its parents which means it travels in a group of 1 baby whale + 2 parents = 3 whales / baby whale. This means there are 8 baby whales * 3 whales / baby whale = 24 whales on the second trip. On the third trip, there are half as many male whales as there were on the first trip, so there must be 28 male whales / 2 = 14 male whales. Adding this to the female whales means he saws 14 males whales + 56 female whales = 70 whales on the third trip. In total, Ishmael saw 84 + 24 + 70 = 178 whales across the three trips.
+The answer: 178
+What was the question?
+Question: Ishmael was monitoring whales out at sea for conservation purposes. Each time he takes a trip to sea, he sees a different group of whales. On his first trip, he counts 28 male whales and twice as many female whales. On his second trip, he sees 8 baby whales, each travelling with their parents. On his third trip, he counts half as many male whales as the first trip and the same number of female whales as on the first trip. In total, how many whales were out at sea during Ishmael’s monitoring?
+
+Total number of shirts Sally sews is 4 + 3 + 2 = 9 shirts. The total number of buttons she needs is 9 x 5 = 45 buttons.
+The answer: 45
+Reverse engineering the question: Sally sews 4 shirts on Monday, 3 shirts on Tuesday, and 2 shirts on Wednesday. Each shirt has 5 buttons. How many buttons does Sally need to sew all the shirts?
+
+Reasoning and answer: From the baby spoons, Lisa holds 4 children * 3 spoons each = 12 baby spoons. Adding this to the decorative spoons means Lisa has 12 baby spoons + 2 decorative spoons = 14 old spoons. In the new set of cutlery, there is a total of 10 large spoons + 15 teaspoons = 25 new spoons. So in total, Lisa has 14 old spoons + 25 new spoons = 39 spoons.
+The answer: 39
+What was the question?
+Question: Lisa has decided to replace her old cutlery. As she is going through the cupboards, she sees the spoons from when each of her 4 children were babies as well as 2 decorative spoons she created. She doesn't want to get rid of any of these so she adds them to her new set of cutlery. The new set of cutlery has 10 large spoons and 15 teaspoons. If the children each had 3 spoons when they were babies, how many spoons does Lisa now have?
+
+Reasoning and answer: First calculate the number of eggs laid in 1 week: 270 X 7 = 1890 eggs. Now let’s put these eggs in the boxes: 1890 / 6 = 315 boxes.
+The answer: 315
+What was the question?
+Question:

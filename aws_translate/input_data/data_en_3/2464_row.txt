@@ -1,0 +1,22 @@
+Student A:The Second Amendment (Amendment II) to the United States Constitution protects the right of the people to keep and bear arms and was adopted on December 15, 1791 as part of the Bill of Rights. The Supreme Court has ruled that the right belongs to individuals for self-defense, while also ruling that the right is not unlimited and does not prohibit long-standing bans from the possession "of firearms by felons or the mentally ill" of firearms or similar devices. State and local governments are limited to the same extent as the federal government from infringing this right.
+
+Answer this question based on the passage: when was the second amendment added to the bill of rights?
+Student B:OK... The important part for answering this question is: The Second Amendment (Amendment II) to the United States Constitution protects the right of the people to keep and bear arms and was adopted on December 15, 1791 as part of the Bill of Rights.
+December 15 , 1791.
+
+Student A:"Forged from the Love of Liberty" is the national anthem of the Republic of Trinidad and Tobago. Originally composed as the national anthem for the short-lived West Indies Federation (1958 -- 1962), this song was edited and adopted by Trinidad and Tobago when it became independent in 1962.
+
+Answer this question: what is the national anthem of trinidad and tobago?
+Student B:OK... To answer the above question, the relevant sentence is: "Forged from the Love of Liberty" is the national anthem of the Republic of Trinidad and Tobago.
+Forged from the Love of Liberty.
+
+Student A:Passage: The Globally Harmonized System of Classification and Labelling of Chemicals contains a standard specification for safety data sheets. The SDS follows a 16 section format which is internationally agreed and for substances especially, the SDS should be followed with an Annex which contains the exposure scenarios of this particular substance. The 16 sections are:
+
+Question: Based on this passage, who is responsible for providing the information on the material safety data sheets?
+Student B:OK... This is the relevant information: The Globally Harmonized System of Classification and Labelling of Chemicals contains a standard specification for safety data sheets.
+The Globally Harmonized System of Classification and Labelling of Chemicals.
+
+Student A:In hopes of eluding the Nazgûl, the hobbits travel through the Old Forest. There the group fall asleep by a willow-tree and wake up to realize that its roots are trying to strangle them, but luckily Tom Bombadil comes to their aid. They then go to the house of Bombadil and meet his wife Goldberry. There they discover that the Ring has no power over Bombadil -- he does not disappear while wearing it and can see Frodo even after he has vanished from his friends' sight. In the evening, Frodo has a dream about Gandalf standing on the pinnacle of a tower and then a vision of a rain curtain in front of a ship on which he is sailing. They then leave Bombadil's only to be captured by a barrow wight in the Barrow-downs, but they again escape with help from Tom and finally reach the gate of the village of Bree.
+
+Answer this question based on the passage: who helps frodo and his friends escape from the barrow-wight?
+Student B:

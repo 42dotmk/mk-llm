@@ -1,0 +1,27 @@
+Reasoning and answer: 480 x 10 / 100 = 48 employees got a salary increase. 480 x 20 / 100 = 96 employees got a travel allowance increase. So a total of 48 + 96 = 144 employees got an increase. Therefore, 480 - 144 = 336 employees did not get any increase.
+The answer: 336
+What was the question?
+Question: Out of 480 employees, 10% got a salary increase while 20% got a travel allowance increase. How many employees did not get any increase?
+
+Adam bought 3 sandwiches, so he paid 3 * 3 = $9 for them. In total Adam bought products for 2 + 9 = $11.
+The answer: 11
+Reverse engineering the question: Adam went to a shop to buy some food for his journey. He bought 3 sandwiches, for $3 each, and a bottle of water for $2. How much did Adam pay for all the shopping?
+
+Reasoning and answer: Rachel spends 1 + 1 = 2 hours setting up and cleaning up. She paints for 1 hour x 4 paintings = 4 hours. Then she edits 1.5 hours x 4 videos = 6 hours. She spends 2 + 4 + 6 = 12 hours to make 4 videos. So Rachel spends 12 / 4 = 3 hours on each video.
+The answer: 3
+What was the question?
+Question: Rachel is an artist. She posts a speed painting video each week on her Instagram account to promote her work. To save time, she paints and records 4 videos at a time. It takes her about 1 hour to set up her painting supplies and her camera. Then she records herself painting for 1 hour per painting. She takes another 1 hour to clean up. Each video takes 1.5 hours to edit and post. How long does it take Rachel to produce a speed painting video?
+
+In the first month, the song will have 60,000 * 2 = 120,000 listens. In the second month, the song will have 120000 * 2 = 240,000 listens. In the third month, the song will have 240000 * 2 = 480,000 listens. By the end of the year Jordan's song will have a total of 60,000 + 120,000 + 240,000 + 480,000 = 900,000 listens.
+The answer: 900000
+Reverse engineering the question: Jordan has a new hit song on Spotify. 3 months are left in the year, and she currently has 60,000 listens. If the number of listens per month doubles, how many listens will the song have by the end of the year?
+
+Reasoning and answer: First find the total cost of the shirt: $20 * 2 = $40. Then find the total cost of the tie: $40 / 5 = $8. Then find the cost of one uniform set: $20 + $40 + $8 + $3 = $71. Then multiply the cost of each set by the number of sets each student has to buy to find the total cost: $71 / set * 5 sets = $355.
+The answer: 355
+What was the question?
+Question: Fran's school just instituted a school uniform policy. Each student needs to buy five complete uniforms, each consisting of pants, shirt, tie and socks. The pants cost $20, the shirt costs twice as much as the pants, the tie costs 1/5 as much as the shirt and the socks cost $3/pair. How many dollars will each student need to spend?
+
+Reasoning and answer: Each pair of boxes weighs 40 pounds + 10 pounds, or 50 pounds. Each pair weighs 50 pounds, so the delivery trucks can carry 2000 / 50 pairs of boxes or 40 pairs. Steven has three trucks, so each trip can move 40 * 3 pairs of boxes = 120 pairs of boxes. Each pair is a set of two boxes, so each delivery contains 120 * 2 boxes = 240 boxes.
+The answer: 240
+What was the question?
+Question:

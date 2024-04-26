@@ -1,0 +1,26 @@
+Answer this question please:
+Context: Long rifles were an American design of the 18th century, produced by individual German gunsmiths in Pennsylvania. Based on the Jäger rifle, long rifles, known as "Pennsylvania Rifles", were used by snipers and light infantry throughout the Revolutionary War. The grooved barrel increased the range and accuracy by spinning a snugly fitted ball, giving an accurate range of 300 yards compared to 100 yards for smoothbore muskets. Drawbacks included the low rate of fire due to the complicated reloading process, the impossibility to fit it with a bayonet, the high cost, and lack of standardization that required extensive training with a particular rifle for a soldier to realize the weapon's full potential. Due to the drawbacks, George Washington argued for a limited role of rifles in the Colonial military, while Congress was more enthusiastic and authorized the raising of several companies of riflemen. Long rifles played a significant part in the battles of Saratoga and New Orleans, where rifleman units picked off officers to disrupt British command and control, but required support by units armed with smoothbore muskets or by artillery to prevent the riflemen from being overrun.
+
+Question: what weapons did they use in the battle of saratoga?
+
+Stream of random thoughts: The relevant information to answer the above question is: Long rifles played a significant part in the battles of Saratoga and New Orleans, where rifleman units picked off officers to disrupt British command and control, but required support by units armed with smoothbore muskets or by artillery to prevent the riflemen from being overrun.... The answer is Long rifles.
+----
+Answer this question please:
+Gram-negative bacteria are a group of bacteria that do not retain the crystal violet stain used in the gram-staining method of bacterial differentiation. They are characterized by their cell envelopes, which are composed of a thin peptidoglycan cell wall sandwiched between an inner cytoplasmic cell membrane and a bacterial outer membrane.
+
+Answer this question: the cell wall of gram-negative bacterial cells is external to the?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: They are characterized by their cell envelopes, which are composed of a thin peptidoglycan cell wall sandwiched between an inner cytoplasmic cell membrane and a bacterial outer membrane.... The answer is an inner cytoplasmic cell membrane.
+----
+Answer this question please:
+Passage: Lisa Loring (born Lisa Ann DeCinces; February 16, 1958) is an American actress. She is best known for having played Wednesday Addams on the 1964 -- 1966 sitcom The Addams Family.
+
+Question: Based on this passage, who played wednesday in the original addams family?
+
+Stream of random thoughts: This is the relevant information: She is best known for having played Wednesday Addams on the 1964 -- 1966 sitcom The Addams Family.... The answer is Lisa Loring.
+----
+Answer this question please:
+Carl Weathers (born January 14, 1948) is an American actor and former professional football player. He is best known for portraying Apollo Creed in the Rocky series of films, Al Dillon in Predator, Chubbs Peterson in Happy Gilmore and Little Nicky, and a fictionalized version of himself on the comedy series Arrested Development. As a football player, Weathers played for the Oakland Raiders of the National Football League and the B.C. Lions of the Canadian Football League.
+
+Answer this question: who played apollo creed in the rocky movies?
+

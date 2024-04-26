@@ -1,0 +1,23 @@
+Ques & Ans: Betalains are a class of red and yellow indole-derived pigments found in plants of the Caryophyllales, where they replace anthocyanin pigments. Betalains also occur in some higher order fungi. They are most often noticeable in the petals of flowers, but may color the fruits, leaves, stems, and roots of plants that contain them. They include pigments such as those found in beets.
+
+Answer this question: what is the name of the pigment found in beetroot cells?
+Betalains
+Stream of consciousness: This is the relevant information: They include pigments such as those found in beets.
+
+Ques & Ans: The thoracic nerves are the twelve spinal nerves emerging from the thoracic vertebrae. Each thoracic nerve T1-T12 originates from below each corresponding thoracic vertebra. Branches also exit the spine and go directly to the paravertebral ganglia of the autonomic nervous system where they are involved in the functions of organs and glands in the head, neck, thorax and abdomen.
+
+Answer this question based on the passage: what are the nerves called that emerge from the thoracic region of the spinal cord?
+T1 - T12
+Stream of consciousness: The relevant information is: Each thoracic nerve T1-T12 originates from below each corresponding thoracic vertebra.
+
+Ques & Ans: In modern times, the Ides of March is best known as the date on which Julius Caesar was assassinated in 44 BC. Caesar was stabbed to death at a meeting of the Senate. As many as 60 conspirators, led by Brutus and Cassius, were involved. According to Plutarch, a seer had warned that harm would come to Caesar no later than the Ides of March. On his way to the Theatre of Pompey, where he would be assassinated, Caesar passed the seer and joked, "The Ides of March are come", implying that the prophecy had not been fulfilled, to which the seer replied "Aye, Caesar; but not gone." This meeting is famously dramatised in William Shakespeare's play Julius Caesar, when Caesar is warned by the soothsayer to "beware the Ides of March." The Roman biographer Suetonius identifies the "seer" as a haruspex named Spurinna.
+
+Answer this question based on the passage: who was told beware the ides of march?
+Julius Caesar
+Stream of consciousness: The important part for answering this question is: This meeting is famously dramatised in William Shakespeare's play Julius Caesar, when Caesar is warned by the soothsayer to "beware the Ides of March."
+
+Ques & Ans: Field goal percentage in basketball is the ratio of field goals made to field goals attempted. Its abbreviation is FG %. Although three-point field goal percentage is often calculated separately, three-point field goals are included in the general field goal percentage. Instead of using scales of 0 to 100 %, the scale. 000 to 1.000 is commonly used. A higher field goal percentage denotes higher efficiency. In basketball, a FG % of. 500 (50 %) or above is considered a good percentage, although this criterion does not apply equally to all positions. Guards usually have lower FG % than forwards and centers. Field goal percentage does not completely tell the skill of a player, but a low field goal percentage can indicate a poor offensive player or a player who takes many difficult shots. In the NBA, Center Shaquille O'Neal has a high career FG % (around. 580) because he plays near the basket making many high percentage layups and slam dunks. Guard Allen Iverson often had a low FG % (around. 420) because he took the bulk of his team's shot attempts, even with high difficulty shots.
+
+Answer this question based on the passage: what is a good basketball field goal percentage?
+. 500 ( 50 % ) or above
+Stream of consciousness:

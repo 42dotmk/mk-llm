@@ -1,0 +1,34 @@
+Student A:Red Dead Redemption 2 is an upcoming Western-themed action-adventure video game developed and published by Rockstar Games. It is scheduled to be released for PlayStation 4 and Xbox One on October 26, 2018. The game is a prequel to the 2010 title Red Dead Redemption and will be the third entry in the Red Dead series. It follows the story of outlaw Arthur Morgan, a member of the Dutch van der Linde gang.
+
+Answer this question: when is red dead redemption 2 coming out?
+Student B:OK... The relevant information is: It is scheduled to be released for PlayStation 4 and Xbox One on October 26, 2018.
+October 26 , 2018.
+
+Problem:Holly and Gerry are a married couple who live on the Lower East Side of Manhattan. They are deeply in love, but they fight occasionally. By winter that year, Gerry suddenly dies of a brain tumor, and Holly realizes how much he meant to her as well as how insignificant their arguments were.
+
+Answer this question: how did gerry in ps i love you die?
+Solution:OK... The important part for answering this question is: By winter that year, Gerry suddenly dies of a brain tumor, and Holly realizes how much he meant to her as well as how insignificant their arguments were.
+of a brain tumor.
+
+Student A:Context: The song, "I Will Always Love You" was originally written and recorded in 1973 by American singer-songwriter, Dolly Parton. Her country version of the track was released in 1974 as a single and was written as a farewell to her one-time partner and mentor of seven years, Porter Wagoner, following Parton's decision to pursue a solo career.
+
+Question: who sang i will always love you first dolly parton or whitney houston?
+Student B:OK... To answer the question, consider the following: The song, "I Will Always Love You" was originally written and recorded in 1973 by American singer-songwriter, Dolly Parton.
+American singer - songwriter , Dolly Parton.
+
+Problem:On January 30, 1968, the Jamaican House of Representatives voted to decimalize the currency by introducing the dollar, worth 10 shillings, to replace the Jamaican pound. Coins and banknotes went into circulation on September 8, 1969. The introduction of a decimal currency provided the opportunity for the introduction of a complete Jamaican coinage as formerly, the coins (with the exception of the penny and halfpenny), were the same as those used in the United Kingdom. The reverse of the decimal coinage was designed by Christopher Ironside, O.B.E.. These coins were in circulation from 1969 to about 1990.
+
+When did jamaica start using dollars and cents?
+Solution:OK... The relevant sentence in the passage is: Coins and banknotes went into circulation on September 8, 1969.
+September 8 , 1969.
+
+Student A:Passage: In statistics, an outlier is an observation point that is distant from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set.
+
+Question: Based on this passage, when is a data point considered an outlier?
+Student B:OK... This is the relevant information: In statistics, an outlier is an observation point that is distant from other observations.
+an observation point that is distant from other observations.
+
+Student A:Passage: The 2024 Summer Olympics (French: Jeux olympiques d'été de 2024), officially known as the Games of the XXXIII Olympiad, and commonly known as Paris 2024, is a forthcoming international multi-sport event that is scheduled to take place from 26 July to 11 August 2024 in Paris, France.
+
+Question: Based on this passage, where are the olympics being held in 2024?
+Student B:

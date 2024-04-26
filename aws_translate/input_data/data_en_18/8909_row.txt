@@ -1,0 +1,65 @@
+Summarize this article:
+
+Scientists create new robotic Terminator-style muscle 1,000 times stronger than humans 
+  
+ By Travis Gettys 
+  
+ Thursday, December 26, 2013 11:25 EDT 
+  
+ Researchers have developed a tiny robotic muscle that’s 1,000 time stronger than a human muscle. 
+  
+ The team of researchers at the University of California-Berkeley found that vanadium dioxide changes from an insulator to a conductive metal at about 152 degrees, which produced a huge amount of strength during the transition. 
+  
+ The scientists used the material to demonstrate a microchip-sized, twisting robotic motor that could catapult objects 50 times heavier than itself over a distance five times longer than itself faster than the blink of an eye – within 60 milliseconds. 
+  
+ The team fabricated the micro-muscle from a long V-shaped ribbon made of chromium and vanadium dioxide, which is already prized for its ability to change size, shape and physical identity, and heated it with a tiny pad or by electrical current. 
+  
+ When the dual coil formed by the ribbon is heated, said physicist Junqiao Wu, who led the team, it turns into either a tiny catapult or a proximity sensor, which causes a rapid change in the muscle’s resistance and shape that pushes away nearby objects. 
+  
+ “Multiple micro-muscles can be assembled into a micro-robotic system that simulates an active neuromuscular system,” Wu said. “The naturally combined functions of proximity sensing and torsional motion allow the device to remotely detect a target and respond by reconfiguring itself to a different shape. This simulates living bodies where neurons sense and deliver stimuli to the muscles and the muscles provide motion.” 
+  
+ The team found the micro-muscles could twist and turn more than 1 million times without degradation, and they showed far greater movement abilities than current robotic motors. 
+  
+ Vanadium dioxide can also absorb light and convert it to heat, which will allow the micro-muscle to be triggered optothermally. 
+  
+ The technology could eventually be used to build a complex organism that simulates an active neuromuscular system, perhaps in prosthetic limbs or surgical procedures. 
+  
+ “With its combination of power and multi-functionality, our micro-muscle shows great potential for applications that require a high level of functionality integration in a small space,” Wu said. ||||| December 19, 2013 
+  
+ News Release 
+  
+ Vanadium dioxide is poised to join the pantheon of superstars in the materials world. Already prized for its extraordinary ability to change size, shape and physical identity, vanadium dioxide can now add muscle power to its attributes. A team of researchers with the U.S. Department of Energy (DOE)’s Lawrence Berkeley National Laboratory (Berkeley Lab) has demonstrated a micro-sized robotic torsional muscle/motor made from vanadium dioxide that for its size is a thousand times more powerful than a human muscle, able to catapult objects 50 times heavier than itself over a distance five times its length within 60 milliseconds – faster than the blink of an eye. 
+  
+ “We’ve created a micro-bimorph dual coil that functions as a powerful torsional muscle, driven thermally or electro-thermally by the phase transition of vanadium dioxide,” says the leader of this work, Junqiao Wu, a physicist who holds joint appointments with Berkeley Lab’s Materials Sciences Division and the University of California-Berkeley’s Department of Materials Science and Engineering. “Using a simple design and inorganic materials, we achieve superior performance in power density and speed over the motors and actuators now used in integrated micro-systems.” 
+  
+ Wu is the corresponding author of a paper describing this research in the journal Advanced Materials. The paper is titled “Powerful, Multifunctional Torsional Micro Muscles Activated by Phase Transition.” Co-authors are Kai Liu, Chun Cheng, Joonki Suh, Robert Tang-Kong, Deyi Fu, Sangwook Lee, Jian Zhou and Leon Chua. 
+  
+ What makes vanadium dioxide highly coveted by the electronics industry is that it is one of the few known materials that’s an insulator at low temperatures but abruptly becomes a conductor at 67 degrees Celsius. This temperature-driven phase transition from insulator-to-metal is expected to one day yield faster, more energy efficient electronic and optical devices. However, vanadium dioxide crystals also undergo a temperature-driven structural phase transition whereby when warmed they rapidly contract along one dimension while expanding along the other two. This makes vanadium dioxide an ideal candidate material for creating miniaturized, multi-functional motors and artificial muscles. 
+  
+ “Miniaturizing rotary motors is important for integrated micro-systems and has been intensively pursued over the past decades,” Wu says. “The power density of our micro-muscle in combination with its multi-functionality distinguishes it from all current macro- or micro-torsional actuators/motors.” 
+  
+ Wu and his colleagues fabricated their micro-muscle on a silicon substrate from a long “V-shaped” bimorph ribbon comprised of chromium and vanadium dioxide. When the V-shaped ribbon is released from the substrate it forms a helix consisting of a dual coil that is connected at either end to chromium electrode pads. Heating the dual coil actuates it, turning it into either a micro-catapult, in which an object held in the coil is hurled when the coil is actuated, or a proximity sensor, in which the remote sensing of an object (meaning without touching it) causes a “micro-explosion,” a rapid change in the micro-muscle’s resistance and shape that pushes the object away. 
+  
+ “Multiple micro-muscles can be assembled into a micro-robotic system that simulates an active neuromuscular system,” Wu says. “The naturally combined functions of proximity sensing and torsional motion allow the device to remotely detect a target and respond by reconfiguring itself to a different shape. This simulates living bodies where neurons sense and deliver stimuli to the muscles and the muscles provide motion.” 
+  
+ The vanadium dioxide micro-muscles demonstrated reversible torsional motion over one million cycles with no degradation. They also showed a rotational speed of up to approximately 200,000 rpm, amplitude of 500 to 2,000 degrees per millimeters in length, and an energy power density up to approximately 39 kilowatts/kilogram. 
+  
+ “These metrics are all orders of magnitudes higher than existing torsional motors based on electrostatics, magnetics, carbon nanotubes or piezoelectrics,” Wu says. 
+  
+ The heating of the vanadium dioxide micro-muscle to actuate it can be done either globally with a tiny heating pad, or with an electrical current applied to the dual coil. Wu says heating with the electric current is the better way to go because it allows for the selective heating of individual micro-muscles and the heating and cooling process is much faster. In addition, as vanadium dioxide absorbs light and coverts it into heat, the coil can also be triggered optothermally. 
+  
+ “With its combination of power and multi-functionality, our micro-muscle shows great potential for applications that require a high level of functionality integration in a small space,” Wu says. 
+  
+ This work was supported by a DOE Office of Science Early Career Award to the University of California, Berkeley. 
+  
+ Additional Information 
+  
+ For more about the research of Junqiao Wu go here 
+  
+ # # # 
+  
+ Lawrence Berkeley National Laboratory addresses the world’s most urgent scientific challenges by advancing sustainable energy, protecting human health, creating new materials, and revealing the origin and fate of the universe. Founded in 1931, Berkeley Lab’s scientific expertise has been recognized with 13 Nobel prizes. The University of California manages Berkeley Lab for the U.S. Department of Energy’s Office of Science. For more, visit www.lbl.gov. 
+  
+ The DOE Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time. For more information, please visit science.energy.gov. |||||
+
+Summary:

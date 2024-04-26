@@ -1,0 +1,48 @@
+Given the task definition and input, reply with output. In this task, you are given an article. Your task is to summarize the article in a sentence.
+
+Yamaha's Bradley Smith finished second amid changing weather that saw most riders forced to make two pit-stops.
+Honda's Scott Redding claimed his first podium finish in third, despite sliding into the gravel early on.
+All three capitalised after Valentino Rossi blew his chances with tactical errors and Jorge Lorenzo crashed out.
+The last time two Britons shared a podium in a premier-class grand prix was in Venezuela 36 years ago when Barry Sheene won the race and Irishman Tom Herron came third.
+Early rain proved crucial on Sunday, with Honda rider Marquez switching to slick tyres just as the Misano circuit started to dry.
+Championship leader Rossi and his army of home fans were left frustrated after he led with seven laps to go but left the switch from wet tyres to slicks until too late, which handed the race to Marquez.
+Rossi eventually finished fifth but thanks to Lorenzo's crash the 36-year-old still extended his championship lead to 23 points over his Yamaha team-mate.
+Marquez, who sits in third spot 63 points behind Rossi with five races to go, explained that problems caused by the weather were made more difficult by the recently re-laid track surface.
+The Spaniard added: "The asphalt is new here and very dark, so it was hard to tell if it was dry or wet. It was really difficult out there but we made the right decision with the tyres."
+Smith was delighted to claim the second podium finish of his career after sticking with slick tyres at the right time.
+The 24-year-old said: "I kept telling myself that luck favours the brave, went with my instincts and it turned out to be a good day."
+Redding rode a remarkable race after sliding into the dirt, only to get back up and push his bike back on the track.
+The 22-year-old said: "When I went into the gravel, the marshalls tried to hold me back but I was fighting to get on the track.
+"It was an incredible race and the adrenaline was through the roof. We took a lot of risks and we got some rewards."
+San Marino MotoGP results:
+1. Marc Marquez (Spain) Honda 48 minutes 23.819 seconds
+2. Bradley Smith (Britain) Yamaha 48:31.107
+3. Scott Redding (Britain) Honda 48:42.612
+4. Loris Baz (France) Forward 48:50.246
+5.  Valentino Rossi (Italy) Yamaha 48:57.015
+6.  Danilo Petrucci (Italy) Ducati 48:58.906
+7.  Andrea Iannone (Italy) Ducati 49:0.346
+8.  Andrea Dovizioso (Italy) Ducati 49:1.253
+9.  Dani Pedrosa (Spain) Honda 49:3.335
+10.  Aleix Espargaro (Spain) Suzuki 49:3.511
+11. Cal Crutchlow (Britain) Honda 49:5.814
+12. Jack Miller (Australia) Honda 49:9.894
+13. Mike Di Meglio (France) Ducati 49:12.200
+14. Maverick Vinales (Spain) Suzuki 49:16.144
+15. Alvaro Bautista (Spain) Aprilia 49:17.167
+MotoGP Standings after race 13 of 18:
+1.  Valentino Rossi (Italy) Yamaha 247
+2.  Jorge Lorenzo (Spain) Yamaha 224
+3.  Marc Marquez (Spain) Honda 184
+4.  Andrea Iannone (Italy) Ducati 159
+5.  Bradley Smith (Britain) Yamaha 135
+6.  Andrea Dovizioso (Italy) Ducati 128
+7.  Dani Pedrosa (Spain) Honda 109
+8.  Danilo Petrucci (Italy) Ducati 93
+9.  Pol Espargaro (Spain) Yamaha 81
+10. Cal Crutchlow (Britain) Honda 79
+11. Maverick Vinales (Spain) Suzuki 69
+12. Aleix Espargaro (Spain) Suzuki 66
+13. Scott Redding (Britain) Honda 63
+14. Yonny Hernandez (Colombia) Ducati 41
+15. Loris Baz (France) Forward 28

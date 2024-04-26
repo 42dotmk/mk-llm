@@ -1,0 +1,22 @@
+Student A:Context: The line For fools rush in where angels fear to tread was first written by Alexander Pope in his 1711 poem An Essay on Criticism. The phrase alludes to inexperienced or rash people attempting things that more experienced people avoid. It has since entered the general English lexicon as an idiom.
+
+Question: who said fools rush in where angels fear to tread?
+Student B:OK... The relevant information to answer the above question is: The line For fools rush in where angels fear to tread was first written by Alexander Pope in his 1711 poem An Essay on Criticism.
+Alexander Pope.
+
+Student A:The RBI plays an important part in the Development Strategy of the Government of India. It is a member bank of the Asian Clearing Union. The general superintendence and direction of the RBI is entrusted with the 21-member central board of directors: the governor; four deputy governors; two finance ministry representatives (usually the Economic Affairs Secretary and the Financial Services Secretary); ten government-nominated directors to represent important elements of India's economy; and four directors to represent local boards headquartered at Mumbai, Kolkata, Chennai and the capital New Delhi. Each of these local boards consists of five members who represent regional interests, the interests of co-operative and indigenous banks.
+
+Answer this question: how many deputy governors are there in rbi?
+Student B:OK... The important part for answering this question is: The general superintendence and direction of the RBI is entrusted with the 21-member central board of directors: the governor; four deputy governors; two finance ministry representatives (usually the Economic Affairs Secretary and the Financial Services Secretary); ten government-nominated directors to represent important elements of India's economy; and four directors to represent local boards headquartered at Mumbai, Kolkata, Chennai and the capital New Delhi.
+four.
+
+Student A:The College Football Playoff selection committee chose the semifinalists following the conclusion of the 2017 regular season. Alabama and Georgia advanced to the national championship after winning the semifinal games hosted by the Sugar Bowl and the Rose Bowl, respectively, on January 1, 2018. The championship game was played at Mercedes-Benz Stadium in Atlanta, Georgia on January 8, 2018.
+
+Answer this question based on the passage: where will college football national championship game be played?
+Student B:OK... To answer the above question, the relevant sentence is: The championship game was played at Mercedes-Benz Stadium in Atlanta, Georgia on January 8, 2018.
+Mercedes - Benz Stadium in Atlanta , Georgia.
+
+Student A:Only the Brave is a 2017 American biographical drama film directed by Joseph Kosinski and written by Ken Nolan and Eric Warren Singer, based on the GQ article "No Exit" by Sean Flynn. The film tells the story of the Granite Mountain Hotshots, an elite crew of firefighters who fought the Yarnell Hill Fire in June 2013, and is dedicated in their memory. It features an ensemble cast, including Josh Brolin, James Badge Dale, Jeff Bridges, Miles Teller, Alex Russell, Taylor Kitsch, Ben Hardy, Thad Luckinbill, Geoff Stults, Scott Haze, Andie MacDowell and Jennifer Connelly.
+
+Answer this question based on the passage: the story of the granite mountain hotshots movie?
+Student B:

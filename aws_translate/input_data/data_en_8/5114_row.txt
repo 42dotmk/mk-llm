@@ -1,0 +1,34 @@
+Student A:Context: The dish was originally made with thinly sliced beef, but some versions use pork, crab, chicken, lamb, duck, or lobster. Most often, ribeye steak is used, but less tender cuts, such as top sirloin, are also common. A more expensive meat, such as wagyū, may also be used. It is usually served with tofu and vegetables, including Chinese cabbage, chrysanthemum leaves, nori (edible seaweed), onions, carrots, shiitake mushrooms and enokitake mushrooms. In some places, udon, mochi or harusame noodles may also be served.
+
+Question: what kind of meat is used for shabu shabu?
+Student B:OK... The relevant information to answer the above question is: The dish was originally made with thinly sliced beef, but some versions use pork, crab, chicken, lamb, duck, or lobster.
+thinly sliced beef , but some versions use pork , crab , chicken , lamb , duck , or lobster.
+
+Problem:The series focuses on a boy named Ryder who leads a pack of search and rescue dogs known as the PAW Patrol. They work together on missions to protect the shoreside community of Adventure Bay. Each dog has a specific set of skills based on a real-life profession, such as a firefighter and a police officer. They all reside in doghouses that can transform into customized vehicles when necessary. They are also equipped with backpacks called "pup packs" that contain tools that relate to the pups' jobs.
+
+Based on this passage, what is the boy's name in paw patrol?
+Solution:OK... To answer the question, consider the following: The series focuses on a boy named Ryder who leads a pack of search and rescue dogs known as the PAW Patrol.
+Ryder.
+
+Student A:The Vampire Diaries is an American supernatural drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L.J. Smith. The series premiered on The CW on September 10, 2009, and concluded on March 10, 2017, airing 171 episodes over eight seasons.
+
+Answer this question: when was the first vampire diaries episode released?
+Student B:OK... This is the relevant information: The series premiered on The CW on September 10, 2009, and concluded on March 10, 2017, airing 171 episodes over eight seasons.
+September 10 , 2009.
+
+Problem:The American Civil War was fought in the United States from 1861 to 1865. The result of a long-standing controversy over slavery, war broke out in April 1861, when Confederates attacked Fort Sumter in South Carolina, shortly after President Abraham Lincoln was inaugurated. The nationalists of the Union proclaimed loyalty to the U.S. Constitution. They faced secessionists of the Confederate States of America, who advocated for states' rights to expand slavery.
+
+Answer this question: when did the civil war happen in america?
+Solution:OK... The relevant information is: The American Civil War was fought in the United States from 1861 to 1865.
+from 1861 to 1865.
+
+Student A:Context: "I'm Lovin' It" is a song recorded by American singer-songwriter Justin Timberlake. It was written by Pusha T and produced by The Neptunes.
+
+Question: who sang the mcdonalds jingle im loving it?
+Student B:OK... To answer this question, we should know that: "I'm Lovin' It" is a song recorded by American singer-songwriter Justin Timberlake.
+American singer - songwriter Justin Timberlake.
+
+Student A:The winner was 23-year-old Yoanna House from Jacksonville, Florida.
+
+Based on this passage, who won americas next top model cycle 2?
+Student B:

@@ -1,0 +1,27 @@
+Reasoning and answer: Jack's mother asked him to buy 2 * 4 = 8 bottles of water. Thus Jack bought 4 + 8 = 12 bottles of water in total. Altogether, the bottles of water cost 12 * $2 = $24. The cheese cost 1 / 2 * $10 = $5. So Jack spent $24 + $5 = $29 on water and cheese. Since he started with $100, he now has $100 - $29 = $71 left.
+The answer: 71
+What was the question?
+Question: Jack went to a supermarket with $100 and bought 4 bottles of water. Then his mother called him and asked him to buy twice as many bottles as he already bought. Each bottle cost $2. Finally, he also bought half a pound of cheese and 1 pound of cheese costs $10. How much money does Jack have remaining?
+
+The fixer used 30 / 100 * 400 = 120 nails to fix the kitchen. The number of nails remaining in the container after he fixes the kitchen is 400 - 120 = 280. He also uses 70 / 100 * 280 = 196 of the nails remaining in the container to fix the fence. The total number of nails which the fixer hasn't used is 280 - 196 = 84.
+The answer: 84
+Reverse engineering the question: A fixer uses 30% of the nails in a container to repair the kitchen. He also used 70% of the remaining nails in the container to repair the fence. If there were 400 nails in the container, how many nails are remaining?
+
+Reasoning and answer: Over the movies run it made 120 * 3.5 = 420 million. So the production company made 420,000,000 * .6 = $252,000,000. So they got a profit of 252,000,000 - 60,000,000 = $192,000,000.
+The answer: 192000000
+What was the question?
+Question: A new movie gets released and makes $120 million in the box office for its opening weekend. It ends up making 3.5 times that much during its entire run. If the production company gets to keep 60%, how much profit did they make if the movie cost $60 million to produce?
+
+If Coco used his oven 25 hours last month and its energy consumption is 2.4 kW per hour, then we consumed a total of 25 * 2.4 = 60 kW on his oven last month. If the price of electricity is $0.10 per kW, then 60 kW would cost = $0.10 * 60 = $6.
+The answer: 6
+Reverse engineering the question: The electricity price in Coco's town is $0.10 per kW. Coco's new oven has a consumption rate of 2.4 kWh (kilowatt-hours). How much will Coco pay for using his oven only if he used it for a total of 25 hours last month?
+
+Reasoning and answer: On Tuesday, Oliver worked out for 4 - 2 = 2 hours. On Wednesday he decided to work out twice as much as on Monday, so for 2 * 4 = 8 hours. On Thursday, at home, Oliver trained twice as much as on Tuesday, so for 2 * 2 = 4 hours. In total Oliver trained for 4 + 2 + 8 + 4 = 18 hours.
+The answer: 18
+What was the question?
+Question: Oliver is working out in a gym. On Monday he worked out for 4 hours, and the next day for 2 hours less. On Wednesday he decided to work out twice as much as on Monday. On Thursday the gym was closed, so Oliver needed to exercise at home which took twice as much time as on Tuesday. How many hours in total have Oliver worked out during these four days?
+
+Reasoning and answer: Altogether, Jim has 200g + 100g + 100g = 400g of flour. He can therefore bake 400g / 200g = 2 loaves of bread.
+The answer: 2
+What was the question?
+Question:

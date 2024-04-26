@@ -1,0 +1,22 @@
+Student A:The number π (/ paɪ /) is a mathematical constant. Originally defined as the ratio of a circle's circumference to its diameter, it now has various equivalent definitions and appears in many formulas in all areas of mathematics and physics. It is approximately equal to 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi".
+
+When was pi first used in its present form?
+Student B:OK... To answer this question, we should know that: It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi".
+the mid-18th century.
+
+Student A:Context: Those elected or nominated (by the President) to either house of Parliament are referred to as members of parliament (MP). The Members of Parliament, Lok Sabha are directly elected by the Indian public voting in Single-member districts and the Members of Parliament, Rajya Sabha are elected by the members of all of the State Legislative Assembly by proportional representation. The Parliament has a sanctioned strength of 545 in Lok Sabha including the 2 nominees from the Anglo-Indian Community by the President, and 245 in Rajya Sabha including the 12 nominees from the expertise of different fields of science, culture, art and history. The Parliament meets at Sansad Bhavan in New Delhi.
+
+Question: lok sabha or rajya sabha which is bigger?
+Student B:OK... To answer this question, we should know that: The Parliament has a sanctioned strength of 545 in Lok Sabha including the 2 nominees from the Anglo-Indian Community by the President, and 245 in Rajya Sabha including the 12 nominees from the expertise of different fields of science, culture, art and history.
+Lok Sabha.
+
+Student A:A school shooting occurred at Marjory Stoneman Douglas High School in Parkland, Broward County, Florida, part of the Miami metropolitan area, on February 14, 2018. Seventeen people -- fourteen students and three staff members -- were fatally shot and seventeen others were wounded, making the shooting one of the deadliest school massacres. After being identified by witnesses and arrested by the Broward County Sheriff's Office shortly afterward, 19-year-old Nikolas Cruz confessed to being the perpetrator. He was charged with 17 counts of premeditated murder and 17 counts of attempted murder. Police and prosecutors have not yet offered a motive and are investigating "a pattern of disciplinary issues and unnerving behavior". The massacre surpassed the 1999 Columbine High School massacre as the deadliest high school shooting in American history.
+
+Based on this passage, how old was the shooter in the florida massacre?
+Student B:OK... To answer this question, we should know that: After being identified by witnesses and arrested by the Broward County Sheriff's Office shortly afterward, 19-year-old Nikolas Cruz confessed to being the perpetrator.
+19.
+
+Student A:In the film version of South Pacific, the first and second scenes of the play are switched around. Because of the switch, Emile enters later in the film, and "Some Enchanted Evening" is not heard until nearly 45 minutes into the film, while in the original stage version it is heard about 15 minutes after Act I begins. In the film, the song is sung by another Metropolitan Opera bass, Giorgio Tozzi, who dubbed the singing for actor Rossano Brazzi. Tozzi's version finished at No. 28 on the 2004 American Film Institute list and television special, AFI's 100 Years ... 100 Songs, selecting the top 100 songs in American cinema.
+
+Answer this question based on the passage: who sang some enchanted evening in the movie south pacific?
+Student B:

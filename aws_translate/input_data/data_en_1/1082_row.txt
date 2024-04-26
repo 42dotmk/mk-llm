@@ -1,0 +1,27 @@
+Reasoning and answer: He has 20 white marbles because 100 x .2 = 20. He has 30 black marbles because 100 x .3 = 30. He has 50 color marbles because 100 - 20 - 30 = 50. He earns $1 from white marbles because 20 x .05 = 1. He earns $3 from the black marbles because 30 x .1 = 3. He earns $10 from the colors because 50 x .2 = 10. He earns $14 in total because 1 + 3 + 10 = 14.
+The answer: 14
+What was the question?
+Question: Alvin is selling his marble set. He has 100 marbles. 20% are white, 30% are black, and the rest are different colors. He sells the white ones for a nickel each, the black ones for a dime each, and the colors for $0.20 each. How much does he earn?
+
+Each cm contains 10mm so 1165cm is 1165 * 10 = 11650mm. 154 - 150 = 4 pieces of the rope are 100mm each in length. The 4 pieces have a total length of 4 * 100 = 400mm. There is a length of 11650 - 400 = 11250mm left. 11250 mm into 150 equal pieces will give each piece as 11250 / 150 = 75mm long.
+The answer: 75
+Reverse engineering the question: A 1165 cm long rope is cut into 154 pieces. 150 of the pieces are equally sized and the remaining pieces are 100mm each. Find the length of each of the equal pieces in millimeters.
+
+Reasoning and answer: Krishna won 3 / 4 * 8 rounds = 6 rounds. If they played eight rounds, Callum won 8 rounds - 6 rounds = 2 rounds. If a round earns one 10 points, Callum got 2 rounds * 10 points / round = 20 points.
+The answer: 20
+What was the question?
+Question: Krishna and Callum are playing a game where they earn 10 points if they win any round. If they played eight matches and Krishna won 3/4 of the matches, what is the total number of points that Callum earned?
+
+William spends 4 + 7 + 4 + 9 = 24 minutes washing a normal car. He washed 2 normal cars, so he spent 24 * 2 = 48 minutes on the normal cars. He took twice as long as one car for the SUV, so he took 24 * 2 = 48 minutes on the SUV. Thus, William spent 48 + 48 = 96 minutes washing all the vehicles.
+The answer: 96
+Reverse engineering the question: William washes cars as a side job. He typically spends 4 minutes washing a car’s windows, 7 minutes washing the car body, 4 minutes cleaning the tires, and 9 minutes waxing the car. This morning he washed 2 normal cars and one big SUV, which took twice as long as a normal car. How many minutes did William spend washing all the vehicles?
+
+Reasoning and answer: The number of eyes from the spiders is 3 * 8 = 24 eyes. The number of eyes from the ants is 50 * 2 = 100 eyes. The total number of eyes among Nina’s insects is 24 + 100 = 124 eyes.
+The answer: 124
+What was the question?
+Question: Nina enjoys keeping insects as pets. She has 3 spiders and 50 ants. Each spider has 8 eyes. Each ant has 2 eyes. How many eyes are there in total among Nina’s pet insects?
+
+Reasoning and answer: The second neighborhood uses 150 * 2 = 300 barrels of water. The third neighborhood uses 300 + 100 = 400 barrels of water. The first, second, and third neighborhoods together use 150 + 300 + 400 = 850 barrels of water. Thus, the fourth neighborhood has 1200 - 850 = 350 barrels of water left for it to use.
+The answer: 350
+What was the question?
+Question:

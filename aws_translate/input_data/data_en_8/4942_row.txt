@@ -1,0 +1,19 @@
+Instructions: In this task, you need to write an incorrect answer to the given question. Along with the question, you are also given the correct answer(s) and the associated paragraph. An incorrect answer should be closely related to the content of the paragraph and/or the question but will not truthfully answer the question. Your incorrect answers should be similar to the given correct answer such that it will pose a challenge for students to distinguish the two. A good incorrect answer should prevent those who skip the paragraph from answering the question. The incorrect answer should not be trivial, in the sense that they should not be easily eliminated without reading the paragraph.
+Input: Paragraph- Sent 1: Responding to a wave of public dismay over the first designs for rebuilding Lower Manhattan, Gov. George Pataki has sent word that it's time to go back to the drawing board.
+Sent 2: It is the right message, sent while it is still early enough to do something constructive about the disappointing quality of the work so far.
+Sent 3: The governor, like Mayor Michael Bloomberg, now seems committed to creating a better mix of uses for ground zero, and a 24-hour community in Manhattan's downtown.
+Sent 4: While rethinking the plans will delay the original rebuilding schedule slightly, it does not need to stall progress if the governor keeps the pressure on the Lower Manhattan Development Corp. and the Port Authority of New York and New Jersey.
+Sent 5: New York cannot afford to have a gaping hole that mocks the city and its process for rebuilding what was destroyed.
+Sent 6: Pataki openly questioned the Port Authority's requirement that any plan for the site replace all the office, hotel and retail square footage lost in the attack on Sept. 11.
+Sent 7: More than anything else, that specification limited the designs to the undistinguished options presented two weeks ago.
+Sent 8: Renegotiating that issue with the World Trade Center leaseholders should begin immediately.
+Sent 9: Opening the process to other designers, both here and internationally, will help separate this urban plan from the ordinary.
+Sent 10: The city also needs to begin openly discussing what happens underground, in particular with the transportation network.
+Sent 11: At this point, planners have focused on short-term repair of PATH and subway lines, with medium-range proposals being shopped in Washington that could untangle the disorganized web of subway lines downtown.
+Sent 12: Within the next few weeks the Lower Manhattan Development Corp. and the Port Authority should offer some bigger ideas about how to connect the downtown area better to the rest of the region.
+Sent 13: Lowering West Street alongside the World Trade Center site and building a park or esplanade on top is another option that has been popular with those reviewing the first six public proposals.
+Sent 14: But it would be expensive, and the governor, the mayor and their friends in Washington will have to look at long-range ways to pay the bill.
+Sent 15: Pataki's recent remarks are a sign that he understands how central the rebuilding of Lower Manhattan will be to his own political legacy.
+Sent 16: Now he needs to follow through with action, to keep demonstrating that his core concern is coming up with the best possible plan, not simply keeping the issue on hold until after this fall's election. 
+Question: What was the gaping hole that mocked the city from?.
+Output:

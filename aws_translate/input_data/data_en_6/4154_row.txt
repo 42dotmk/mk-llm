@@ -1,0 +1,27 @@
+Reasoning and answer: Because it is cheaper to buy the packs of 5, the teacher should satisfy the 11 students who want the vampire theme with 2 packs of 5 and 1 individual bag. This will cost the teacher 2 * 3 + 1 * 1 = $7. Similarly, the 14 students who want a pumpkin - themed bag can be satisfied by 2 packs of 5 and 4 individual bags at a cost of 2 * 3 + 4 * 1 = $10. Therefore, the teacher must spend 7 + 10 = $17.
+The answer: 17
+What was the question?
+Question: An elementary school teacher is making Halloween goodie bags for her class. She wants the bags to be personalized, so she surveys her students asking whether they'd like a vampire-themed bag or a pumpkin-themed bag. Of her 25 students, 11 indicate they want the vampire-themed bag and 14 indicate they want the pumpkin-themed bag. The store the teacher shops at sells packs of 5 of each theme at a price of $3 per package, as well as individual bags of each theme at a price of $1 each. What is the least amount of money the teacher can spend on the bags if she buys every student the theme they requested?
+
+Sonny gave 12 + 9 + 7 = 28 boxes of cookies. Therefore, he was left with 45 - 28 = 17 boxes of cookies.
+The answer: 17
+Reverse engineering the question: Sonny received 45 boxes of cookies from his friend yesterday. He gave 12 to his brother, 9 to his sister, and he gave 7 to his cousin. How many boxes of cookies were left for him?
+
+Reasoning and answer: Saly saves 1 / 2 * $6 / day = $3 / day. Since each year have 365 days, the total amount of money Sally will save in a year is $3 / day * 365 days / year = $1095 / year. Bob saves 1 / 2 * $4 / day = $2 / day. The total amount of money Bob will have saved in a year is $2 / day * 365 days / year = $730 / year. In total, Sally and Bob would have saved $730 + $1095 = $1825.
+The answer: 1825
+What was the question?
+Question: Sally and Bob have made plans to go on a trip at the end of the year. They both decide to work as babysitters and save half of what they've earned for their trip. If Sally makes $6 per day and Bob makes $4 per day, how much money will they both have saved for their trip after a year?
+
+The number of truck stamps is 11 + 9 = 20. The number of rose stamps is 20 − 13 = 7. Bella bought 11 + 20 + 7 = 38 stamps in all.
+The answer: 38
+Reverse engineering the question: Bella bought stamps at the post office. Some of the stamps had a snowflake design, some had a truck design, and some had a rose design. Bella bought 11 snowflake stamps. She bought 9 more truck stamps than snowflake stamps, and 13 fewer rose stamps than truck stamps. How many stamps did Bella buy in all?
+
+Reasoning and answer: While camping there was 3 + 6 + 5 = 14 mm of rain in 3 days. Greg experienced 26 – 14 = 12 mm less rain at the campsite.
+The answer: 12
+What was the question?
+Question: While Greg was camping with his family for a week, it rained for 3 days. When he looked at the weather records, he saw that the amount of rain was 3 mm, 6 mm, and 5 mm on the three days. During the same week, it rained 26 mm at his house. How much less rain did Greg experience while camping?
+
+Reasoning and answer: The total cost for roses is 20 * 5 = $100. Nadia bought 3 / 4 * 20 = 15 lilies. Each lily costs 5 * 2 = $10. She used 10 * 15 = $150 in total to buy lilies. To buy all the flowers, Nadia used 150 + 100 = $250.
+The answer: 250
+What was the question?
+Question:

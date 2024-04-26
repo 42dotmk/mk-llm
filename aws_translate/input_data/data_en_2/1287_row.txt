@@ -1,0 +1,21 @@
+a: The relevant information to answer the above question is: Chris Pine as Jack Frost, the spirit of winter.
+Chris Pine
+q: Context: Chris Pine as Jack Frost, the spirit of winter. Jack Frost is a teenage hellion who enjoys creating mischief and has no interest in being bound by rules or obligations; he just wants to use his staff to spread his winter magic for the sake of fun, but also wants to be believed in. At the end of the film, Jack became the Guardian of Fun. While he can not fly, per se, he can be carried on currents of wind, allowing him to span great distances. Alec Baldwin as Nicholas St. North (Santa Claus), the leader of the guardians, and the Guardian of Wonder. He lives at the North Pole in the Ice Castle and is served by loyal North Pole natives, the Yetis (who built the castle and workshop) and the Christmas Elves. He carries a Russian accent / culture persona. Hugh Jackman as E. Aster Bunnymund (Easter Bunny), the fabled keeper and bringer of Easter eggs and the Guardian of Hope. He has an Australian accent. Isla Fisher as Tooth (Tooth Fairy), the mythical tooth collector and the Guardian of Memories. Tooth is part human and part hummingbird. Assisted by mini fairies that are split-off extensions of herself, she collects the children's teeth, which hold their most precious memories. Tooth stores them in her palace and returns memories when they are needed the most. She seems to have a crush on Jack, (or more acurately, his pure white teeth). Jude Law as Pitch Black (The Boogeyman), the essence of fear and the Nightmare King. Dakota Goyo as Jamie Bennett, a child who has not given up on believing in the Guardians. Sandy (The Sandman), the Guardian of Dreams is the oldest of the Guardians and the first Guardian chosen by Man in the Moon. He does not speak, but communicates through sand images that he conjures above his head. Georgie Grieve as Sophie Bennett, Jamie's little sister Dominique Grund as Cupcake Olivia Mattingly as Pippa
+
+Question: who voiced jack in rise of the guardians?
+
+a: This is the relevant information: Clapton wrote the song about Pattie Boyd.
+Pattie Boyd
+q: "Wonderful Tonight" is a ballad written by Eric Clapton. It was included on Clapton's 1977 album Slowhand. Clapton wrote the song about Pattie Boyd. The female vocal harmonies on the song are provided by Marcella Detroit (then Marcy Levy) and Yvonne Elliman.
+
+Answer this question based on the passage: who was you look wonderful tonight written for?
+
+a: The important part for answering this question is: "My Name Is Tallulah"-Louise "Liberty" Williams
+Louise `` Liberty '' Williams
+q: "Bugsy Malone" -- Paul Williams "Fat Sam's Grand Slam" -- Paul Williams "Tomorrow" "Bad Guys" "I'm Feeling Fine" "My Name Is Tallulah"-Louise "Liberty" Williams "So You Wanna Be a Boxer?" "Ordinary Fool" "Down and Out" "You Give a Little Love" -- Paul Williams
+
+Answer this question: who sang my name is tallulah in bugsy malone?
+
+a: To answer this question, we should know that: The chain's origin can be traced to the Dwarf Grill (now the Dwarf House), a restaurant opened by S. Truett Cathy, the chain's former chairman and CEO, in 1946.
+S. Truett Cathy
+q:

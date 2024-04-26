@@ -1,0 +1,19 @@
+Question: The Charleston is a dance named for the harbor city of Charleston, South Carolina. The rhythm was popularized in mainstream dance music in the United States by a 1923 tune called "The Charleston" by composer / pianist James P. Johnson which originated in the Broadway show Runnin' Wild and became one of the most popular hits of the decade. Runnin' Wild ran from 29 October 1923, through 28 June 1924. The peak year for the Charleston as a dance by the public was mid-1926 to 1927.
+
+Answer this question: where did the charleston dance get its name?
+Answer: To answer the above question, the relevant sentence is: The Charleston is a dance named for the harbor city of Charleston, South Carolina. The answer is the harbor city of Charleston , South Carolina.
+
+Question: The Florida Reef (also known as the Great Florida Reef, Florida reefs, Florida Reef Tract and Florida Keys Reef Tract) is the only living coral barrier reef in the continental United States. It is the third largest coral barrier reef system in the world (after the Great Barrier Reef and Belize Barrier Reef). It lies a few miles seaward of the Florida Keys, is about 4 miles (6 to 7 km) wide and extends (along the 20 meter depth contour) 270 km (170 mi) from Fowey Rocks just east of Soldier Key to just south of the Marquesas Keys. The barrier reef tract forms a great arc, concentric with the Florida Keys, with the northern end, in Biscayne National Park, oriented north-south and the western end, south of the Marquesas Keys, oriented east-west. The rest of the reef outside Biscayne National Park lies within John Pennekamp Coral Reef State Park and the Florida Keys National Marine Sanctuary. Isolated coral patch reefs occur northward from Biscayne National Park as far as Stuart, in Martin County. Coral reefs are also found in Dry Tortugas National Park west of the Marquesas Keys. There are more than 6,000 individual reefs in the system. The reefs are 5,000 to 7,000 years old, having developed since sea levels rose following the Wisconsinan glaciation.
+
+Answer this question: where are the coral reefs located in florida?
+Answer: The important part for answering this question is: It lies a few miles seaward of the Florida Keys, is about 4 miles (6 to 7 km) wide and extends (along the 20 meter depth contour) 270 km (170 mi) from Fowey Rocks just east of Soldier Key to just south of the Marquesas Keys. The answer is a few miles seaward of the Florida Keys.
+
+Question: Lifetime's first season of Project Runway All Stars consisted of twelve one-hour episodes featuring 13 past contestants competing in a series of challenges. The airdate was set for November 3, 2011, but was pushed back to January 5, 2012. The season was hosted by Angela Lindvall and the recurring judges were fashion designers Isaac Mizrahi and Georgina Chapman. The winner was Mondo Guerra.
+
+Answer this question based on the passage: who won project runway all stars season 1?
+Answer: To answer the above question, the relevant sentence is: The winner was Mondo Guerra. The answer is Mondo Guerra.
+
+Question: The retina is the innermost, light-sensitive layer, or "coat", of shell tissue of the eye of most vertebrates and some molluscs. The optics of the eye create a focused two-dimensional image of the visual world on the retina, which translates that image into electrical neural impulses to the brain to create visual perception, the retina serving much the same function as film or a CCD in a camera.
+
+Answer this question based on the passage: where is the retina located in the eye?
+Answer:

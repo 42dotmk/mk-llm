@@ -1,0 +1,34 @@
+Student A:The second adaptation of the book (following the 1972 animated television special), the film builds on the book by expanding the story of the Lorax and Ted, the previously unnamed boy who visits the Once-ler. The cast includes Danny DeVito as the Lorax, Ed Helms as the Once-ler and Zac Efron as Ted. New characters introduced in the film are Audrey, Ted's love interest (voiced by Taylor Swift), Aloysius O'Hare (Rob Riggle), Mrs. Wiggins, Ted's mother (Jenny Slate), and Grammy Norma, Ted's grandmother (Betty White).
+
+Voice of the once ler in the lorax?
+Student B:OK... The relevant sentence in the passage is: The cast includes Danny DeVito as the Lorax, Ed Helms as the Once-ler and Zac Efron as Ted.
+Ed Helms.
+
+Problem:Context: The SpongeBob Movie: Sponge Out of Water was released in the United States on February 6, 2015. The film grossed over $323 million worldwide against its $74 million budget, making it the fifth highest-grossing animated film of 2015.
+
+Question: when did spongebob sponge out of water come out?
+Solution:OK... To answer this question, we should know that: The SpongeBob Movie: Sponge Out of Water was released in the United States on February 6, 2015.
+February 6 , 2015.
+
+Student A:Passage: In Judaism and Christianity, its authorship is attributed to a prophet who lived in the Assyrian Period and named himself in the first verse, Obadiah. His name means "servant of Yahweh".
+
+Question: Based on this passage, who wrote the book of obadiah in the bible?
+Student B:OK... The relevant information is: In Judaism and Christianity, its authorship is attributed to a prophet who lived in the Assyrian Period and named himself in the first verse, Obadiah.
+Obadiah.
+
+Problem:Passage: In 2004, the company sold its first camera system, which used 35 mm film. Digital still and video cameras were later introduced. As of 2014, a fixed-lens HD video camera with a wide 170-degree lens was available; two or more can be paired to create 360 video.
+
+Question: Based on this passage, when did the first go pro come out?
+Solution:OK... The relevant information is: In 2004, the company sold its first camera system, which used 35 mm film.
+2004.
+
+Student A:"Theme from Mahogany (Do You Know Where You're Going To)" is a song written by Michael Masser and Gerald Goffin, and initially recorded by American singer Thelma Houston in 1973, and then most notably by Diana Ross as the theme to the 1975 Motown / Paramount film Mahogany.
+
+Who wrote the song do you know where you're going to?
+Student B:OK... The relevant sentence in the passage is: "Theme from Mahogany (Do You Know Where You're Going To)" is a song written by Michael Masser and Gerald Goffin, and initially recorded by American singer Thelma Houston in 1973, and then most notably by Diana Ross as the theme to the 1975 Motown / Paramount film Mahogany.
+Michael Masser.
+
+Student A:In the federal Congress, the role of the Majority Leader of the United States House of Representatives and the Majority Leader of the United States Senate differ slightly. In the United States Senate, the majority leader is the chief spokesperson for the majority party, as the president of the Senate is also the Vice-President of the United States, and the President pro tempore, though technically a substitute for the president of the Senate, is in reality a largely ceremonial position (albeit powerful nonetheless, being third in line of succession to the presidency).
+
+Answer this question based on the passage: what power does the senate majority leader have?
+Student B:

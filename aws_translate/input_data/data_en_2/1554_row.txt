@@ -1,0 +1,21 @@
+Find the right ending to this passage.
+
+Washington (CNN) -- Dashing the hopes of Democratic lawmakers Sunday, Sen. Joseph Lieberman signaled he would oppose a health care bill that includes a proposal to expand Medicare to people as young as 55. The independent Connecticut senator has told Senate Majority Leader Harry Reid, D-Nevada, that he would vote against the Medicare at 55 proposal. He also said he would oppose cloture and work with the GOP if it ends up in the final version of the bill, two Democratic sources told CNN Sunday. Unanimous Republican opposition so far means Senate Democrats need all 60 votes in their caucus, which includes Lieberman, to pass the sweeping bill.
+
+Republicans and some moderate
+
+OPTIONS:
+- CNN, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Connecticut, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- D-Nevada, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Democratic, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- GOP, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Harry Reid, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- House, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Joseph Lieberman, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Lieberman, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Medicare, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Republican, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Senate, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Senate Democrats, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.
+- Washington, along with the health insurance industry, oppose the public option, saying it would be a first step toward a government takeover of the entire health care system.

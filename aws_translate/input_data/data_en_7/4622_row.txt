@@ -1,0 +1,25 @@
+q... Passage: As acoustic sensors in mammals, stereocilia are lined up in the organ of Corti within the cochlea of the inner ear. In hearing, stereocilia transform the mechanical energy of sound waves into electrical signals for the hair cells, which ultimately leads to an excitation of the auditory nerve. Stereocilia are composed of cytoplasm with embedded bundles of cross-linked actin filaments. The actin filaments anchor to the terminal web and the top of the cell membrane and are arranged in grade of height. As sound waves propagate in the cochlea, the movement of endolymph fluid bends the stereocilia. If the direction of movement is towards the taller stereocilia, tension develops in the tip links, mechanically opening transduction channels near the tips. Cations from the endolymph flow into the cell, depolarizing the hair cell and triggering the release of neurotransmitters to nearby nerves, which send an electrical signal to the central nervous system.
+
+Question: Based on this passage, stereocillia on the organ of corti are arranged?
+a... To answer the above question, the relevant sentence is: As acoustic sensors in mammals, stereocilia are lined up in the organ of Corti within the cochlea of the inner ear.
+The answer is within the cochlea of the inner ear
+
+
+q... The Mid-Bay Bridge is a 141-span, 3.6-mile (5.8 km), two-lane toll bridge in Okaloosa County in the Florida Panhandle. It connects U.S. Highway 98 in Destin to State Road 20 in Niceville. The bridge generally runs north-south; the approaches to the bridge carry the State Road 293 designation while the bridge itself carries the TOLL 293 shield.
+
+Answer this question: how long is the mid bay bridge in destin fl?
+a... The important part for answering this question is: The Mid-Bay Bridge is a 141-span, 3.6-mile (5.8 km), two-lane toll bridge in Okaloosa County in the Florida Panhandle.
+The answer is 3.6 - mile ( 5.8 km )
+
+
+q... After the Allied invasion of Italy, an exchange rate was set at US $1 = 120 lire (1 British pound = 480 lire) in June 1943, reduced to 100 lire the following month. In German occupied areas, the exchange rate was set at 1 Reichsmark = 10 lire. After the war, the value of the lira fluctuated, before Italy set a peg of US $1 = 575 lire within the Bretton Woods System in November 1947. Following the devaluation of the pound, Italy devalued to US $1 = 625 lire on 21 September 1949. This rate was maintained until the end of the Bretton Woods System in the early 1970s. Several episodes of high inflation followed until the lira was replaced by the euro.
+
+What was italy's currency before the euro?
+a... To answer the question, consider the following: Several episodes of high inflation followed until the lira was replaced by the euro.
+The answer is the lira
+
+
+q... Context: Down syndrome is one of the most common chromosome abnormalities in humans. It occurs in about one per 1000 babies born each year. In 2015, Down syndrome was present in 5.4 million individuals and resulted in 27,000 deaths down from 43,000 deaths in 1990. It is named after John Langdon Down, the British doctor who fully described the syndrome in 1866. Some aspects of the condition were described earlier by Jean-Étienne Dominique Esquirol in 1838 and Édouard Séguin in 1844. In 1957, the genetic cause of Down syndrome, an extra copy of chromosome 21, was discovered.
+
+Question: where does the name down syndrome come from?
+a...

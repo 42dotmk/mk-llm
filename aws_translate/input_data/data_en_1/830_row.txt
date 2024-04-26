@@ -1,0 +1,25 @@
+A dollar is 100 cents, so standard postage is 108 cents. Deborah’s four letters cost 108 * 4 = 432 cents for standard postage. She paid 460 - 432 = 28 cents for international shipping on two letters. Thus, the additional international shipping charge is 28 / 2 = 14 cents per letter.
+The answer: 14
+Reverse engineering the question: Deborah has four letters to mail. Standard postage is $1.08 per letter, with an additional charge for international mail. Deborah is mailing two letters internationally, and she is paying $4.60 to mail four letters. How many cents is the additional charge per letter for international shipping?
+
+Reasoning and answer: Lexie's brother is 8 - 6 = 2 years old. Her sister is 8 x 2 = 16 years old. The age difference between her brother and sister is 16 - 2 = 14 years.
+The answer: 14
+What was the question?
+Question: Lexie is 6 years older than her brother and her sister is twice her age. If Lexie is 8, what is the age difference between her brother and her sister?
+
+In each round, the 5 players removed a total of 5 * 1 = 5 blocks. In the 5 rounds played, the players removed a total of 5 * 5 = 25 blocks. Adding the block removed by Jess's father in the sixth round, a total of 25 + 1 = 26 blocks were removed. Before the tower fell, there were 54 - 26 = 28 blocks.
+The answer: 28
+Reverse engineering the question: Jess and her family play Jenga, a game made up of 54 stacked blocks in which each player removes one block in turns until the stack falls. The 5 players, including Jess, play 5 rounds in which each player removes one block. In the sixth round, Jess's father goes first. He removes a block, causing the tower to almost fall. Next, Jess tries to remove another block knocking down the tower. How many blocks did the tower have before Jess's turn?
+
+Reasoning and answer: An hour has 60 minutes. If each call lasts an hour, the total amount of money charged is 60 * .05 = $3 for 1 customer. When she talks to 50 clients in a week, the total amount of money charged is 50 * 3 = $150. In a month of 4 weeks, the phone bill is 150 * 4 = $600.
+The answer: 600
+What was the question?
+Question: Ayla has a customer care job whose primary role is to hear complaints from customers and advise them on the best way to solve their problems. She talks with each customer for a limited amount of time, and each phone call is charged five cents per minute. If each call lasts 1 hour, what's the phone bill at the end of the month if she manages to talk to 50 customers a week?
+
+Macey needs to save $3 - $1.50 = $1.50 more for the shirt. So she needs $1.50 / $0.50 = 3 more weeks to save for the remaining amount.
+The answer: 3
+Reverse engineering the question: Macey saves to buy herself a shirt that costs $3. She was able to save $1.50 already. How many weeks does she need to save for the remaining amount if she saves $0.50 per week?
+
+Per week, one cow produces 108 liters / 6 cows = 18 liters / cow. The cows produced 2160 liters of milk over 5 weeks. So we have 2160 liters / 18 liters / cow = 120 cows. Further, we have to divide 120 cows / 5 weeks = 24 cows.
+The answer: 24
+Reverse engineering the question:

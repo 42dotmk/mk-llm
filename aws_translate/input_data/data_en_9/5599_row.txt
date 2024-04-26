@@ -1,0 +1,31 @@
+To calculate the least living expense for an international student in Toronto, we need to consider several factors, such as housing, transportation, food, utilities, and other miscellaneous expenses. Here's a breakdown of the costs:
+
+1. Housing: Rental prices depend on the area and type of accommodation. On average, university residence or dormitory can cost around CAD 1,000 - CAD 1,500 per month. If you choose to live off-campus, a shared apartment could range from CAD 800 to CAD 1,200 per month.
+
+2. Utilities: Utility costs depend on your housing choice. If you are living in a university dormitory, utilities are often included in the rent. For off-campus accommodations, utilities can vary from CAD 100 to CAD 200 per month.
+
+3. Transportation: A monthly public transportation pass for students in Toronto costs around CAD 122. If you're traveling pre-dominantly within walking distance, you can minimize your transportation expenses.
+
+4. Food: Cooking meals at home is the most cost-effective choice. On average, grocery expenses can range from CAD 200 to CAD 400 per month. Eating out occasionally or in the university cafeteria can bring your food costs to around CAD 400 to CAD 600 per month, depending on your food choices and frequency of eating out.
+
+5. Miscellaneous Expenses: These include expenses such as entertainment, personal care items, clothing, and more. Depending on your needs, these can range from CAD 100 to CAD 300 per month.
+
+To be on the lower end of the expenses, an international student might need a minimum budget of CAD 1,300 to CAD 1,700 per month to cover all living expenses in Toronto.
+
+Now let's address the second part of the question about the difference between sociology and psychology:
+
+Sociology and psychology are two distinct fields of study that explore human behavior and society, but with different perspectives and methodologies.
+
+Sociology is the scientific study of society and human interaction within social groups. It focuses on analyzing the structures, cultures, and institutions of societies to understand how they influence individual and collective behavior. Sociologists observe patterns, norms, social inequalities, and interactions to identify how various social factors contribute to human behavior, including race, class, gender, age, and religion.
+
+Some primary research areas in sociology include families, organizations, crime, urbanization, social inequality, social change, and social movements.
+
+On the other hand, psychology is the scientific study of the human mind and its functions, particularly those affecting behavior in a given context. Psychologists are interested in understanding mental processes, emotions, motivations, and personality traits that drive individual actions. The focus of psychology lies predominantly at the individual level, but it also touches upon interpersonal and group dynamics.
+
+Major fields in psychology include cognitive, developmental, clinical, neuropsychology, social, industrial-organizational, and forensic psychology, among others.
+
+In summary, sociology primarily examines social structures and group dynamics, while psychology focuses on individual mental processes and behaviors.
+
+Regarding the multi-choice problem, it seems that the question is asking whether two distinct questions are the same. Since these questions - the living expense calculation for Toronto and the difference between sociology and psychology - are not the same, the answer to the multi-choice problem would be:
+
+i. no

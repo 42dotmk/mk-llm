@@ -1,0 +1,23 @@
+Ques & Ans: The ceiling is that of the Sistine Chapel, the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named. It was painted at the commission of Pope Julius II. The chapel is the location for papal conclaves and many other important services.
+
+Answer this question: who was pope when the sistine chapel was painted?
+Pope Sixtus IV
+Stream of consciousness: The relevant information is: The ceiling is that of the Sistine Chapel, the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named.
+
+Ques & Ans: Context: They made a list of songs to learn over the summer break, and Doughty landed a summer job to buy his first keyboard. On his Farfisa organ, he learned "Light My Fire" by The Doors. The members returned to school in the fall of 1967, and had their first rehearsal before classes started. They named the band REO Speedwagon, from the REO Speed Wagon, a flatbed truck Doughty had studied in transportation history, and the initials are those of its founder Ransom E. Olds. Rather than pronouncing REO as a single word as the motor company did, they chose to spell out the name with the individual letters each pronounced ("R-E-O"). An ad in the school newspaper produced their first job, a fraternity party that turned into a food fight. They continued to perform cover songs in campus bars, fraternity parties, and university events. The first lineup consisted of Doughty on keyboards, Gratzer on drums and vocals, Joe Matt on guitar and vocals, Mike Blair on bass and vocals.
+
+Question: where did the band reo speedwagon get its name?
+from the REO Speed Wagon , a flatbed truck Doughty had studied in transportation history , and the initials are those of its founder Ransom E. Olds
+Stream of consciousness: The relevant sentence in the passage is: They named the band REO Speedwagon, from the REO Speed Wagon, a flatbed truck Doughty had studied in transportation history, and the initials are those of its founder Ransom E. Olds.
+
+Ques & Ans: Passage: The Gandhi -- Irwin Pact was a political agreement signed by Mahatma Gandhi and the then Viceroy of India, Lord Irwin on 5 March 1931 before the second Round Table Conference in London. Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931
+
+Question: Based on this passage, who announced a vague offer of dominion status for india in 1929?
+the viceroy Lord Irwin
+Stream of consciousness: This is the relevant information: Before this, the viceroy Lord Irwin announced in October 1929, a vague offer of' dominion status' for India in an unspecified future and a Round Table Conference to discuss a future constitution. The second round table conference which was held in 1931
+
+Ques & Ans: When Ali Came to Ireland is a 2012 Irish documentary film directed by Ross Whitaker. It tells the story of how Killorglin-born circus strongman and publican, Michael "Butty" Sugrue, put up £ 300,000 and persuaded Muhammad Ali to make his first visit to Ireland to fight against Alvin Lewis in Croke Park on 19 July 1972.
+
+Who did muhammad ali fight in croke park?
+Alvin Lewis
+Stream of consciousness:

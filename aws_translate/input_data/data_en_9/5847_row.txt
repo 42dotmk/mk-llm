@@ -1,0 +1,27 @@
+Reasoning and answer: The capacity of the first tank is 7000 gallons, and if it is filled up to 3 / 4 full, it carries 3 / 4 * 7000 = 5250 gallons. When the second tank is filled up to 4 / 5 of its capacity, it carries 4 / 5 * 5000 = 4000 gallons. The total amount of water in the first two tanks is 5250 + 4000 = 9250 gallons. If Mr. Finnegan fills the third tank with water up to half its capacity, the tank fills up with 1 / 2 * 3000 = 1500 gallons. In total, the three tanks have 9350 + 1500 = 10850 gallons of water.
+The answer: 10850
+What was the question?
+Question: Mr. Finnegan has 3 tanks with a capacity of 7000 gallons, 5000 gallons, and 3000 gallons, respectively. If he fills the first tank up to 3/4 full, the second tank with water up to 4/5 of its capacity, and the third tank up to half of its capacity, how many gallons in total are in the tanks?
+
+Three times the sum of marbles that Atticus, Jensen, and Cruz have is equal to 60, meaning together they have 60 / 3 = 20 marbles. If Atticus has half as many marbles as Jensen, and Atticus has four marbles, Jensen has 2 * 4 = 8 marbles. Together, Atticus and Jensen have 8 + 4 = 12 marbles. Since the sum of marbles that Atticus, Jensen, and Cruz have is equal to 20, and Atticus and Jensen have 12 marbles, Cruz has 20 - 12 = 8 marbles.
+The answer: 8
+Reverse engineering the question: Three times the sum of marbles that Atticus, Jensen, and Cruz have is equal to 60. If Atticus has half as many marbles as Jensen, and Atticus has 4 marbles, how many marbles does Cruz have?
+
+Reasoning and answer: Hallie works a total of 7 + 5 + 7 = 19 hours. For her hourly pay, she earns 19 * $10 = $190. In tips, she receives a total of $18 + $12 + $20 = $50. The total amount of money Hallie earns is $190 + $50 = $240.
+The answer: 240
+What was the question?
+Question: Hallie is working as a waitress for $10/hour. On Monday, she works for 7 hours, and she receives $18 in tips. On Tuesday she works for 5 hours, and she receives $12 in tips. On Wednesday she works for 7 hours, and she receives $20 in tips. How much money does she earn in total from Monday to Wednesday?
+
+The total cost for the sand is 500 * 10 = $5000. Since each lorry was carrying 10 tons of sand, the twenty lorries carried 20 * 10 = 200 tons. At $40 per ton, Mr. Zander paid 200 * $40 = $8000 for the sand that was delivered to his construction site. Altogether, Mr. Zander paid $8000 + $5000 = $13000 for the delivered construction materials.
+The answer: 13000
+Reverse engineering the question: On a construction site, the Laker cement factory provided 500 bags of cement sold to Mr. Zander at $10 per bag. Mr. Zander also received twenty lorries of construction sand, each carrying 10 tons of sand, sold at $40 per ton. How much money did Mr. Zander pay for these construction materials?
+
+Reasoning and answer: Jack buys 2 * 8 = 16 polka dotted plates. After smashing one, he has 4 - 1 = 3 flower plates left. In total, he has 3 flower plates + 16 polka dotted plates + 8 checked plates = 27 plates.
+The answer: 27
+What was the question?
+Question: Jack has four plates with a flower pattern and 8 plates with a checked pattern. He buys new twice as many polka dotted plates as the number of checked plates he currently has, then smashes one of the flowered plates. How many plates does he have left?
+
+Reasoning and answer: Thor sold 200 / 10 = 20 stuffed animals. Jake sold 20 + 10 = 30 stuffed animals. Quincy sold 200 - 30 = 170 more stuffed animals than Jake.
+The answer: 170
+What was the question?
+Question:

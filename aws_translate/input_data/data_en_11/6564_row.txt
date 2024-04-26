@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: During the final stage of World War II, the United States dropped nuclear weapons on the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively. The United States had dropped the bombs with the consent of the United Kingdom as outlined in the Quebec Agreement. The two bombings, which killed at least 129,000 people, remain the only use of nuclear weapons for warfare in history.
+
+Question: Based on this passage, what kind of bomb did the us drop on japan?
+
+Stream of random thoughts: This is the relevant information: During the final stage of World War II, the United States dropped nuclear weapons on the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively.... The answer is nuclear weapons.
+----
+Answer this question please:
+The Indus Valley Civilisation (IVC) or Harappan Civilisation was a Bronze Age civilisation (3300 -- 1300 BCE; mature period 2600 -- 1900 BCE) mainly in the northwestern regions of South Asia, extending from what today is northeast Afghanistan to Pakistan and northwest India. Along with Ancient Egypt and Mesopotamia, it was one of three early cradles of civilisations of the Old World, and of the three, the most widespread.
+
+Answer this question: when did the indus river valley civilization exist?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: The Indus Valley Civilisation (IVC) or Harappan Civilisation was a Bronze Age civilisation (3300 -- 1300 BCE; mature period 2600 -- 1900 BCE) mainly in the northwestern regions of South Asia, extending from what today is northeast Afghanistan to Pakistan and northwest India.... The answer is 3300 -- 1300 BCE ; mature period 2600 -- 1900 BCE.
+----
+Answer this question please:
+Context: Manchester United have won more trophies than any other club in English football, with a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields. United have also won three UEFA Champions Leagues, one UEFA Europa League, one UEFA Cup Winners' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup. In 1998 -- 99, the club became the first in the history of English football to achieve the treble of the Premier League, the FA Cup and the UEFA Champions League. By winning the UEFA Europa League in 2016 -- 17, they became one of five clubs to have won all three main UEFA club competitions, and the only English club to have won every ongoing top-flight honour available to them.
+
+Question: how many premier league titles have man u won?
+
+Stream of random thoughts: To answer the question, consider the following: Manchester United have won more trophies than any other club in English football, with a record 20 League titles, 12 FA Cups, 5 League Cups and a record 21 FA Community Shields.... The answer is 20.
+----
+Answer this question please:
+Passage: At the federal level, Article Two of the United States Constitution states in Section 4 that "The President, Vice President, and all civil Officers of the United States shall be removed from Office on Impeachment for, and conviction of, Treason, Bribery, or other High Crimes and Misdemeanors." The House of Representatives has the sole power of impeaching, while the United States Senate has the sole power to try all impeachments. The removal of impeached officials is automatic upon conviction in the Senate. In Nixon v. United States (1993), the Supreme Court determined that the federal judiciary can not review such proceedings.
+
+Question: Based on this passage, who tries the president if he is impeached?
+

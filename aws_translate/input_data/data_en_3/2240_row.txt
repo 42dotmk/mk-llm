@@ -1,0 +1,25 @@
+q... Passage: The Aruba Natural Bridge was a tourist attraction in Aruba that was formed naturally out of coral limestone. It collapsed on September 2, 2005.
+
+Question: Based on this passage, when did the natural bridge in aruba collapse?
+a... The important part for answering this question is: It collapsed on September 2, 2005.
+The answer is September 2 , 2005
+
+
+q... A replica, depicted as a Carrack, was commissioned by the city of Columbus, Ohio. It was built by the Scarano Brothers Boat Building Company in Albany, New York, who later cut the ship in half and transported it by truck to the Scioto River. The replica cost about 1.2 million dollars. The ship was constructed out of white cedar as opposed to an oak wood used on the original to give the ship a long life in the Scioto River and to reduce cost. The main mast was carved out of a single douglas fir tree and was equipped with a top sail (since removed). The ship was built using power tools, with a hull length of 29.6 m (97 ft), keel length 16.1 m (53 ft), beam 7.9 m (26 ft), depth 3.2 m (10 ft) and load 223.8 metric tons of displacement. The foremast is 9.7 m (32 ft) high, the mainmast is 15.9 m (52 ft) and mizzen mast is 10.4 m (34 ft). The replica was declared by Jose Maria Martinez-Hidalgo, a Spanish marine historian, to be the most authentic replica of the Santa María in the world during the ship's coronation on 12 October 1991.
+
+Based on this passage, what type of wood was the santa maria made of?
+a... The relevant information to answer the above question is: The ship was constructed out of white cedar as opposed to an oak wood used on the original to give the ship a long life in the Scioto River and to reduce cost.
+The answer is oak
+
+
+q... Passage: Holes is a 1998 young adult mystery comedy novel written by Louis Sachar and first published by Farrar, Straus and Giroux. The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present. These interconnecting stories touch on themes such as racism, homelessness, illiteracy, and arranged marriage.
+
+Question: Based on this passage, what children's book was set in camp green lake texas?
+a... To answer the above question, the relevant sentence is: The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft.
+The answer is Holes
+
+
+q... The Fraser River / ˈfreɪzər / is the longest river within British Columbia, Canada, rising at Fraser Pass near Blackrock Mountain in the Rocky Mountains and flowing for 1,375 kilometres (854 mi), into the Strait of Georgia at the city of Vancouver. It is the 10th longest river in Canada. The river's annual discharge at its mouth is 112 cubic kilometres (27 cu mi) or 3,550 cubic metres per second (125,000 cu ft / s), and it discharges 20 million tons of sediment into the ocean.
+
+Based on this passage, where is the fraser river located on a map?
+a...

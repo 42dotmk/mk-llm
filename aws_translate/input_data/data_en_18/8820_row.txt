@@ -1,0 +1,50 @@
+Article:
+
+NASA/JPL/Space Science Institute 
+  
+ Forget diamonds in the sky — it may actually be raining diamonds on Saturn and Jupiter, according to two planetary scientists1. 
+  
+ Researchers have long wondered whether the high pressures inside the giant planets could turn carbon into diamond2, and even though some researchers dispute their claim, Mona Delitsky of California Specialty Engineering in Flintridge, and Kevin Baines of the University of Wisconsin-Madison, now say it is possible. They are laying out their argument this week at a meeting of the American Astronomical Society's Division for Planetary Sciences in Denver, Colorado. 
+  
+ In their scenario, lightning zaps molecules of methane in the upper atmospheres of Saturn and Jupiter, liberating carbon atoms. These atoms then stick onto each other, forming larger particles of carbon soot, which the Cassini spacecraft may have spotted in dark storm clouds on Saturn3. As the soot particles slowly float down through ever-denser layers of gaseous and liquid hydrogen towards the planets' rocky cores, they experience ever greater pressures and temperatures. The soot is compressed into graphite, and then into solid diamonds before reaching a temperature of about 8,000 °C, when the diamond melts, forming liquid diamond raindrops, they say. 
+  
+ Precious rain 
+  
+ Image courtesy of Michael Carroll Alien Seas: Oceans in space (Springer 2013 ) 
+  
+ Inside Saturn, the conditions are right for diamond 'hail' to form, beginning at a depth of about 6,000 kilometres into the atmosphere and extending for another 30,000 km below that, says Baines. He estimates that Saturn may harbour about 10 million tonnes of diamond produced this way, with most of it made up of rocks no bigger than a millimetre and perhaps some chunks spanning 10 centimetres. 
+  
+ "If you had a robot there, it would sit there and collect diamonds raining down," Baines says. Indeed, this is just what happens in a piece of sci-fi the authors wrote to augment a recent non-fiction book chapter4 on the science of Saturn's fluid atmosphere. In their vision of the year 2469, diamonds would be collected on Saturn and used to make the ultra-strong hulls of mining ships delving deep into the planet's interior to collect helium-3 for clean-burning fusion fuel. The diamonds must stay in Saturn to prevent havoc in financial markets on Earth. 
+  
+ Delitsky and Baines concluded that diamond would be stable inside the giant planets by comparing recent studies that experimentally fleshed out the temperatures and pressures at which carbon takes on different forms5, such as solid diamond, and others that modelled the pressure and temperature at different depths within the giant planets6. "We put together two pieces of information from different sources to conclude that diamonds are likely to be existing in the deep interiors of Saturn and Jupiter," says Delitsky. 
+  
+ Thermodynamic objections 
+  
+ But others dispute the researchers' claim, arguing that these two gas giants of the Solar System are probably devoid of bling. David Stevenson, a planetary scientist at the California Institute of Technology in Pasadena, says the pair did not properly account for thermodynamics. Methane forms a very small fraction of the mostly hydrogen atmospheres of Jupiter and Saturn – 0.2% and 0.5%, respectively. In such dilute systems, "thermodynamics favours mixtures", says Stevenson. "It's the same thermodynamics that explains why a small amount of sugar or salt will dissolve in a large amount of water, especially at high temperature," he says. "Even if you made carbon dust, it would just dissolve as it went down into the interior very very quickly.“ 
+  
+ Luca Ghiringhelli, a physicist at the Fritz Haber Institute in Berlin, Germany, is also sceptical of the pair's conclusions. His own previous research7 showed that the concentration of carbon is not high enough in Uranus and Neptune — which are several times richer in carbon than Jupiter and Saturn — to grow diamond from the 'ground up', building the crystals atom by atom. He did not model whether diamond could instead form by the compression of soot, but says it is premature to assume that would do so. "It is very optimistic to drive conclusions on the existence of diamonds on Saturn from the scarce data we have, and without a convincing model," he says. That may give financial regulators one less thing to worry about in the coming centuries. ||||| [ Watch the Video: Are There Diamonds On Saturn And Jupiter? ] 
+  
+ Lee Rannals for redOrbit.com – Your Universe Online 
+  
+ Scientists speaking at the Division for Planetary Sciences of the American Astronomical Society say that Saturn and Jupiter may hold what many consider to be the key to a woman’s heart: Diamonds. And lots of them. 
+  
+ A team from the California Specialty Engineering and the University of Wisconsin, Madison said that Jupiter and Saturn could contain solid diamonds in their cores. The scientists say that liquid diamonds could also be found deeper inside the core because temperatures would be so high that the gems would melt. 
+  
+ Scientists have believed for some time that Neptune and Uranus likely contain diamonds deep below their surfaces, but this is the first time a team has reported similar evidence for Jupiter and Saturn. The diamond core on Neptune and Uranus would most likely stay solid because the temperatures inside these planets are lower. 
+  
+ “Previously, only Uranus and Neptune were thought to have conditions in their interiors that would allow the formation of diamond at their cores. It appears that the interior of Jupiter gets hot enough to reach the liquid diamond region of the carbon phase diagram, whereas the interior of Saturn includes regions of temperature and pressure where carbon could exist as solid diamond,” the researchers said in an abstract written about their findings. 
+  
+ According to the researchers, diamonds in the solar system’s two biggest planets formed from methane found in their atmospheres. During lightning storms on these planets, this smelly gas blasts apart to create fluffy, jet-black soot similar to what is found inside a fireplace. The team traced where the soot ends up by using calculations developed by scientists to look deep inside planets. They also used recent data showing how carbon reacts to high temperatures and pressures. 
+  
+ “As carbon descends through the atmosphere, amorphous carbon becomes graphite which then is converted into diamond, creating various strata of carbon allotropes according to their densities,” the researchers said. 
+  
+ Findings revealed that the sinking soot first turns into graphite, which is a form of carbon used in pencils. As the bits of graphite continue their journey to the center of the planet, the growing pressure and temperature squeeze and heat them into specks of diamonds floating in a sea of helium and hydrogen. 
+  
+ “This kind of study shows that we are still far from understanding the composition and structure of Jupiter and Saturn, two planets which are respectively about 300 and 100 times the mass of our Earth and were crucial players when the whole Solar System formed,” Tristan Guillot, planetary researcher at the Observatoire de la Cote d’Azur in France, told CNN. 
+  
+ Although the idea of mining for diamonds on another planet seems intriguing, Peter Read, professor of physics at the University of Oxford, says we shouldn’t get ahead of ourselves. He told CNN that diamonds in these planets would look different than what we have on Earth, adding that they could be clouds of condensed diamond material. 
+  
+ Regardless of whether or not man will be able to actually utilize this resource in the future, the concept of a diamond core itself remains a subject of interest to scientists. The researchers said that Jupiter and Saturn could be holding “diamond rain” or even “diamond oceans.” 
+  
+ “At the boundaries (locations of sharp increases in density) on Jupiter and Saturn, there may be diamond rain or diamond oceans sitting as a layer,” the team said. “However, in Uranus and Neptune, the temperatures never reach as high as 8,000K (14,000 Fahrenheit). The cores are -5,000K (-8,500 Fahrenheit), too cold for diamond to melt on these planets. Therefore, it appears that diamonds are forever on Uranus and Neptune but not on Jupiter and Saturn.” |||||
+What is a summary?

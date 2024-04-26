@@ -1,0 +1,19 @@
+Question: The Pink Panther is a British-American media franchise primarily focusing on a series of comedy-mystery films featuring an inept French police detective, Inspector Jacques Clouseau. The franchise began with the release of the classic Pink Panther film in 1963. The role of Clouseau was originated by and is most closely associated with Peter Sellers. Most of the films were written and directed by Blake Edwards, with theme music composed by Henry Mancini. Elements and characters inspired by the films were adapted into other media, including books, comic books and animated series.
+
+Based on this passage, when was the first pink panther movie made?
+Answer: The relevant information to answer the above question is: The franchise began with the release of the classic Pink Panther film in 1963. The answer is 1963.
+
+Question: Passage: Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824), was a landmark decision in which the Supreme Court of the United States held that the power to regulate interstate commerce, granted to Congress by the Commerce Clause of the United States Constitution, encompassed the power to regulate navigation. The case was argued by some of America's most admired and capable attorneys at the time. Exiled Irish patriot Thomas Addis Emmet and Thomas J. Oakley argued for Ogden, while U.S. Attorney General William Wirt and Daniel Webster argued for Gibbons.
+
+Question: Based on this passage, the supreme court ruled that congress had the power to regulate interstate commerce in?
+Answer: The important part for answering this question is: Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824), was a landmark decision in which the Supreme Court of the United States held that the power to regulate interstate commerce, granted to Congress by the Commerce Clause of the United States Constitution, encompassed the power to regulate navigation. The answer is Gibbons v. Ogden , 22 U.S. ( 9 Wheat . ) 1 ( 1824 ).
+
+Question: The term Doodle first appeared in English in the early seventeenth century and is thought to be derived from the Low German (a language close to Dutch) dudel, meaning "playing music badly" or Dödel, meaning "fool" or "simpleton". The Macaroni wig was an extreme fashion in the 1770s and became contemporary slang for foppishness. Dandies were men who placed particular importance upon physical appearance, refined language, and leisure hobbies. A self-made "Dandy" was a British middle-class man from the late 18th to early 19th century who impersonated an aristocratic lifestyle. They notably wore silk strip cloth, stuck feathers in their hats, and bore two fob watch accessories simultaneously (two pocket watches with chains) -- "one to tell what time it was and the other to tell what time it was not". This era was the height of "dandyism" in London, when men wore striped silks upon their return from the Grand Tour, along with a feather in the hat.
+
+Answer this question based on the passage: in the song yankee doodle what does macaroni mean?
+Answer: This is the relevant information: The Macaroni wig was an extreme fashion in the 1770s and became contemporary slang for foppishness. The answer is an extreme fashion in the 1770s and became contemporary slang for foppishness.
+
+Question: An alcoholic drink, or alcoholic beverage, is a drink that contains alcohol (ethanol), a depressant which in low doses causes euphoria, reduced anxiety, and sociability and in higher doses causes intoxication (drunkenness), stupor and unconsciousness. Long-term use can lead to alcohol abuse, physical dependence, and alcoholism.
+
+Answer this question based on the passage: what kind of alcohol is in alcoholic beverages?
+Answer:

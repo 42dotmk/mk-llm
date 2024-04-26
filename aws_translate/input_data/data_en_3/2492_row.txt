@@ -1,0 +1,34 @@
+Student A:"Do n't You (Forget About Me)" is a 1985 pop song performed by Scottish rock band Simple Minds. The song is best known for being played during the opening and closing credits of the John Hughes film The Breakfast Club. It was written and composed by producer Keith Forsey and Steve Schiff, the latter of whom was a guitarist and songwriter from the Nina Hagen band.
+
+Answer this question based on the passage: who sings don't you forget about me from the breakfast club?
+Student B:OK... The relevant information is: "Do n't You (Forget About Me)" is a 1985 pop song performed by Scottish rock band Simple Minds.
+Simple Minds.
+
+Problem:The guillotine remained France's standard method of judicial execution until as recently as the abolition of capital punishment in 1981. The last person to be executed in France was Hamida Djandoubi, who was guillotined on 10 September 1977.
+
+Answer this question based on the passage: when did the french stop using the guillotine?
+Solution:OK... The relevant information is: The guillotine remained France's standard method of judicial execution until as recently as the abolition of capital punishment in 1981.
+1981.
+
+Student A:India lies on the Indian Plate, the northern portion of the Indo-Australian Plate, whose continental crust forms the Indian subcontinent. The country is situated north of the equator between 8 ° 4' to 37 ° 6' north latitude and 68 ° 7' to 97 ° 25' east longitude. It is the seventh-largest country in the world, with a total area of 3,287,263 square kilometres (1,269,219 sq mi). India measures 3,214 km (1,997 mi) from north to south and 2,933 km (1,822 mi) from east to west. It has a land frontier of 15,106.7 km (9,387 mi) and a coastline of 7,516.6 km (4,671 mi).
+
+Answer this question based on the passage: how much of india is surrounded by water?
+Student B:OK... The important part for answering this question is: It has a land frontier of 15,106.7 km (9,387 mi) and a coastline of 7,516.6 km (4,671 mi).
+7,516.6 km ( 4,671 mi ).
+
+Problem:Passage: Dublin won the final by a point on a 1-17 to 1-16 scoreline to claim their third title in a row, the first time this has happened since 1921-23.
+
+Question: Based on this passage, who won the all ireland football final 2017?
+Solution:OK... To answer the above question, the relevant sentence is: Dublin won the final by a point on a 1-17 to 1-16 scoreline to claim their third title in a row, the first time this has happened since 1921-23.
+Dublin.
+
+Student A:"Bad" is a song by rock band U2 and the seventh track from their 1984 album, The Unforgettable Fire. A song about heroin addiction, it is considered a fan favourite, and is one of U2's most frequently performed songs in concert.
+
+Answer this question: what is the song bad about by u2?
+Student B:OK... To answer the above question, the relevant sentence is: A song about heroin addiction, it is considered a fan favourite, and is one of U2's most frequently performed songs in concert.
+heroin addiction.
+
+Student A:Tom Bergeron and Erin Andrews returned as hosts, while Carrie Ann Inaba, Len Goodman, and Bruno Tonioli returned as judges. Julianne Hough did not return as a judge this season.
+
+Who are the judges for season 25 of dancing with the stars?
+Student B:

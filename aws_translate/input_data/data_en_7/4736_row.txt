@@ -1,0 +1,27 @@
+Reasoning and answer: The total length cut from the 51 - meter ribbon is 100 x 15 centimeters = 1500 centimeters. Since 1 meter is equal to 100 centimeters, then 1500 centimeters is equal to 1500 / 100 = 15 meters. Therefore, 51 - 15 = 36 meters of ribbon remains.
+The answer: 36
+What was the question?
+Question: If 100 pieces, each 15 centimeters long, are cut from a 51-meter long ribbon, how much ribbon remains ?
+
+They sold 221 regular size rubber ducks at $3.00 each so they made 221 * 3 = $663.00. They sold 185 large rubber ducks at $5.00 each so they made 185 * 5 = $925.00. The regular size ducks brought in $663.00 and the large brought in $925.00 for a total of 663 + 925 = $1,588.00 for charity.
+The answer: 1588
+Reverse engineering the question: The city is holding its annual rubber duck race for charity. The regular size rubber ducks are $3.00 each and the large size rubber duck is $5.00 each. All of the rubber ducks will be dropped into the river at the same time and the first duck that floats across the finish line wins. They sold 221 regular size ducks and 185 large size ducks. How much money did the city raise for charity?
+
+Reasoning and answer: She has 2 exercise bands that are both 5 pounds of resistance so that’s 2 * 5 = 10 pounds. She has a pair of 10 - pound dumbbells so that’s 2 * 10 = 20 pounds. With both the bands and dumbbells, she will squat 10 + 20 = 30 pounds.
+The answer: 30
+What was the question?
+Question: Lindsey bought 2 exercise bands to intensify her workout. Each band adds an extra 5 pounds of resistance to her workout. If she doubles up both sets of bands and places them around her legs and picks up a 10-pound dumbbell, how much weight will she squat?
+
+Regina has 4 pigs / cow * 20 cows = 80 pigs. She could sell the pigs for 80 pigs * $400 / pig = $32000. For the cows Regina would get 20 cows * $800 / cow = $16000. In total Regina would earn $16000 + $32000 = $48000.
+The answer: 48000
+Reverse engineering the question: Regina has a farm with animals. She has 20 cows and four times more pigs. Someone told her, that she could sell all the animals and earn $400 for each pig and $800 for each cow. How much money would she earn if she would sell all the animals from the farm?
+
+Reasoning and answer: First find the total number of petunias: 4 flats * 8 petunias / flat = 32 petunias. Then find the total number of roses: 3 flats * 6 roses / flat = 18 roses. Now find how much fertilizer Seymour needs for the petunias: 32 petunias * 8 oz / petunia = 256 oz. Now find how much fertilizer Seymour needs for the roses: 18 roses * 3 oz / rose = 54 oz. Now find how much fertilizer Seymour needs for the Venus flytraps: 2 Venus flytraps * 2 oz / Venus flytrap = 4 oz. Now add up the fertilizer for all three plants: 256 oz + 54 oz + 4 oz = 314 oz.
+The answer: 314
+What was the question?
+Question: Seymour runs a plant shop. He has 4 flats of petunias with 8 petunias per flat, 3 flats of roses with 6 roses per flat, and two Venus flytraps. Each petunia needs 8 ounces of fertilizer, each rose needs 3 ounces of fertilizer, and each Venus flytrap needs 2 ounces of fertilizer. How many ounces of fertilizer does Seymour need in total?
+
+Reasoning and answer: The annual budget for policing is 32 / 2 = $16 million. The combined budget for education and policing is 16 + 12 = $28 million. There is 32 - 28 = $4 million to manage public spaces.
+The answer: 4
+What was the question?
+Question:

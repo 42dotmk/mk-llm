@@ -1,0 +1,30 @@
+To answer your first question, preparing for a firmware or embedded engineer position at Google involves several steps, including acquiring the necessary skills and knowledge, polishing your problem-solving abilities, and having a strong understanding of algorithms and Big Oh complexity. Although the focus may lie more on embedded systems, you should expect questions related to algorithms and Big Oh complexity during the interview process.
+
+Here are the steps to prepare for a firmware or embedded engineer position at Google:
+
+1. Acquire the necessary skills and knowledge:
+   - Gain proficiency in embedded languages like C, C++, Python, and Assembly.
+   - Learn about embedded systems, microcontrollers, memory management, and sensor interfacing.
+   - Understand low-power design principles, real-time operation systems (RTOS), and debugging techniques.
+   - Get familiar with networking protocols, communication interfaces, and scripting languages.
+   - Gain exposure to hardware schematics and datasheets for component selection and integration.
+
+2. Open-source contributions and personal projects:
+   - Contribute to open-source projects related to embedded systems or firmware.
+   - Work on personal projects and create a portfolio to showcase your skills during the interview process.
+
+3. Algorithm and data structure knowledge:
+   - Google may include questions related to algorithms and Big Oh complexity in the interview. Therefore, study common algorithms, data structures, and problem-solving techniques, such as sorting, searching, and dynamic programming.
+
+4. Prepare for behavioral questions:
+   - Google emphasizes cultural fit and values technical individuals who can work collaboratively. Familiarize yourself with the company culture and values, and be prepared to share examples of how you have demonstrated those qualities in your past experiences.
+
+5. Networking:
+   - Connect with professionals working in the industry to gain insights into the job's requirements and keep up-to-date with the latest trends and technologies.
+
+6. Practice interview questions:
+   - Research typical embedded engineer interview questions and practice answering them. Websites like LeetCode, HackerRank, and Glassdoor can be beneficial for this purpose.
+
+Regarding your second question, in large companies like Google, Facebook, or Amazon, the highest position where programming is still a significant part of one's job usually lies within the senior software engineer or principal engineer levels. These engineers are responsible for designing, implementing, and enhancing complex software systems while maintaining their hands-on coding and reviews. Although these roles may involve management and leadership responsibilities, they continue to play a vital role in technical decision-making and collaborating with the teams on core development tasks.
+
+Lastly, the two questions you posed are not paraphrases of each other. The first question is about preparing for a firmware or embedded engineer position at Google and whether to expect Big Oh complexity questions. In contrast, the second question is about the highest position in large companies where programming remains a significant part of the job. They are separate concepts that focus on unique aspects of the technology industry.

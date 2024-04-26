@@ -1,0 +1,19 @@
+Question: Abuja (/ əˈbuːdʒə /) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400-metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792-metre (2,598 ft) monolith, lies just north of the city on the road to Kaduna State.
+
+Answer this question based on the passage: when was the federal capital moved from lagos to abuja?
+Answer: The relevant information is: It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. The answer is 12 December 1991.
+
+Question: The South African government implemented an education system called Christian National Education (CNE). The basis of this system is that a person's social responsibilities and political opportunities are defined by that person's ethnic identity.
+
+Which principle formed the foundation of christian national education?
+Answer: The relevant sentence in the passage is: The basis of this system is that a person's social responsibilities and political opportunities are defined by that person's ethnic identity. The answer is a person 's social responsibilities and political opportunities are defined by that person 's ethnic identity.
+
+Question: Ellen's Game of Games, also known as Game of Games and stylized as ellen's GAME OF GAMES is an American television game show that premiered on December 18, 2017. In March 2017, NBC ordered six (later eight) hourlong episodes of the series. Ellen DeGeneres serves as host, while Stephen "tWitch" Boss appears as announcer / sidekick. The series is based on game segments from DeGeneres' daytime talk show, The Ellen DeGeneres Show. A special preview episode aired on December 18, 2017, with the official series premiere on January 2, 2018. On January 9, 2018, NBC renewed the series for a 13-episode second season.
+
+Answer this question: when does ellens game of games come out?
+Answer: The relevant information is: A special preview episode aired on December 18, 2017, with the official series premiere on January 2, 2018. The answer is January 2 , 2018.
+
+Question: Passage: Our Girl is a British television military drama series, written and created by Tony Grounds, first broadcast on BBC One on 24 March 2013. The series initially starred Lacey Turner as Molly Dawes, a young woman from a working-class background who joins the British Army after deciding her life is going nowhere. Following the feature-length pilot episode, a full series of five episodes was commissioned, commencing broadcast on 21 September 2014. For the series, Iwan Rheon and Ben Aldridge joined the main cast as Private Dylan "Smurf" Smith and Captain Charles James respectively.
+
+Question: Based on this passage, who was our girl in the first series?
+Answer:

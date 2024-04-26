@@ -1,0 +1,19 @@
+Answer: a Medjay named Bayek and his wife Aya. Now, what could be the question and solution-maybe?
+Ques: Context: The player takes on the role of a Medjay named Bayek and his wife Aya, as they work to protect the people of the Ptolemaic Kingdom during a time of widespread upheaval: the Pharaoh, Ptolemy XIII, struggles to maintain his rule while harbouring ambitions of expanding his kingdom; his sister, the recently deposed Cleopatra, begins marshalling loyalist forces to launch a counter-coup against Ptolemy; and frequent incursions into the Kingdom by the Roman Republic under the command of Julius Caesar lead to fears of an imminent invasion. Bayek's role as a Medjay brings him and Aya into contact with the secretive forces manipulating these events and into becoming the first Assassins.
+
+Question: who do you play in assassin's creed origins?
+CoT: The relevant sentence in the passage is: The player takes on the role of a Medjay named Bayek and his wife Aya, as they work to protect the people of the Ptolemaic Kingdom during a time of widespread upheaval: the Pharaoh, Ptolemy XIII, struggles to maintain his rule while harbouring ambitions of expanding his kingdom; his sister, the recently deposed Cleopatra, begins marshalling loyalist forces to launch a counter-coup against Ptolemy; and frequent incursions into the Kingdom by the Roman Republic under the command of Julius Caesar lead to fears of an imminent invasion.
+---
+Answer: the lower right quadrant of the abdomen , near the right hip bone. Now, what could be the question and solution-maybe?
+Ques: The human appendix averages 9 cm in length but can range from 2 to 20 cm. The diameter of the appendix is usually between 7 and 8 mm. The longest appendix ever removed was 26 cm long. The appendix is usually located in the lower right quadrant of the abdomen, near the right hip bone. The base of the appendix is located 2 cm beneath the ileocecal valve that separates the large intestine from the small intestine. Its position within the abdomen corresponds to a point on the surface known as McBurney's point.
+
+Answer this question: where is the appendix located at in the human body?
+CoT: The relevant information is: The appendix is usually located in the lower right quadrant of the abdomen, near the right hip bone.
+---
+Answer: 1789. Now, what could be the question and solution-maybe?
+Ques: Founded in 1789, the University of North Carolina at Chapel Hill is one of three schools to claim the title of oldest public university in the United States. It closed from 1871 to 1875, faced with serious financial and enrollment problems during the Reconstruction era. In 1877, the State of North Carolina began sponsoring additional higher education institutions. Over time the state added a women's college (now known as the University of North Carolina at Greensboro), a land-grant university (North Carolina State University), five historically black institutions (North Carolina A&T State University, North Carolina Central University, Winston-Salem State University, Fayetteville State University, and Elizabeth City State University) and one to educate American Indians (the University of North Carolina at Pembroke). Others were created to prepare teachers for public education and to instruct performing artists.
+
+Based on this passage, when was the university of north carolina founded?
+CoT: To answer this question, we should know that: Founded in 1789, the University of North Carolina at Chapel Hill is one of three schools to claim the title of oldest public university in the United States.
+---
+Answer: 2016. Now, what could be the question and solution-maybe?

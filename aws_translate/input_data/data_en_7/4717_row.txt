@@ -1,0 +1,25 @@
+The cost of 5 pieces of Dave's Single hamburger is $5 x 5 = $25. The cost of 4 sets of french fries is $2.50 x 4 = $10. The cost of 5 cups of peach lemonade is $2 x 5 = $10. So, their total bill is $10 + $25 + $10 + $10 = $55. Therefore, each of them will contribute $55 / 5 = $11.
+The answer: 11
+Reverse engineering the question: Five friends eat at Wendy's and ordered the following: a platter of Taco Salad that cost $10, 5 orders of Dave's Single hamburger that cost $5 each, 4 sets of french fries that cost $2.50, and 5 cups of peach lemonade that cost $2 each. How much will each of them pay if they will split the bill equally?
+
+Reasoning and answer: A red ticket is equal to 10 blue tickets, and a yellow is equal to ten red tickets, so a yellow ticket is also equal to 10 * 10 = 100 blue tickets. It takes 10 yellow tickets to win a Bible, or 10 * 100 = 1000 blue tickets. Tom has 8 yellow tickets, which are worth 8 * 100 = 800 blue tickets. He also has 3 red tickets, which are worth 3 * 10 = 30 blue tickets. Added with his 7 blue tickets, he has 800 + 30 + 7 = 837 blue tickets' worth of tickets. So he still needs to earn 1000 - 837 = 163 blue tickets.
+The answer: 163
+What was the question?
+Question: To win a brand new Bible at Tom Sawyer's Sunday school, a pupil has to win 10 yellow tickets; each yellow ticket is obtained by trading in 10 red tickets; each red ticket is obtained by trading in 10 blue tickets; and blue tickets are earned by memorizing two Bible verses. But rather than go to all that trouble, Tom Sawyer has traded various toys and treasures of his with his friends until he has gathered 8 yellow, 3 red, and 7 blue tickets. How many more blue tickets would he need to earn to win a new Bible?
+
+The first month she saved 10 dollars. By the second month, she had 10 + 30 = 40 dollars saved. By the third month, she had 40 + 30 = 70 dollars saved.
+The answer: 70
+Reverse engineering the question: It took Alice three months to save up to buy new shoes. If she saved 10 dollars the first month and 30 more each month, how much did she have saved by the end of the third month?
+
+Reasoning and answer: Martians have 2 * 3 = 6 arms each. They have 8 / 2 = 4 legs each. Five martians will have 5 * 6 + 5 * 4 = 30 + 20 = 50 limbs. Five aliens will have 5 * 3 + 5 * 8 = 15 + 40 = 55 limbs. Five aliens will have 55 - 50 = 5 more limbs than five Martians.
+The answer: 5
+What was the question?
+Question: Aliens and Martians have different numbers of limbs. Aliens have three arms and eight legs, while Martians have half as many legs and twice as many arms. How many more limbs will five aliens have than five Martians?
+
+If Lizette's average on the 3 quizzes is 94, then the sum of her scores in the 3 quizzes is 94 x 3 = 282. This means that the sum of her scores in the first 2 quizzes is 282 - 92 = 190. Thus, her average for the first 2 quizzes is 190 / 2 = 95.
+The answer: 95
+Reverse engineering the question: Lizette scored 92 on her third quiz giving her an average of 94. What is Lizette's average in her first two quizzes?
+
+First, we find out how much in sales the stand makes each hour by multiplying the number of hot dogs sold by the sales price, finding that 2 * 10 = 20 dollars in sales each hour. Then we divide the sales goal for the day by the sales per hour, finding that the stand needs to be open for 200 / 20 = 10 hours to hit its sales goal.
+The answer: 10
+Reverse engineering the question:

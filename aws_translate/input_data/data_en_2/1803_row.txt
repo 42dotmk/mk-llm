@@ -1,0 +1,27 @@
+Reasoning and answer: The factory produces 90 + 70 = 160 coolers per hour. The factory works 5 * 9 = 45 hours in 5 days. The factory produces ( 90 + 160) * 45 = 11250 products for 5 days.
+The answer: 11250
+What was the question?
+Question: A factory produces 90 refrigerators per hour. It also produces 70 more coolers than refrigerators per hour. How many products did the factory produce for 5 days if it works 9 hours a day?
+
+Sandra had 2 bags that each contained 6 pieces of candy so 2 * 6 = 12 pieces. Roger had 11 pieces of candy in one bag and 3 pieces in the other so 11 + 3 = 14 pieces. Roger had 14 pieces and Sandra had 12 pieces so Roger has 14 - 12 = 2 more pieces of candy.
+The answer: 2
+Reverse engineering the question: Sandra had 2 different bags of candy. Each of her bags had 6 pieces of candy left. Her brother, Roger, also had 2 bags of candy. One of his bags of candy had 11 pieces left and the other had 3 pieces left. How much more candy did Roger have?
+
+Reasoning and answer: First figure out how much money Marie makes from selling bread each day by multiplying the number of loaves sold by the price per loaf: 40 loaves * $2 / loaf = $80. Next figure out how much money Marie makes from selling cakes each day by multiplying the number of cakes sold by the price per cake: 6 cakes * $12 / cake = $72. Now add the money from selling the bread to the money from selling the cakes to find Marie's total daily income: $80 + $72 = $152. Next subtract Marie's daily expenses from her daily income to find her daily profit: $152 - $20 - $2 = $130. Finally, divide the price of the cash register by Marie's daily profit to find how many days' profits she needs to pay for it: $1040 / $130 = 8.
+The answer: 8
+What was the question?
+Question: Marie is planning to buy a new cash register for her bakery that costs $1040. Every day Marie sells 40 loaves of bread for $2 each and 6 cakes for $12 each. She has to pay $20 each day for rent and $2 each day for electricity. How many days' worth of profits will it take for Marie to pay for the cash register?
+
+Andrea bought 45 / 3 = 15 rhinestones. She found 45 / 5 = 9 rhinestones in her supplies. Thus, Andrea still needs 45 - 15 - 9 = 21 rhinestones.
+The answer: 21
+Reverse engineering the question: Andrea needs 45 rhinestones to finish an art project. She bought a third of what she needed and found a fifth of what she needed in her supplies. How many rhinestones does she still need?
+
+Reasoning and answer: There are 40 x 25% = 10 students who wear glasses. There are 40 x 40% = 16 students who wear contact lenses. There are 10 + 16 = 26 students who wear vision assistance. There are 40 - 26 = 14 students who do not wear any vision assistance wear.
+The answer: 14
+What was the question?
+Question: There are 40 students in the 6th grade. 25% of them wear glasses and 40% of them wear contact lenses. How many students do not wear any vision assistance wear?
+
+Reasoning and answer: First find how many liters of the seawater are salt: 2 liters * 20% = .4 liters. Then multiply that amount by 1000 ml / liter to find the number of ml of salt Jack gets: .4 liters * 1000 ml / liter = 400 ml.
+The answer: 400
+What was the question?
+Question:

@@ -1,0 +1,22 @@
+Student A:The Tuotuo River (沱 沱 河, p Tuótuó Hé, lit. "Tearful River" is the official headstream of the Yangtze, and flows 358 km ( 222 mi) from the glaciers of the Gelaindong Massif in the Tanggula Mountains of southwestern Qinghai to the confluence with the Dangqu River to form the Tongtian River. ) In Mongolian, this section of the river known as the Ulaan Mörön or the "Red River".
+
+Based on this passage, what is the source of the yangtze river?
+Student B:OK... The relevant information to answer the above question is: The Tuotuo River (沱 沱 河, p Tuótuó Hé, lit. "Tearful River" is the official headstream of the Yangtze, and flows 358 km ( 222 mi) from the glaciers of the Gelaindong Massif in the Tanggula Mountains of southwestern Qinghai to the confluence with the Dangqu River to form the Tongtian River. )
+The Tuotuo River.
+
+Student A:Context: Long rifles were an American design of the 18th century, produced by individual German gunsmiths in Pennsylvania. Based on the Jäger rifle, long rifles, known as "Pennsylvania Rifles", were used by snipers and light infantry throughout the Revolutionary War. The grooved barrel increased the range and accuracy by spinning a snugly fitted ball, giving an accurate range of 300 yards compared to 100 yards for smoothbore muskets. Drawbacks included the low rate of fire due to the complicated reloading process, the impossibility to fit it with a bayonet, the high cost, and lack of standardization that required extensive training with a particular rifle for a soldier to realize the weapon's full potential. Due to the drawbacks, George Washington argued for a limited role of rifles in the Colonial military, while Congress was more enthusiastic and authorized the raising of several companies of riflemen. Long rifles played a significant part in the battles of Saratoga and New Orleans, where rifleman units picked off officers to disrupt British command and control, but required support by units armed with smoothbore muskets or by artillery to prevent the riflemen from being overrun.
+
+Question: what weapons did they use in the battle of saratoga?
+Student B:OK... The relevant information to answer the above question is: Long rifles played a significant part in the battles of Saratoga and New Orleans, where rifleman units picked off officers to disrupt British command and control, but required support by units armed with smoothbore muskets or by artillery to prevent the riflemen from being overrun.
+Long rifles.
+
+Student A:Passage: Maze Runner: The Death Cure was originally set to be released on February 17, 2017, in the United States by 20th Century Fox, but the studio rescheduled the film for January 26, 2018 in 3D, 2D and IMAX 3D, allowing time for Dylan O'Brien to fully recover from his injuries sustained during filming.
+
+Question: Based on this passage, when is maze runner death cure coming out?
+Student B:OK... The relevant information is: Maze Runner: The Death Cure was originally set to be released on February 17, 2017, in the United States by 20th Century Fox, but the studio rescheduled the film for January 26, 2018 in 3D, 2D and IMAX 3D, allowing time for Dylan O'Brien to fully recover from his injuries sustained during filming.
+January 26 , 2018 in 3D , 2D and IMAX 3D.
+
+Student A:Passage: Wolf Muser as Adolf Hitler Ray Proscia as SS-Oberst-Gruppenführer Reinhard Heydrich Keone Young as Gensui Shunroku Hata Kenneth Tigar as SS-Reichsführer Heinrich Himmler (season 2) Peter Anderson as Joseph Goebbels, Nazi Minister of Propaganda (season 2) Lisa Paxton as Eva Braun, Hitler's wife (season 2)
+
+Question: Based on this passage, who plays hitler in man in the high castle?
+Student B:

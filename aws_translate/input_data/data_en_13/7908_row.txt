@@ -1,0 +1,36 @@
+Ans: BMW
+Ques: The origins of the UK automotive industry date back to the final years of the 19th century. By the 1950s the UK was the second-largest manufacturer of cars in the world (after the United States) and the largest exporter. However, in subsequent decades the industry experienced considerably lower growth than competitor nations such as France, Germany and Japan and by 2008 the UK was the 12th-largest producer of cars measured by volume. Since the early 1990s many British car marques have been acquired by foreign companies including BMW (Mini and Rolls-Royce), SAIC (MG), TATA (Jaguar and Land Rover) and Volkswagen Group (Bentley). Rights to many currently dormant marques, including Austin, Riley, Rover and Triumph, are also owned by foreign companies.
+
+Answer this question: which non-british company owns both the famous british rolls- royce and mini brands?
+CoT: This is the relevant information: Since the early 1990s many British car marques have been acquired by foreign companies including BMW (Mini and Rolls-Royce), SAIC (MG), TATA (Jaguar and Land Rover) and Volkswagen Group (Bentley).
+
+
+Answer: First Lady Nancy Reagan. Now, what could be the question and solution-maybe?
+Ques: "Just Say No" was an advertising campaign, part of the U.S. "War on Drugs", prevalent during the 1980s and early 1990s, to discourage children from engaging in illegal recreational drug use by offering various ways of saying no. The slogan was created and championed by First Lady Nancy Reagan during her husband's presidency.
+
+Based on this passage, who started the just say no to drugs campaign?
+CoT: The relevant sentence in the passage is: The slogan was created and championed by First Lady Nancy Reagan during her husband's presidency.
+
+
+Ans: Jackie Ward ( born Jacqueline McDonnell , 1941 ) , better known as Robin Ward
+Ques: Context: Jackie Ward (born Jacqueline McDonnell, 1941), better known as Robin Ward, is an American singer, regarded as a "one-hit wonder" of 1963 million-selling song "Wonderful Summer". However, using her real name she was highly accomplished and successful singing in groups. Ward's voice is heard in U.S. television series, motion pictures, advertisements, and pop records. She is one of the real singers of the hits attributed to The Partridge Family.
+
+Question: who sang the most wonderful summer of my life?
+CoT: The relevant information to answer the above question is: Jackie Ward (born Jacqueline McDonnell, 1941), better known as Robin Ward, is an American singer, regarded as a "one-hit wonder" of 1963 million-selling song "Wonderful Summer".
+
+
+Ans: toward
+Ques: Context: Veins are blood vessels that carry blood toward the heart. Most veins carry deoxygenated blood from the tissues back to the heart; exceptions are the pulmonary and umbilical veins, both of which carry oxygenated blood to the heart. In contrast to veins, arteries carry blood away from the heart.
+
+Question: do veins carry blood to the heart or away?
+CoT: To answer the question, consider the following: Veins are blood vessels that carry blood toward the heart.
+
+
+Answer: a major lunar standstill. Now, what could be the question and solution-maybe?
+Ques: Passage: At a major lunar standstill, which takes place every 18.6 years, the declination range of the Moon reaches a maximum. As a result, viewed from high latitudes, the Moon's greatest altitude (at culmination, when it contacts the meridian) changes in just two weeks -- from high in the sky to low over the horizon.
+
+Question: Based on this passage, when the moon's declination is maximum north which of the following will occur?
+CoT: This is the relevant information: At a major lunar standstill, which takes place every 18.6 years, the declination range of the Moon reaches a maximum.
+
+
+Ans: one

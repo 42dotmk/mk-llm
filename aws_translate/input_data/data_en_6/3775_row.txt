@@ -1,0 +1,25 @@
+If Mary weighs 160 lbs, Jamison weighs 160 lbs + 20 lbs = 180 lbs. If John weighs one - quarter less than what Mary weighs, he weighs 1 / 4 * 160 lbs = 40 lbs more. The total weight of John is 160 lbs + 40 lbs = 200 lbs. The total weight for the three is 200 lbs + 180 lbs + 160 lbs = 540 lbs.
+The answer: 540
+Reverse engineering the question: John weighs one-quarter times more than what Mary weighs. Mary weighs 20 lbs less than Jamison's weight. If Mary weighs 160 lbs, what's the combined weight of the three?
+
+Reasoning and answer: Eddie bakes 3 x 7 = 21 pies for 7 days. His sister bakes 6 x 7 = 42 pies for 7 days. His mother can bake 8 x 7 = 56 pies for 7 days. Therefore, they are able to bake 21 + 42 + 56 = 119 pies in 7 days.
+The answer: 119
+What was the question?
+Question: Eddie can bake 3 pies a day. His sister can bake 6 pies while his mother can bake 8 pies a day. How many pies will they be able to bake in 7 days?
+
+He is able to carry 3 pounds of watermelon, grapes, and oranges because1 + 1 + 1 = 3. He can buy 17 pounds of apple because20 - 3 = 17.
+The answer: 17
+Reverse engineering the question: Diego can carry 20 pounds of fruit home in his bookbag. If he buys a pound of watermelon, a pound of grapes, and a pound of oranges, how many pounds of apples can he buy?
+
+Reasoning and answer: Janice takes 30 / 2 = 15 minutes to clean her room. It takes 30 + 5 = 35 minutes for her to walk the dog. It takes her 30 x 1 / 6 = 5 minutes to take out the trash. So, it will take 30 + 15 + 35 + 5 = 85 minutes to do all those chores. Since there are 60 minutes in 1 hour, then 2 hours is 2 x 60 = 120 minutes. Thus, Janice still has 120 - 85 = 35 minutes left before the movie starts.
+The answer: 35
+What was the question?
+Question: Janice needs to go to watch a movie in 2 hours. before she could leave, she needs to finish her homework which takes 30 minutes; clean her room which takes half as long as her homework; walk the dog which takes 5 minutes more than making homework; take out the trash which takes 1/6 of the time it takes her to do the homework. How many more minutes do Janice have left before the movie starts?
+
+Checking each possibility, we can see that dividing each pizza into 6 slices yields 5 * 6 = 30 total slices, dividing each pizza into 8 slices yields 5 * 8 = 40 total slices, and dividing each pizza into 10 slices yields 5 * 10 = 50 total slices. Because each child must receive the same number of slices, the total number of slices must be evenly divisible by 20. The only option that satisfies this requirement is dividing the pizza into 8 slices, as 40 / 20 = 2 slices per child. Therefore, the mother should divide each pizza into 8 slices.
+The answer: 8
+Reverse engineering the question: A mother is serving pizza at her son's birthday party. After buying 5 pizzas, she must decide how many slices to divide each pizza into so that everyone at the party ends up with an equal number of slices. There are a total of 20 children at the party, and she can choose to divide each pizza into either 6, 8, or 10 slices. Assuming she does not want to throw away any pizza, how should many slices should she choose to divide the pizzas into to make sure everyone receives an equal amount?
+
+Let x be the number of shark sightings in Cape May. 26 = 5 + 3x. 21 = 3x. x = 7.
+The answer: 7
+Reverse engineering the question:

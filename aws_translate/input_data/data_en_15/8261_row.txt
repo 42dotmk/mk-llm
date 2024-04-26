@@ -1,0 +1,74 @@
+Here is a news article: US law enforcement authorities are investigating plans by members of the hacking collective Anonymous to disrupt activities at the Marine Corps base in Quantico to protest against the alleged rough treatment given suspected WikiLeaks source Bradley Manning. 
+  
+ Anonymous gained wide attention last year with attacks on the websites of PayPal and other businesses that had stopped processing donations to anti-secrecy site WikiLeaks as it published thousands of secret US state department cables. 
+  
+ Recently, Anonymous members appear to have broadened their targets by suggesting attacks on the US military. On publicly accessible document-sharing sites, they have been discussing plans to target the brig in Quantico, Virginia, where Private Manning is being held under what his attorney said were unjustifiable conditions. 
+  
+ One collaborative document states the “purpose” of the contemplated operation is to “harass staff at MCB Quantico Brig to the point of frustration”. The “plan” is described as a “complete communications shutdown” of the facilities’ internet pages and phone links. 
+  
+ A Quantico spokesman, Lieutenant Agustin Solivan, said officials had referred the matter to law enforcement and counter-intelligence agencies. “We are aware of the threat and any threats to defence department information systems and networks are taken seriously,” he said. “The intent or stating that you are going to commit a crime is a crime in itself,” he added. 
+  
+ Barrett Brown, who has been helping with the plans under his real name, said he was not alarmed about the prospect of prosecution. “My feeling is I’m going down anyway so I may as well do it with gusto.” 
+  
+ Members of Anonymous identify with WikiLeaks and see themselves as crusaders for the free flow of information. But while WikiLeaks has merely published classified material, as have mainstream media organisations, Anonymous has become steadily more aggressive. 
+  
+ First it went after businesses with “denial-of-service” attacks, in which computers bombard websites until they can’t handle the load and become unavailable to the public. That brought some 40 law enforcement searches in the US and a handful or arrests in other countries. 
+  
+ Anonymous became more brazen last month, hacking into a US security firm that had boasted to the Financial Times of infiltrating the online group and identifying many of its leaders. Anonymous distributed thousands of internal e-mails from the company, HBGary Federal, among other things showing that HBGary Federal and two allied businesses had proposed planting fake documents on WikiLeaks to discredit that site. ||||| A leader of the computer hackers group known as Anonymous is threatening new attacks on major U.S. corporations and government officials as part of at an escalating “cyberwar” against the citadels of American power. 
+  
+ “It’s a guerrilla cyberwar — that’s what I call it,” said Barrett Brown, 29, who calls himself a senior strategist and “propagandist” for Anonymous. He added: “It’s sort of an unconventional, asymmetrical act of warfare that we’ve involved in. And we didn’t necessarily start it. I mean, this fire has been burning.” 
+  
+ A defiant and cocky 29-year-old college dropout, Brown was cavalier about accusations that the group is violating federal laws. He insisted that Anonymous members are only policing corporate and governmental wrongdoing — as its members define it. 
+  
+ Breaking laws, but 'ethically' 
+  
+ “Our people break laws, just like all people break laws,” he added. “When we break laws, we do it in the service of civil disobedience. We do so ethically. We do it against targets that have asked for it.” 
+  
+ And those targets are apparently only growing in number. Angered over the treatment of Bradley Manning, the Army private who is accused of leaking classified U.S. government documents to WikiLeaks and who is currently being held in solitary confinement at a military brig in Quantico, Va., Brown says the group is planning new computer attacks targeting government officials involved in his case. 
+  
+ Read more reporting by Michael Isikoff in 'The Isikoff Files' 
+  
+ Among the methods the group is vowing to use: posting personal information about the officials on the Internet, a method known as “doxing.” The group also this week issued a threat over the Internet to “harass” the staff at Quantico “to the point of frustration,” including a “complete communications shutdown” of its Internet and phone links. 
+  
+ In recent months, Anonymous — a loose collection of tech-savvy hackers or “hacktivists” — has threatened some of the biggest corporations in the country. The group is also the target of a major FBI investigation that has included dozens of subpoenas and raids on the homes of suspected members. 
+  
+ (In the interview, Brown, a sometimes freelance journalist, said he is not personally involved in hacking computers, stressing that he only advises the group, participates in its internal strategy sessions and serves as its spokesman. An FBI spokeswoman on Tuesday described the bureau’s investigation of Anonymous members as “ongoing,” but declined further comment.) 
+  
+ Anonymous has been blamed by senior U.S. government officials — including Deputy Defense Secretary William Lynn — with mounting so-called “distributed denial of service” (DDoS) attacks on major corporate and government targets. The group is believed to do this by mobilizing thousands of so-called “zombie” computers, which have been infected with viruses, and directing them to flood a targeted website simultaneously, creating such a huge demand for service that the site shuts down. 
+  
+ Champion of WikiLeaks, Mideast protesters 
+  
+ Anonymous is believed to have used this method in December, when it took credit for crashing the websites of MasterCard and Visa in retaliation for their decision to cut off service to WikiLeaks. It also claimed credit for shutting down government websites in Tunisia, Egypt, and Libya, which it thereby helping to stoke the uprising in those countries. 
+  
+ Last month, the hackers group launched what may have been its most audacious attack to date, aiming its guns on HBGary Federal, a major cybersecurity firm and government contractor. After HBGary Federal’s CEO threatened to expose members of Anonymous, the group struck back — breaking into the cybersecurity firm’s computers, hijacking the CEO’s Twitter account and swiping tens of thousands of embarrassing emails that it later posted on the Internet. 
+  
+ Related coverage: Do WikiLeaks imitators put your e-mail at risk? 
+  
+ The emails appeared to show that HBGary Federal and two other contractors were proposing a “disinformation campaign” aimed at discrediting political allies of WikiLeaks and critics of the Bank of American and the U.S. Chamber of Commerce, prompting a group of House Democrats to call for a congressional investigation into the contractors. 
+  
+ Asked about Anonymous, Greg Hoglund, the CEO of HBGary, the founder of HBGary Federal, said Tuesday: “These are not hacktivists. They are criminals. They are breaking into computer systems and stealing information — and that violates multiple federal statutes.” 
+  
+ In the first network television interview he has given, Brown – who has been widely quoted as one of the group’s spokesmen — invited NBC to his walk up, one-room Dallas apartment and allowed a reporter to observe as he and what he said were other Anonymous members communicated in a secure chat room. 
+  
+ Their goal that day: drafting a threatening letter to PayPal, the online processing firm owned by eBay, in response to news that the firm had restricted service to Manning’s legal defense fund. 
+  
+ Threatening PayPal 
+  
+ “We politely ask you to finally stand up and show some backbone,” said Brown, reading from the letter on his small laptop. “Unfreeze the account, or release the funds, so Bradley Manning and his lawyers can access it. Otherwise you prove you are nothing but a puppet of a criminal government, which is violating the Geneva Convention and the First Amendment of the U.S. Constitution.” 
+  
+ And then, said Brown: “As always, it ends…We are Anonymous. We do not forgive. We do not forget.” 
+  
+ “That’s our little motto,” he added. 
+  
+ There is still much about Anonymous that remains obscure -- and which Brown would not reveal. As he tells it, the group has thousands, if not tens of thousands, of participants, including, he claims, computer managers at major corporations and government agencies and journalists. But, he says, the group’s activities are governed, or at least shaped, by a much smaller group of a “couple dozen” people that reacts to the “ebb and flow” of events. Their overarching goal, he said, “information freedom.” 
+  
+ But there is little doubt that they are capable of brutal actions. Hoglund, the HBGary CEO, said that as part of their attack on his corporate affiliate HBGary Federal, Anonymous members collected personal information on company employees, including Social Security numbers, home addresses and the names of their children. Some employees received death threats, he said. 
+  
+ “Anonymous is not what people think,” he added. “They are vicious individuals and they are having the time of their lives because of all the press they are receiving.” 
+  
+ No apologies for tough tactics 
+  
+ Brown, for his part, makes no bones about the fact that Anonymous plays rough. 
+  
+ Asked about the group’s capabilities, he said, “Well, they keep increasing, but I can tell you that our capabilities are such that, we can, for instance, go into the servers of a federal contracting company … take those servers down, delete backups, take all internal emails, take documents, shut down the websites of the owners of those companies, take everything from those websites, ruin the lives of people who have done it wrong … harass them, make sure they’ll never work again in this particular industry. |||||
+A summary of this is?

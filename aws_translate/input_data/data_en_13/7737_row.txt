@@ -1,0 +1,34 @@
+Student A:The mass shooting occurred between 10: 05 and 10: 15 p.m. PDT on October 1, 2017, which was the third and final night of the festival. When the shooting began, country music singer Jason Aldean was giving the closing performance.
+
+Based on this passage, who was playing during the las vegas shooting?
+Student B:OK... To answer the question, consider the following: When the shooting began, country music singer Jason Aldean was giving the closing performance.
+country music singer Jason Aldean.
+
+Problem:Chichen Itza (/ tʃ iː ˈtʃɛn iː ˈtsɑː / chee-CHEN eet-SAH, Spanish: Chichén Itzá ( tʃiˈtʃen iˈtsa), often with the emphasis reversed in English to / ˈtʃiːtʃɛn ˈiːtsə / CHEE-chen EET-sə; from Yucatec Maya: Chi'ch'èen Ìitsha' (tɕhiʔtɕʼèːn ìːtshaʔ) "at the mouth of the well of the Itza people" ) was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archaeological site is located in Tinúm Municipality, Yucatán State, Mexico.
+
+Answer this question based on the passage: where is the chichen itza located in mexico?
+Solution:OK... This is the relevant information: The archaeological site is located in Tinúm Municipality, Yucatán State, Mexico.
+in Tinúm Municipality , Yucatán State , Mexico.
+
+Student A:Díaz is a common Spanish surname with multiple meanings in multiple languages. First found in Castile, where the name originated in the Visigoth period, the name accounts for about 0.17 % of the Spanish population, ranking as the 14th-most frequently found surname in both 1999 and 2004 compared to the most popular Spanish surname of those years.
+
+Where does the last name diaz originate from?
+Student B:OK... The relevant information to answer the above question is: First found in Castile, where the name originated in the Visigoth period, the name accounts for about 0.17 % of the Spanish population, ranking as the 14th-most frequently found surname in both 1999 and 2004 compared to the most popular Spanish surname of those years.
+in Castile , where the name originated in the Visigoth period.
+
+Problem:The president pro tempore of the Senate is traditionally the most senior member of the majority party.
+
+Answer this question based on the passage: who is the highest ranking member of the senate?
+Solution:OK... This is the relevant information: The president pro tempore of the Senate is traditionally the most senior member of the majority party.
+the most senior member of the majority party.
+
+Student A:The Western Allies of World War II launched the largest amphibious invasion in history when they assaulted Normandy, located on the northern coast of France, on 6 June 1944. The invaders were able to establish a beachhead as part of Operation Overlord after a successful "D-Day," the first day of the invasion.
+
+Answer this question based on the passage: where did the allied forces invaded france for a massive liberation of the country on june 6 1944?
+Student B:OK... The important part for answering this question is: The Western Allies of World War II launched the largest amphibious invasion in history when they assaulted Normandy, located on the northern coast of France, on 6 June 1944.
+Normandy.
+
+Student A:The Employee Benefits Security Administration (EBSA) is an agency of the United States Department of Labor responsible for administering, regulating and enforcing the provisions of Title I of the Employee Retirement Income Security Act of 1974 (ERISA). At the time of its name change in February 2003, EBSA was known as the Pension and Welfare Benefits Administration (PWBA). Prior to January 1986, PWBA was known as the Pension and Welfare Benefits Program.
+
+Answer this question based on the passage: what does the employee benefits security administration do?
+Student B:

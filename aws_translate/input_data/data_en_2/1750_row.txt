@@ -1,0 +1,19 @@
+Question: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 on the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. It will be the second Ryder Cup to be held in Continental Europe, after the 1997 contest, which was held in Spain. The United States is the defending champion, but has lost the last five matches in Europe, having last won there in 1993.
+
+Answer this question: where is the ryder cup golf tournament being played?
+Answer: The important part for answering this question is: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 on the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. The answer is on the Albatros Course of Le Golf National in Saint - Quentin - en - Yvelines , a suburb southwest of Paris.
+
+Question: Passage: American Girl is an American line of 18-inch (46 cm) dolls released in 1986 by Pleasant Company. The dolls portray eight-to eleven-year-old girls of a variety of ethnicities. They are sold with accompanying books told from the viewpoint of the girls. Originally the stories focused on various periods of American history, but were expanded in 1995 to include characters and stories from contemporary life. Aside from the original American Girl dolls, the buyer also has the option to purchase dolls that look like themselves. The options for the line of Truly Me dolls include eye color, eye shape, skin color, hair texture, and hair length. A variety of related clothing and accessories is also available. A service for ordering a bespoke doll with features and clothing specified by the owner, dubbed Create Your Own, has also been introduced in 2017.
+
+Question: Based on this passage, when did they start making american girl dolls?
+Answer: To answer the above question, the relevant sentence is: American Girl is an American line of 18-inch (46 cm) dolls released in 1986 by Pleasant Company. The answer is 1986.
+
+Question: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+
+Answer this question based on the passage: when was the last time a total eclipse happened?
+Answer: The relevant information is: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017. The answer is August 21 , 2017.
+
+Question: Context: Millennials (also known as Generation Y) are the generational demographic cohort following Generation X. There are no precise dates for when this cohort starts or ends; demographers and researchers typically use the early 1980s as starting birth years and the mid-1990s to early 2000s as ending birth years. Millennials are sometimes referred to as "echo boomers" due to a major surge in birth rates in the 1980s and 1990s, and because millennials are often the children of the baby boomers. The 20th-century trend toward smaller families in developed countries continued, however, so the relative impact of the "baby boom echo" was generally less pronounced than the post -- World War II baby boom.
+
+Question: when were you born to be a millenial?
+Answer:

@@ -1,0 +1,25 @@
+Her children ate 25% of the 16 brownies so they ate .25 * 16 = 4 slices. There were 16 brownies and the children ate 4 slices, leaving 16 - 4 = 12 brownies. The family ate 50% of the remaining 12 brownies so they ate .50 * 12 = 6 brownies. There were 12 brownies and they ate 6 which leaves 12 - 6 = 6 brownies. Lorraine had 1 more of the 6 remaining brownies which leaves 6 - 1 = 5 brownies.
+The answer: 5
+Reverse engineering the question: Lorraine made a pan of brownies and cut them into 16 pieces. Her children ate 25% of the brownies when they got home from school. After dinner, the entire family ate 50% of the remaining brownies. After everyone went to bed, Lorraine ate 1 more brownie. How many brownies are left over?
+
+Reasoning and answer: First find the net amount of ivy Cary removes each day by subtracting the ivy's growth from the amount she removes: 6 feet / day - 2 feet / day = 4 feet / day. Then divide the total feet of ivy by the net amount Cary removes each day to find how many days it takes her to remove all the ivy: 40 feet / 4 feet / day = 10 days.
+The answer: 10
+What was the question?
+Question: Cary is trying to strip the ivy off a tree in her yard. She strips 6 feet of ivy every day, but the ivy grows another 2 feet every night. If the tree is covered by 40 feet of ivy, how many days will it take Cary to strip all the ivy off?
+
+First find the number of water breaks James takes: 240 minutes / 20 minutes / water break = 12 water breaks. Then find the number of sitting breaks James takes: 240 minutes / 120 minutes / sitting break = 2 sitting breaks. Then subtract the number of sitting breaks from the number of water breaks to find the difference: 12 breaks - 2 breaks = 10 breaks.
+The answer: 10
+Reverse engineering the question: James works for 240 minutes. He takes a water break every 20 minutes and a sitting break every 120 minutes. How many more water breaks does he take than sitting breaks?
+
+Reasoning and answer: The total height of the first to 100th floor is 100 x 16.5 = 1650 feet. Hence, the 101st floor is 1673 - 1650 = 23 feet high.
+The answer: 23
+What was the question?
+Question: Taipei 101 in Taiwan is 1,673 feet tall with 101 floors. Suppose the first to 100th floors have height each equal to 16.5 feet, how high is the 101st floor?
+
+First, we need to determine how much Johnny makes in one day. To start, we perform 3 * 7 = 21 dollars for the first job. Second, we perform 2 * 10 = 20 dollars for the second job. Third, we perform 4 * 12 = 48 dollars for the third job. Altogether, Johnny makes 21 + 20 + 48 = 89 dollars in a day. We multiply this amount by the 5 days, performing 5 * 89 = 445 dollars over 5 days.
+The answer: 445
+Reverse engineering the question: Johnny spent 3 hours working on a job that paid $7 per hour, 2 hours working on a job that paid $10 an hour, and 4 hours working on a job that paid $12 an hour. Assuming he repeats this process 5 days in a row, how much does Johnny make?
+
+The range of scores is the difference between the highest and the least score so 75 = 98 - least score. Then the least score = 98 - 75 = 23. Mark scored twice as much as the least score which is 2 * 23 = 46.
+The answer: 46
+Reverse engineering the question:

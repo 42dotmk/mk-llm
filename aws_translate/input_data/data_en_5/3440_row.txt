@@ -1,0 +1,27 @@
+Reasoning and answer: First multiply Marla's one - way driving time by 2 to find her total driving time: 20 minutes * 2 = 40 minutes. Then add Marla's driving time to the time spent attending the conference to find the total time: 70 minutes + 40 minutes = 110 minutes.
+The answer: 110
+What was the question?
+Question: Marla has to spend 20 minutes driving one way to her son's school, then 70 minutes attending parent-teacher night, then the same amount of time driving home. How many minutes does Marla spend on this errand in total?
+
+Instead of $5 each, a book costs $5 - $0.5 = $4.5 each. Sheryll paid $4.5 / book x 10 books = $45.
+The answer: 45
+Reverse engineering the question: In a bookstore, a book costs $5. When Sheryll bought 10 books, she was given a discount of $0.5 each. How much did Sheryll pay in all?
+
+Reasoning and answer: First figure out how old Ana is right now by subtracting 3 from 15: 15 - 3 = 12. Next, figure out how old Billy is by dividing Ana's age by 2: 12 / 2 = 6. Now figure out how old Mark is by adding 4 to Billy's age: 6 + 4 = 10. Now, to figure out Sarah's age, first multiply Mark's age by 3: 10 * 3 = 30. Finally, subtract 4 from triple Mark's age to find Sarah's age: 30 - 4 = 26.
+The answer: 26
+What was the question?
+Question: Sarah's age is equal to three times Mark's age minus 4. Mark is four years older than Billy. Billy is half Ana's age. If Ana will be 15 in 3 years, how old is Sarah?
+
+When they covered 1 / 4 of the total distance, they were 1 / 4 * 200 = 50 miles away from the starting point. The total distance remaining is 200 - 50 = 150 miles. If they took 1 hour to travel 50 miles, their speed was 50 / 1 = 50 miles per hour. If Roger was driving at 50 miles per hour, then the total time it took him to travel 150 miles is 150 / 50 = 3 hours. The total amount of time taken for the whole journey is 3 + 1 + 1 = 5 hours.
+The answer: 5
+Reverse engineering the question: The total distance between 2 towns is 200 miles. Roger and his friend drove 1/4 of the total distance, taking 1 hour to do so. They take lunch for another 1 hour and then drove the remaining distance going at the same speed as before. What's the total amount of time, in hours, Roger and his friend took to travel between the two towns?
+
+Reasoning and answer: She orders 2 scoops of ice cream that's $1.00 per scoop so the ice cream costs 2 * 1 = $2.00. She wants double syrup. The syrup is $0.50 so that will cost 2 * .50 = $1.00. The brownie is $2.50, the ice cream will be $2.00, the syrup will be $1.00 and the nuts will be $1.50 bringing her total to 2.5 + 2 + 1 + 1.5 = $7.00.
+The answer: 7
+What was the question?
+Question: A local restaurant was offering a "Build Your Own Hot Brownie" dessert. The brownie cost $2.50 and each scoop of ice cream costs $1.00. Any syrup costs $0.50 and nuts cost $1.50. If Juanita orders the brownie with 2 scoops of ice cream, double syrup, and nuts, how much will her dessert cost?
+
+Reasoning and answer: If Eugene used all but 16 of the 52 cards, then he used 52 - 16 = 36 cards. If for every card he used 75 toothpicks, then a box of toothpicks would have enough toothpicks for 450 / 75 = 6 cards. Since one box has enough toothpicks for 6 cards, then for 36 cards he would need 36 / 6 = 6 boxes of toothpicks.
+The answer: 6
+What was the question?
+Question:

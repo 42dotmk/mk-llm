@@ -1,0 +1,19 @@
+Q: Passage: A sword is a bladed weapon intended for slashing or thrusting that is longer than a knife or dagger. The precise definition of the term varies with the historical epoch or the geographical region under consideration. A sword consists of a long blade attached to a hilt. The blade can be straight or curved. Thrusting swords have a pointed tip on the blade, and tend to be straighter; slashing swords have sharpened cutting edge on one or both sides of the blade, and are more likely to be curved. Many swords are designed for both thrusting and slashing.
+
+Question: Based on this passage, what is the meaning of sword in english?
+A: a bladed weapon intended for slashing or thrusting that is longer than a knife or dagger. How to explain the answer? This is the relevant information: A sword is a bladed weapon intended for slashing or thrusting that is longer than a knife or dagger.
+
+Q: Passage: The Evil Queen, also known as the Wicked Queen or just the Queen, and sometimes instead identified by her given name as Queen Grimhilde, is the primary antagonist in Disney's 1937 animated film Snow White and the Seven Dwarfs and a villain character in the extended Disney's Snow White franchise. She is based on the Evil Queen character from the European fairy tale "Snow White".
+
+Question: Based on this passage, the evil queen's name in snow white?
+A: Queen Grimhilde. How to explain the answer? To answer the above question, the relevant sentence is: The Evil Queen, also known as the Wicked Queen or just the Queen, and sometimes instead identified by her given name as Queen Grimhilde, is the primary antagonist in Disney's 1937 animated film Snow White and the Seven Dwarfs and a villain character in the extended Disney's Snow White franchise.
+
+Q: Making amends for years of underperforming V-twins, Honda set out to produce a cruiser with the biggest CID ever and so designed a big bike with a muscular looking body that was long and low to the ground, featuring significant rake and trail. Honda claimed that the 1800 put out 159 N m (117 lbf ft) of torque at only 3000 rpm and 75 kW (101 hp) at 5000 rpm, making the VTX1800 one of the most powerful production V-twin motorcycles of its time. (See infobox for measured horsepower and torque values.)
+
+Answer this question based on the passage: how much horsepower does a honda vtx 1800 have?
+A: 101. How to explain the answer? This is the relevant information: Honda claimed that the 1800 put out 159 N m (117 lbf ft) of torque at only 3000 rpm and 75 kW (101 hp) at 5000 rpm, making the VTX1800 one of the most powerful production V-twin motorcycles of its time.
+
+Q: The solar eclipse of August 21, 2017, dubbed "The Great American Eclipse" by the media, was a total eclipse visible within a band across the entire contiguous United States, passing from the Pacific to the Atlantic coasts. As a partial solar eclipse, it was visible on land from Nunavut in northern Canada to as far south as northern South America. In northwestern Europe and Africa, it was partially visible in the late evening. In Asia it was visible only at the eastern extremity, the Chukchi Peninsula.
+
+Answer this question: where does the solar eclipse start and end?
+A:

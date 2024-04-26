@@ -1,0 +1,19 @@
+1. Could we survive if we jumped inside a free-falling lift just before hitting the ground?
+
+To answer this question accurately, we need to understand physics, particularly the principles of momentum and kinetic energy. To put it simply, in a free-falling lift (or elevator), you along with the lift are falling under the force of gravity. This means both you and the lift are accelerating downwards at the same rate, which is roughly 9.8m/s². 
+
+Now, the conjecture is that if you jump just before the lift hits the ground, you would be able to cancel out the downward velocity and, therefore, survive the impact. But practically, that's not possible for a human. The speed at which you would need to jump upwards to cancel out the downward velocity is unrealistic for a human to achieve, particularly given that the lift could be falling at tens or even hundreds of mph depending on the height of the fall. 
+
+Consider this: a high-speed runner clocks in at roughly 20-30 mph and that's in forward momentum, not against gravity. The faster the elevator falls, the faster you would need to jump, and at some point, it becomes an impossible feat. Moreover, even if you somehow managed to jump up at the exact right moment and at the exact velocity, you're still in a confined space which would be disastrously crumpling around you due to the impact.
+
+Thus, if the fall is from a significant height, the chances of survival by jumping right before the impact are extremely slim to none.
+
+2. What happens to us if we are inside a free-falling lift and jump just before it hits the ground?
+
+Similar to the question above, when you're in a free-falling lift that is falling under the force of gravity, you're also falling at the same rate. Thus, when the lift hits the ground, the sudden deceleration would result in you experiencing a force equivalent to a high-speed car crash, making survival very unlikely.
+
+Despite the popular idea that jumping might help, it wouldn't significantly change the outcome for the reasons explained in the previous question: it's impossible for a human to jump with sufficient speed to cancel out the downward velocity in a free-falling lift. Furthermore, even if you could and did jump, the lift would still crash around you, most likely causing fatal injuries.
+
+3. Do those questions have the same meaning?
+
+Though these two questions are asking about related situations, their core focus differs slightly. The first question, "Could we survive if we jumped inside a free-falling lift just before hitting the ground?" is asking about the possibility of survival in such a situation, focusing on the hypothetical actions a person might take to affect the outcome. The second question, "What happens to us if we are inside a free-falling lift and jump just before it hits the ground?" is asking for a description or explanation of the physical events that would occur in such a scenario, not necessarily focusing only on the survival aspect but on the overall situation. So while both are dealing with the same circumstance, the intent and focus of each question is slightly different.

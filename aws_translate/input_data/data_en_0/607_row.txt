@@ -1,0 +1,22 @@
+Student A:Passage: The Indian Armed Forces (Hindi ( in IAST): Bhāratīya Saśastra Senāeṃ ) are the military forces of the Republic of India. It consists of three professional uniformed services: the Indian Army, Indian Navy, and Indian Air Force. Additionally, the Indian Armed Forces are supported by the Indian Coast Guard and paramilitary organisations (Assam Rifles, and Special Frontier Force) and various inter-service commands and institutions such as the Strategic Forces Command, the Andaman and Nicobar Command and the Integrated Defence Staff. The President of India is the Supreme Commander of the Indian Armed Forces. The Indian Armed Forces are under the management of the Ministry of Defence (MoD) of the Government of India. With strength of over 1.4 million active personnel, it is the world's 2nd largest military force and has the world's largest volunteer army. It is important to note that the Central Armed Police Forces, which are commonly and incorrectly referred to as' Paramilitary Forces', are headed by officers from the Indian Police Service and are under the control of the Ministry of Home Affairs, not the Ministry of Defence.
+
+Question: Based on this passage, who is the supreme commander of the indian armed forces?
+Student B:OK... The relevant information is: The President of India is the Supreme Commander of the Indian Armed Forces.
+The President of India.
+
+Student A:Passage: Richard' Dick' Parry (born 22 December 1942 in Kentford, Suffolk, England) is an English saxophonist. He has appeared as a session musician on various albums by modern bands and artists, and is probably best known for his solo parts on the Pink Floyd songs "Money", "Us and Them", "Shine On You Crazy Diamond" and "Wearing the Inside Out". He also played on the Bloodstone album Riddle of the Sphinx.
+
+Question: Based on this passage, who played sax on money by pink floyd?
+Student B:OK... The relevant information is: He has appeared as a session musician on various albums by modern bands and artists, and is probably best known for his solo parts on the Pink Floyd songs "Money", "Us and Them", "Shine On You Crazy Diamond" and "Wearing the Inside Out".
+Richard ' Dick ' Parry.
+
+Student A:The Avesta / əˈvɛstə / is the primary collection of religious texts of Zoroastrianism, composed in the otherwise unrecorded Avestan language.
+
+Answer this question based on the passage: zend avesta is the holy book of which religion?
+Student B:OK... The important part for answering this question is: The Avesta / əˈvɛstə / is the primary collection of religious texts of Zoroastrianism, composed in the otherwise unrecorded Avestan language.
+Zoroastrianism.
+
+Student A:Context: The Industrial Revolution was the transition to new manufacturing processes in the period from about 1760 to sometime between 1820 and 1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power, the development of machine tools and the rise of the factory system.
+
+Question: when did the industrial revolution begin and end?
+Student B:

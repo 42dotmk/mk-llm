@@ -1,0 +1,27 @@
+Reasoning and answer: The garden is 220 * 120 = 26,400 square feet. The tilled land will take up half the area, and the trellises and raised beds will be the other half. Each half is 26,400 / 2 = 13,200 square feet. The trellises will take up 1 / 3 of the remaining land, so the raised beds will take 1 - 1 / 3 = 2 / 3 of the remaining land. So the total area of the raised bed area will be 13,200 square feet * (2 / 3) = 8,800 square feet.
+The answer: 8800
+What was the question?
+Question: Bob is building a vegetable garden. It is 220 feet long by 120 feet wide. Half of the garden is going to be tilled land. A third of the rest of it will have trellises for vining plants, and the rest will be devoted to raised beds. How big will the raised bed section of the garden be?
+
+Every week Carl needs to drive additional 6 hours, so in two weeks that would make 2 * 6 = 12 additional hours. Two weeks of driving 2 hours every day, means 14 * 2 = 28 hours of driving. So during two weeks, Carl will drive 28 + 12 = 40 hours.
+The answer: 40
+Reverse engineering the question: To make a living, Carl needs to drive a car for 2 hours every day. After he got promoted he needs to drive for 6 more hours every week. How many hours will Carl drive in two weeks?
+
+Reasoning and answer: Omar drinks 1 / 4 * 12 = 12 / 4 = 3 ounces on the way to work. Omar drinks 1 / 2 * 12 = 12 / 2 = 6 ounces when he gets to his office. When he drinks 1 ounce more, he will have drunk 3 + 6 + 1 = 10 ounces. Thus, there will be 12 - 10 = 2 ounces left in the cup afterward.
+The answer: 2
+What was the question?
+Question: Omar buys a 12-ounce cup of coffee every morning on the way to work. On the way to work, he drinks one-quarter of the cup. When he gets to his office, he drinks another half of the cup. He forgets to drink any more of his coffee once he starts working, and when he remembers his coffee, he only drinks 1 ounce of the remaining amount because it is cold. How many ounces will be left in the cup afterward?
+
+For each type of shirt, he needed to buy, 40 employees / 4 = 10 shirts. White men's T - shirts cost $20 / shirt * 10 shirts = $200. White women's T - shirts cost $5 less, or ($20 / shirt - $5 / shirt) * 10 shirts = $15 / shirt * 10 shirts = $150. Black men's t - shirts cost, $18 / shirt * 10 shirts = $180. Black women's T - shirts cost $ 5 less, so ($18 / shirt - $5 / shirt) * 10 shirts = $13 / shirt * 10 shirts = $130. Now add up all these quantities to find the total: $200 + $150 + $180 + $130 = $660.
+The answer: 660
+Reverse engineering the question: Juan bought T-shirts for his employees. He bought shirts for men and women. Women's t-shirts are $5 cheaper than men's t-shirts of the same color. His company has 2 sectors, one in white t-shirts and the other in black t-shirts. He paid $20 for white men's t-shirts and $18 for black men's t-shirts. The 2 sectors have the same number of men and women, with a total of 40 employees. How much did he spend total on buying t-shirts?
+
+Reasoning and answer: The amount of milk one cow gives in a week: 5 liters / day * 7 days / week = 35 liters / week. The amount of milk 52 cows give in a week: 52 cows * 35 liters / week / cow = 1820 liters / week.
+The answer: 1820
+What was the question?
+Question: A farmer has 52 cows. Each cow gives 5 liters of milk a day. How many liters of milk does the farmer get in a week?
+
+Reasoning and answer: Armand = (1 / 3) * 12 = 4 hours. Ella = 2 * 12 = 24 hours. Total hours = 12 + 4 + 24 = 40 hours. They worked a total of 40 hours.
+The answer: 40
+What was the question?
+Question:

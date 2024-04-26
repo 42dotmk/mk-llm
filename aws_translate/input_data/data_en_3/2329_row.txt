@@ -1,0 +1,19 @@
+Question: The appointment and confirmation of Justices to the Supreme Court of the United States involves several steps set forth by the United States Constitution, which have been further refined and developed by decades of tradition. Candidates are nominated by the President of the United States and must face a series of hearings in which both the nominee and other witnesses make statements and answer questions before the Senate Judiciary Committee, which can vote to send the nomination to the full United States Senate. Confirmation by the Senate allows the President to formally appoint the candidate to the court.
+
+Based on this passage, who approves presidential appointments to the supreme court?
+Answer: The relevant information to answer the above question is: Confirmation by the Senate allows the President to formally appoint the candidate to the court. The answer is the Senate.
+
+Question: Context: In the UK, the Ordnance Datum (the 0 metres height on UK maps) is the mean sea level measured at Newlyn in Cornwall between 1915 and 1921. Prior to 1921, the datum was MSL at the Victoria Dock, Liverpool.
+
+Question: where is sea level measured in the uk?
+Answer: The relevant sentence in the passage is: In the UK, the Ordnance Datum (the 0 metres height on UK maps) is the mean sea level measured at Newlyn in Cornwall between 1915 and 1921. The answer is Newlyn in Cornwall between 1915 and 1921.
+
+Question: March for Our Lives (sometimes MFOL) was a student-led demonstration in support of tighter gun control that took place on March 24, 2018, in Washington, D.C., with over 800 sibling events throughout the United States and around the world. Student organizers from Never Again MSD planned the march in collaboration with the nonprofit organization Everytown for Gun Safety. The event followed the February 14, 2018 Stoneman Douglas High School shooting in Parkland, Florida, which was described by many media outlets as a possible tipping point for gun control legislation.
+
+Answer this question: where did the march for our lives take place?
+Answer: The important part for answering this question is: March for Our Lives (sometimes MFOL) was a student-led demonstration in support of tighter gun control that took place on March 24, 2018, in Washington, D.C., with over 800 sibling events throughout the United States and around the world. The answer is Washington , D.C..
+
+Question: The first Indianapolis 500 was held in 1911, where Ray Harroun was declared the first winner, driving the Marmon Wasp. The race has been run annually since 1911 (with exceptions during World War I and World War II) and 71 drivers have been crowned champions of the 500-mile race over the course of 101 races. The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears. The Indianapolis 500 has also drawn many international drivers to the Indianapolis Motor Speedway over the years, with 26 of the winners coming from outside of the United States, representing nine separate countries. The most recent champion of the Indianapolis 500 is Takuma Sato, winner of the 2017 race.
+
+Answer this question based on the passage: who has won the indy 500 the most?
+Answer:

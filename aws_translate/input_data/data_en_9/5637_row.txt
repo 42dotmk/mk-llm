@@ -1,0 +1,34 @@
+Student A:Sam is portrayed by John Bradley West in the HBO television adaptation.
+
+Who plays little sam in game of thrones?
+Student B:OK... The relevant sentence in the passage is: Sam is portrayed by John Bradley West in the HBO television adaptation.
+John Bradley West.
+
+Problem:The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 at the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. It will be the second Ryder Cup to be held in Continental Europe, after the 1997 contest, which was held in Spain. The United States are the defending champions, but last won in Europe in 1993, a quarter century earlier.
+
+Based on this passage, where is the 2018 ryder cup being held?
+Solution:OK... The relevant information to answer the above question is: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 at the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris.
+the Albatros Course of Le Golf National in Saint - Quentin - en - Yvelines , a suburb southwest of Paris.
+
+Student A:The corresponding vein that carries deoxygenated blood from the upper half of the body is the superior vena cava.
+
+What is the function of the super vena cava?
+Student B:OK... To answer this question, we should know that: The corresponding vein that carries deoxygenated blood from the upper half of the body is the superior vena cava.
+carries deoxygenated blood from the upper half of the body.
+
+Problem:"Love Is in the Air" is a 1977 disco song sung by John Paul Young. The song was written by George Young and Harry Vanda and it became a worldwide hit in 1978, peaking at No. 3 on the Australian charts and No. 5 in the UK Singles Chart. In the United States, the song peaked at No. 7 on the pop chart and spent two weeks at No. 1 on the adult contemporary chart, his only US top 40 hit.
+
+Who wrote the song love is in the air?
+Solution:OK... To answer this question, we should know that: The song was written by George Young and Harry Vanda and it became a worldwide hit in 1978, peaking at No. 3 on the Australian charts and No. 5 in the UK Singles Chart.
+George Young and Harry Vanda.
+
+Student A:Mickey first appeared in the short Plane Crazy, debuting publicly in the short film Steamboat Willie (1928), one of the first sound cartoons. He went on to appear in over 130 films, including The Band Concert (1935), Brave Little Tailor (1938), and Fantasia (1940). Mickey appeared primarily in short films, but also occasionally in feature-length films. Ten of Mickey's cartoons were nominated for the Academy Award for Best Animated Short Film, one of which, Lend a Paw, won the award in 1942. In 1978, Mickey became the first cartoon character to have a star on the Hollywood Walk of Fame.
+
+Based on this passage, what was the name of the first ever mickey mouse cartoon?
+Student B:OK... To answer this question, we should know that: Mickey first appeared in the short Plane Crazy, debuting publicly in the short film Steamboat Willie (1928), one of the first sound cartoons.
+Plane Crazy.
+
+Student A:Context: The eighth series of the show is expected to begin on 20 March 2018, and was filmed in Spain. The series was confirmed in August 2017. The cast for this series was revealed on 20 February 2018, and includes Geordie Shore star Marnie Simpson as well as The X Factor contestant, and Stereo Kicks and Union J singer Casey Johnson.
+
+Question: where's ex on the beach season 8 filmed?
+Student B:

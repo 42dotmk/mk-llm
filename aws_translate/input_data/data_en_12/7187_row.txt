@@ -1,0 +1,25 @@
+Given that the tank is 1 / 3 full of water, and that it requires 16 gallons to fill. 1 full tank - 1 / 3 tank = 2 / 3 of the tank is empty, which is equal to 16 gallons. If 2 / 3 of the tank equals 16 gallons, this means 1 / 3 of the tank is equal to 16 / 2 gallons = 8 gallons. The total capacity of the tank or how much the tanks holds = 16 + 8 = 24 gallons.
+The answer: 24
+Reverse engineering the question: The gauge on a water tank shows that the tank is 1/3 full of water. To fill the tank, 16 gallons of water are added. How many gallons of water does the tank hold when full?
+
+Reasoning and answer: Let X be the money Mark had. Mark spent 1 / 2 * X + 14 in the first store and 1 / 3 * X + 16 in the second store. Mark has X - 1 / 2 * X - 14 - 1 / 3 * X - 16 = $0 left. Combining like terms, we get 1 / 6 * X - 30 = $0. Adding 30 to both sides and multiplying both sides by 6, we find that Mark had X = $180 when he entered the first store.
+The answer: 180
+What was the question?
+Question: Mark went to a store where he spent one-half of his money, and then spent $14 more. He then went to another store where he spent one-third of his starting money, and then spent $16 more. If he then had no money left, how much did he have when he entered the first store?
+
+35% of the cookies have nuts and chocolate chips because 100 - 25 - 40 = 35. 60% of the cookies have nuts in them because 25 + 35 = 60. She makes 36 cookies with nuts in them because 60 x .6 = 36. She needs 72 nuts because 36 x 2 = 72.
+The answer: 72
+Reverse engineering the question: Maria is baking cookies for Sally. Sally says that she wants 1/4 of her cookies to have nuts in them, 40% to have chocolate chips in them, and the remainder to have nuts and chocolate chips in them. When she adds nuts to the cookies, she uses 2 nuts per cookie. If she makes 60 cookies, how many nuts does she need?
+
+Reasoning and answer: There are 15 Easter egg baskets with 12 Easter eggs in them, 15 x 12 = 180 Easter eggs. There are 7 adults + Shonda (1) + 2 of Shonda's kids + 10 of their friends = 20 people at the Easter egg hunt. There are 180 Easter eggs for 20 people, 180 / 20 = 9 Easter eggs each for everyone.
+The answer: 9
+What was the question?
+Question: Shonda is throwing an Easter egg hunt for her 2 kids and their 10 friends. She is also supplying enough eggs for herself and the 7 other adults there to find eggs as well. If there are 15 Easter egg baskets for everyone to share and each ends up holding 12 Easter eggs, when they equally distribute all of the Easter eggs to everyone, how many eggs does each person get?
+
+The house is 2,300 sq ft and we know the non - bedroom sections take up 1,000 sq ft, so that leaves 2300 - 1000 = 1,300 sq ft for the bedrooms / bathrooms. Let x be the size of the master bedroom suite. Then the guest bedroom is 0.25x. So together the bedrooms are x + 0.25x = 1.25x in size. This means 1.25x = 1300. So x = 1300 / 1.25 = 1040 sq ft.
+The answer: 1040
+Reverse engineering the question: A house’s living room, dining room and kitchen take up 1,000 sq ft. The house also has a guest bedroom and a master bedroom suite. If the guest bedroom is a quarter of the size of the master bedroom suite, and the house is 2,300 sq ft total, how large is the master bedroom suite?
+
+Twice the width is 4 x 2 = 8 meters. The length of the rectangular flowerbed is 8 - 1 = 7 meters. Since the rectangular flower bed has 2 equal lengths, then it needs 7 x 2 = 14 meters of fence. The rectangular bed has also 2 equal widths, so it needs 4 x 2 = 8 meters of fence. Therefore, the rectangular flower bed needs a total of 14 + 8 = 22 meters of fence.
+The answer: 22
+Reverse engineering the question:

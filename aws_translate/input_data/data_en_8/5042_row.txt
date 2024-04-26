@@ -1,0 +1,27 @@
+Reasoning and answer: If a paint mixer takes three days to make 18 drums of paint in a day, he makes 18 / 3 = 6 drums of paint. The number of days it will take for him to make 360 drums of paint, making 6 drums a day, is 360 / 6 = 60 days.
+The answer: 60
+What was the question?
+Question: Making an equal number of drums of paint each day, a paint mixer takes three days to make 18 drums of paint. How many days will it take for him to make 360 drums of paint?
+
+The frame she initially intended to buy was 20 / 100 * $60 = $12 more expensive than she had thought. This means the frame was being sold at $60 + $12 = $72. If she paid for a smaller frame at 3 / 4 the price of the frame she initially intended to buy, she paid 3 / 4 * $72 = $54. Yvette remained with $60 - $54 = $6.
+The answer: 6
+Reverse engineering the question: Yvette wants to frame a new picture. When she goes to her local frame shop, she finds out that the frame she wanted is 20% more expensive than her budget of $60. If she paid for a smaller frame at 3/4 the new price of the frame she initially intended to buy, how much money did she remain with?
+
+Reasoning and answer: He spends 5 * 2 = $10 on Wednesday to pay for a movie ticket. He spends 5 * 5 = $25 on Saturday to pay for a movie ticket. He spends a total of 10 + 25 = $35.
+The answer: 35
+What was the question?
+Question: Movie tickets cost $5 each on a Monday, twice as much on a Wednesday, and five times as much as Monday on a Saturday. If Glenn goes to the movie theater on Wednesday and Saturday, how much does he spend?
+
+Since the average of marks scored in four tests by Jake was 75, the total marks that he scored in the four tests are 4 * 75 = 300. If jake scored 80 marks in the first test and 10 more in the second test, he scored 80 + 10 = 90 marks in the second test. The combined marks for the first and the second test is 90 + 80 = 170. The total marks Jake scored in the third and fourth test is 300 - 170 = 130. Since Jake scored an equal number of marks in the third and fourth tests, he scored 130 / 2 = 65 marks in each of the third and fourth tests.
+The answer: 65
+Reverse engineering the question: The average of marks scored in four tests by Jake was 75. If jake scored 80 marks in the first test and 10 more in the second test, and an equal number of marks in the third and fourth test, calculate the marks he scored in the third test.
+
+Reasoning and answer: He knows 50 people are showing up and he’s hoping 40 more people will drop in for a total of 50 + 40 = 90 people. He’s made 10 extravagant gift bags and 20 average bags for a total of 10 + 20 = 30 bags. He hopes 90 people will show up and has already made 30 bags so he needs to make 90 - 30 = 60 more gift bags.
+The answer: 60
+What was the question?
+Question: Carl is hosting an open house for his new business. He knows 50 people will show up and hopes that another 40 people will randomly show up. He’s created 10 extravagant gift bags for the first 10 people who visit his shop. He’s made average gift bags for 20 people but needs to make enough for everyone who visits to have one. How many more bags does he need to make?
+
+Reasoning and answer: The total percentage the class needs to get is 18.75 because 25 x .75 = 18.75. The total percentage the class has absent the one student is 18.48. The lowest the absent student can get and still have a pizza party is 27% because (18.75 - 18.48)x 100 = 27.
+The answer: 27
+What was the question?
+Question:

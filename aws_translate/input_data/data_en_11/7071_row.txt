@@ -1,0 +1,25 @@
+A description of how probabilities are distributed over the values of a random variable is often referred to as a probability distribution. Probability distributions play a crucial role in the study of statistics and probability theory as they provide a method to represent and analyze uncertainties in data or processes.
+
+Probability distributions can be classified into two broad categories:
+
+1. Discrete Probability Distributions: These distributions are used when a random variable can take only a finite or countably infinite number of distinct values. Some common examples include flipping a coin, rolling a die, or counting the number of defective items in a batch. Discrete probability distributions assign probabilities to individual outcomes or events. Some well-known discrete probability distributions are:
+
+   a. Uniform Distribution: All the possible outcomes have an equal probability of occurring. For example, in a fair coin toss, the probability of getting a head or a tail is equal (1/2).
+
+   b. Bernoulli Distribution: This distribution represents the probability of success or failure in a single trial. It can be used to model situations where only two outcomes are possible, such as yes/no or true/false.
+
+   c. Binomial Distribution: It describes the number of successes in a fixed number of independent Bernoulli trials with the same probability of success. For example, the probability of getting exactly three heads in five coin tosses.
+
+   d. Poisson Distribution: This distribution models the number of events occurring in a fixed interval of time or space, given that the events are rare and unpredictable. For example, the number of phone calls received at a call center in an hour.
+
+2. Continuous Probability Distributions: These distributions are used when a random variable can take any value in a continuous range, such as measurements like height, weight, or temperature. Continuous probability distributions are described by probability density functions (PDFs), which determine the shape of the distribution curve and provide the probability of a random variable taking a value within a specific range. Some well-known continuous probability distributions are:
+
+   a. Uniform Distribution: The continuous uniform distribution assigns equal probability to all the values within a given range. For example, the probability of a person's height being between 5' and 6' is the same as between 6' and 7'.
+
+   b. Normal Distribution (Gaussian Distribution): It is a bell-shaped distribution that occurs naturally in many phenomena, such as biological measurements, social sciences, and physical sciences. The normal distribution is characterized by two parameters: the mean (µ), which indicates the central location of the distribution; and the standard deviation (σ), which represents the spread of the distribution.
+
+   c. Exponential Distribution: This distribution models the waiting time between successive events in a Poisson process. For example, the time between two buses arriving at a bus stop.
+
+   d. Log-Normal Distribution: It is a distribution whose logarithm is normally distributed. It can model variables that are always positive and have a skewed distribution, such as stock prices or lifetimes of products.
+
+Understanding probability distributions and their properties is essential for statistical inference, prediction, quality control, and decision-making in a wide range of fields, including finance, engineering, physics, social sciences, and biology. By using the probability distributions, we can estimate the likelihood of observing particular outcomes or values and make better decisions based on the available data.

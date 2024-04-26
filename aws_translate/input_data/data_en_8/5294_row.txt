@@ -1,0 +1,27 @@
+Reasoning and answer: The 4 chairs cost Cory $135 - $55 = $80. Each chair costs $80 / 4 = $20.
+The answer: 20
+What was the question?
+Question: Cory bought a patio table and 4 chairs for $135. The patio table cost $55. If each chair cost the same amount, how much did each chair cost?
+
+We know Christine's second throw was 30 feet high because 20 + 10 = 30. We know Christine's third throw was 34 feet because 30 + 4 = 34. Janice's first throw was 16 feet because 20 - 4 = 16. Janice's second throw was 32 feet because 16 * 2 = 32. Janice's final throw was 37 feet high because 20 + 17 = 37. The six throws were 20 feet, 30 feet, 34 feet, 16 feet, 32 feet, and 37 feet, and of these numbers, 37 feet was the highest.
+The answer: 37
+Reverse engineering the question: Christine and Janice are having a contest to see who can throw a ball the highest. They each get three throws. On her first throw, Christine throws it 20 feet high. Janice's throw is 4 feet lower than Christine's. On their second throw, Christine throws it ten feet higher than her first throw and Janice throws it twice as high as her first throw. On the final throw, Christine throws it 4 feet higher than her 2nd throw while Janice throws it 17 feet higher than Christine's first throw. What is the height of the highest throw?
+
+Reasoning and answer: When going to school, she saw 40 + 20 = 60 animals. The number of beavers doubled to 20 * 2 = 40 beavers. The number of chipmunks decreased to 40 - 10 = 30 chipmunks. The total number of animals she saw on that day is 30 + 40 + 60 = 130 animals.
+The answer: 130
+What was the question?
+Question: Aubree saw 20 beavers and 40 chipmunks by a tree when going to school and scared them away when they saw her. While coming back from school, she realized the number of beavers had doubled and the number of chipmunks had decreased by 10. What's the total number of animals she saw that day?
+
+First find the area of one of the long walls: 30 feet * 12 feet = 360 square feet. Then double that amount since there are two walls: 360 square feet * 2 = 720 square feet. Then find the area of the short wall: 20 feet * 12 feet = 240 square feet. Then add that area to the area of the two long walls to find the total area: 720 square feet + 240 square feet = 960 square feet.
+The answer: 960
+Reverse engineering the question: James is building a hall of mirrors. Three of the walls will be completed covered with glass. If two of those walls are 30 feet by 12 feet and the third is 20 feet by 12 feet, how many square feet of glass does he need?
+
+Reasoning and answer: There are 7 * 2 = 14 amber beads. Thus, there are 40 - 7 - 14 = 19 turquoise beads in the necklace.
+The answer: 19
+What was the question?
+Question: A 40-bead necklace is made up of three kinds of beads. There are seven amethyst beads and twice as many amber beads as amethysts. The third beads are turquoise. How many turquoise beads are in the necklace?
+
+Reasoning and answer: Half of the students are playing basketball, which means 20 / 2 = 10 students play basketball. Two - fifths plays volleyball, which leaves us with 20 * 2 / 5 = 8 students. One - tenth play both games, which means 20 * 1 / 10 = 2 students. There are 10 + 8 = 18 students who play basketball or volleyball. Among these 18 students, 2 of them are playing both games, so that means 18 - 2 = 16 students play only one of the two games. So finally, 20 - 16 = 4 students do not play either game.
+The answer: 4
+What was the question?
+Question:

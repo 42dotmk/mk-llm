@@ -1,0 +1,27 @@
+Reasoning and answer: Jed is 25 - 10 = 15 years old now. So, Matt is 15 - 10 = 5 years old now. Thus, the sum of their present ages is 15 + 5 = 20.
+The answer: 20
+What was the question?
+Question: Jed is 10 years older than Matt. In 10 years, Jed will be 25 years old. What is the sum of their present ages?
+
+On 80 games, Daniel spend 80 games * $12 / game = $960. The rest of the collection is 346 games - 80 games = 266 games. 50% of these games means 50 / 100 * 266 games = 133 games. Daniel bought them for $7 each, so he had to spend 133 games * $7 / game = $931 on them. The other 133 games were bought for $3 each, so they've cost him 133 games * $3 / game = $399. On all games in total Daniel spent $960 + $931 + $399 = $2290.
+The answer: 2290
+Reverse engineering the question: Daniel has a collection of 346 video games. 80 of them, Daniel bought for $12 each. Of the rest, 50% were bought for $7. All others had a price of $3 each. How much did Daniel spend on all the games in his collection?
+
+Reasoning and answer: Theodore's total earnings from the stone statues are 10 x $20 = $200. His total earnings from wooden statues are 20 x $5 = $100. So his total earnings from the stone and wooden statue are $200 + $100 = $300. The amount he pays for the tax is $300 x 10 / 100 = $30. Therefore his total monthly earnings are $300 - $30 = $270.
+The answer: 270
+What was the question?
+Question: Theodore can craft 10 stone statues and 20 wooden statues every month. A stone statue costs $20 and a wooden statue costs $5. He also pays 10 percent of his total earnings in taxes. How much is his total earning every month?
+
+Let x be Luna's house rental budget. The total budget for house and food rental is represented by the equation x + (60x / 100) = 240. The equation becomes 100x + 60x = 24000 after multiplying each term by 100 to get rid of the fraction. By combining like terms, the equation becomes 160x = 24000. Thus, the value of x is 24000 / 160 = 150 which represents the house rental budget. So, Luna's food budget is $240 - $150 = $90. Her phone bill budget is $90 x 10 / 100 = $9. Therefore, Luna's monthly budget for all those expenses is $240 (house and food) + $9 (phone) = $249.
+The answer: 249
+Reverse engineering the question: Luna's monthly food budget is equal to 60% of her house rental budget while her phone bill budget is 10% of her food budget. If the total budget of house rental and food budget is $240, how much is Luna's total monthly budget to pay all those expenses?
+
+Reasoning and answer: A bag of feed is enough for 10 chickens because 20 / 2 = 10. Each chicken costs $.2 to raise because 2 / 10 = .2. Each chicken results in $1.3 of profit because 1.5 - .2 = 1.3. He sells 50 chickens because 65 / 1.3 = 50.
+The answer: 50
+What was the question?
+Question: Lao is farming chickens. He can sell each chicken for $1.50. A bag of chicken feed weighs 20 pounds and costs $2. Each chicken will need 2 pounds of feed from the time it hatches to the time he sells it. If he makes $65 profit from selling chickens, how many did he sell?
+
+Reasoning and answer: A baker has a total of 10 + 15 = 25 cheesecakes both from the display and the fridge. Therefore, there are 25 - 7 = 18 more cheesecakes to be sold.
+The answer: 18
+What was the question?
+Question:

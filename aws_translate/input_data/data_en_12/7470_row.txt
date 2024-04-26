@@ -1,0 +1,19 @@
+Idea for the Q&A below: To answer this question, we should know that: If that object withstands ablation from its passage through the atmosphere as a meteor and impacts with the ground, it is then called a meteorite.
+Q: When a meteoroid, comet, or asteroid enters Earth's atmosphere at a speed typically in excess of 20 km / s (72,000 km / h; 45,000 mph), aerodynamic heating of that object produces a streak of light, both from the glowing object and the trail of glowing particles that it leaves in its wake. This phenomenon is called a meteor or "shooting star". A series of many meteors appearing seconds or minutes apart and appearing to originate from the same fixed point in the sky is called a meteor shower. If that object withstands ablation from its passage through the atmosphere as a meteor and impacts with the ground, it is then called a meteorite.
+
+Based on this passage, what do you call a meteor that has fallen to earth?
+A: a meteorite
+
+Idea for the Q&A below: This is the relevant information: The three major constituents of air, and therefore of Earth's atmosphere, are nitrogen, oxygen, and argon.
+Q: The three major constituents of air, and therefore of Earth's atmosphere, are nitrogen, oxygen, and argon. Water vapor accounts for roughly 0.25 % of the atmosphere by mass. The concentration of water vapor (a greenhouse gas) varies significantly from around 10 ppm by volume in the coldest portions of the atmosphere to as much as 5 % by volume in hot, humid air masses, and concentrations of other atmospheric gases are typically quoted in terms of dry air (without water vapor). The remaining gases are often referred to as trace gases, among which are the greenhouse gases, principally carbon dioxide, methane, nitrous oxide, and ozone. Filtered air includes trace amounts of many other chemical compounds. Many substances of natural origin may be present in locally and seasonally variable small amounts as aerosols in an unfiltered air sample, including dust of mineral and organic composition, pollen and spores, sea spray, and volcanic ash. Various industrial pollutants also may be present as gases or aerosols, such as chlorine (elemental or in compounds), fluorine compounds and elemental mercury vapor. Sulfur compounds such as hydrogen sulfide and sulfur dioxide (SO) may be derived from natural sources or from industrial air pollution.
+
+Answer this question based on the passage: what are the main components of earth's atmosphere?
+A: nitrogen , oxygen , and argon
+
+Idea for the Q&A below: The important part for answering this question is: This plan was initiated at the end of the 19th century, during the time of Western colonial rule, largely under the vision of Cecil Rhodes, in the attempt to connect adjacent African possessions of the British Empire through a continuous line from Cape Town, South Africa to Cairo, Egypt.
+Q: Passage: The Cape to Cairo Railway is an uncompleted project to cross Africa from south to north by rail. This plan was initiated at the end of the 19th century, during the time of Western colonial rule, largely under the vision of Cecil Rhodes, in the attempt to connect adjacent African possessions of the British Empire through a continuous line from Cape Town, South Africa to Cairo, Egypt. While most sections of the Cape to Cairo railway are in operation, a major part is missing between northern Sudan and Uganda.
+
+Question: Based on this passage, who wanted to create a railroad from cape town to cairo?
+A: Cecil Rhodes
+
+Idea for the Q&A below: To answer the above question, the relevant sentence is: The Lion King is a 1994 American animated epic musical film produced by Walt Disney Feature Animation and released by Walt Disney Pictures.

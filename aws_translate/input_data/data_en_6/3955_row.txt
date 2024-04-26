@@ -1,0 +1,22 @@
+Student A:Chase Center is a multi-purpose arena under construction in the Mission Bay neighborhood of San Francisco that will open before the 2019 -- 20 NBA season. Groundbreaking of the arena happened during the 2016 -- 17 NBA season. It will mainly be used for basketball, becoming the new home of the Golden State Warriors of the National Basketball Association (NBA). The Warriors, who have been located in the San Francisco Bay Area since 1962, have played their home games at Oracle Arena in Oakland since 1971.
+
+Based on this passage, where is the new warriors stadium being built?
+Student B:OK... To answer this question, we should know that: Chase Center is a multi-purpose arena under construction in the Mission Bay neighborhood of San Francisco that will open before the 2019 -- 20 NBA season.
+the Mission Bay neighborhood of San Francisco.
+
+Student A:Context: The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy. Events depicted throughout the series include news of the sinking of the Titanic in the first series; the outbreak of the First World War, the Spanish influenza pandemic, and the Marconi scandal in the second series; the Irish War of Independence leading to the formation of the Irish Free State in the third series; the Teapot Dome scandal in the fourth series; and the British general election of 1923, the Jallianwala Bagh massacre, and the Beer Hall Putsch in the fifth series. The sixth and final series introduces the rise of the working class during the interwar period and hints towards the eventual decline of the British aristocracy.
+
+Question: where is downton abbey supposed to be located?
+Student B:OK... To answer this question, we should know that: The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy.
+in the fictional Yorkshire country estate of Downton Abbey.
+
+Student A:The Sisters of Charity of Australia (formally the Religious Sisters of Charity, who use the postnominal initials of R.S.C.) is a congregation of Religious Sisters in the Catholic Church who have served the people of Australia since 1838.
+
+Answer this question: when was the sisters of charity founded in australia?
+Student B:OK... To answer the above question, the relevant sentence is: The Sisters of Charity of Australia (formally the Religious Sisters of Charity, who use the postnominal initials of R.S.C.) is a congregation of Religious Sisters in the Catholic Church who have served the people of Australia since 1838.
+1838.
+
+Student A:The Yellowstone Caldera is a volcanic caldera and supervolcano in Yellowstone National Park in the Western United States, sometimes referred to as the Yellowstone Supervolcano. The caldera and most of the park are located in the northwest corner of Wyoming. The major features of the caldera measure about 34 by 45 miles (55 by 72 km).
+
+What is the volcano in yellowstone national park called?
+Student B:

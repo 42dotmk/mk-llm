@@ -1,0 +1,29 @@
+## question
+Passage: "This Life" is the theme song for the FX television series Sons of Anarchy, written by singer-songwriter Curtis Stigers, Velvet Revolver guitarist Dave Kushner, producer Bob Thiele Jr. and show creator Kurt Sutter while it was performed by Curtis Stigers & The Forest Rangers.
+
+Question: Based on this passage, who sings the theme song from sons of anarchy?
+## answer
+This is the relevant information: "This Life" is the theme song for the FX television series Sons of Anarchy, written by singer-songwriter Curtis Stigers, Velvet Revolver guitarist Dave Kushner, producer Bob Thiele Jr. and show creator Kurt Sutter while it was performed by Curtis Stigers & The Forest Rangers.
+So the answer must be Curtis Stigers & The Forest Rangers
+
+## question
+Passage: The music for the fantasy TV series Game of Thrones is composed by Ramin Djawadi. The music is primarily instrumental with the occasional vocal performances, and is created to support musically the characters and plots of the show. It features various theme, the most prominent is its Main Title that accompanies the series' title sequence. In every season, a soundtrack album would be released.
+
+Question: Based on this passage, who wrote the music for game of thrones?
+## answer
+The important part for answering this question is: The music for the fantasy TV series Game of Thrones is composed by Ramin Djawadi.
+So the answer must be Ramin Djawadi
+
+## question
+The Samsung Galaxy Mega 2 is an Android smartphone / tablet computer hybrid ("phablet" or "tablet phone") manufactured by Samsung and is the successor to the Samsung Galaxy Mega. It was released in September 2014. It has a 720 * 1280 screen, a Quad Core 1.7 GHz processor and an 8-megapixel camera. The phone runs Android 4.4. 4 "KitKat" software, and internal storage is 8 or 16 GB (usable 5.34 or 12 GB). The Galaxy Mega 2 is expected to receive the Android 5.0 "Lollipop" update.
+
+Answer this question based on the passage: when did the samsung mega 2 come out?
+## answer
+The important part for answering this question is: It was released in September 2014.
+So the answer must be September 2014
+
+## question
+Baby back ribs (also back ribs or loin ribs) are taken from the top of the rib cage between the spine and the spare ribs, below the loin muscle. They have meat between the bones and on top of the bones, and are shorter, curved, and sometimes meatier than spare ribs. The rack is shorter at one end, due to the natural tapering of a pig's rib cage. The shortest bones are typically only about 3 in (7.6 cm) and the longest is usually about 6 in (15 cm), depending on the size of the hog. A pig side has 15 to 16 ribs (depending on the breed), but usually two or three are left on the shoulder when it is separated from the loin. So, a rack of back ribs contains a minimum of eight ribs (some may be trimmed if damaged), but can include up to 13 ribs, depending on how it has been prepared by the butcher. A typical commercial rack has 10 -- 13 bones. If fewer than 10 bones are present, butchers call them "cheater racks".
+
+Answer this question based on the passage: where are baby back ribs located on a pig?
+## answer

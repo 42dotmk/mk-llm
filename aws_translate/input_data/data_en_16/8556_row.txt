@@ -1,0 +1,166 @@
+Detailed Instructions: In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Problem:SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Gulf War Veterans' Iraqi Claims 
+Protection Act of 1999''.
+
+SEC. 2. ADJUDICATION OF CLAIMS.
+
+    (a) Claims Against Iraq.--The United States Commission is 
+authorized to receive and determine the validity and amounts of any 
+claims by nationals of the United States against the Government of 
+Iraq. Such claims must be submitted to the United States Commission 
+within the period specified by such Commission by notice published in 
+the Federal Register. The United States Commission shall certify to 
+each claimant the amount determined by the Commission to be payable on 
+the claim under this Act.
+    (b) Decision Rules.--In deciding claims under subsection (a), the 
+United States Commission shall apply, in the following order--
+            (1) applicable substantive law, including international 
+        law; and
+            (2) applicable principles of justice and equity.
+    (c) Priority Claims.--Before deciding any other claim against the 
+Government of Iraq, the United States Commission shall, to the extent 
+practical, decide all pending non-commercial claims of active, retired, 
+or reserve members of the United States Armed Forces, retired former 
+members of the United States Armed Forces, and other individuals 
+arising out of Iraq's invasion and occupation of Kuwait or out of the 
+1987 attack on the USS Stark.
+    (d) Applicability of International Claims Settlement Act.--To the 
+extent they are not inconsistent with the provisions of this Act, the 
+provisions of title I (other than section 2(c)) and title VII of the 
+International Claims Settlement Act of 1949 (22 U.S.C. 1621-1627 and 
+1645-1645o) shall apply with respect to claims under this Act.
+
+SEC. 3. CLAIMS FUNDS.
+
+    (a) Iraq Claims Fund.--The Secretary of the Treasury is authorized 
+to establish in the Treasury of the United States a fund (hereafter in 
+this Act referred to as the ``Iraq Claims Fund'') for payment of claims 
+certified under section 2(a). The Secretary of the Treasury shall cover 
+into the Iraq Claims Fund such amounts as are allocated to such fund 
+pursuant to subsection (b).
+    (b) Allocation of Proceeds From Iraqi Asset Liquidation.--
+            (1) In general.--The President shall allocate funds 
+        resulting from the liquidation of assets pursuant to section 4 
+        in the manner the President determines appropriate between the 
+        Iraq Claims Fund and such other accounts as are appropriate for 
+        the payment of claims of the United States Government against 
+        Iraq, subject to the limitation in paragraph (2).
+            (2) Limitation.--The amount allocated pursuant to this 
+        subsection for payment of claims of the United States 
+        Government against Iraq may not exceed the amount which bears 
+        the same relation to the amount allocated to the Iraq Claims 
+        Fund pursuant to this subsection as the sum of all certified 
+        claims of the United States Government against Iraq bears to 
+        the sum of all claims certified under section 2(a). As used in 
+        this paragraph, the term ``certified claims of the United 
+        States Government against Iraq'' means those claims of the 
+        United States Government against Iraq which are determined by 
+        the Secretary of State to be outside the jurisdiction of the 
+        United Nations Commission and which are determined to be valid, 
+        and whose amount has been certified, under such procedures as 
+        the President may establish.
+
+SEC. 4. AUTHORITY TO VEST IRAQI ASSETS.
+
+    The President is authorized to vest and liquidate as much of the 
+assets of the Government of Iraq in the United States that have been 
+blocked pursuant to the International Emergency Economic Powers Act (50 
+U.S.C. 1701 et seq.) as may be necessary to satisfy claims under 
+section 2(a), claims of the United States Government against Iraq which 
+are determined by the Secretary of State to be outside the jurisdiction 
+of the United Nations Commission, and administrative expenses under 
+section 5.
+
+SEC. 5. REIMBURSEMENT FOR ADMINISTRATIVE EXPENSES.
+
+    (a) Deduction.--In order to reimburse the United States Government 
+for its expenses in administering this Act, the Secretary of the 
+Treasury shall deduct 1.5 percent of any amount covered into the Iraq 
+Claims Fund to satisfy claims under this Act.
+    (b) Deductions Treated as Miscellaneous Receipts.--Amounts deducted 
+pursuant to subsection (a) shall be deposited in the Treasury of the 
+United States as miscellaneous receipts.
+
+SEC. 6. PAYMENTS.
+
+    (a) In General.--The United States Commission shall certify to the 
+Secretary of the Treasury each award made pursuant to section 2. The 
+Secretary of the Treasury shall make payment, out of the Iraq Claims 
+Fund, in the following order of priority to the extent funds are 
+available in such fund:
+            (1) Payment of $10,000 or the principal amount of the 
+        award, whichever is less.
+            (2) For each claim that has priority under section 2(c), 
+        payment of an additional $90,000 toward the unpaid balance of 
+        the principal amount of the award.
+            (3) Payments from time to time in ratable proportions on 
+        account of the unpaid balance of the principal amounts of all 
+        awards according to the proportions which the unpaid balance of 
+        such awards bear to the total amount in the Iraq Claims Fund 
+        that is available for distribution at the time such payments 
+        are made.
+            (4) After payment has been made of the principal amounts of 
+        all such awards, pro rata payments on account of accrued 
+        interest on such awards as bear interest.
+    (b) Unsatisfied Claims.--Payment of any award made pursuant to this 
+Act shall not extinguish any unsatisfied claim, or be construed to have 
+divested any claimant, or the United States on his or her behalf, of 
+any rights against the Government of Iraq with respect to any 
+unsatisfied claim.
+
+SEC. 7. AUTHORITY TO TRANSFER RECORDS.
+
+    The head of any Executive agency may transfer or otherwise make 
+available to the United States Commission such records and documents 
+relating to claims authorized to be determined under this Act as may be 
+required by the United States Commission in carrying out its functions 
+under this Act.
+
+SEC. 8. STATUTE OF LIMITATIONS; DISPOSITION OF UNUSED FUNDS.
+
+    (a) Statute of Limitations.--Any demand or claim for payment on 
+account of an award that is certified under this Act shall be barred on 
+and after the date that is one year after the date of publication of 
+the notice required by subsection (b).
+    (b) Publication of Notice.--
+            (1) In general.--At the end of the 9-year period specified 
+        in paragraph (2), the Secretary of the Treasury shall publish a 
+        notice in the Federal Register detailing the statute of 
+        limitations provided for in subsection (a) and identifying the 
+        claim numbers of, and the names of the claimants holding, 
+        unpaid certified claims.
+            (2) Publication date.--The notice required by paragraph (1) 
+        shall be published 9 years after the last date on which the 
+        Secretary of the Treasury covers into the Iraq Claims Fund 
+        amounts allocated to that fund pursuant to section 3(b).
+    (c) Disposition of Unused Funds.--
+            (1) Disposition.--At the end of the 2-year period beginning 
+        on the publication date of the notice required by subsection 
+        (b), the Secretary of the Treasury shall dispose of all unused 
+        funds described in paragraph (2) by depositing in the Treasury 
+        of the United States as miscellaneous receipts any such funds 
+        that are not used for payments of certified claims under this 
+        Act.
+            (2) Unused funds.--The unused funds referred to in 
+        paragraph (1) are any remaining balance in the Iraq Claims 
+        Fund.
+
+SEC. 9. DEFINITIONS.
+
+    As used in this Act:
+            (1) Executive agency.--The term ``Executive agency'' has 
+        the meaning given that term by section 105 of title 5, United 
+        States Code.
+            (2) Government of iraq.--The term ``Government of Iraq'' 
+        includes agencies, instrumentalities, and entities controlled 
+        by that government (including public sector enterprises).
+            (3) United nations commission.--The term ``United Nations 
+        Commission'' means the United Nations Compensation Commission 
+        established pursuant to United Nations Security Council 
+        Resolution 687 (1991).
+            (4) United states commission.--The term ``United States 
+        Commission'' means the Foreign Claims Settlement Commission of 
+        the United States.
+Solution:

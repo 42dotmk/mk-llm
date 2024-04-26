@@ -1,0 +1,25 @@
+Billy's age is 30 / 3 = 10 years old. The sum of the ages of Billy and Lucas is 30 / 2 = 15. So, Lucas is 15 - 10 = 5 years old now. Therefore, Lucas will be 5 + 3 = 8 years old three years from now.
+The answer: 8
+Reverse engineering the question: The age of Gladys is equal to twice the sum of the ages of Billy and Lucas. Billy is 3 times younger than Gladys who is 30 years old now. How old will Lucas be three years from now?
+
+Reasoning and answer: Phil started with 50, and doubled this amount the next year for 50 * 2 = 100 coins. Phil then collected 3 per month the following year, and since there are 12 months in a year that was 3 * 12 = 36 coins added. Phil then collected 1 every third month, and since there are 12 months that means he collected one every 12 / 3 = 4 months, for 4 coins added. Before he lost a quarter of his coins, Phil had 100 + 36 + 4 coins, or 140 coins in total. Losing a quarter of 140 coins means Phill lost 140 / 4 = 35 coins. That means Phil had 140 - 35 = 105 coins remaining.
+The answer: 105
+What was the question?
+Question: Phil has a coin collection he likes to add to. He started with 50 state quarters his parents gave him. Over the next year he doubled this. The following year he collected 3 each month. The year after that he collected 1 every third month. The year after that he lost a quarter of them when he misplaced his collection. How many did he have left after losing some?
+
+James earns 20 * .2 = $4 less while working his second job. So he earns 20 - 4 = $16 an hour. At his first job he earns 20 * 30 = $600. He works 30 / 2 = 15 hours at his second job. So he earns 15 * 16 = $240. So he earns 600 + 240 = $840 a week.
+The answer: 840
+Reverse engineering the question: James earns $20 an hour while working at his main job. He earns 20% less while working his second job. He works 30 hours at his main job and half that much at his second job. How much does he earn per week?
+
+Reasoning and answer: Danai places 12 skulls + 4 broomsticks + 12 spiderwebs + 1 cauldron = 29 decorations. She also puts up twice as many pumpkins around the house as she put spiderwebs, 12 x 2 = 24 pumpkins. Danai will also add 20 + 10 decorations to the 29 + 24 decorations already up = 83 total decorations Danai will put up.
+The answer: 83
+What was the question?
+Question: Danai is decorating her house for Halloween. She puts 12 plastic skulls all around the house. She has 4 broomsticks, 1 for each side of the front and back doors to the house. She puts up 12 spiderwebs around various areas of the house. Danai puts twice as many pumpkins around the house as she put spiderwebs. She also places a large cauldron on the dining room table. If Danai has the budget left to buy 20 more decorations and has 10 left to put up, how many decorations will she put up in all?
+
+The three students want a total of 3 + 2 + 5 = 10 pencils. Each pencil cost 20 cents so 10 pencils cost 20 * 10 = 200 cents. 100 cents make a dollar so 200 cents make 200 / 100 = 2 dollars.
+The answer: 2
+Reverse engineering the question: Some students want to buy pencils from a stationery shop. The price of one pencil is 20 cents. Tolu wants 3 pencils, Robert wants 5 pencils and Melissa wants 2 pencils. How much (in dollars) will the students spend altogether at the stationery shop?
+
+First find the number of votes for the unicorn cake: 7 votes * 3 = 21 votes. Then find the number of votes for the dragon cake: 25 votes + 7 votes = 32 votes. Then add the number of votes for each cake to find the total number of votes: 21 votes + 32 votes + 7 votes = 60 votes.
+The answer: 60
+Reverse engineering the question:

@@ -1,0 +1,27 @@
+Reasoning and answer: First convert the total length of the journey from kilometers to meters: 9 kilometers * 1000 meters / kilometer = 9000 meters. Then divide this by the length of one step to find the number of steps in the journey: 9000 meters / 3 meters / step = 3000 steps. Then multiply the number of steps by the number of flowers per step to find how many flowers one unicorn creates on the journey: 3000 steps * 4 flowers / step = 12000 flowers. Then multiply the number of flowers per unicorn by the number of unicorns to find the total number of flowers created: 12000 flowers / unicorn * 6 unicorns = 72,000 flowers.
+The answer: 72000
+What was the question?
+Question: There are six unicorns in the Enchanted Forest. Everywhere a unicorn steps, four flowers spring into bloom. The six unicorns are going to walk all the way across the forest side-by-side, a journey of 9 kilometers. If each unicorn moves 3 meters forward with each step, how many flowers bloom because of this trip?
+
+If there are 20 surfers at Santa Monica, Malibu beach has twice as many surfers as Santa Monica has 2 * 20 = 40 surfers. Together, the two beaches have a total of 40 + 20 = 60 surfers.
+The answer: 60
+Reverse engineering the question: There are twice as many surfers on Malibu beach as in Santa Monica beach. If there are 20 surfers in Santa Monica, calculate the total number of surfers on the two beaches.
+
+Reasoning and answer: If Kristoff has 85 stickers, Riku has 25 * 85 stickers = 2125 more stickers. The total number of stickers Riku has is 2125 stickers + 85 stickers = 2210 stickers.
+The answer: 2210
+What was the question?
+Question: Riku has 25 times more stickers than Kristoff. If Kristoff has 85 stickers, how many stickers does Riku have?
+
+They have $126 for helium because 200 - 42 - 18 - 14 = 126. They can buy 84 ounces of helium because 126 / 1.5 = 84. They can fly 9,492 feet up because 84 x 113 = 9,492.
+The answer: 9492
+Reverse engineering the question: Harry wants to build a homemade helium balloon with his son, Kevin, so he and Kevin go to the store with $200. They buy a giant sheet to turn into a balloon for $42, a rope for $18, and a propane tank and burner for $14. They plan to use the rest of the money on helium. The helium is $1.50 per ounce. For every ounce they buy, the balloon can fly 113 feet higher. How many feet up can they fly the balloon?
+
+Reasoning and answer: Meena bakes a total of 5 x 12 = 60 cookies. Mr. Stone buys 2 x 12 = 24 cookies. Brock buys 7 cookies, so Katy buys 2 x 7 = 14 cookies. Meena sells a total of 24 + 7 + 14 = 45 cookies. She has 60 - 45 = 15 cookies left.
+The answer: 15
+What was the question?
+Question: Meena bakes 5 dozen cookies for the school’s bake sale. She sells 2 dozen cookies to her biology teacher, Mr. Stone. Her friend Brock buys 7 cookies, and her friend Katy buys twice as many as Brock. How many cookies does Meena have left?
+
+Reasoning and answer: Alyssa and Abigail collected a total of 30 + 43 = 73 empty cans as of today. So, they still need to collect 100 - 73 = 27 more empty cans.
+The answer: 27
+What was the question?
+Question:

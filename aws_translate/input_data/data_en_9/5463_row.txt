@@ -1,0 +1,27 @@
+Reasoning and answer: So far, time spent practicing backstroke, breaststroke, and butterfly is 50 + 9 + 121 = 180 hours. Since Rita’s must swim 1500 hours, the freestyle and sidestroke practice sessions will take 1500 - 180 = 1320 hours. Rita will practice for 220 hours / month, meaning she will meet her coach’s target in 1320 / 220 = 6 months.
+The answer: 6
+What was the question?
+Question: In preparation for the upcoming Olympics, Rita's swimming coach requires her to swim a total of 1,500 hours. Rita has already completed 50 hours of backstroke, 9 hours of breaststroke, and 121 hours of butterfly, but she is unhappy with her inconsistency. She has therefore decided to dedicate 220 hours every month practicing freestyle and sidestroke. How many months does Rita have to fulfill her coach’s requirements?
+
+First you must recognize that the problem involves finding the rate of how fast Ms. Alice can grade papers. To find how many papers she can grade in 11 hours, it would be useful to first find out how many papers she can grade in one hour. To do so, divide 296 papers by 8 hours, 296 / 8, to get 37. Therefore, Ms. Alice can grade 37 papers in one hour. To find out how many papers she can grade in 11 hours, multiply the number of papers she can grade in one hour by 11. 37 * 11 gives you 407. Ms. Alice can grade 407 papers in 11 hours.
+The answer: 407
+Reverse engineering the question: Ms. Alice can grade 296 papers in 8 hours. How many papers can she grade in 11 hours?
+
+Reasoning and answer: The students buy 2 * 5 = 10 bags of chips. 10 bags of chips cost 10 * 0.5 = 5 dollars. 5 candy bars cost 5 * 2 = 10 dollars. They will need 10 + 5 = 15 dollars.
+The answer: 15
+What was the question?
+Question: The snack machine at Richmond High School sells candy bars for $2 each and chips for $.50 each. How much money, in dollars, will 5 students need in total if each of them gets 1 candy bar and 2 bags of chips?
+
+Let x be the consumption in 90 hours. We have: 21 / 7 = 90 / x because the heating plant always consumes fuel at the same rate. Multiplying both sides by 7x, we get 21x = 90 * 7. This can be simplified to 21x = 630. So, the consumption in 90 hours is x = 630 / 21 = 30 liters.
+The answer: 30
+Reverse engineering the question: In 21 hours, a heating plant consumes 7 liters of fuel. How much does it consume in 90 hours?
+
+Reasoning and answer: First, add the 4 plants Mark gave away to the 20 he has left: 4 + 20 = 24. Then divide this number by 2 to find how many plants Mark had after two months: 24 / 2 = 12. Then divide that number by 2 to find how many plants Mark had after one month: 12 / 2 = 6. Finally, divide that number by 2 to find out how many plants Mark initially planted: 6 / 2 = 3.
+The answer: 3
+What was the question?
+Question: Mark plants some strawberries in his backyard. Every month, the number of strawberry plants doubles. After 3 months, Mark digs up 4 strawberry plants and gives them to his friend. If he still has 20 strawberry plants, how many did he initially plant?
+
+Reasoning and answer: Earl will have $90 - $28 = $62 after paying off his debt to Fred. Fred will have $48 + $28 = $76 after being paid by Earl. But then Fred will have $76 - $32 = $44 after paying Greg. Greg will have $36 + $32 = $68 after Fred paid him. Then, Greg will have $68 - $40 = $28 after paying off his debt to Earl. Then, Earl will then have $62 + $40 = $102. So together, Greg and Earl will have $28 + $102 = $130.
+The answer: 130
+What was the question?
+Question:

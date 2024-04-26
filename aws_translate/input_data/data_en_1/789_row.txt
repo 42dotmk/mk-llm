@@ -1,0 +1,26 @@
+Answer this question please:
+In the auditory system, sound vibrations (mechanical energy) are transduced into electrical energy by hair cells in the inner ear. Sound vibrations from an object cause vibrations in air molecules, which in turn, vibrate your ear drum. The movement of the eardrum causes the bones of your middle ear (the ossicles) to vibrate. These vibrations then pass in to the cochlea, the organ of hearing. Within the cochlea, the hair cells on the sensory epithelium of the organ of Corti bend and cause movement of the basilar membrane. The membrane undulates in different sized waves according to the frequency of the sound. Hair cells are then able to convert this movement (mechanical energy) into electrical signals (graded receptor potentials) which travel along auditory nerves to hearing centres in the brain.
+
+Where are sound vibrations converted into action potentials?
+
+Stream of random thoughts: The relevant sentence in the passage is: In the auditory system, sound vibrations (mechanical energy) are transduced into electrical energy by hair cells in the inner ear.... The answer is the inner ear.
+----
+Answer this question please:
+Passage: Primitive Technology is a YouTube channel run by and starring John Plant. Based in Far North Queensland, Australia, the series demonstrates the process of making tools and buildings using only materials found in the wild. Created in May 2015, the channel has gained over 8 million subscribers and over 560 million views as of May 2018.
+
+Question: Based on this passage, who is the guy in the primitive technology videos?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: Primitive Technology is a YouTube channel run by and starring John Plant.... The answer is John Plant.
+----
+Answer this question please:
+After hearing Death state "No one escapes me", Block knocks the chess pieces over, deliberately distracting Death while Jof's family slips away. Death places the pieces back on the board, then wins the game on the next move. He announces that when they meet again, the knight's time -- and that of all those traveling with him -- will be up. Before departing, Death asks if the knight has accomplished his one "meaningful deed" yet; Block replies that he has.
+
+Answer this question based on the passage: who wins the chess game in the seventh seal?
+
+Stream of random thoughts: This is the relevant information: Death places the pieces back on the board, then wins the game on the next move.... The answer is Death.
+----
+Answer this question please:
+Night at the Museum is a 2006 American fantasy-comedy film directed by Shawn Levy and written by Robert Ben Garant and Thomas Lennon, based on the 1993 children's book of the same name by Croatian illustrator Milan Trenc. The film stars Ben Stiller as Larry Daley, a divorced father who applies for a job as a night watchman at New York City's American Museum of Natural History and subsequently discovers that the exhibits, animated by a magical Egyptian artifact, come to life at night.
+
+Answer this question based on the passage: where did the night at the museum take place?
+

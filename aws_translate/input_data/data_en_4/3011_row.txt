@@ -1,0 +1,25 @@
+q... SpongeBob SquarePants: The Broadway Musical (originally titled The SpongeBob Musical) is a stage musical, co-conceived and directed by Tina Landau with songs by various artists, a book by Kyle Jarrow. It is based on the Nickelodeon animated television series SpongeBob SquarePants and made its world premiere in June 2016 at the Oriental Theatre in Chicago. The musical premiered on Broadway at the Palace Theatre in December 2017.
+
+Answer this question: who wrote the music for spongebob the musical?
+a... To answer the above question, the relevant sentence is: SpongeBob SquarePants: The Broadway Musical (originally titled The SpongeBob Musical) is a stage musical, co-conceived and directed by Tina Landau with songs by various artists, a book by Kyle Jarrow.
+The answer is various artists
+
+
+q... Passage: In the opening days, Dr. Leonora Orantes, a WHO epidemiologist, traveled to Hong Kong to follow the Beth Emhoff lead. She collaborates with Sun Feng and other local epidemiologists and public health officials; they identify Emhoff as patient zero, with security video showing her as the common contact with the next three known victims at a Macau casino. Before she can leave, Feng kidnaps Orantes to use her as leverage to obtain (anticipated) MEV-1 vaccine doses for his village. Orantes spends months living with the villagers until the vaccine is announced. Feng exchanges Orantes for enough vaccine for his village. When her colleague reveals that similar kidnappings were widespread, and the doses were placebos, Orantes rushes back to warn the villagers, exhibiting Stockholm Syndrome.
+
+Question: Based on this passage, who was the first person infected in contagion?
+a... To answer the above question, the relevant sentence is: She collaborates with Sun Feng and other local epidemiologists and public health officials; they identify Emhoff as patient zero, with security video showing her as the common contact with the next three known victims at a Macau casino.
+The answer is Beth Emhoff
+
+
+q... Context: Luigi (Japanese: ルイージ, Hepburn: Ruīji, ( ɾɯ. iː. dʑi̥) ) (English: / luˈiːdʒi /; Italian: ( luˈiːdʒi) ) is a fictional character featured in video games and related media released by Nintendo. Created by prominent game designer Shigeru Miyamoto, Luigi is portrayed as the slightly younger but taller fraternal twin brother of Nintendo's mascot Mario, and appears in many games throughout the Mario franchise, often as a sidekick to his brother.
+
+Question: who is the older brother mario or luigi?
+a... To answer this question, we should know that: Created by prominent game designer Shigeru Miyamoto, Luigi is portrayed as the slightly younger but taller fraternal twin brother of Nintendo's mascot Mario, and appears in many games throughout the Mario franchise, often as a sidekick to his brother.
+The answer is Luigi
+
+
+q... Passage: American Horror Story: Freak Show is the fourth season of the FX horror anthology television series American Horror Story. It premiered on October 8, 2014 and concluded on January 21, 2015. The season is mainly set in 1952 Jupiter, Florida, telling the story of one of the last remaining freak shows in the United States, and their struggle for survival.
+
+Question: Based on this passage, what year was ahs freak show set in?
+a...

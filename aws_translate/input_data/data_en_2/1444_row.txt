@@ -1,0 +1,19 @@
+Q: Passage: In American and Canadian football, a two-point conversion or two-point convert is a play a team attempts instead of kicking a one-point conversion immediately after it scores a touchdown. In a two-point conversion attempt, the team that just scored must run a play from scrimmage close to the opponent's goal line (5-yard line in amateur Canadian, 3-yard line in professional Canadian, 3-yard line in amateur American, 2-yard line in professional American) and advance the ball across the goal line in the same manner as if they were scoring a touchdown. If the team succeeds, it earns two additional points on top of the six points for the touchdown, for a total of eight points. If the team fails, no additional points are scored. In either case, if any time remains in the half, the team proceeds to a kickoff.
+
+Question: Based on this passage, where is the ball placed for a two point conversion?
+A: 5 - yard line in amateur Canadian , 3 - yard line in professional Canadian , 3 - yard line in amateur American , 2 - yard line in professional American. How to explain the answer? The important part for answering this question is: In a two-point conversion attempt, the team that just scored must run a play from scrimmage close to the opponent's goal line (5-yard line in amateur Canadian, 3-yard line in professional Canadian, 3-yard line in amateur American, 2-yard line in professional American) and advance the ball across the goal line in the same manner as if they were scoring a touchdown.
+
+Q: The series is filmed at Network Ten studios in South Yarra, Melbourne in front of a live studio audience. The series was originally filmed on a Saturday, but successive seasons saw filming moved from Mondays to Sundays. Filming the day prior to airing, the series aims to be as current as possible. Due to the potentially offensive or inappropriate answers given by guests, alternate endings are filmed should episode winners change during post-production when such answers are excluded from airing.
+
+When is have you been paying attention filmed?
+A: Sundays. How to explain the answer? The relevant sentence in the passage is: The series was originally filmed on a Saturday, but successive seasons saw filming moved from Mondays to Sundays.
+
+Q: Aadhaar is the world's largest biometric ID system, with over 1.171 billion enrolled members as of 15 Aug 2017. As of this date, over 99 % of Indians aged 18 and above had been enrolled in Aadhaar. World Bank Chief Economist Paul Romer described Aadhar as "the most sophisticated ID programme in (the) world".
+
+Answer this question based on the passage: what are the uses of aadhar card in india?
+A: biometric ID. How to explain the answer? The relevant information is: Aadhaar is the world's largest biometric ID system, with over 1.171 billion enrolled members as of 15 Aug 2017.
+
+Q: Context: The United States is a federal republic in which the president, Congress, and federal courts share powers reserved to the national government according to its Constitution. At the same time, the federal government shares sovereignty with the state governments.
+
+Question: what kind of government does the united state have?
+A:

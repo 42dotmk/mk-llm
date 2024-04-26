@@ -1,0 +1,27 @@
+Reasoning and answer: First find how many cherries Jerry can pick in one hour: 300 cherries / 2 hours = 150 cherries / hour. Then multiply the number of quarts of syrup by the number of cherries per quart to find the total number of quarts Jerry needs: 500 cherries / quart * 9 quarts = 4500 cherries. Then divide the total number of cherries by the number of cherries he picks per hour to find the number of hours the cherry - picking takes: 4500 cherries / 150 cherries / hour = 30 hours. Then add the time it takes him to make the syrup to find the total time: 30 hours + 3 hours = 33 hours.
+The answer: 33
+What was the question?
+Question: Jerry is making cherry syrup. He needs 500 cherries per quart of syrup. It takes him 2 hours to pick 300 cherries and 3 hours to make the syrup. How long will it take him to make 9 quarts of syrup?
+
+Matthew scored 9 points and there are 3 points per basket, so he made 9 / 3 = 3 baskets. Shawn scored 6 points, so he made 6 / 3 = 2 baskets. The total number of baskets made is 3 + 2 = 5 baskets made.
+The answer: 5
+Reverse engineering the question: Matthew and his brother Shawn played swimming-pool-basketball. Each basket was worth 3 points. Matthew scored 9 points. Shawn scored 6 points. What is the total number of baskets made during this game?
+
+Reasoning and answer: The total ratio representing the slices of pizza that Buzz bought is 5 + 8 = 13. If he shared the slices of pizza with the waiter, the waiter received a fraction of 8 / 13 of the total number of slices, which totals 8 / 13 * 78 = 48 slices. Twenty less the number of slices of pizza that the waiter ate is 48 - 20 = 28.
+The answer: 28
+What was the question?
+Question: If Buzz bought a pizza with 78 slices at a restaurant and then decided to share it with the waiter in the ratio of 5:8, with Buzz's ratio being 5, what's twenty less the number of slices of pizza that the waiter ate?
+
+Four $5 bills amount to $5 x 4 = $20. Three $20 bills amount to $20 x 3 = $60. So Gail's $5 and $20 bills amount to $20 + $60 = $80. Thus, her $10 bills amount to $100 - $80 = $20. Therefore, she has $20 / $10 = 2 $10 bills.
+The answer: 2
+Reverse engineering the question: Gail has some bills in her wallet which amount to $100. She has four $5 bills and three $20 bills, and the rest are $10 bills. How many $10 bills are in her wallet?
+
+Reasoning and answer: First find the number of substitute teachers left after half quit: 60 teachers / 2 = 30 teachers. Then find how many teachers quit after an hour but before lunch: 30 teachers * 30% = 9 teachers. Then subtract that number from the number of teachers left after one hour to find how many are left after lunch: 30 teachers - 9 teachers = 21 teachers.
+The answer: 21
+What was the question?
+Question: 50% of substitute teachers walk out after 1 hour of teaching. 30% of the remainder quit before lunch. If 60 substitute teachers show up at 7 AM, how many will be left after lunch?
+
+Reasoning and answer: She splits her $960 profit in half to get $960 / 2 = $480. She receives a total donation of $310, so she now has $310 + $480 = $790. She needed only $610 so she has $790 - $610 = $180 more than she needs.
+The answer: 180
+What was the question?
+Question:

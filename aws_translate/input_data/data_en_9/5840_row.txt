@@ -1,0 +1,22 @@
+Student A:Context: The Burning of Washington was a British invasion of Washington, D.C., the capital of the United States, during the War of 1812. On August 24, 1814, after defeating the Americans at the Battle of Bladensburg, a British force led by Major General Robert Ross occupied Washington and set fire to many public buildings, including the White House (known as the Presidential Mansion), and the Capitol, as well as other facilities of the U.S. government. The attack was in part a retaliation for the recent American destruction of Port Dover in Upper Canada. Throughout the history of the United States, the United Kingdom is the only country to have ever captured Washington, D.C.; the Burning of Washington also marks the only time since the American Revolutionary War that a foreign power has captured and occupied the United States capital.
+
+Question: when did the british burn down washington dc?
+Student B:OK... To answer this question, we should know that: On August 24, 1814, after defeating the Americans at the Battle of Bladensburg, a British force led by Major General Robert Ross occupied Washington and set fire to many public buildings, including the White House (known as the Presidential Mansion), and the Capitol, as well as other facilities of the U.S. government.
+August 24 , 1814.
+
+Student A:In conjunction with the film's setting, shooting took place at several locations in the Cascade Range of Washington state near I-90 and the town of Index near US 2 as well as Seattle's Wallingford, Ballard and Beacon Hill neighborhoods and other locations in or around Seattle's I-5 corridor. While the film received mixed reviews, it was a box office success, with a combined domestic and international return of just under $50 million against a production budget of $16 million.
+
+Answer this question: where did they film harry and the hendersons?
+Student B:OK... To answer the above question, the relevant sentence is: In conjunction with the film's setting, shooting took place at several locations in the Cascade Range of Washington state near I-90 and the town of Index near US 2 as well as Seattle's Wallingford, Ballard and Beacon Hill neighborhoods and other locations in or around Seattle's I-5 corridor.
+In conjunction with the film 's setting , shooting took place at several locations in the Cascade Range of Washington state near I - 90 and the town of Index near US 2 as well as Seattle 's Wallingford , Ballard and Beacon Hill neighborhoods and other locations in or around Seattle 's I - 5 corridor.
+
+Student A:Lighthouse Point is a city in Broward County, Florida, United States. The city was named for the Hillsboro Inlet Lighthouse, which is located in nearby Hillsboro Beach. As of the 2010 census, the population of Lighthouse Point was 10,344. The city is part of the Miami -- Fort Lauderdale -- Pompano Beach Metropolitan Statistical Area, which was home to 5,564,635 people at the 2010 census.
+
+Where is the lighthouse in lighthouse point fl?
+Student B:OK... The relevant information to answer the above question is: The city was named for the Hillsboro Inlet Lighthouse, which is located in nearby Hillsboro Beach.
+Hillsboro Beach.
+
+Student A:Context: It was not until Mapp v. Ohio in 1961 that the exclusionary rule was also held to be binding on the states through the Fourteenth Amendment, which guarantees due process. Up until Mapp, the exclusionary rule had been rejected by most states.
+
+Question: which u.s. supreme court case required states to use the exclusionary rule?
+Student B:

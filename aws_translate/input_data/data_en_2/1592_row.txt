@@ -1,0 +1,17 @@
+After completing his doctoral dissertation, Herbert Simon embarked on a fruitful academic and research career that spanned across various disciplines. His work on organizational decision-making paved the way for his future contributions to diverse fields such as economics, political science, computer science, psychology, and management.
+
+In 1942, Simon accepted a position as a political science professor at the Illinois Institute of Technology in Chicago. Here, he worked closely with mathematician and philosopher Rudolf Carnap, who influenced Simon's interest in logical positivism and scientific approaches to understanding human behavior.
+
+During World War II, Simon worked with the Office of Price Administration, using his expertise in mathematical modeling and statistics to address wartime economic challenges. This experience had a significant impact on his subsequent research.
+
+In 1949, Simon joined the Carnegie Mellon University (previously known as the Carnegie Institute of Technology) as a professor of administration and psychology. The multidisciplinary environment at Carnegie Mellon suited Simon's diverse interests, and he remained there for the rest of his career.
+
+At Carnegie Mellon, Simon started working on his groundbreaking theory of "bounded rationality." He argued that individuals or organizations make decisions based on information and cognitive capacity limitations, which prevents optimal decision-making and leads to the selection of a "satisficing" alternative that meets the minimum requirements. This idea revolutionized the field of decision-making and economics by acknowledging the cognitive limitations and imperfect information environment faced by real-world decision-makers.
+
+In the early 1950s, Simon began working with Allen Newell, a computer scientist, and their collaboration marked the beginning of a long-lasting partnership between the two scholars. This partnership had significant implications for the burgeoning field of artificial intelligence (AI) and led to the development of the "Logic Theorist," the first AI program, in 1956.
+
+Simon's research continued to expand into various fields. He worked on information processing theories that helped push the boundaries of computer science and laid the groundwork for the study of problem-solving, cognitive psychology, and human reasoning. He also made significant contributions to public administration and management.
+
+In addition to his Nobel Prize in Economics in 1978, Simon received numerous awards and accolades throughout his career, including the Turing Award in 1975, which marked the pinnacle of his achievements in computer science. He authored multiple books and published a vast number of articles, shaping the academic landscape across multiple disciplines and leaving a lasting legacy.
+
+Herbert Simon continued to remain actively involved in research and teaching at Carnegie Mellon University until his death on February 9, 2001. His life's work represents a rare synthesis of interdisciplinary research, and his contributions have had far-reaching effects on a variety of fields, from economics and political science to computer science and artificial intelligence.

@@ -1,0 +1,25 @@
+The force causing a compass in Illinois to point towards Wisconsin is primarily the Earth's magnetic field. This detailed and long answer will cover the principles of magnetism, the Earth's magnetic field, and how a compass works to ultimately explain why a compass in Illinois points towards Wisconsin.
+
+1. Principles of Magnetism:
+
+Magnetism is a fundamental force in nature, and it occurs due to the movement of charged particles, generally electrons. All magnets have two poles: the north pole and the south pole. By convention, the north pole of a magnet is the one attracted to Earth's geographic North Pole, while the south pole is attracted to the Earth's geographic South Pole. As a general rule, opposite magnetic poles attract each other, while like poles repel each other.
+
+2. Earth's Magnetic Field:
+
+The Earth itself acts as a giant magnet, primarily due to its core, which consists of an inner solid core and an outer liquid core. The outer core is composed mainly of molten iron and nickel, which are conductive materials. As the Earth rotates and the liquid core moves, it generates electric currents, producing a magnetic field around the planet.
+
+The Earth's magnetic field resembles that of a bar magnet, with imaginary lines of magnetic force connecting the magnetic North and South Poles. However, it is essential to note some differences between Earth's magnetic poles and geographic poles. The geographic poles mark the axis around which the Earth rotates, while the magnetic poles are where Earth's magnetic field lines converge. These magnetic poles do not align precisely with the geographic poles, and their positions shift over time. As of 2021, the Earth's Magnetic North Pole is located at approximately 86° N latitude and 160° E longitude, near Ellesmere Island in Canada.
+
+3. How a Compass Works:
+
+A compass is a navigational tool used to determine a direction relative to the Earth's magnetic field. It consists of a small magnetic needle on a free-moving pivot, allowing it to move and align itself with the Earth's magnetic field. The needle of a compass has a north pole (usually the red tip) and a south pole. When exposed to Earth's magnetic field, the south pole of the compass needle is attracted to the magnetic north pole, while the north pole of the compass needle is attracted to the magnetic south pole.
+
+4. Why a Compass in Illinois Points Towards Wisconsin:
+
+Now, let's consider the specific case of using a compass in Illinois. A person located in Illinois, United States, would be in the northern hemisphere, which means that the south pole of the compass needle would be attracted to Earth's magnetic north pole.
+
+Since the Earth's magnetic north pole is near Ellesmere Island in Canada, and Wisconsin is to the north of Illinois, the south pole of the compass needle would align itself with the Earth's magnetic field lines, pointing towards the magnetic north pole. As a result, when using a compass in Illinois, the needle would naturally point towards Wisconsin, as it is the direction closer to Earth's magnetic north pole in the region.
+
+However, keep in mind that magnetic declination, the angle between geographic north and magnetic north, does vary by location, and may cause deviations from the true geographic north. This factor should be taken into account when using a compass for navigation purposes.
+
+In conclusion, the force causing a compass in Illinois to point towards Wisconsin is the Earth's magnetic field, which results from the movements of the molten materials in the Earth's outer core. The compass aligns itself with the Earth's magnetic field lines, ultimately pointing in the direction of the magnetic north pole, which in the context of Illinois, is towards Wisconsin.

@@ -1,0 +1,29 @@
+## question
+Journey to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne. The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth. He, his nephew Axel, and their guide Hans descend into the Icelandic volcano Snæfellsjökull, encountering many adventures, including prehistoric animals and natural hazards, before eventually coming to the surface again in southern Italy, at the Stromboli volcano.
+
+Answer this question: when was journey to the center of the earth written?
+## answer
+This is the relevant information: Journey to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne.
+So the answer must be 1864
+
+## question
+Context: The United States is a federal republic in which the president, Congress, and federal courts share powers reserved to the national government according to its Constitution. At the same time, the federal government shares sovereignty with the state governments.
+
+Question: what kind of government does the united state have?
+## answer
+To answer this question, we should know that: The United States is a federal republic in which the president, Congress, and federal courts share powers reserved to the national government according to its Constitution.
+So the answer must be a federal republic
+
+## question
+Shaikh Khalifa Bin Zayed Al-Nahyan Medical and Dental College (Urdu: شیخ خلیفہ بن زائد آل نہیان اور دندان سازی کالج ‬ ‎, shortened as Shaikh Zayed Medical College and abbreviated as SKZMDC) is a public college of medicine and dentistry located in New Muslim Town, Lahore, Punjab, Pakistan. It is established on the initiative of CM Shehbaz Sharif to give quality education in the region Punjab and especially in Lahore City. Shaikh Zayed Hospital is attached to the college as a teaching hospital. The college started off in 2009 and the first batch will be graduating at the end of 2014. The College is on 4th position in ranking of public medical colleges of Punjab. The Institute is currently headed by Prof Dr Mateen Izharn.
+
+Shaikh zayed medical college lahore private or government?
+## answer
+To answer this question, we should know that: Shaikh Khalifa Bin Zayed Al-Nahyan Medical and Dental College (Urdu: شیخ خلیفہ بن زائد آل نہیان اور دندان سازی کالج ‬ ‎, shortened as Shaikh Zayed Medical College and abbreviated as SKZMDC) is a public college of medicine and dentistry located in New Muslim Town, Lahore, Punjab, Pakistan.
+So the answer must be a public college of medicine and dentistry
+
+## question
+Passage: The 2018 Big 12 Conference Baseball Tournament will be held from May 23 through May 27 at Chickasaw Bricktown Ballpark in Oklahoma City, Oklahoma. The annual tournament determines the conference champion of the Division I Big 12 Conference for college baseball. The winner of the tournament will earn the league's automatic bid to the 2018 NCAA Division I Baseball Tournament.
+
+Question: Based on this passage, where is the big 12 baseball tournament held?
+## answer

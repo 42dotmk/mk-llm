@@ -1,0 +1,18 @@
+Definition: Given a document, generate a short title of the document. The title should convey the main idea/event/topic about which the document is being written. Note that URLs in the text have been replaced with [Link].
+Input: Sen. Bob Corker (R-TN)  speaks with reporters after announcing  his  retirement at the conclusion of  his  term on Capitol Hill in Washington  U.S.  September 26  2017. REUTERS/Aaron P. Bernstein
+WASHINGTON (Reuters)  - U.S. Senator Bob Corker   the influential Republican chairman of the Senate Foreign Relations Committee  said on Tuesday he will not run for re-election  a blow to a party already struggling to balance divisions between mainstream and more populist wings.
+An establishment Republican   Corker  has been criticized from the right  and a conservative activist had already announced a primary challenge. But he was expected to keep the seat  and had amassed a $7.5 million campaign war chest.
+ Corker  has ruled out running for governor of Tennessee.
+âI have no idea what Iâm going to do. No idea whatsoever â  Corker  said in an interview. But he said he was not leaving out of frustration over deep party divides that have often paralyzed Congress.
+ Corker  announced  his  retirement on the day of the failure of the latest Republican effort to repeal former Democratic President Barack Obamaâs healthcare law.
+âI am not going to be one of the people who leaves here badmouthing what is one of the greatest privileges of oneâs life â  Corker  said.
+He said he realized he was ready to retire on Aug. 24 during a factory groundbreaking in Clarksville  Tennessee  and almost announced his decision at least twice before Tuesday.  Corker  said that he made his announcement now to allow a strong candidate time to enter the Senate race.
+ Corker  is the first senator to announce  his  retirement ahead of the 2018 mid-term elections  when one-third of the 100-seat chamber will be up for grabs. Tennessee is a solidly Republican state and the party  which currently holds a 52-seat majority in the Senate  is favored to keep his seat.
+In his official announcement   Corker  said that âafter much thought  consideration and family discussionâ over the past year  he and his wife Elizabeth âhave decided that I will leave the United States Senate when my term expires at the end of 2018.â
+ Sen. Bob Corker (R-TN)  walks away after speaking with reporters after announcing  his  retirement at the conclusion of  his  term on Capitol Hill in Washington  U.S.  September 26  2017. REUTERS/Aaron P. Bernstein
+CLASHES WITH  TRUMP
+In August  after Trumpâs much-criticized reaction to violence at a white supremacist rally in Virginia   Corker  told reporters in  his  home state Tennessee that Trump had not been able to demonstrate the âstabilityâ or competence that  he  needed to be successful as president.
+After the exchange  the two men had an hour-long meeting at the White House this month that  Corker  has described as a wide-ranging and friendly discussion.
+ Corker  will remain chairman of the Foreign Relations Committee until he leaves in January 2019. He said he wanted the panel to address issues including Secretary of State Rex Tillersonâs State Department reorganization  food aid reform  and the fight against human trafficking and modern slavery.
+ Corker  said the committee would address the international nuclear agreement with Iran  as Trump faces a mid-October deadline for deciding whether to certify that Tehran is complying with that pact. That decision could force Congress to decide whether to reimpose sanctions.  Corker  would not say whether Trump had decided to certify or not.
+Output:

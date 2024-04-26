@@ -1,0 +1,22 @@
+Student A:Jonathan Bion "Jon" Provost (born March 12, 1950) is an American actor, best known for his role as young Timmy Martin in the CBS series Lassie.
+
+Answer this question based on the passage: who played timmy in the tv series lassie?
+Student B:OK... This is the relevant information: Jonathan Bion "Jon" Provost (born March 12, 1950) is an American actor, best known for his role as young Timmy Martin in the CBS series Lassie.
+Jonathan Bion `` Jon '' Provost.
+
+Student A:Passage: Color analysis (American English; colour analysis in Commonwealth English), also known as personal color analysis (PCA), seasonal color analysis, or skin-tone matching, is a term often used within the cosmetics and fashion industry to describe a method of determining the colors of clothing and makeup that harmonise with a person's skin complexion, eye color, and hair color with the benefit of being able to use this tool for wardrobe planning and style consulting. Color analysis demonstrates how certain shades are capable of being flattering or, conversely, unflattering by observing the optical illusions that occur on the face when placing specific colors next to the individual. It is generally agreed that the wrong colors will draw attention to such flaws as wrinkles or uneven skin tone while harmonious colors will enhance the natural beauty of the individual making them appear healthy and fresh-faced.
+
+Question: Based on this passage, what is the term to describe seasonal color groups and combinations?
+Student B:OK... The important part for answering this question is: Color analysis (American English; colour analysis in Commonwealth English), also known as personal color analysis (PCA), seasonal color analysis, or skin-tone matching, is a term often used within the cosmetics and fashion industry to describe a method of determining the colors of clothing and makeup that harmonise with a person's skin complexion, eye color, and hair color with the benefit of being able to use this tool for wardrobe planning and style consulting.
+Color analysis.
+
+Student A:The United States is the largest operator of military bases abroad, with 38 "named bases" having active duty, national guard, reserve or civilian personnel as of September 30, 2014. Its largest, in terms of personnel, was Ramstein AB in Germany, with almost 9,200 personnel.
+
+Based on this passage, how many us military bases in other countries?
+Student B:OK... The relevant information to answer the above question is: The United States is the largest operator of military bases abroad, with 38 "named bases" having active duty, national guard, reserve or civilian personnel as of September 30, 2014.
+38.
+
+Student A:Passage: The One Ring is an artefact that appears as the central plot element in J.R.R. Tolkien's The Lord of the Rings (1954 -- 55). It is described in an earlier story, The Hobbit (1937), as a magic ring of invisibility. In the sequel, The Lord of the Rings, Tolkien ascribes to the Ring a darker character, with malevolent power going far beyond conferring invisibility: it was created by Sauron the Dark Lord as part of his design to win domination over Middle-earth. The Lord of the Rings concerns the quest to destroy the Ring to keep Sauron from fulfilling his design.
+
+Question: Based on this passage, name of ring in lord of the rings?
+Student B:

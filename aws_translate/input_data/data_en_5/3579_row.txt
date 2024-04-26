@@ -1,0 +1,26 @@
+Answer this question please:
+"Anything You Can Do" is a song composed by Irving Berlin for the 1946 Broadway musical, Annie Get Your Gun. The song is a duet, with one male singer and one female singer attempting to outdo each other in increasingly complex tasks.
+
+Answer this question based on the passage: what is the song anything you can do from?
+
+Stream of random thoughts: This is the relevant information: "Anything You Can Do" is a song composed by Irving Berlin for the 1946 Broadway musical, Annie Get Your Gun.... The answer is Annie Get Your Gun.
+----
+Answer this question please:
+Passage: Historically, rubies have also been mined in Thailand, in the Pailin and Samlout District of Cambodia, as well as in Afghanistan, Australia, Brazil, Colombia, India, Namibia, Japan, and Scotland; after the Second World War ruby deposits were found in Madagascar, Nepal, Pakistan, Tajikistan, Tanzania, and Vietnam. In Sri Lanka, lighter shades of rubies (often "pink sapphires") are more commonly found. Republic of Macedonia is the only country in mainland Europe to have naturally occurring rubies. They can mainly be found around the city of Prilep. Macedonian ruby has a unique raspberry color. The ruby is also included on the Macedonian Coat of Arms. A few rubies have been found in the U.S. states of Montana, North Carolina, South Carolina and Wyoming.
+
+Question: Based on this passage, where can rubies be found in the us?
+
+Stream of random thoughts: The important part for answering this question is: A few rubies have been found in the U.S. states of Montana, North Carolina, South Carolina and Wyoming.... The answer is the U.S. states of Montana , North Carolina , South Carolina and Wyoming.
+----
+Answer this question please:
+Passage: The general structure of the endoplasmic reticulum is a network of membranes called cisternae. These sac-like structures are held together by the cytoskeleton. The phospholipid membrane encloses the cisternal space (or lumen), which is continuous with the perinuclear space but separate from the cytosol. The functions of the endoplasmic reticulum can be summarized as the synthesis and export of proteins and membrane lipids, but varies between ER and cell type and cell function. The quantity of both rough and smooth endoplasmic reticulum in a cell can slowly interchange from one type to the other, depending on the changing metabolic activities of the cell. Transformation can include embedding of new proteins in membrane as well as structural changes. Changes in protein content may occur without noticeable structural changes.
+
+Question: Based on this passage, what describes a function of the endoplasmic reticulum within a cell?
+
+Stream of random thoughts: The important part for answering this question is: The functions of the endoplasmic reticulum can be summarized as the synthesis and export of proteins and membrane lipids, but varies between ER and cell type and cell function.... The answer is the synthesis and export of proteins and membrane lipids , but varies between ER and cell type and cell function.
+----
+Answer this question please:
+"The Sweet By-and-By" is a Christian hymn with lyrics by S. Fillmore Bennett and music by Joseph P. Webster. It is recognizable by its chorus:
+
+Answer this question based on the passage: who wrote the song in the sweet by and by?
+

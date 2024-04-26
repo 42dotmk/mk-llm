@@ -1,0 +1,19 @@
+Question: Context: The Élysée Palace (French: Palais de l'Élysée, pronounced ( pa. lɛ d ( ə) le. li. ze ) ) has been the official residence of the President of France since 1848. Dating to the early 18th century, it contains the office of the President and the meeting place of the Council of Ministers. It is located near the Champs-Élysées in the 8th arrondissement of Paris, the name Élysée deriving from Elysian Fields, the place of the blessed dead in Greek mythology.
+
+Question: where does the current president of france live?
+Answer: The relevant information to answer the above question is: The Élysée Palace (French: Palais de l'Élysée, pronounced ( pa. lɛ d ( ə) le. li. ze ) ) has been the official residence of the President of France since 1848. The answer is The Élysée Palace.
+
+Question: Passage: While the majority of the film is set in Santa Barbara, California, most of the filming -- including nearly all of the interiors -- took place in New York City. Principal photography began on February 18, 2009 at the Broadway Stages in the Brooklyn borough, where the interior scenes of Jane's house were shot. Several other key locations were used during the first portion of filming in New York, including Picnic House, a large, studio-sized structure in Brooklyn's Prospect Park, where Jane's bakery was built inside; the facilities at Sarabeth's Bakery in the Chelsea Market; and a commercial loft building in New York's Chelsea district, where scenes at Adam's architecture office were filmed in. As Martin was soon to embark on a concert tour to promote The Crow: New Songs for the Five-String Banjo (2009), his schedule required the team to complete shooting his scenes during the first two months of filming.
+
+Question: Based on this passage, where was the movie it's complicated filmed?
+Answer: The relevant information is: While the majority of the film is set in Santa Barbara, California, most of the filming -- including nearly all of the interiors -- took place in New York City. The answer is New York City.
+
+Question: In the United States, prisoners may wait many years before execution can be carried out due to the complex and time-consuming appeals procedures mandated in the jurisdiction. The time between sentencing and execution has increased relatively steadily between 1977 and 2010, including a 22 % jump between 1989 and 1990 and a similar jump between 2008 and 2009. In 2010, a death row inmate waited an average of 178 months (roughly 15 years) between sentencing and execution. Nearly a quarter of inmates on death row in the U.S. die of natural causes while awaiting execution.
+
+Answer this question: how long is an inmate on death row?
+Answer: This is the relevant information: In 2010, a death row inmate waited an average of 178 months (roughly 15 years) between sentencing and execution. The answer is an average of 178 months ( roughly 15 years ).
+
+Question: The engine design differed considerably from its predecessor the "Evo" although it shared some design elements with the Sportster line. The 88 represents the displacement in cubic inches of the standard engine. The bore is 95.3 mm (3.75 in) and the stroke is 101.6 mm (4.00 in), meaning the displacement is 88 cu in (1,450 cc). The Twin Cam 96 displaces 96.7 cu in (1,584 cc). The company released 103 cu in (1,690 cc) for 2010 Electra Glide Ultra Limited models, and later for 2012 Softail models and 110 cu in (1,801 cc) for Screamin' Eagle / CVO Models.
+
+When did harley come out with the 103?
+Answer:

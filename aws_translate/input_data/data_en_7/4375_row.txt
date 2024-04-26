@@ -1,0 +1,18 @@
+You will be given a definition of a task first, then some input of the task.
+Given a document, generate a short title of the document. The title should convey the main idea/event/topic about which the document is being written. Note that URLs in the text have been replaced with [Link].
+
+CLOSE John Schnatter  is leaving as CEO of Papa John's Pizza. No reason was given for  Schnatter 's decision  but  he  recently faced criticism for blaming protesting NFL players for slumping pizza sales. Wochit
+Papa John's founder and CEO  John Schnatter  is stepping down. (Photo: Mark J. Rebilas  Mark J. Rebilas-USA TODAY Sports)
+ Papa John's CEO John Schnatter  who overcame the odds to build his home-delivery pizza chain into a national powerhouse against entrenched rivals   is stepping down.
+ Schnatter  who founded the pizza chain in 1984   will remain as chairman of the board. No immediate reason was given for  his  decision  which takes effect Jan. 1.  He  is being replaced CEO is company President Steve Ritchie.
+As the founder  Schnatter has been one of the biggest names in fast food. But  he  recently ran into controversy when  he  blamed NFL players' mass move to drop to one knee during the playing of the national anthem as affecting  his  company's sales.
+ Schnatter  has been one of the last CEOs who also act as  their  brand's advertising pitchman  a list that once included Col. Harland Sanders for Kentucky Fried Chicken and Dave Thomas of Wendy's. By stressing that Papa John's had better ingredients and a better tasting product  he was able to turn the burgeoning chain into a national force against giants like Domino's Pizza and Pizza Hut.
+The company  which has more than 5 000 locations worldwide  said in a statement that  Schnatter  will continue to "pursue  his  personal passion for entrepreneurship  leadership development and education."
+Louisville-based Papa John's is the official pizza sponsor of the National Football League  which  Schnatter  slammed in November for not dealing with players who've been kneeling during the Star Spangled Banner to protest racial injustice. The movement began with then-San Francisco 49ers quarterback Colin Kaepernick in 2016.
+"The NFL has been a long and valued partner over the years. But we're certainly disappointed that the NFL and its leadership did not resolve the ongoing situation to the satisfaction of all parties long ago "  Schnatter  said during a Nov. 1 analyst call. "This should've been nipped in the bud a year-and-a-half ago."
+ Schnatter  isn't the first founder to step away recently from CEO duties at the company  he  built from scratch. Last month  Chipotle Mexican Grill CEO Steve Ells would become executive chairman and Panera Bread's Ron Shaich announced that he would step down  but retain his position as board chairman.
+And  Schnatter himself  has said goodbye to the CEO gig before.  He  stepped down in 2005  but returned in 2008. In 2010   he  took on a co-CEO  Jude Thompson  but that arrangement ended the following year.
+Now Papa John's may decide to find a new pitchman besides  Schnatter .
+â He âs in every ad " Gordon said. "Thatâs very CEO-centric marketing  which is pretty unusual these days. Weâll see if  he  steps back from that.â
+ He  added  â He  and/or the board see the need to get  him  out of the line on fire and to continue  his  involvement in a less visible way.â
+Output:

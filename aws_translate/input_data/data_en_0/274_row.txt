@@ -1,0 +1,27 @@
+Title: The Emergence of St. John's Enslaved African Population 
+
+Introduction
+
+St. John, a picturesque island in the United States Virgin Islands, has a rich history imbued with European colonialism and the forced migration of Africans. Understanding the population dynamics of the island requires delving into the tumultuous past that shaped this Caribbean paradise. This article explores the timeline of Danish colonization of St. John and the subsequent point at which the African slave population exceeded five times that of European inhabitants on the island.
+
+Step 1: Establish the timeline for Danish colonization
+
+The Danish West India Company first claimed the island of St. John on March 25, 1718. This initiation marked the beginning of Danish rule, which was aimed at establishing a continuous Danish presence in the Caribbean, capitalizing on the highly profitable sugar cultivation trade. Denmark's colonization of St. John inevitably resulted in the large-scale importation of enslaved Africans to work on the burgeoning sugar plantations.
+
+Step 2: Analyze the evolution of the population dynamics
+
+Population statistics from the Danish period illustrate the increasing number of Africans forcibly brought to St. John. As sugar plantations expanded rapidly, so did the demand for labor.
+
+In 1721, there were approximately 28 European inhabitants and 216 African slaves on the island. This ratio reflects the early stages of the plantation system, as it indicates that the African slave population was almost eight times larger than the number of European settlers.
+
+The African slave population continued to grow throughout the 18th century. By 1733, the number of enslaved Africans had reached around 1,087, while the number of European inhabitants remained relatively stable at around 208.
+
+Step 3: Determine the point where the African slave population exceeded five times that of European inhabitants 
+
+To determine the point at which the African slave population exceeded five times that of the Europeans, we need to perform a simple calculation. Let's denote the number of European inhabitants as E, and the number of African slaves as A. We aim to find the lowest number of years, Y, after 1718 that satisfies the inequality A > 5E. 
+
+Considering the population statistics from 1721, just three years after Danish colonization, the African slave population was already nearly eight times larger than the European population. Given the numbers mentioned earlier (28 European inhabitants and 216 African slaves), the inequality A > 5E is satisfied, as 216 > 5 * 28.
+
+Conclusion
+
+In conclusion, the African slave population on St. John exceeded five times that of European inhabitants just three years after Denmark claimed the island in 1718. This distressing transformation speaks volumes about the exploitative nature of European colonialism and the atrocities endured by enslaved Africans throughout history. The legacy of this dark period in St. John's history lives on through the descendants of those who survived, and it is essential to remember and honor their resilience and courage.

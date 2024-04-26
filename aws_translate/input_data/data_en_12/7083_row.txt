@@ -1,0 +1,38 @@
+Target estimates breach affected up to 110 million
+
+Jan. 10, 2014 at 8:21 AM ET
+
+Joe Raedle / Getty Images, file
+
+A customer uses a credit card scanner at a Target store. The retailer revealed Friday that the data breach that hit its customers over the heart of the holiday shopping season was almost twice as large as first revealed.
+
+The massive data heist at Target stores across the country was more massive than previously revealed, with the retailer saying at least 70 to 110 million customers were hit -- making it one of the largest security breaches of its kind.
+
+The newly disclosed victims could include customers whose data was obtained by Target prior to Black Friday.
+
+The company said Friday that as part of its ongoing probe it found information for at least 70 million people, apart from the 40 million payment card accounts previously disclosed, was stolen during the data breach. It said this is not a new breach. There may be some overlap between the two groups, Molly Snyder, a Target spokeswoman said, but it's unclear by how much.
+
+The stolen information includes names, mailing addresses, phone numbers or email addresses for up to 70 million individuals.
+
+“I know that it is frustrating for our guests to learn that this information was taken and we are truly sorry they are having to endure this,” said Gregg Steinhafel, chairman, president and chief executive officer, Target, in a statement on its website. “I also want our guests to know that understanding and sharing the facts related to this incident is important to me and the entire Target team.”
+
+Target said that much of the data stolen is partial, but in situations where Target has an email address, it will attempt to contact the customers affected by the breach and provide them with tips to guard against consumer scams. Target said it won't ask customers for any personal information when it contacts them.
+
+Even though the data is in bits and pieces, it means some of the previously disclosed stolen credit cards can be used to commit fraud in more places online.
+
+In addition, it could be a precursor to more widespread identity theft.
+
+"They steal and combine what was stolen in previous breaches," said Avivah Litan, a fraud analyst at technology research company Gartner. "There are warehouses of information on people and dossiers. Now we've got John's credit card, his address, his phone number... they do put it together and sell entire profiles on people."
+
+Attorneys general from New York and Massachusetts announced on Friday that they were joining a nationwide probe into the security breach.
+
+Target initially reported in mid-December that about 40 million people who used credit or debit cards at its stores November 27th to December 15th had their information compromised. At that time, the company said the information swiped from its systems included customers' names, expiration dates, credit card numbers, and verification codes.
+
+The breach was first reported by Krebs on Security, a data security blog. It occurred over some of the busiest days of the holiday shopping season, including Black Friday, and ran from Nov. 27 through Dec. 15, according to Target.
+
+It added that customers will have no liability for the cost of any fraudulent charges. And it will offer one year of free credit monitoring and identity theft protection for all customers who shopped in its stores.
+
+In 2007, more than 45 million T.J. Maxx and Marshalls customers had their data stolen in what had been one of the largest U.S. corporate data breaches to date.
+
+Reuters and NBC's Patrick Rizzo and Matthew DeLuca contributed to this report.
+What are the most important parts of this text?

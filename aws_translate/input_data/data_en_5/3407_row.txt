@@ -1,0 +1,27 @@
+What is the most logical completion of this news story?.
+
+(EW.com) -- Late last year, news broke that The Simpsons were going to turn a decades-old spec script written by Judd Apatow into an episode. As it turns out, the A-list comedy writer-director-producer is collaborating with the animated series in front of the microphone as well. EW has learned that a different episode â€” which was already known to boast Will Arnett as a guest star â€” features the voices of Apatow, frequent collaborators Leslie Mann, Paul Rudd, and Seth Rogen, plus Channing Tatum and... Judas Priest frontman Rob Halford. EW: 'The Simpsons': Daniel Radcliffe to guest Fed up with movie theaters, Homer is taught by Bart how to illegally download films, and he starts screening them in his backyard for folks in Springfield. "Even though Homer is stealing, he's doing it for the community, he's doing it out of the goodness of his heart," says executive producer Matt Selman. Alas, an overzealous FBI director in charge of anti-piracy (Arnett) doesn't quite see it that way and sets his sights on Homer.
+
+It marks a return visit to Springfield for Rudd and Rogen:
+
+OPTIONS:
+- Apatow guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Arnett guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Bart guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Channing Tatum guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Daniel Radcliffe guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- EW guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- EW.com guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- FBI guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Fed guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Homer guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Judas Priest guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Judd Apatow guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Leslie Mann guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Matt Selman guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Paul Rudd guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Rob Halford guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Seth Rogen guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Springfield guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- The Simpsons guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.
+- Will Arnett guested in a season 22 episode and Rogen co-wrote the season 21 premiere and voiced a character.

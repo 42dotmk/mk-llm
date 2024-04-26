@@ -1,0 +1,17 @@
+What is the most logical completion of this news story?.
+
+A-six-year old boy said 'I have done something bad' after he accidentally started a fire with a lighter that killed two teenage sweethearts and a three-year-old. Rosie Benellick, 17, her boyfriend Andrew Gunn, 18, and her little brother Harvey, all died after the fire in Honiton, Devon, on April 4 last year. An inquest into their deaths was today told the fire had been started by a young boy, who can not be named for legal reasons, who had alerted Rosie and Harvey's mother, Mizelley Bennellick, 32, to the blaze. Tragedy: Rosie Benellick, 17, (left) her boyfriend Andrew Gunn, 18, (right) and her little brother Harvey, all died after a fire was accidentally started by a six-year-old with a lighter, an inquest heard
+
+Mrs
+
+OPTIONS:
+- Andrew Gunn, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Devon, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Harvey, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Honiton, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Inquest, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Mizelley, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Mizelley Bennellick, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Rosie, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Rosie Benellick, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.
+- Sean, who had been due to attend the inquest but had instead been admitted to hospital, said in her statement that the family had strict rules about smoking which included smoking outside or in the kitchen and ‘not to leave lighters lying around’.

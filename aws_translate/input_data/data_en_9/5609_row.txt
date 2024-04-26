@@ -1,0 +1,25 @@
+q... Little House on the Prairie (known as Little House: A New Beginning in its final season) is an American western drama television series, starring Michael Landon, Melissa Gilbert, and Karen Grassle, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s. The show is an adaptation of Laura Ingalls Wilder's best-selling series of Little House books. Television producer and NBC executive Ed Friendly became aware of the story in the early 1970s. He asked Michael Landon to direct the pilot movie. Landon agreed on the condition that he could also play Charles Ingalls.
+
+Answer this question: where was little house on the prairie tv show set?
+a... This is the relevant information: Little House on the Prairie (known as Little House: A New Beginning in its final season) is an American western drama television series, starring Michael Landon, Melissa Gilbert, and Karen Grassle, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s.
+The answer is on a farm in Walnut Grove , Minnesota
+
+
+q... The gold dollar was produced from 1849 to 1889. 1849 to 1853 gold dollar coins were 13 mm across and are called Type I. Type II gold dollars were thinner but larger at 15 mm diameter and were produced from 1854 to 1855. The most common gold dollar are the Type III and started in 1856 until 1889. Production US $1 gold dollars was high until the Civil War and by 1863, only the larger value gold coins were produced in large quantities. Most gold coins produced from 1863 and onward were produced for imports to pay for enormous amounts of war material and interest on some U.S. Government bonds. Many of these coins from the Civil War and after (silver coins included) are in excellent condition since they saw very limited circulation with greenbacks and postage currency taking their place.
+
+Answer this question: when was the first gold dollar coin made?
+a... The important part for answering this question is: The gold dollar was produced from 1849 to 1889.
+The answer is 1849
+
+
+q... Context: The Christian cross, seen as a representation of the instrument of the crucifixion of Jesus, is the best-known symbol of Christianity. It is related to the crucifix (a cross that includes a usually three-dimensional representation of Jesus' body) and to the more general family of cross symbols.
+
+Question: what is the meaning of the cross for christianity?
+a... The relevant sentence in the passage is: The Christian cross, seen as a representation of the instrument of the crucifixion of Jesus, is the best-known symbol of Christianity.
+The answer is a representation of the instrument of the crucifixion of Jesus
+
+
+q... The Beatles at Shea Stadium is a fifty-minute-long documentary of the Beatles' 15 August 1965, concert at Shea Stadium in New York City, the highlight of the group's 1965 tour. The documentary was produced by Ed Sullivan (under his Sullivan Productions banner), NEMS Enterprises (which owns the 1965 copyright), and the Beatles company Subafilms. The project, placed under the direction of manager of production operations M. Clay Adams, was filmed by a large crew led by cinematographer Andrew Laszlo. Fourteen cameras were used to capture the euphoria and mass hysteria that was Beatlemania in America in 1965. The documentary first aired on BBC1 on 1 March 1966. In West Germany, it aired on 2 August that year. It aired in the United States on ABC on 10 January 1967.
+
+Answer this question: when did the beatles play at shea stadium?
+a...

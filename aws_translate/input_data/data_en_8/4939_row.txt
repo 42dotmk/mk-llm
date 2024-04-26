@@ -1,0 +1,21 @@
+Choose the next sentence for this paragraph.
+
+Dublin, Ireland (CNN) -- Ireland and the European Union are engaged in a strange and increasingly public tug of war. Dublin has been adamant that it doesn't need money from abroad to stay afloat despite a crisis in its banking sector. However, the republic's central bank governor admitted Thursday that the country was likely to accept a loan from the European Union and International Monetary Fund. Speaking on the phone from Frankfurt, Ireland's Central Bank governor Patrick Honohan told Irish broadcaster RTE that a loan worth "tens of billions of euros" is "definitely likely to happen." "Market conditions have not allowed us to go ahead without seeking the support of our international collaborators so that is what's ahead," he said, ahead of high-level talks between the Irish government and the IMF and ECB talks in Dublin Thursday.
+
+
+
+OPTIONS:
+- CNN has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Central Bank has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Central bank has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Dublin has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- ECB has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- EU has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- European Union has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Frankfurt has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- IMF has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- International Monetary Fund has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Ireland has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Irish has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- Patrick Honohan has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.
+- RTE has said the tax is "non-negotiable" despite complaints from other EU members that the tax gives the country and an unfair advantage when it comes to attracting business.

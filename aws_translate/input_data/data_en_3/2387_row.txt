@@ -1,0 +1,34 @@
+Problem:Passage: The Second Season of singing reality show Dil Hai Hindustani premiered on 7 July 2018. The show was broadcast on StarPlus and streams on Hotstar. The show was hosted by Mukti Mohan and Raghav Juyal. Sunidhi Chauhan, Badshah and Pritam are judges in the show. The show was produced by Ranjeet Thakur and Hemant Ruprell under Frames Production. The season was won by Akshay Dhawan.
+
+Question: Based on this passage, who won the show dil hai hindustani 2018?
+Solution:OK... This is the relevant information: The show was produced by Ranjeet Thakur and Hemant Ruprell under Frames Production. The season was won by Akshay Dhawan.
+Akshay Dhawan.
+
+Student A:A Song of Ice and Fire is a series of epic fantasy novels by the American novelist and screenwriter George R.R. Martin. He began the first volume of the series, A Game of Thrones, in 1991, and it was published in 1996. Martin, who initially envisioned the series as a trilogy, has published five out of a planned seven volumes. The fifth and most recent volume of the series published in 2011, A Dance with Dragons, took Martin six years to write. He is still writing the sixth novel, The Winds of Winter.
+
+Based on this passage, how many books of game of thrones will there be?
+Student B:OK... The relevant information to answer the above question is: Martin, who initially envisioned the series as a trilogy, has published five out of a planned seven volumes.
+seven volumes.
+
+Problem:Context: Escobar is a Spanish surname. Notable people with the surname include:
+
+Question: where does the last name escobar originate from?
+Solution:OK... To answer the question, consider the following: Escobar is a Spanish surname.
+Spanish.
+
+Student A:A sequel, It: Chapter Two, is scheduled to be released on September 6, 2019.
+
+Based on this passage, when will second part of it be released?
+Student B:OK... The relevant sentence in the passage is: A sequel, It: Chapter Two, is scheduled to be released on September 6, 2019.
+September 6 , 2019.
+
+Problem:Passage: The Chicago Pride Parade, also colloquially (and formerly) called the Chicago Gay Pride Parade or PRIDE Chicago, is the annual pride parade held on the last Sunday of June in Chicago, Illinois in the United States. It is considered the culmination of the larger Gay and Lesbian Pride Month, as promulgated by the Chicago City Council and Mayor of Chicago. Chicago's Pride Parade is one of the largest, by attendance, in the world.
+
+Question: Based on this passage, when is the gay parade in chicago illinois?
+Solution:OK... The relevant information is: The Chicago Pride Parade, also colloquially (and formerly) called the Chicago Gay Pride Parade or PRIDE Chicago, is the annual pride parade held on the last Sunday of June in Chicago, Illinois in the United States.
+the last Sunday of June.
+
+Problem:Context: The eight-episode first season of Legion premiered at the Pacific Design Center on January 26, 2017, ahead of its FX debut on February 8. The series received critical acclaim, particularly for its visuals and departure from superhero genre standards. A ten-episode second season was ordered in March 2017 and is planned for a February 2018 release.
+
+Question: when does the new season of legion come out?
+Solution:

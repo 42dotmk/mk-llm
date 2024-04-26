@@ -1,0 +1,25 @@
+Claire has 400 - 120 = 280 roses in her garden. Thus, she has 280 - 80 = 200 red roses. One - half of the red roses is equal to 1 / 2 x 200 = 100. Therefore, Claire will earn $0.75 x 100 = $75 if she can sell 1 / 2 of the total number of red roses.
+The answer: 75
+Reverse engineering the question: Claire has 400 flowers in her garden. One hundred twenty are tulips, and the rest are roses. Eighty of the roses are white, while the rest are red. Each red rose is worth $0.75. How much will Claire earn if she can sell 1/2 of the total number of red roses?
+
+Reasoning and answer: Peter drew 5 + 3 = 8 pictures. Quincy drew 20 + 8 = 28 pictures. Altogether they drew 5 + 8 + 28 = 41 pictures.
+The answer: 41
+What was the question?
+Question: Randy drew 5 pictures. Peter drew 3 more pictures than Randy. Quincy drew 20 more pictures than Peter. How many pictures did they draw altogether?
+
+The second stick is 3 x 2 = 6 centimeters long. The third stick is 6 - 1 = 5 centimeters long. Thus, Jazel's sticks are 3 + 6 + 5 = 14 centimeters long when they are put together.
+The answer: 14
+Reverse engineering the question: Jazel has 3 sticks. One stick is 3 centimeters long. The second stick is twice as long while the third stick is 1 centimeter shorter than the second stick. What is the total length of Jazel's sticks when they are put together?
+
+Reasoning and answer: If your dog is 10 years old then in his first year of life he lived 1 * 15 = 15 human years. In his second year of life, he lived 1 * 9 = 9 human years. We need to calculate his remaining years or 10 - 2 = 8 years of dog life into human years. If 1 year of dog life after the 2 years equates to 5 human years, then 8 years of dog life equals 8 * 5 = 40 human years. In total, your dog has lived 15 + 9 + 40 = 64 human years.
+The answer: 64
+What was the question?
+Question: They say the first year of a dog's life equals 15 human years. The second year of a dog's life equals 9 human years and after that, every year of a dog's life equals 5 human years. According to this logic, how many human years has my 10-year-old dog lived?
+
+The total ratio representing the number of cookies and Oreos that Zack bought is 4 + 9 = 13. The fraction representing the number of Oreos Zane bought is 4 / 13, and since the total number of items in the box is 65, Zane bought 4 / 13 * 65 = 20 Oreos. If Zane bought 20 Oreos at $2 each, the total cost of buying Oreos is $2 * 20 = $40. Since the total number of items in the box is 65, and there are 20 Oreos in the box, the number of cookies in the box is 65 - 20 = 45. The cost of buying the cookies at $3 each is 45 * $3 = $135. If the Oreos cost $40 to buy, Zane used $135 - $40 = $95 more to buy Cookies than Oreos.
+The answer: 95
+Reverse engineering the question: The number of Oreos and cookies in a box is in the ratio 4:9. Zane bought each Oreo at $2 and each cookie at $3. How much more money did Zane spend on buying the cookies than buying the Oreos if the total number of items in the box is 65?
+
+The 5% discount amounts to $50 x 5 / 100 = $2.50. So the total discount given to the customer for 4 months was $2.50 x 4 = $10. The customer was supposed to pay $50 x 4 = $200 in all for 4 months without discount. Since the customer is entitled to the discount, then he only paid a total of $200 - $10 = $190 for 4 months.
+The answer: 190
+Reverse engineering the question:

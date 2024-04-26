@@ -1,0 +1,25 @@
+q... "Where My Heart Will Take Me" is a reworked version of "Faith of the Heart" which was performed by English tenor Russell Watson as the theme song to the 2001 television series Star Trek: Enterprise. It was also used on four occasions as wake-up calls on Space Shuttle missions, and was performed by Watson at the 2002 Commonwealth Games. It was poorly received by some Star Trek fans who created petitions and protested against the use of the song as a theme.
+
+Answer this question: who sings faith of the heart on enterprise?
+a... To answer the above question, the relevant sentence is: "Where My Heart Will Take Me" is a reworked version of "Faith of the Heart" which was performed by English tenor Russell Watson as the theme song to the 2001 television series Star Trek: Enterprise.
+The answer is English tenor Russell Watson
+
+
+q... The Sistine Chapel (/ ˌsɪstiːn ˈtʃæpəl /; Latin: Sacellum Sixtinum; Italian: Cappella Sistina ( kapˈpɛlla siˈstiːna) ) is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City. Originally known as the Cappella Magna, the chapel takes its name from Pope Sixtus IV, who restored it between 1477 and 1480. Since that time, the chapel has served as a place of both religious and functionary papal activity. Today it is the site of the Papal conclave, the process by which a new pope is selected. The fame of the Sistine Chapel lies mainly in the frescos that decorate the interior, and most particularly the Sistine Chapel ceiling and The Last Judgment by Michelangelo.
+
+Based on this passage, where is the sistine chapel located in the vatican?
+a... The relevant sentence in the passage is: The Sistine Chapel (/ ˌsɪstiːn ˈtʃæpəl /; Latin: Sacellum Sixtinum; Italian: Cappella Sistina ( kapˈpɛlla siˈstiːna) ) is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.
+The answer is the Apostolic Palace , the official residence of the Pope , in Vatican City
+
+
+q... In chemistry, the empirical formula of a chemical compound is the simplest positive integer ratio of atoms present in a compound. A simple example of this concept is that the empirical formula of sulfur monoxide, or SO, would simply be SO, as is the empirical formula of disulfur dioxide, S O. This means that sulfur monoxide and disulfur dioxide, both compounds of sulfur and oxygen, will have the same empirical formula. However, their chemical formulas, which express the number of atoms in each molecule of a chemical compound, may not be the same.
+
+Answer this question based on the passage: what is the empirical formula of a compound?
+a... This is the relevant information: In chemistry, the empirical formula of a chemical compound is the simplest positive integer ratio of atoms present in a compound.
+The answer is the simplest positive integer ratio of atoms present in a compound
+
+
+q... On Her Majesty's Secret Service (1969) is the sixth spy film in the James Bond series to be produced by Eon Productions. It is based on the 1963 novel of the same name by Ian Fleming. Following Sean Connery's decision to retire from the role after You Only Live Twice, Eon Productions selected an unknown actor and model, George Lazenby, to play the part of James Bond. During the making of the film, Lazenby announced that he would play the role of Bond only once.
+
+Answer this question: who played bond in on her majesty's secret service?
+a...

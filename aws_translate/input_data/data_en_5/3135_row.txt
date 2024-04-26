@@ -1,0 +1,19 @@
+Question: The number of protons within the atom's nucleus is called atomic number and is equal to the number of electrons in the neutral (non-ionized) atom. Each atomic number identifies a specific element, but not the isotope; an atom of a given element may have a wide range in its number of neutrons. The number of nucleons (both protons and neutrons) in the nucleus is the atom's mass number, and each isotope of a given element has a different mass number.
+
+Based on this passage, the main difference between isotopes of the same element?
+Answer: The relevant sentence in the passage is: Each atomic number identifies a specific element, but not the isotope; an atom of a given element may have a wide range in its number of neutrons. The answer is number of neutrons.
+
+Question: Major Tom is a fictional astronaut referenced in David Bowie's songs "Space Oddity", "Ashes to Ashes", "Hallo Spaceboy", "New Killer Star" and music video "Blackstar". Bowie's own interpretation of the character evolved throughout his career. "Space Oddity" (1969) depicts an astronaut who casually slips the bonds of the world to journey beyond the stars. In the song "Ashes to Ashes" (1980), Bowie reinterprets Major Tom as an oblique autobiographical symbol for himself. Major Tom is described as a "junkie, strung out in heavens high, hitting an all-time low". This lyric was interpreted as a play on the title of Bowie's album Low (1977), which charted his withdrawal following his drug abuse in the United States. Additionally, the choked and self-recriminating tone used in the lyrics "Time and again I tell myself I'll stay clean tonight." reinforces an autobiographical and retrospective interpretation. A short time later, there is another reversal of Major Tom's original withdrawal, turning' outwards' or towards space.
+
+Answer this question based on the passage: who sings this is ground control to major tom?
+Answer: To answer the above question, the relevant sentence is: Major Tom is a fictional astronaut referenced in David Bowie's songs "Space Oddity", "Ashes to Ashes", "Hallo Spaceboy", "New Killer Star" and music video "Blackstar". The answer is David Bowie.
+
+Question: The CNO cycle (for carbon -- nitrogen -- oxygen) is one of the two known sets of fusion reactions by which stars convert hydrogen to helium, the other being the proton -- proton chain reaction. Unlike the latter, the CNO cycle is a catalytic cycle. It is dominant in stars that are more than 1.3 times as massive as the Sun.
+
+Answer this question based on the passage: the cno cycle dominates in which types of stars?
+Answer: The relevant information is: It is dominant in stars that are more than 1.3 times as massive as the Sun. The answer is stars that are more than 1.3 times as massive as the Sun.
+
+Question: Context: The movie was filmed in and around the city of Las Vegas, New Mexico. Many of the buildings and structures which appeared in the film, including a historic Fred Harvey Company hotel adjacent to the train depot, the train yard, and a building near downtown, which was repainted with the name of "Calumet, Colorado", are still there today. An old Safeway grocery store was converted to a sound stage and used for several scenes in the movie.
+
+Question: where was the original red dawn movie filmed?
+Answer:

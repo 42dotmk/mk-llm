@@ -1,0 +1,23 @@
+# QUESTION
+José Alexander Cora (born October 18, 1975) is a Puerto Rican professional baseball coach and former infielder. He is currently the manager of the Boston Red Sox. He played in MLB for the Los Angeles Dodgers, Cleveland Indians, Boston Red Sox, New York Mets, Texas Rangers, and Washington Nationals from 1998 through 2011. Cora was formerly a baseball analyst for ESPN and played college baseball at the University of Miami.
+
+What position did alex cora play for the red sox?
+# ANSWER
+The relevant information to answer the above question is: José Alexander Cora (born October 18, 1975) is a Puerto Rican professional baseball coach and former infielder.
+FINAL ANSWER: infielder
+
+
+# QUESTION
+Context: The program sometimes does not start until after 7: 00 p.m. Eastern, due largely to CBS' live broadcast of NFL games. At the conclusion of an NFL game, 60 Minutes will air in its entirety. However, on the West Coast (and all of the Mountain Time Zone), because the actual end of the live games is much earlier in the afternoon in comparison to the Eastern and Central time zones, 60 Minutes is always able to start at its normal start time of 7: 00 p.m. Pacific Time, leaving affiliates free to broadcast local news, the CBS Evening News, and other local or syndicated programming leading up to 60 Minutes. The program's success has also led CBS Sports to schedule events (such as the final round of the Masters Tournament and the second round and regional final games of the NCAA Men's Basketball Tournament) leading into 60 Minutes and the rest of the network's primetime lineup, thus (again, except on the West Coast) pre-empting the Sunday editions of the CBS Evening News and affiliates' local newscasts.
+
+Question: when does 60 minutes come on west coast?
+# ANSWER
+The relevant information to answer the above question is: However, on the West Coast (and all of the Mountain Time Zone), because the actual end of the live games is much earlier in the afternoon in comparison to the Eastern and Central time zones, 60 Minutes is always able to start at its normal start time of 7: 00 p.m. Pacific Time, leaving affiliates free to broadcast local news, the CBS Evening News, and other local or syndicated programming leading up to 60 Minutes.
+FINAL ANSWER: 7 : 00 p.m. Pacific Time
+
+
+# QUESTION
+Passage: Boba tea (also known as pearl milk tea, bubble milk tea, boba juice, boba tea, or simply bubble tea) (Chinese: 波霸 奶茶; pinyin: bōbà nǎichá, with tapioca balls it is 珍珠 奶茶; zhēnzhū nǎichá) is a Taiwanese tea-based drink invented in Tainan and Taichung in the 1980s. Most bubble tea recipes contain a tea base mixed with fruit or milk, to which chewy tapioca balls (known as bubbles, pearls, or boba) and fruit jelly (especially tropical fruits like lychee) are often added. Ice-blended versions are usually mixed with fruit or syrup, resulting in a slushy consistency. There are many varieties of the drink with a wide range of ingredients with some ingredients being mango, taro, coconut, and peach. The two most popular varieties are bubble milk tea with tapioca and bubble milk green tea with tapioca.
+
+Question: Based on this passage, what are the little balls in boba tea?
+# ANSWER

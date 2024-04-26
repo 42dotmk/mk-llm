@@ -1,0 +1,73 @@
+question: The average age of a class of 14 students is 10 yrs. if the teacher's age is also included, the average increases by one year. Find the age of the teacher
+Options:
+(A) 30 Years
+(B) 31 Years
+(C) 32 Years
+(D) 34 Years
+(E) 25 Years
+answer: Stream of consciousness: Total age of students is 14X10 = 140 Years
+Total age inclusive of teacher = 15X (10+1) = 165
+So, Teacher's age is 165-140 = 25 Yrs
+There is a shortcut for these type of problems
+Teacher's age is 10+(15X1) = 25 Years The answer is (E).
+
+
+q: Before lunch, a painter can paint a wall at a rate of r square feet per minute. The same painter, after lunch and a cup of coffee, can paint the same wall at a rate r + 1 square feet per minute, and the same wall would be finished in 30 seconds less time. What is the value of r?
+Options:
+(A) 1/3
+(B) 3
+(C) 1/2
+(D) 1
+(E) 2
+a: Stream of consciousness: Convert 30 seconds to 1/2 minute
+Equation: 1/r = 1/(r + 1) + 1/2
+Plug options into the equation:
+D fits: 1/1 = 1/(1 + 1) + 1/2 The answer is (D).
+
+
+question: Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 4 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is?
+Options:
+(A) 60 gallons
+(B) 100 gallons
+(C) 120 gallons
+(D) 160 gallons
+(E) 130 gallons
+answer: Stream of consciousness: Work done by the waste pipe in 1 minute = 1/15 - (1/20 + 1/24) = - 1/40
+Volume of 1/40 part = 4 gallons\
+Volume of whole = 4 * 40 = 160 gallons. The answer is (D).
+
+
+q: A certain league has two divisions. The respective divisions had 7 and 9 teams qualify for the playoffs. Each division held its own double-elimination tournament -- where a team is eliminated from the tournament upon losing two games -- in order to determine its champion. The four division champions then played in a single-elimination tournament -- where a team is eliminated upon losing one game -- in order to determine the overall league champion. Assuming that there were no ties and no forfeits, what is the maximum number of games that could have been played in order to determine the overall league champion?
+Options:
+(A)  30
+(B)  31
+(C)  34
+(D)  36
+(E)  38
+a: Stream of consciousness: Overall, there can be 31 minuses. Tus, it is The answer is (B).
+
+
+question: P can do a work in 24 days. Q can do the samework in 9 days & R can do the same work in 12 days. Q & R start the work and leave after 3 days. P finishes the remaining work in how many days.
+Options:
+(A) 8
+(B) 10
+(C) 14
+(D) 16
+(E) 19
+answer: Stream of consciousness: Work done by P in 1 day = 1/24
+Work done by Q in 1 day = 1/9
+Work done by R in 1 day = 1/12
+Work done by Q and R in 1 day = 1/9 + 1/12 = 7/36
+Work done by Q and R in 3 days = 3×7/36 = 7/12
+Remaining work = 1 – 7/12 = 5/12
+Number of days in which P can finish the remaining work = (5/12) / (1/24) = 10 The answer is (B).
+
+
+question: A motorcyclist goes from Bombay to Pune, a distance of 192 kms at an average of 32 kmph speed. Another man starts from Bombay by car 2 ½ hours after the first, and reaches Pune ½ hour earlier. What is the ratio of the speed of the motorcycle and the car?
+Options:
+(A) 1:2
+(B) 1:5
+(C) 1:9
+(D) 1:3
+(E) 1:1
+answer:

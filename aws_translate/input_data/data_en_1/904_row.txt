@@ -1,0 +1,19 @@
+Question: Passage: Mário Jorge Lobo Zagallo (Brazilian Portuguese: ( ˈmaɾju zaˈɡalu); born 9 August 1931 ) is a Brazilian former football player and manager, who played as a forward. He was the first person to win the FIFA World Cup as both a manager and as a player, winning the competition in 1958 and 1962 as a player, in 1970 as manager and in 1994 as assistant manager. In 1992 Zagallo received the FIFA Order of Merit, the highest honour awarded by FIFA, for his contributions to football.
+
+Question: Based on this passage, who won fifa world cup as player and coach?
+Answer: The relevant information is: He was the first person to win the FIFA World Cup as both a manager and as a player, winning the competition in 1958 and 1962 as a player, in 1970 as manager and in 1994 as assistant manager. The answer is Mário Jorge Lobo Zagallo.
+
+Question: In the sport of cricket, a hat-trick is an occasion where a bowler takes three wickets in consecutive deliveries. As of 31 July 2017, this feat has only been achieved 43 times in more than two thousand Test matches, the form of the sport in which national representative teams compete in matches of up to five days' duration. The first Test hat-trick was recorded on 2 January 1879, in only the third Test match to take place, by the Australian pace bowler Fred Spofforth, nicknamed "The Demon Bowler", who dismissed three English batsmen with consecutive deliveries at the Melbourne Cricket Ground. The most recent bowler to achieve the feat was English spin bowler Moeen Ali against South Africa on 31 July 2017. At least one bowler from each of the ten nations that have played Test cricket have taken a Test hat-trick.
+
+Based on this passage, first bowler to take hattrick in test cricket?
+Answer: To answer the question, consider the following: The first Test hat-trick was recorded on 2 January 1879, in only the third Test match to take place, by the Australian pace bowler Fred Spofforth, nicknamed "The Demon Bowler", who dismissed three English batsmen with consecutive deliveries at the Melbourne Cricket Ground. The answer is the Australian pace bowler Fred Spofforth , nicknamed `` The Demon Bowler ''.
+
+Question: A continental shelf is a portion of a continent that is submerged under an area of relatively shallow water known as a shelf sea. Much of the shelves were exposed during glacial periods and interglacial periods.
+
+Shallow water zone of intertidal area on the continental shelf is called as?
+Answer: To answer the question, consider the following: A continental shelf is a portion of a continent that is submerged under an area of relatively shallow water known as a shelf sea. The answer is a shelf sea.
+
+Question: "(Sittin' On) The Dock of the Bay" is a song co-written by soul singer Otis Redding and guitarist Steve Cropper. It was recorded by Redding twice in 1967, including once just days before his death in a plane crash. The song was released on Stax Records' Volt label in 1968, becoming the first posthumous single to top the charts in the US. It reached number 3 on the UK Singles Chart.
+
+Based on this passage, who made sitting on the dock of the bay?
+Answer:

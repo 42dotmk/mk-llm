@@ -1,0 +1,19 @@
+Idea for the Q&A below: The relevant information is: These reactions occur in the stroma, the fluid-filled area of a chloroplast outside the thylakoid membranes.
+Q: The light-independent reactions, or dark reactions, of photosynthesis are chemical reactions that convert carbon dioxide and other compounds into glucose. These reactions occur in the stroma, the fluid-filled area of a chloroplast outside the thylakoid membranes. These reactions take the products (ATP and NADPH) of light-dependent reactions and perform further chemical processes on them. There are three phases to the light-independent reactions, collectively called the Calvin cycle: carbon fixation, reduction reactions, and ribulose 1, 5-bisphosphate (RuBP) regeneration.
+
+Answer this question based on the passage: where does the calvin cycle (dark reactions) take place?
+A: in the stroma , the fluid - filled area of a chloroplast outside the thylakoid membranes
+
+Idea for the Q&A below: The relevant information to answer the above question is: Scheduled for August 15 -- 17 on a dairy farm in the Catskill Mountains of southern New York State, northwest of New York City, it ran over to Monday, August 18.
+Q: The Woodstock Music & Art Fair -- informally, the Woodstock Festival or simply Woodstock -- was a music festival in the United States in 1969 which attracted an audience of more than 400,000. Scheduled for August 15 -- 17 on a dairy farm in the Catskill Mountains of southern New York State, northwest of New York City, it ran over to Monday, August 18.
+
+Where was the famous woodstock art and music festival held?
+A: on a dairy farm in the Catskill Mountains of southern New York State , northwest of New York City
+
+Idea for the Q&A below: The important part for answering this question is: Foot binding became popular as a means of displaying status (women from wealthy families, who did not need their feet to work, could afford to have them bound) and was correspondingly adopted as a symbol of beauty in Chinese culture.
+Q: Foot binding was the custom of applying tight binding to the feet of young girls to modify the shape of the foot. The practice possibly originated among upper-class court dancers during the Five Dynasties and Ten Kingdoms period in Imperial China (10th or 11th century), then became popular among the elite during the Song dynasty and eventually spread to all social classes by the Qing dynasty. Foot binding became popular as a means of displaying status (women from wealthy families, who did not need their feet to work, could afford to have them bound) and was correspondingly adopted as a symbol of beauty in Chinese culture. Foot binding limited the mobility of women, resulting in them walking in a swaying unsteady gait, although some women with bound feet working outdoor had also been reported. The prevalence and practice of foot binding varied in different parts of the country. Feet altered by binding were called lotus feet.
+
+Answer this question based on the passage: what was the purpose of binding feet in china?
+A: a means of displaying status ( women from wealthy families , who did not need their feet to work , could afford to have them bound ) and was correspondingly adopted as a symbol of beauty in Chinese culture
+
+Idea for the Q&A below: The important part for answering this question is: In the summer of 1963, 17-year-old Frances "Baby" Houseman is vacationing with her family at Kellerman's, a resort in the Catskill Mountains.

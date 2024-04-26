@@ -1,0 +1,22 @@
+Student A:Context: On January 15, 1973, President Nixon announced a suspension of offensive actions against North Vietnam. Kissinger and Thọ met again on January 23 and signed off on a treaty that was basically identical to the draft of three months earlier. The agreement was signed by the leaders of the official delegations on January 27, 1973, at the Hotel Majestic in Paris, France.
+
+Question: where did they sign the paris peace accords?
+Student B:OK... The relevant information to answer the above question is: The agreement was signed by the leaders of the official delegations on January 27, 1973, at the Hotel Majestic in Paris, France.
+at the Hotel Majestic in Paris , France.
+
+Problem:Passage: The Ministry of Gender, Labour and Social Development (MGLSD) is a Cabinet-level government ministry of Uganda. The mandate of the ministry is to empower citizens to maximize their individual and collective potential by developing skills, increasing labour productivity, and cultural enrichment to achieve sustainable and gender-sensitive development. The ministry is headed by a Cabinet minister, Janat Mukwaya.
+
+Question: Based on this passage, who is the minister of gender labour and social development in uganda?
+Solution:OK... This is the relevant information: The ministry is headed by a Cabinet minister, Janat Mukwaya.
+a Cabinet minister , Janat Mukwaya.
+
+Student A:Passage: American R&B singer INOJ recorded the song in 1998. Her version peaked at number six on Billboard Hot 100 Charts in the U.S. The music video of this version first aired on BET and The Box. Novaspace: The German Eurodance project covered the song on their album Novaspace (2002). It reached number 6 in Germany, number 7 in Austria and # 15 in Australia. American alternative rock / pop punk band Quietdrive covered the song for their debut album When All That's Left Is You in 2006. The cover version was featured in the 2006 romantic comedy film John Tucker Must Die starring Jesse Metcalfe and Brittany Snow. The cover is their only charting song, hitting number 25 on the American Top 40 Countdown. The cover was certified gold by the RIAA. In April 2011, on the premiere of the American version of the reality competition television series The Voice, Javier Colon performed an acoustic version of the song during the "blind audition" phase. The studio recording of his cover peaked at number 65 on the Billboard Hot 100 Chart, number 41 on the Digital Songs chart, number 16 on the R&B / Hip-Hop Digital Songs chart, and number 4 on the Top Heatseekers chart.
+
+Question: Based on this passage, time after time song was in what movie?
+Student B:OK... This is the relevant information: The cover version was featured in the 2006 romantic comedy film John Tucker Must Die starring Jesse Metcalfe and Brittany Snow.
+John Tucker Must Die.
+
+Student A:Passage: Great Britain competed at the 2018 Winter Olympics in Pyeongchang, South Korea, from 9 to 25 February 2018, with 58 competitors in 11 sports. They won five medals in total, one gold and four bronze, ranking 19th in the medal table.
+
+Question: Based on this passage, how many athletes does great britain have in the 2018 olympics?
+Student B:

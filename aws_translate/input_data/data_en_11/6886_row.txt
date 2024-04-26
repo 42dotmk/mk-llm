@@ -1,0 +1,25 @@
+q... Kevin wakes up to find the house empty and, thinking his wish has come true, is overjoyed with his newfound freedom. However, Kevin soon becomes frightened by his next door neighbor, "Old Man" Marley, who is rumored to have murdered his family with a snow shovel in 1958; as well as the "Wet Bandits", Harry and Marv, a pair of burglars who have been breaking into other vacant houses in the neighborhood and have targeted the McCallisters' house. Kevin tricks the pair into thinking his whole family is home, forcing them to put their plans on hold.
+
+Answer this question: what are the robbers names in home alone?
+a... The relevant information is: However, Kevin soon becomes frightened by his next door neighbor, "Old Man" Marley, who is rumored to have murdered his family with a snow shovel in 1958; as well as the "Wet Bandits", Harry and Marv, a pair of burglars who have been breaking into other vacant houses in the neighborhood and have targeted the McCallisters' house.
+The answer is the `` Wet Bandits '' , Harry and Marv
+
+
+q... Context: "Love in This Club" is a song by American R&B singer Usher. Featuring rapper Young Jeezy, it was released on February 22, 2008 as the lead single from Usher's fifth studio album, Here I Stand. The song was written by Usher, Polow da Don, Young Jeezy, Darnell Dalton, Ryon Lovett, Lamar Taylor and Keith Thomas, and produced by da Don with a Las Vegas-inspired synth-driven beat. Its lyrics refer to seducing someone in a nightclub. The song was originally leaked by da Don prior to its release.
+
+Question: who sings love in this club with usher?
+a... The relevant information to answer the above question is: Featuring rapper Young Jeezy, it was released on February 22, 2008 as the lead single from Usher's fifth studio album, Here I Stand.
+The answer is rapper Young Jeezy
+
+
+q... Brian Robeson is a thirteen-year-old son of divorced parents. As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies. Brian tries to land the plane, but ends up crash-landing into a lake in the forest. He must learn to survive on his own with nothing but his hatchet -- a gift his mother gave him shortly before his plane departed.
+
+Answer this question based on the passage: where was brian going in the book hatchet?
+a... The relevant information is: As he travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies.
+The answer is the oil fields in Northern Canada
+
+
+q... Context: The city served as the seat of the Confederation Congress (former Second Continental Congress) and temporary national capital of the United States in 1783 -- 1784. At that time, General George Washington came before the body convened in the new Maryland State House and resigned his commission as commander of the Continental Army. A month later, the Congress ratified the Treaty of Paris of 1783, ending the American Revolutionary War, with Great Britain recognizing the independence of the United States. The city and state capitol was also the site of the 1786 Annapolis Convention, which issued a call to the states to send delegates for the Constitutional Convention to be held the following year in Philadelphia. Over 220 years later, the Annapolis Peace Conference, was held in 2007. Annapolis is the home of St. John's College, founded 1696, as well as the United States Naval Academy, established 1845.
+
+Question: when was annapolis the capital of the united states?
+a...

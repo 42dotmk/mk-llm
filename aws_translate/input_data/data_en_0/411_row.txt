@@ -1,0 +1,26 @@
+Answer this question please:
+Keeping Up with the Joneses is a 2016 American action comedy film directed by Greg Mottola and written by Michael LeSieur. Starring Zach Galifianakis, Jon Hamm, Isla Fisher and Gal Gadot, the film follows a suburban couple (Galifianakis and Fisher) who begin to suspect their new neighbors (Hamm and Gadot) are secret agents. The film was released on October 21, 2016 by 20th Century Fox, received generally negative reviews and was a box office bomb, grossing $29 million against its $40 million budget.
+
+Based on this passage, when did keeping up with the joneses come out?
+
+Stream of random thoughts: The relevant information to answer the above question is: Keeping Up with the Joneses is a 2016 American action comedy film directed by Greg Mottola and written by Michael LeSieur.... The answer is 2016.
+----
+Answer this question please:
+Super Bowl LII was an American football game played to determine the champion of the National Football League (NFL) for the 2017 season. The National Football Conference (NFC) champion Philadelphia Eagles defeated the American Football Conference (AFC) and defending Super Bowl LI champion New England Patriots, 41 -- 33, to win their first Super Bowl and their first NFL title since 1960. The game was played on February 4, 2018, at U.S. Bank Stadium in Minneapolis, Minnesota. This was the second time that a Super Bowl was played in Minneapolis, the northernmost city to ever host the event, after Super Bowl XXVI at the Metrodome during the 1991 season, and the sixth Super Bowl held in a cold-weather city.
+
+Answer this question based on the passage: who is the nfc team in the 2018 superbowl?
+
+Stream of random thoughts: The important part for answering this question is: The National Football Conference (NFC) champion Philadelphia Eagles defeated the American Football Conference (AFC) and defending Super Bowl LI champion New England Patriots, 41 -- 33, to win their first Super Bowl and their first NFL title since 1960.... The answer is The National Football Conference ( NFC ) champion Philadelphia Eagles.
+----
+Answer this question please:
+Passage: The Eiffel Tower (/ ˈaɪfəl ˈtaʊ. ər / EYE-fəl TOW-ər; French: tour Eiffel, pronounced ( tuʁ ‿ ɛfɛl) listen ) is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+
+Question: Based on this passage, is the eiffel tower made of steel or iron?
+
+Stream of random thoughts: The important part for answering this question is: The Eiffel Tower (/ ˈaɪfəl ˈtaʊ. ər / EYE-fəl TOW-ər; French: tour Eiffel, pronounced ( tuʁ ‿ ɛfɛl) listen ) is a wrought iron lattice tower on the Champ de Mars in Paris, France.... The answer is iron.
+----
+Answer this question please:
+Context: He is voiced by Tim Allen in the Toy Story films, few video games, the upcoming video game Kingdom Hearts III, and the Buzz Lightyear movie, Patrick Warburton in the TV series, and by Pat Fraley for the video games and the attractions in Disney Parks.
+
+Question: who does the voice of buzz lightyear in toy story?
+

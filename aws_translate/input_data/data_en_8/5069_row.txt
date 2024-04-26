@@ -1,0 +1,29 @@
+## question
+The term "seed" also has a general meaning that antedates the above -- anything that can be sown, e.g. "seed" potatoes, "seeds" of corn or sunflower "seeds". In the case of sunflower and corn "seeds", what is sown is the seed enclosed in a shell or husk, whereas the potato is a tuber.
+
+Based on this passage, what is the outer shell of a seed called?
+## answer
+The relevant information to answer the above question is: In the case of sunflower and corn "seeds", what is sown is the seed enclosed in a shell or husk, whereas the potato is a tuber.
+So the answer must be a shell or husk
+
+## question
+Context: A blister is a small pocket of body fluid (lymph, serum, plasma, blood, or pus) within the upper layers of the skin, typically caused by forceful rubbing (friction), burning, freezing, chemical exposure or infection. Most blisters are filled with a clear fluid, either serum or plasma. However, blisters can be filled with blood (known as "blood blisters") or with pus (if they become infected).
+
+Question: what's the fluid that comes out of blisters?
+## answer
+To answer the question, consider the following: A blister is a small pocket of body fluid (lymph, serum, plasma, blood, or pus) within the upper layers of the skin, typically caused by forceful rubbing (friction), burning, freezing, chemical exposure or infection.
+So the answer must be lymph , serum , plasma , blood , or pus
+
+## question
+Context: The Jungle Book is a 2016 American fantasy adventure film directed and produced by Jon Favreau, produced by Walt Disney Pictures, and written by Justin Marks. Based on Rudyard Kipling's eponymous collective works and inspired by Walt Disney's 1967 animated film of the same name, The Jungle Book is a live-action / CGI film that tells the story of Mowgli, an orphaned human boy who, guided by his animal guardians, sets out on a journey of self-discovery while evading the threatening Shere Khan. The film introduces Neel Sethi as Mowgli and also features the voices of Bill Murray, Ben Kingsley, Idris Elba, Lupita Nyong'o, Scarlett Johansson, Giancarlo Esposito, and Christopher Walken.
+
+Question: who plays mowgli in the jungle book movie?
+## answer
+The relevant information to answer the above question is: The film introduces Neel Sethi as Mowgli and also features the voices of Bill Murray, Ben Kingsley, Idris Elba, Lupita Nyong'o, Scarlett Johansson, Giancarlo Esposito, and Christopher Walken.
+So the answer must be Neel Sethi
+
+## question
+Deborah Ann Ryan (born May 13, 1993) is an American actress and singer. Ryan started acting in professional theatres at the age of seven; in 2007 she appeared in the Barney & Friends straight-to-DVD film Barney: Let's Go to the Firehouse and then was discovered in a nationwide search by Disney. She is also known for appearing in the 2008 feature film The Longshots as Edith. In 2009, she guest starred in an episode of Wizards of Waverly Place in "Wizards on Deck with Hannah Montana" as Bailey Pickett along with her other cast mates from The Suite Life on Deck. Then, in 2010, she starred in the film 16 Wishes, which was the most watched cable program on the day of its premiere on the Disney Channel. 16 Wishes introduced Ryan to new audiences; the movie received high viewership in the adults demographic (18 -- 34). Soon after that, Ryan starred in the independent theatrical film, What If ..., which premiered on August 20, 2010.
+
+Who plays bailey on suite life on deck?
+## answer

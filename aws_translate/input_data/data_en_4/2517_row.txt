@@ -1,0 +1,36 @@
+Ans: Earl John Hindman
+Ques: Earl John Hindman (October 3, 1942 -- December 29, 2003) was an American film and television actor, best known for his role as the kindly unseen neighbor Wilson W. Wilson Jr. on the television sitcom Home Improvement (1991 -- 99).
+
+Based on this passage, who was the actor who played wilson on home improvement?
+CoT: The relevant information to answer the above question is: Earl John Hindman (October 3, 1942 -- December 29, 2003) was an American film and television actor, best known for his role as the kindly unseen neighbor Wilson W. Wilson Jr. on the television sitcom Home Improvement (1991 -- 99).
+
+
+Answer: the medulla oblongata. Now, what could be the question and solution-maybe?
+Ques: The cardiovascular centre is a part of the human brain responsible for the regulation of the rate at which the heart beats through the nervous and endocrine systems. It is found in the medulla oblongata. Normally, the heart beats without nervous control, but in some situations (e.g., exercise, body trauma), the cardiovascular centre is responsible for altering the rate at which the heart beats. It also mediates respiratory sinus arrhythmia.
+
+Answer this question based on the passage: where is the cardiac center located in the brain?
+CoT: The relevant information is: It is found in the medulla oblongata.
+
+
+Ans: the first Winter Games in 1924
+Ques: Passage: Cross-country skiing has been contested at the Winter Olympic Games since the first Winter Games in 1924 in Chamonix, France. The women's events were first contested at the 1952 Winter Olympics.
+
+Question: Based on this passage, when did cross country skiing become an olympic sport?
+CoT: This is the relevant information: Cross-country skiing has been contested at the Winter Olympic Games since the first Winter Games in 1924 in Chamonix, France.
+
+
+Ans: Dawn Anne Nolan
+Ques: Passage: Dawn Anne Nolan (born 11 December 1975 in Glasgow) is a Scottish actress best known for her portrayals of the characters Alexandra "Lexie" MacDonald from the BBC drama Monarch of the Glen, Alice Trevanion in the ITV drama series Wild at Heart and Dr Annie Jandhu in BBC Soap Opera River City.
+
+Question: Based on this passage, who plays lexi in monarch of the glen?
+CoT: To answer the above question, the relevant sentence is: Dawn Anne Nolan (born 11 December 1975 in Glasgow) is a Scottish actress best known for her portrayals of the characters Alexandra "Lexie" MacDonald from the BBC drama Monarch of the Glen, Alice Trevanion in the ITV drama series Wild at Heart and Dr Annie Jandhu in BBC Soap Opera River City.
+
+
+Answer: an informal fallacy of questionable cause where cause and effect are reversed. Now, what could be the question and solution-maybe?
+Ques: Reverse causation or reverse causality or wrong direction is an informal fallacy of questionable cause where cause and effect are reversed. The cause is said to be the effect and vice versa.
+
+Based on this passage, reverse causality problem in determining cause and effect?
+CoT: To answer the question, consider the following: Reverse causation or reverse causality or wrong direction is an informal fallacy of questionable cause where cause and effect are reversed.
+
+
+Ans: The North Atlantic Treaty Organization

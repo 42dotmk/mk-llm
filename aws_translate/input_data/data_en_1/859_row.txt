@@ -1,0 +1,22 @@
+Student A:The liver is a vital organ only found in vertebrates. In humans, it is located in the upper right quadrant of the abdomen, below the diaphragm. The liver has a wide range of functions, including detoxification of various metabolites, protein synthesis, and the production of biochemicals necessary for digestion. It also plays a role in metabolism, regulation of glycogen storage, decomposition of red blood cells and hormone production.
+
+Answer this question based on the passage: where is human liver located in the body?
+Student B:OK... This is the relevant information: In humans, it is located in the upper right quadrant of the abdomen, below the diaphragm.
+the upper right quadrant of the abdomen , below the diaphragm.
+
+Student A:Passage: In the early years of the NBA draft, a player had to finish his four-year college eligibility to be eligible for selection. Reggie Harding, who had graduated from high school but did not enroll in a college, became the first player drafted out of high school when the Detroit Pistons selected him in the fourth round of the 1962 draft. However, the NBA rules at that time prohibited a high school player to play in the league until one year after his high school class graduated. Thus, he spent a year playing in a minor basketball league before he was drafted again in the 1963 draft by the Pistons. He finally entered the league in the 1963 -- 64 season and played four seasons in the NBA and American Basketball Association (ABA).
+
+Question: Based on this passage, who was the first nba player straight out of high school?
+Student B:OK... To answer the above question, the relevant sentence is: Reggie Harding, who had graduated from high school but did not enroll in a college, became the first player drafted out of high school when the Detroit Pistons selected him in the fourth round of the 1962 draft.
+Reggie Harding.
+
+Student A:Context: The Big five personality traits was the model to comprehend the relationship between personality and academic behaviors. This model was defined by several independent sets of researchers. These researchers began by studying relationships between a large number of known personality traits. They reduced the lists of these traits (arbitrarily) by 5 -- 10 fold and then used factor analysis to group the remaining traits (using data mostly based upon people's estimations, in self-report questionnaire and peer ratings) in order to find the underlying factors of personality.
+
+Question: where did the big five personality traits come from?
+Student B:OK... The relevant sentence in the passage is: This model was defined by several independent sets of researchers.
+several independent sets of researchers.
+
+Student A:In Greek mythology, Theia (/ ˈθiːə /; Ancient Greek: Θεία, translit. Theía, also rendered Thea or Thia), also called Euryphaessa "wide-shining", is a Titaness. Her brother / consort is Hyperion, a Titan and god of the sun, and together they are the parents of Helios (the Sun), Selene (the Moon), and Eos (the Dawn).
+
+Answer this question based on the passage: which two titans became the parents of the sun and the moon?
+Student B:

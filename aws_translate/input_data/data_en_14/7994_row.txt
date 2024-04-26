@@ -1,0 +1,99 @@
+You will be given a definition of a task first, then some input of the task.
+In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+
+The Hughes Glomar Explorer was more than just a giant ship — it was a giant secret, possibly the biggest and strangest covert operation the CIA pulled off during the Cold War. But now, 40 years after its original mission, it’s finally headed to the scrapyard. 
+  
+ The ship, now called GSF Explorer, had been retrofitted for oil drilling and exploration since it left US Navy service in 1997. But with the price of oil falling worldwide, its owner Transocean has decided to scrap it, along with several other vessels. 
+  
+ The ship’s origin story began in March 1968, when a Soviet Golf II class ballistic missile nuclear submarine, the K-129, sank in the Pacific Ocean. This was at the height of a high-risk cat-and-mouse game between the USA and the USSR. After the Soviet Navy failed to pinpoint the location of the wreckage, the US Navy found it. So the CIA decided to raise it off the seabed. They called this mission “Project Azorian,” and its details have been an official secret for decades. It took three years for retired CIA employee David Sharp to get permission to publish in 2012 his account of the mission and his role. 
+  
+ Sharp was at the engineering meetings where they tried to come up with a way to do what was at the time considered impossible, to pull up a huge object from an ocean depth of nearly 17,000 feet, or three miles. 
+  
+ “I think given a better background in marine engineering, we likely would not have tried” what they did, Sharp says. Luckily, the CIA also brought in skilled contractors like the deepwater drilling experts Global Marine (whose truncated name “Glomar” adorns the vessel). 
+  
+ What they designed may never be seen again: The Hughes Glomar Explorer itself was massive — too wide to fit in the Panama Canal — and it was built to heave up and down on waves while its center held steady, lifting an enormous claw with the K-129 wreckage inside. Every piece of this hydraulic lifting apparatus was its own engineering nightmare, from the gymbals with bowling-ball-sized ball bearings, to the heave compensators and derrick that had to handle 14 million pounds of submarine, claw, and heavy pipe string. Lockheed engineers designed the “claw” itself, more accurately called a “capture vehicle,” and got it into the HGE via an elaborate submersible barge (echoes of which a few people detected during the 2013’s not-as-awesome Google Barge mystery). 
+  
+ It would be impossible for the US military to build such a huge and complicated ship, or to bring it out on the high seas, without getting the attention of the Soviets. Hence the true wonder of Project Azorian: its commercial cover story, one that puts the movie “Argo” to shame. From about 1970-74, the CIA managed to convince the world that billionaire inventor Howard Hughes had decided to invest millions to mine “manganese nodules,” balls of heavy metals that lie on the ocean floor. Via fake press releases, events, technical specs and front companies, the CIA convinced the world that Hughes was leading a new ocean-mining rush. 
+  
+ In the end, the expensive mission was only a partial success: the ship’s lifting apparatus broke apart about 9000 feet below the surface, and the majority of the K-129 fell back to the floor of the ocean. It was impossible to retrieve without building a new claw, and before that could happen, details of the mission broke in the press. That didn’t stop the CIA from trying to keep it under wraps for as long as possible, leading to its notorious “Glomar Response” to Freedom of Information Act requests: the non-answer “we can neither confirm nor deny the existence of the materials requested.” That answer has held up in court over the decades and proliferated among federal and even local government agencies. 
+  
+ It was also the inspiration for the extra-dry humor of the CIA’s first tweet. 
+  
+ We can neither confirm nor deny that this is our first tweet. — CIA (@CIA) June 6, 2014 
+  
+ Hughes Glomar Explorer entered popular culture in other ways, as conspiracy theories have swirled around the K-129 and the mission to retrieve it. One of them is promulgated in the 2005 book “Red Star Rogue” by Kenneth Sewell and Clint Richmond. The book became the basis of the 2013 drama "Phantom," which features Ed Harris and David Duchovny as Soviet military officers who sip vodka in a very un-Russian way. 
+  
+ In 2006, the American Society of Mechanical Engineers declared Hughes Glomar Explorer an historic landmark. “Grasping and raising a 2,000-ton object in 17,000 feet of water in the central Pacific Ocean was a truly historic challenge, requiring a recovery system of unprecedented size and scope,” ASME wrote. 
+  
+ Americans can remember the whole affair for its daring, hubris, disappointment and secrecy. But for the loved ones of the Soviet sailors who died on the K-129, the words “Hughes Glomar Explorer” are more bitter. The Soviet government tried for 30 years to keep the fate of the submarine a secret from the families. After the USSR fell apart, both the Russian and US governments decided to make a clean slate of it, and then-US Defense Secretary Robert Gates delivered some of the intelligence on Project Azorian to the Russian government, along with artifacts from the chunk of the submarine the CIA managed to retrieve. 
+  
+ Gates also released a secret video of a funeral at sea for the remains of six Soviet sailors that were pulled up from the ocean floor. It remains one of the strangest artifacts of the entire Cold War — the other being ship itself, but it appears that one will not be with us for much longer. 
+  
+ Giant floating Museum of Secrecy, anyone? 
+  
+ Hear more of Julia Barton's reporting on the Hughes Glomar Explorer over at Radiolab from WNYC. ||||| (Repeats story that ran on Thursday, with no changes to text) 
+  
+ By John Miller 
+  
+ ZURICH, Sept 3 (Reuters) - A ship built by the CIA for a secret Cold War mission in 1974 to raise a sunken Soviet sub is heading to the scrap yard, a victim of the slide in oil prices. 
+  
+ Christened the Hughes Glomar Explorer, after billionaire Howard Hughes was brought in on the CIA's deception, the 619-foot vessel eventually became part of the fleet of ships used by Swiss company Transocean to drill for oil. 
+  
+ But the oil price rout means the former spy ship now called GSF Explorer is just one of 40 such offshore drilling rigs that have been consigned to scrap since last year. 
+  
+ It's the end of a story that began when a Soviet G-II sub called the K-129 sank in September 1968 "with all hands, 16,500 feet below the surface of the Pacific", according to an official U.S. Central Intelligence Agency (CIA) history. 
+  
+ The sub sank with nuclear-armed ballistic missiles and nearly 100 sailors, according to declassified documents at George Washington University's National Security Archive. 
+  
+ According to the CIA history of the mission, called "Project Azorian", the Soviet Union failed to locate the sub in a massive two-month search, but the United States found it, 1,500 miles (2,400 km) northwest of Hawaii. 
+  
+ The CIA wanted to get its hands on the nuclear missiles, as well as cryptography gear to break Soviet codes, but needed a cover story because any recovery ship would quickly be spotted by its Cold War foe. 
+  
+ The CIA brought billionaire Hughes in on the secret. Under a meticulously crafted fiction, the ship was built for Hughes at Pennsylvania's Sun Shipbuilding and Drydock Co, because he needed it to mine sea-bed manganese nodules. 
+  
+ "If the Russians had become aware of the real purpose of the mission, we'd have had to cancel it, and all the money would go down the drain," David Sharp, a 50-year CIA veteran from Maryland who was the 1974 mission's deputy for recovery operations, told Reuters in an interview. 
+  
+ COVER BLOWN 
+  
+ While the CIA has over the years lavished billions on covert planes and spacecraft, Jeffrey T. Richelson, a senior fellow at the National Security Archive, told Reuters: "They have not built anything so elaborate as the Glomar for such a limited mission". 
+  
+ Too wide for the Panama Canal, the Hughes Glomar Explorer, also named after the company Global Marine Inc. that designed it, rounded Cape Horn to reach the Pacific. 
+  
+ In August 1974, its huge mechanical claw raised a 145-foot section of the K-129 Soviet sub. 
+  
+ Sharp, now 81, who published "The CIA's Greatest Covert Operation" in 2011 after years of wrangling with the agency over classified material, acknowledged the audacious mission was not a complete operational success. 
+  
+ The claw failed, he said, and only the sub's bow, with the bodies of six Russian sailors but no missiles or code equipment, was brought to the surface. 
+  
+ The operation's secrecy was shattered after a June 1974 break-in at Hughes' Los Angeles headquarters, where the haul likely included a memo linking the mission to the billionaire. 
+  
+ The circle within the government and law enforcement that knew of the project widened. The Los Angeles Times ran a story in February 1975. 
+  
+ "The source of the leak was never identified," the CIA said. "With Glomar's cover blown, the White House canceled further recovery operations." 
+  
+ The Glomar's mission has a Cold War postscript: In 1992, then-CIA Director Robert Gates gave Russian President Boris Yeltsin a decades-old video of the six sailors' burial at sea. 
+  
+ A GLOMAR RESPONSE 
+  
+ Converted to a deepwater drill ship in 1997 and renamed the GSF Explorer, the vessel was bought by Transocean in 2010 and has been deployed by the world's largest offshore driller from the Gulf of Mexico to Angola. 
+  
+ Its stern has a helicopter landing pad and the vessel is topped by a towering 170-foot tall derrick, so it can drill to depths of up to 30,000 feet. 
+  
+ In its heyday, the ship was hired out for more than $400,000 a day, could house a crew of 160 and was held steady for drilling in heavy seas by 11 powerful thrusters. 
+  
+ But with falling oil prices approaching $40 a barrel and demand for exploration from companies such as Royal Dutch Shell and BP plunging, old ships without contracts or facing hefty maintenance bills are being culled. 
+  
+ Transocean, whose Deepwater Horizon drill rig explosion in 2010 in the Gulf of Mexico caused the largest offshore environmental disaster in U.S. history, condemned the GSF Explorer in April. 
+  
+ Altogether, the company is scrapping some 20 vessels, shelving deliveries of new ultra-deepwater drillships, forecasting $2 billion in writedowns and cancelling its interim dividend. 
+  
+ Houston's Diamond Offshore and London's Noble Corp have also consigned about a dozen ships to scrap since last year. 
+  
+ "We've seen the largest number of floaters being scrapped over two consecutive years," said Rystad Energy analyst Joachim Bjorni in Norway. 
+  
+ But no "floater" destined for the world's scrap yards is quite like the GSF Explorer. 
+  
+ Transocean declined to name the vessel's buyer, nor where it will be scrapped, fitting for a ship whose original name has become synonymous with U.S. government secrecy. 
+  
+ After the CIA's initial refusal to acknowledge its "Project Azorian" in 1975 with a "neither confirm or deny" reply, such answers became know as "Glomar responses". (Editing by David Clarke) |||||
+Output:

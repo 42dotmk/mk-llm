@@ -1,0 +1,36 @@
+Ans: William Shakespeare
+Ques: Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal young lovers.
+
+Answer this question based on the passage: who is the author of romeo and juliet?
+CoT: The important part for answering this question is: Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families.
+
+
+Ans: A.J. Foyt , Al Unser and Rick Mears
+Ques: The first Indianapolis 500 was held in 1911, where Ray Harroun was declared the first winner, driving the Marmon Wasp. The race has been run annually since 1911 (with exceptions during World War I and World War II) and 71 drivers have been crowned champions of the 500-mile race over the course of 101 races. The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears. The Indianapolis 500 has also drawn many international drivers to the Indianapolis Motor Speedway over the years, with 26 of the winners coming from outside of the United States, representing nine separate countries. The most recent champion of the Indianapolis 500 is Takuma Sato, winner of the 2017 race.
+
+Answer this question based on the passage: who has won the indy 500 the most?
+CoT: To answer the above question, the relevant sentence is: The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears.
+
+
+Answer: August 14 , 2006. Now, what could be the question and solution-maybe?
+Ques: Passage: She made her Street debut on August 14, 2006.
+
+Question: Based on this passage, when did abby cadabby first appear on sesame street?
+CoT: To answer the above question, the relevant sentence is: She made her Street debut on August 14, 2006.
+
+
+Ans: 30 March
+Ques: Passage: Spiritual / Shouter Baptist Liberation Day is an annual public holiday celebrated in Trinidad and Tobago on 30 March. The holiday commemorates the repeal on 30 March 1951 of the 1917 Shouter Prohibition Ordinance that prohibited the activities of the Shouter or Spiritual Baptist faith.
+
+Question: Based on this passage, when is spiritual baptist day celebrated in trinidad?
+CoT: The important part for answering this question is: Spiritual / Shouter Baptist Liberation Day is an annual public holiday celebrated in Trinidad and Tobago on 30 March.
+
+
+Ans: TPC Deere Run in the Quad Cities community of Silvis , Illinois
+Ques: The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, the week before the British Open, at TPC Deere Run in the Quad Cities community of Silvis, Illinois.
+
+Answer this question: where is the john deere classic 2018 played?
+CoT: The important part for answering this question is: It is played annually in July, the week before the British Open, at TPC Deere Run in the Quad Cities community of Silvis, Illinois.
+
+
+Answer: Elvis Presley. Now, what could be the question and solution-maybe?

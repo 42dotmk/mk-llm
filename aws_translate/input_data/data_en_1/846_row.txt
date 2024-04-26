@@ -1,0 +1,27 @@
+Reasoning and answer: On Monday, Mr Castiel ate 2 / 5 * 600 = 240 sausages. The remaining number of sausages after he ate 240 on Monday is 600 - 240 = 360. On Tuesday, he ate half of the remaining sausages, a total of 360 / 2 = 180. The remaining number of sausages that he saved for Friday after eating 180 on Tuesday is 360 - 180 = 180. On Friday, Mr Castiel ate 3 / 4 * 180 = 135 of the sausages he had kept. The remaining number of sausages after he ate 135 on Friday is 180 - 135 = 45.
+The answer: 45
+What was the question?
+Question: Mr Castiel prepared 600 boar sausages on the weekend. He ate 2/5 of them on Monday, half of the remaining on Tuesday and saved the rest for Friday. If he ate 3/4 of the remaining boar sausages on Friday, how many sausages are left?
+
+The Adidas purchase was 1 / 5 that of Skechers, therefore the Skechers cost 5 * 600 = 3000 dollars. Spending three times the cost of Adidas on Nike sneakers translates to 3 * 600 = 1800 dollars. All together, the three athletic - sneaker purchases cost Mimi 600 + 1800 + 3000 = 5400 dollars. Subtracting the amount spent on athletic sneakers from the total spent gives 8000 - 5400 = 2600 dollars. Mimi therefore spent 2600 dollars on clothes.
+The answer: 2600
+Reverse engineering the question: Mimi has decided to start going to the gym again. Over the weekend, she spent $8,000 on athletic sneakers and clothes. She spent thrice as much on Nike sneakers as she did on Adidas. What she spent on Adidas was 1/5 the cost of Skechers. If Mimi's Adidas sneakers purchase was $600, what amount did she spend on clothes?
+
+Reasoning and answer: He walks 200 meters first then he returns to the house. So it makes 200 m + 200 m = 400 m. The city center is 500 meters away from his house so the total distance is 400 m + 500 m = 900 m.
+The answer: 900
+What was the question?
+Question: The distance between Robin's house and the city center is 500 meters. He leaves the house to go to the city center. After he walks 200 meters he realizes that he forgot his bag. So he returns to his house, then goes back to the city center. How many meters does he walk in total?
+
+The cost of the briefcase was 5 * 4 = $20. So for both items Marcel paid 4 + 20 = $24.
+The answer: 24
+Reverse engineering the question: Marcel bought a pen for $4, and a briefcase for five times the price. How much did Marcel pay for both items?
+
+Reasoning and answer: For every 3 steps forward, he adds 2 more backwards so each 'step' gained costs 5 actual steps. 66 steps distance * 5 steps moved = 330 steps total.
+The answer: 330
+What was the question?
+Question: When Jeffrey walks, for every three steps forward, he takes two steps backwards. Therefore, if the distance between the house and the mailbox is 66 steps, what is the total number of steps Jeffrey takes when he goes from the house to the mailbox?
+
+Reasoning and answer: Amelia picks 45 - 18 = 27 oranges. The total number of oranges that they pick is 45 + 27 = 72. George picks 15 + 5 = 20 apples. The total number of apples that they pick is 20 + 15 = 35. So, they pick 72 + 35 = 107 fruits altogether.
+The answer: 107
+What was the question?
+Question:

@@ -1,0 +1,22 @@
+Student A:The Galactic Center is the rotational center of the Milky Way. The estimates for its location range from 24 -- 28.4 kilolight-years (7.4 -- 8.7 kiloparsecs) from Earth in the direction of the constellations Sagittarius, Ophiuchus, and Scorpius where the Milky Way appears brightest. There is strong evidence consistent with the existence of a supermassive black hole at the Galactic Center of the Milky Way.
+
+Based on this passage, what is in the center of the milky way galaxy?
+Student B:OK... The relevant information to answer the above question is: There is strong evidence consistent with the existence of a supermassive black hole at the Galactic Center of the Milky Way.
+a supermassive black hole.
+
+Student A:Tauriel is a fictional character from Peter Jackson's feature film adaptation of J.R.R. Tolkien's The Hobbit. The character does not appear in the original book, but was created by Peter Jackson, Philippa Boyens and Fran Walsh as an expansion of material adapted from the book, and first appears in the second and third films in that trilogy, The Hobbit: The Desolation of Smaug and The Hobbit: The Battle of the Five Armies. She is a Woodland Elf whose name has been translated as "Daughter of the forest", and is the head of the Mirkwood Elven guard. She is played by Canadian actress Evangeline Lilly, who was nominated for several awards for her performance in The Desolation of Smaug, with some of the stunt work performed by Australian stuntwoman Ingrid Kleinig.
+
+Answer this question: where is tauriel in the lord of the rings?
+Student B:OK... To answer the above question, the relevant sentence is: The character does not appear in the original book, but was created by Peter Jackson, Philippa Boyens and Fran Walsh as an expansion of material adapted from the book, and first appears in the second and third films in that trilogy, The Hobbit: The Desolation of Smaug and The Hobbit: The Battle of the Five Armies.
+The Hobbit : The Desolation of Smaug and The Hobbit : The Battle of the Five Armies.
+
+Student A:The World's Tallest Thermometer is a landmark located in Baker, California, USA. It is an electric sign that commemorates the record 134 degrees Fahrenheit (57 degrees Celsius) recorded in nearby Death Valley on July 10, 1913.
+
+Where is the world's tallest thermometer located?
+Student B:OK... To answer this question, we should know that: The World's Tallest Thermometer is a landmark located in Baker, California, USA.
+Baker , California , USA.
+
+Student A:Fifty Shades of Grey has topped best-seller lists around the world, selling over 125 million copies worldwide by June 2015. It has been translated into 52 languages, and set a record in the United Kingdom as the fastest-selling paperback of all time. Critical reception of the book, however, has tended towards the negative, with the quality of its prose generally seen as poor. Universal Pictures and Focus Features produced a film adaptation, which was released on 13 February 2015 and also received generally unfavourable reviews.
+
+Based on this passage, how many copies did fifty shades of grey sell?
+Student B:

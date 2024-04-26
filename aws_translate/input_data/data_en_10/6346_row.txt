@@ -1,0 +1,25 @@
+Each episode is 20 minutes long, and there are 90 episodes, so the series takes 20 minutes per episode * 90 episodes = 1800 minutes to watch. 1800 minutes / 60 minutes per hour = 30 hours to watch the series. Tom can watch 2 hours of TV a day, so it will take him 30 hours / 2 hours per day = 15 days to watch the entire series.
+The answer: 15
+Reverse engineering the question: Tom is binge-watching a show on Netflix. The show has 90 episodes, each one of which is 20 minutes long because there are no commercials. If Tom can spend two hours a day watching the show, how many days will it take him to finish watching the show?
+
+Reasoning and answer: The two sets of plates amount to $20 x 2 = $40. So the table and the two sets of plates amount to $50 + $40 = $90 in all. Since Jude received a $4 change, then he paid a total of $130 - $4 = $126 for the chairs, tables, and plates. Thus, the three chairs cost $126 - $90 = $36. Therefore, each chair cost $36 / 3 = $12.
+The answer: 12
+What was the question?
+Question: Jude bought three chairs for his house, all at the same price. He also bought a table that costs $50 and two sets of plates at $20 for each set. After giving the cashier $130, Jude got a $4 change. How much did each of the chairs cost?
+
+Combining the tennis and soccer balls, there are 15 + 5 = 20 balls in each basket. There are 5 baskets, hence 5 * 20 = 100 balls in total. 3 students removed 8 balls each, they removed 3 * 8 = 24 balls. From the total number of balls, they left 100 - 24 = 76 balls. There are 56 balls left so the other 2 students must have removed a total of 76 - 56 = 20 balls. This means that each of these 2 students removed 20 / 2 = 10 balls.
+The answer: 10
+Reverse engineering the question: A coach placed 15 tennis balls and 5 soccer balls each into 5 baskets. He gave 5 of his students a short period of time to remove as many balls each from a basket as they could. 3 of them removed 8 balls each and the other 2 removed a certain number of balls each. If a total of 56 balls are still in the baskets, how many balls did the other 2 students each remove?
+
+Reasoning and answer: If there are 12 uniforms, and the lab coats are 6 times as many as the number of uniforms, there are 6 * 12 = 72 lab coats. The total number of lab coats and uniforms in the lab is 72 + 12 = 84. If the number of lab techs is half the number of uniforms, then there are 12 / 2 = 6 lab techs. If they share the lab coats and uniforms equally, each lab tech will get 84 / 6 = 14 lab coats and uniforms.
+The answer: 14
+What was the question?
+Question: There are 6 times as many lab coats as uniforms in the lab. The number of lab techs is half of the number of uniforms. If there are 12 uniforms in the lab, and the lab techs share the coats and uniforms equally among them, how many coats and uniforms in total does each lab tech get?
+
+40% of the marbles are of other colors because 100 - 20 - 40 = 40. The friend will on average get 2 other colored marbles because 5 x .4 = 2.
+The answer: 2
+Reverse engineering the question: Percius has a collection of marbles. 40% of them are clear. 20% are black, and the remainder are all the other colors. A friend of his asks if he can take five marbles. On average, how many marbles of other colors will his friend end up getting?
+
+There are a total of 8 + 4 + 2 + 1 = 15 games of tennis in a typical tournament. If 1 game uses 5 cans of tennis balls, then 15 games would use 15 * 5 = 75 cans of tennis balls. If 1 can of tennis balls has 3 balls, then 75 cans would have 225 balls.
+The answer: 225
+Reverse engineering the question:

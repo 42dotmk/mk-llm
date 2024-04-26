@@ -1,0 +1,26 @@
+Answer this question please:
+The Rehabilitation Center at Hollywood Hills was a private nursing home located in Hollywood, Florida, United States with 152 beds. It was owned by Jack Michel and affiliated with Larkin Community Hospital. It was acquired by Hollywood Property Investments in 2015.
+
+Answer this question: who owns the rehabilitation center of hollywood florida?
+
+Stream of random thoughts: This is the relevant information: It was acquired by Hollywood Property Investments in 2015.... The answer is Hollywood Property Investments.
+----
+Answer this question please:
+Context: Stranger Things is set in the fictional rural town of Hawkins, Indiana, during the early 1980s. The nearby Hawkins National Laboratory ostensibly performs scientific research for the United States Department of Energy, but secretly does experiments into the paranormal and supernatural, including those that involve human test subjects. These start to affect the unknowing residents of Hawkins in calamitous ways.
+
+Question: when does stranger things season 1 take place?
+
+Stream of random thoughts: The relevant information to answer the above question is: Stranger Things is set in the fictional rural town of Hawkins, Indiana, during the early 1980s.... The answer is the early 1980s.
+----
+Answer this question please:
+Passage: The 2018 Phillips 66 Big 12 Men's Basketball Tournament was a postseason men's basketball tournament for the Big 12 Conference. It was played from March 7 to 10, in Kansas City, Missouri at the Sprint Center. Kansas defeated West Virginia in the championship game to win the tournament and receive the conference's automatic bid to the NCAA Tournament.
+
+Question: Based on this passage, when does the big 12 men's tournament start?
+
+Stream of random thoughts: The important part for answering this question is: It was played from March 7 to 10, in Kansas City, Missouri at the Sprint Center.... The answer is March 7.
+----
+Answer this question please:
+Passage: Tye Sheridan as Parzival / Wade Watts, a Gunter who wishes to win so he can leave the stacks. Olivia Cooke as Art3mis / Samantha Cook, a well-known Gunter who works with various allies to ensure the OASIS is kept free and out of the hands of IOI. Ben Mendelsohn as Nolan Sorrento, the CEO of Innovative Online Industries who seeks full control over the OASIS. Lena Waithe as Aech / Helen Harris, a Gunter and long-time friend of Wade's who works as a mechanic in the OASIS. T.J. Miller as i-R0k, a freelance dealer and mercenary often employed by IOI. Simon Pegg as Curator / Ogden Morrow, a co-creator of the OASIS, who eventually left the company. He is concerned about how many people have developed an unhealthy dependency on the game. Mark Rylance as Anorak / James Halliday, the deceased co-creator of the OASIS who reveals an Easter Egg hidden in the OASIS after his passing that grants control over the OASIS to its winner. Philip Zhao as Sho / Zhou, a Gunter and one of the "High Five". He is 11 years old in reality. Win Morisaki as Daito / Toshiro, a Gunter and one of the "High Five". Hannah John-Kamen as F'Nale Zandor, IOI's head of operations in the physical world and for their indentured servant programs.
+
+Question: Based on this passage, who is playing artemis in ready player one?
+

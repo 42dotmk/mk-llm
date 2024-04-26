@@ -1,0 +1,21 @@
+Definition: You are given a paragraph, a question and some answer options (associated with "A", "B", "C", "D", etc.) You need to list all the correct answer options with their associated letters (e.g. "A" can be a valid answer). Note that sometimes, more than one option can answer the question correctly and completely. In those cases, please generate all such options separated by a comma (e.g. "A, B" is a valid answer). Do not generate anything else apart from one or more of the following characters: 'A', 'B, 'C', 'D', etc.
+Input: Paragraph- Sent 1: For much of the world, the Algarve is synonymous with Portugal, yet the Portuguese will tell you the exact opposite: the region has little in common with the rest of the country.
+Sent 2: The southern stretch of coast is more reminiscent of a North African landscape than a European one.
+Sent 3: It has no cosmopolitan cities, like Lisbon and Porto, which are farther north.
+Sent 4: Most of Portugal is known for quaint towns, medieval castles, and grand palaces.
+Sent 5: The Algarve is more recognizable for impenetrable blocks of tourist apartments, hotels, and meticulously manicured golf courses.
+Sent 6: And beaches.
+Sent 7: Think Algarve and the mind pictures long, glorious stretches of golden sands, secluded coves framed by odd ochre-colored rock formations, and deep green waters.
+Sent 8: With about 160 km (100 miles) of coastline, Portugal's southern province is one of Europe's premier beach destinations.
+Sent 9: The occasionally chilly ocean is the Atlantic, but the Algarve has a sultry Mediterranean feel.
+Sent 10: Its consistent climate is the best in Portugal, and one of the kindest in the world: more than 250 days of sunshine a year — more than almost any other international resort area.
+Sent 11: The moderating effect of the Gulf Stream produces a fresh springtime breeze throughout winter, and in late January and February, white almond blossoms blanket the fields.
+Sent 12: In summer the heat is intense but rarely unbearable, and regardless, beautiful beaches and innumerable pools are always just a dive away.
+Sent 13: Magnificent year-round weather has made the Algarve a huge destination for sporting vacations.
+Sent 14: Superb golf facilities abound — several with tees dramatically clinging to cliffs and fairways just skirting the edge of the ocean — and horseback riding, tennis, big-game fishing, sailing, and windsurfing are immensely popular.
+Sent 15: Sports, beaches and hospitable weather — not to mention easily organized package vacations — are surely the reasons the Algarve receives as many visitors as the rest of Portugal in its entirety.
+Sent 16: But it's not just international tourists that descend on the Algarve; many Portuguese from Lisbon and elsewhere in the north have holiday homes and spend their summer vacations here.
+Sent 17: The coast is neatly divided into the rugged Barlavento to the west and the flat beauty of Sotavento to the east.
+Sent 18: West is where you'll find the famous orange cliffs and surreal eroded rock stacks. 
+Question: The Algarve has about how many miles of coastline? (A) No coast line (B) 100 (C) 250 (D) 250 km (E) 250 miles (F) 160 km (G) 100 miles.
+Output:

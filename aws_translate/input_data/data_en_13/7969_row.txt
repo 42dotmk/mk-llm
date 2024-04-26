@@ -1,0 +1,206 @@
+Instructions: In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Input: SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Financial Accounting Standards Board 
+Act''.
+
+SEC. 2. DEFINITIONS.
+
+    As used in this Act--
+            (1) FASB.--The term ``FASB'' means the Financial Accounting 
+        Standards Board.
+            (2) Federal regulatory program.--The term ``Federal 
+        regulatory program'' means a program enacted under the 
+        authority of the Commerce Clause of the Constitution and 
+        providing for the regulation of the interstate or foreign 
+        commerce of the United States, or the use of the means or 
+        instrumentalities of such commerce.
+            (3) Person.--The term ``person'' includes corporations, 
+        companies, associations, firms, partnerships, societies, and 
+        joint stock companies, as well as individuals, but does not 
+        include an agency or instrumentality of Federal, State, or 
+        local government.
+
+SEC. 3. STANDARDS AUTHORITATIVE.
+
+    The standards of financial accounting and reporting promulgated by 
+the FASB shall be authoritative for the purpose of determining 
+compliance with generally accepted accounting principles by any person 
+under any Federal regulatory program.
+
+SEC. 4. DUTY OF FASB.
+
+    The duty of the FASB shall be to establish and improve, after 
+independent and impartial deliberation, standards of financial 
+accounting and reporting for any person. To accomplish its duty, the 
+FASB shall act to--
+            (1) improve the usefulness to present and potential 
+        investors, creditors, and other users, of financial reporting 
+        made by firms in interstate commerce focusing on the primary 
+        characteristics of relevance and reliability;
+            (2) keep standards current to reflect changes in methods of 
+        doing business and changes in the economic environment;
+            (3) consider promptly any significant areas of deficiency 
+        in financial reporting that might be improved through the 
+        standard-setting process;
+            (4) promote the international convergence of accounting 
+        standards concurrent with improving the quality of financial 
+        reporting; and
+            (5) improve the common understanding of the nature and 
+        purposes of information contained in financial reports.
+
+SEC. 5. REQUIREMENTS FOR ESTABLISHMENT OF ACCOUNTING STANDARDS.
+
+    (a) General Principles.--In promulgating and revising standards of 
+financial accounting and reporting, the FASB shall follow the following 
+principles:
+            (1) Financial reporting should provide information that is 
+        useful to present and potential investors and creditors and 
+        other users in making rational investment, credit, and similar 
+        decisions. The information should be comprehensible to those 
+        who have a reasonable understanding of business and economic 
+        activities and are willing to study the information with 
+        reasonable diligence.
+            (2) Financial reporting should provide information to help 
+        present and potential investors and creditors and other users 
+        in assessing the amounts, timing, and uncertainty of 
+        prospective cash receipts from dividends or interest and the 
+        proceeds from the sale, redemption, or maturity of the 
+        securities or loans.
+            (3) Financial reporting should provide information about 
+        the economic resources of an enterprise, the claims to those 
+        resources (obligations of the enterprise to transfer resources 
+        to other entities and owners' equity), and the effects of 
+        transactions, events, and circumstances that change resources 
+        and claims to those resources.
+    (b) Operating Objectives.--The FASB shall promote the following 
+objectives in the conduct of its activities:
+            (1) To be objective in its decision making and to ensure, 
+        insofar as possible, the neutrality of information resulting 
+        from its standards. To be neutral, information must report 
+        economic activity as faithfully as possible without coloring 
+        the image it communicates for the purpose of influencing 
+        behavior in any particular direction.
+            (2) To weigh carefully the views of its constituents in 
+        developing concepts and standards. However, the ultimate 
+        determinant of concepts and standards must be the FASB's 
+        judgment, based on research, public input, and careful 
+        deliberation about the usefulness of the resulting information.
+            (3) To bring about needed changes in ways that minimize 
+        disruption to the continuity of reporting practice, including 
+        establishment of reasonable effective dates and transition 
+        provisions when new standards are introduced. Change should be 
+        evolutionary to the extent that it can be accommodated by the 
+        need for relevance, reliability, comparability, and 
+        consistency.
+            (4) To review the effects of past decisions and interpret, 
+        amend, or replace standards in a timely fashion when such 
+        action is indicated.
+    (c) Primary Standard Requiring Adherence to Principles.--
+            (1) Promulgation required.--The FASB shall promulgate a 
+        primary standard requiring the application of the principles 
+        articulated in subsection (a) of this section to financial 
+        accounting and reporting. Except as provided in paragraph (2), 
+        such primary standard shall prohibit the application of any 
+        other standard of financial accounting and reporting 
+        promulgated by the FASB in a manner, or with a result, that 
+        fails to comply with such principles.
+            (2) Deviations explained and justified.--The primary 
+        standard promulgated pursuant to this subsection may allow for 
+        deviation from the application of such principles only if an 
+        explanation and justification for the basis of the deviation is 
+        specifically articulated and made public.
+    (d) Establishment of Additional Standards.--The FASB shall develop 
+additional standards of financial accounting and reporting to address 
+issues relating to--
+            (1) off-balance-sheet accounting practices and standards, 
+        and accounting requirements for special-purpose entities, in a 
+        manner that is based on principles for determining bona fide 
+        economic control; and
+            (2) requirements for marked-to-market accounting, including 
+        consideration of the application of fair value to agreements 
+        involving commitments on the part of an issuer.
+    (e) Additional Projects.--
+            (1) Fair value project.--Within one year after the date of 
+        enactment of this Act, FASB shall complete work on the project 
+        entitled ``Measuring All Financial Assets and Liabilities at 
+        Fair Value''.
+            (2) Revenue and liability recognition proposal.--Within 18 
+        months after the date of enactment of this Act, FASB shall 
+        complete work on the proposal entitled ``Proposal for new 
+        agenda project: Issues relating to the recognition of revenues 
+        and liabilities''.
+
+SEC. 6. PRESERVATION OF AUTHORITY.
+
+    Nothing in this Act shall be construed to limit--
+            (1) the authority of the Securities and Exchange Commission 
+        under the securities laws (as such term is defined in section 
+        3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 
+        78c(a)(47)); or
+            (2) the authority of any other Federal agency under the 
+        laws applicable to a Federal regulatory program administered by 
+        such agency.
+
+SEC. 7. REPORTS.
+
+    (a) FASB Reports.--
+            (1) Annual reports.--The FASB shall transmit annual reports 
+        to the President, the Committee on Energy and Commerce of the 
+        House of Representatives, and the Committee on Banking, 
+        Housing, and Urban Affairs of the Senate.
+            (2) Contents of reports.--Each report transmitted under 
+        this subsection shall include the following:
+                    (A) Assessment of resources.--An assessment by the 
+                FASB of the resources available, and the sufficiency of 
+                those resources, to carry out the purposes and 
+                requirements of this Act.
+                    (B) Evaluation of compliance.--An evaluation by the 
+                FASB of the extent of the compliance of financial 
+                statements with the standards of financial accounting 
+                and reporting promulgated by the FASB and with the 
+                requirements, objectives, and principles of sections 4 
+                and 5.
+                    (C) Progress on unresolved issues.--A statement by 
+                the FASB of the progress made by the FASB in the 
+                resolution of unresolved accounting standards issues.
+                    (D) Progress on treatment of intangible assets.--A 
+                statement of progress made by the FASB in modernizing 
+                and improving the accounting treatment for intellectual 
+                property and other intangible assets.
+            (3) Report on primary principle resolution.--The first 
+        report transmitted under this subsection shall indicate the 
+        resolution by the FASB of the issues identified in section 
+        5(c).
+    (b) GAO Reports.--
+            (1) Annual reports required.--The Comptroller General shall 
+        transmit annual reports to the President, the Committee on 
+        Energy and Commerce of the House of Representatives, and the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate 
+        on the FASB.
+            (2) Contents of reports.--Each report transmitted under 
+        this subsection shall include the following:
+                    (A) Progress on unresolved issues.--An evaluation 
+                of the FASB's progress in resolving unresolved 
+                accounting standards issues, including a description of 
+                such issues, the plans and timetables concerning, and 
+                resources available for, the resolution of such issues, 
+                and the reasons for any delays in resolving such 
+                issues.
+                    (B) Assessment of fasb independence.--An assessment 
+                of the extent to which the FASB has maintained its 
+                independence and objectivity, including an assessment 
+                of any impairment of such independence and objectivity 
+                resulting from the methods by which the FASB obtains 
+                the resources required for its operations.
+                    (C) Evaluation of procedures.--An evaluation of the 
+                procedures followed by the FASB in accounting standard 
+                setting, including the due process accorded to 
+                interested parties, the efficiency of FASB procedures 
+                in resolving issues, and the extent of the compliance 
+                by the FASB with its own procedural requirements.
+    (c) Unresolved Accounting Standards Issues.--For the purposes of 
+this section, the term ``unresolved accounting standards issue'' means 
+the open agenda items of the FASB and the FASB's Emerging Issues Task 
+Force, and any other issues that this Act has added to that agenda.
+Output:

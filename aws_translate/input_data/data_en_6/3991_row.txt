@@ -1,0 +1,27 @@
+Reasoning and answer: Kenneth has 7 x 3 = 21 fish in his aquarium. Matthias has 21 - 15 = 6 fish in his aquarium. In total, the boys have 7 + 21 + 6 = 34 fish.
+The answer: 34
+What was the question?
+Question: Micah has 7 fish in his aquarium. Kenneth has three times as many fish in his aquarium and Matthias has 15 less fish than Kenneth in his aquarium. How many fish do the boys have in total?
+
+During the week she answered 35 on Mon, 46 on Tue, 27 on Wed, 61 on Thurs and 31 on Fri for a total of 35 + 46 + 27 + 61 + 31 = 200 calls. She answered 200 calls over 5 days so on average, she answered 200 / 5 = 40 calls a day.
+The answer: 40
+Reverse engineering the question: Jean is a customer service rep and answered 35 phone calls on Monday. On Tuesday, she answered 46 and took 27 calls on Wednesday. On Thursday she answered 61 calls and finished off answering 31 calls on Friday. What’s the average number of calls she answers per day?
+
+Reasoning and answer: Tara has to make a $1000 x 20 / 100 = $200 down payment. Since Tara wants to pay $20 more for the down payment, her total down payment will be $200 + $20 = $220. So her remaining balance payable over a year is $1000 - $220 = $780. Tara has to make a monthly payment of $780 / year / 12 months / year = $65 / month. The total cost of her payments for 4 months is $65 / month x 4 months = $260. Therefore, Tara's balance after 4 months is $780 - $260 = $520.
+The answer: 520
+What was the question?
+Question: Tara has been planning to buy a laptop which costs $1000. A computer shop accepts payment in installments of $65 per month provided that a 20% down payment is made. If Tara wants to pay an additional $20 for the down payment, how much will her balance be after paying for 4 months?
+
+Jerry has to walk to the sink / recycling bin 28 cans / 4 cans per trip = 7 trips. The round trip takes 10 seconds per way * 2 ways = 20 seconds. Counting the time he spent pouring out the cans and the time the round trip took, he spent 20 seconds per trip + 30 seconds per trip = 50 seconds per trip. With 7 round trips, he spent 50 seconds per trip * 7 trips = 350 seconds.
+The answer: 350
+Reverse engineering the question: Jerry has a bunch of half-empty soda cans on his desk. He needs to drain all of them and put them in the recycling bin. He can carry four cans at once, and it takes him 30 seconds to drain those 4 cans. It takes him ten seconds each way to walk to the sink and recycling bin and then back to his desk. If there are 28 cans on Jerry's desk, how long does it take him to throw all of them away?
+
+Reasoning and answer: Martha has 11 - 5 = 6 blue and yellow butterflies. Martha has 6 / 3 = 2 yellow butterflies. Martha has 2 * 2 = 4 blue butterflies.
+The answer: 4
+What was the question?
+Question: Martha has 11 butterflies in her collection. She has twice as many blue butterflies as yellow butterflies. The rest of her butterflies are black. If Martha has 5 black butterflies, how many blue butterflies does she have?
+
+Reasoning and answer: The second ticket sold will cost $1 + $1 = $2. The third ticket sold will cost $2 + $1 = $3. The fourth ticket sold will cost $3 + $1 = $4. The fifth ticket sold will cost $4 + $1 = $5. The total money collected is $1 + $2 + $3 + $4 + $5 = $15. After taking profit, the total prize money will be $15 - $4 = $11.
+The answer: 11
+What was the question?
+Question:

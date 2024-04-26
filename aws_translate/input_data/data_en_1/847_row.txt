@@ -1,0 +1,25 @@
+She buys a $4.00 latte in the morning for 5 days so that’s 4 * 5 = $20.00. She buys a $2.00 iced coffee 3 days a week so that’s 2 * 3 = $6.00. In one week she spends $20.00 on lattes and $6.00 on iced coffee for a total of 20 + 6 = $26.00. After 1 year, 52 weeks, she spends 52 * 26 = $1,352.00. She wants to cut her coffee spending by 25% so that will save her .25 * 1352 = $338.00.
+The answer: 338
+Reverse engineering the question: Martha buys 1 latte for $4.00 every morning, 5 days a week. 3 days a week, she buys an iced coffee for $2.00. Her goal for the entire year is to cut her coffee spending by 25%. How much will she save?
+
+Reasoning and answer: Every other tree is half the trees, so there will be 18 / 2 = 9 fruit trees planted. The association is planting three kinds of fruit trees, so they will plant 9 / 3 = 3 of each kind of tree.
+The answer: 3
+What was the question?
+Question: A neighborhood association decided to plant a tree on every street. There are eighteen streets in the neighborhood. The association wanted every other tree to be a fruit tree, and they agreed to plant equal numbers of plum, pear, and apricot trees. How many of each kind of tree will they plant?
+
+Hannah found twice as many as Helen, so there are 2 + 1 = 3 units of eggs. There were 63 Easter eggs total and there are 3 units of eggs so 63 / 3 = 21 easter eggs per unit. So if Helen found 21 eggs and Hannah found twice as many, then Hannah found 2 * 21 = 42 Easter eggs.
+The answer: 42
+Reverse engineering the question: There were 63 Easter eggs in the yard. Hannah found twice as many as Helen. How many Easter eggs did Hannah find?
+
+Reasoning and answer: First, subtract the two tourists the anacondas got from the initial 30 tourists: 30 - 2 = 28. Next, divide 28 by two to find out how many tourists got poisoned: 28 / 2 = 14. Now figure out how many of the 14 poisoned tourists recovered: 14 / 7 = 2. The total number of surviving tourists is 14 + 2 = 16.
+The answer: 16
+What was the question?
+Question: A group of 30 tourists sets out on a walking tour of the rainforest. Two tourists are eaten by anacondas, then half the remaining tourists try to pet poisonous dart frogs and get poisoned. If only 1/7 of the poisoned tourists recovered, how many tourists are left at the end of the tour?
+
+First find the cost per member of the hardcover books: $30 / book * 6 books = $180. Then find the cost per member of the paperback books: $12 / book * 6 books = $72. Then find the total cost per member: $180 + $72 + $150 = $402 / member. Now find the total amount of money by multiplying the cost per member by the number of members: $402 / member * 6 members = $2412.
+The answer: 2412
+Reverse engineering the question: Niles is collecting his book club's annual fees. Each of the six members pays $150/year towards snacks, plus $30 each for six hardcover books and $12 each for six paperback books. How much money does Niles collect in total?
+
+The cost of the ice cream is 10 × $4 = $40. The cost of the frozen yoghurt is 4 × $1 = $4. Caleb spent $40 − $4 = $36 more on ice cream than on frozen yogurt.
+The answer: 36
+Reverse engineering the question:

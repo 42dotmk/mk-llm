@@ -1,0 +1,60 @@
+To solve this problem, you need to follow these steps:
+
+Step 1: Create an empty list to store the integers that fulfill the requirement.
+
+Step 2: Iterate over each element in the input list. 
+
+Step 3: In each iteration, convert the integer to a string to process its digits.
+
+Step 4: Check if the first character and the last character of the string are the same. In case of negative numbers, start comparison from the second character (the first after the sign "-"), as the first character of the string would be "-" in that case. 
+
+Step 5: If the condition fulfilled, add the integer (not the string) to the corresponding list.
+
+Step 6: Return the list. If no integers fulfilled the condition, the list would remain empty, and thus, it should be returned as it is.
+
+Let's apply these steps now:
+
+Input: [379, -828, 128, -739, -676, -683, 747, -579, 44, -937, -203, -612, 743, 268, 693, 243]
+Output:
+
+Step 1: Create an empty list: result = []
+
+Step 2: Iterate over each integer in the input list.
+
+Checking each number:
+
+379: the first digit is 3 and the last digit is 9. They are not the same, so we skip this number.
+
+-828: the first digit is 8 (we ignore the negative sign) and the last digit is also 8. They are the same, so we add this number to the "result" list: result = [-828].
+
+128: the first digit is 1 and the last digit is 8. They are not the same, so we skip this number.
+
+-739: the first digit is 7 (we ignore the negative sign) and the last digit is 9. They are not the same, so we skip this number.
+
+-676: the first digit is 6 (we ignore the negative sign) and the last digit is also 6. They are the same, so we add this number to the "result" list: result = [-828, -676].
+
+-683: the first digit is 6 (we ignore the negative sign) and the last digit is 3. They are not the same, so we skip this number.
+
+747: the first digit is 7 and the last digit is also 7. They are the same, so we add this number to the "result" list: result = [-828, -676, 747].
+
+-579: the first digit is 5 (we ignore the negative sign) and the last digit is 9. They are not the same, so we skip this number.
+
+44: the first digit is 4 and the last digit is also 4. They are the same, so we add this number to the "result" list: result = [-828, -676, 747, 44].
+
+-937: the first digit is 9 (we ignore the negative sign) and the last digit is 7. They are not the same, so we skip this number.
+
+-203: the first digit is 2 (we ignore the negative sign) and the last digit is 3. They are not the same, so we skip this number.
+
+-612: the first digit is 6 (we ignore the negative sign) and the last digit is 2. They are not the same, so we skip this number.
+
+743: the first digit is 7 and the last digit is 3. They are not the same, so we skip this number.
+
+268: the first digit is 2 and the last digit is 8. They are not the same, so we skip this number.
+
+693: the first digit is 6 and the last digit is 3. They are not the same, so we skip this number.
+
+243: the first digit is 2 and the last digit is 3. They are not the same, so we skip this number.
+
+Step 6: Return the "result" list.
+
+So the final solution is [-828, -676, 747, 44].

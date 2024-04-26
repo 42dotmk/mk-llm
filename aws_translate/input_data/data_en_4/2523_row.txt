@@ -1,0 +1,22 @@
+Student A:Taylor Schilling (born July 27, 1984) is an American actress. She is known for her role as Piper Chapman on the Netflix original comedy-drama series Orange Is the New Black (2013 -- present), for which she received a nomination for the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series and two Golden Globe Award nominations for Best Actress -- Television Series Musical or Comedy and Best Actress -- Television Series Drama. She made her film debut in the 2007 drama Dark Matter. Schilling also starred in the short-lived NBC medical drama Mercy (2009 -- 10). Her other films include Atlas Shrugged: Part I (2011), the romantic drama The Lucky One (2012), the comedy Take Me (2017) and the science fiction thriller The Titan (2018).
+
+Orange is the new black who plays piper?
+Student B:OK... The relevant sentence in the passage is: She is known for her role as Piper Chapman on the Netflix original comedy-drama series Orange Is the New Black (2013 -- present), for which she received a nomination for the Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series and two Golden Globe Award nominations for Best Actress -- Television Series Musical or Comedy and Best Actress -- Television Series Drama.
+Taylor Schilling.
+
+Student A:Context: Washington State implemented their Running Start program in 1993. Following Washington State was New Hampshire in 1999, Montana in 2001, Hawaii in 2007, and Illinois in 2012. Running Start and Dual Enrollment Programs across the United States have seen a huge increase in enrollment. Washington State has seen a 56 percent increase in enrollment in the past ten years and had over 26,000 students enrolled in the 2016-2017 school year. Across the United States there are an estimated 2 million high school students enrolled in a dual enrollment program.
+
+Question: when did running start begin in washington state?
+Student B:OK... The relevant information to answer the above question is: Washington State implemented their Running Start program in 1993.
+1993.
+
+Student A:Passage: Tell Me a Story is an upcoming American psychological thriller web television series, based on the Mexican television series Érase una vez created by Marcos Osorio Vidal, that is set to premiere on October 31, 2018, on CBS All Access. The series was developed for American audiences by Kevin Williamson and stars Billy Magnussen, Kim Cattrall, Danielle Campbell, Paul Wesley, James Wolk, Dania Ramirez, Sam Jaeger, Davi Santos, Zabryna Guevara, and Dorian Missick.
+
+Question: Based on this passage, when does tell me a story air on cbs?
+Student B:OK... To answer the above question, the relevant sentence is: Tell Me a Story is an upcoming American psychological thriller web television series, based on the Mexican television series Érase una vez created by Marcos Osorio Vidal, that is set to premiere on October 31, 2018, on CBS All Access.
+October 31 , 2018.
+
+Student A:Context: Starting in 2004, the chain began offering "Hot-N-Ready", a large pepperoni pizza sold for $5. The concept was successful enough to become a permanent fixture of the chain, and Little Caesars' business model has shifted to focus more on carryout.
+
+Question: when did little caesars start hot n ready?
+Student B:

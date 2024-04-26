@@ -1,0 +1,25 @@
+One lap corresponds to the perimeter of a rectangle of 100 m length and 50 m width: 2 * 100 + 2 * 50 = 300 metres. Each player has to do six turns of the field, so runs 6 * 300 = 1800 meters.
+The answer: 1800
+Reverse engineering the question: The coach of a football team asked his players to do six laps of the field. The field is in the shape of a rectangle of length 100 m and width 50 m. What is the distance each player will run, in meters?
+
+Reasoning and answer: There are twice as many frogs as dogs in the compound, meaning there are 160 / 2 = 80 dogs. The total number of frogs and dogs in the compound is 80 + 160 = 240. The number of cats is less than 20% of the number of dogs, which means there are 20 / 100 * 80 = 16 dogs more than the number of cats. Therefore, the number of cats is 80 - 16 = 64 cats. The total number of animals in the compound is 64 cats + 240 dogs and frogs = 304 animals.
+The answer: 304
+What was the question?
+Question: In a compound, the number of cats is 20% less than the number of dogs. There are also twice as many frogs as the number of dogs in the compound. Calculate the total number of animals present in the compound if there are 160 frogs.
+
+The bus traveled 55 + 10 = 65 miles going back to the starting point. So, the bus traveled a total of 55 + 65 = 120 miles. It took 120 x 2 = 240 minutes to travel. Since there are 60 minutes in 1 hour, then the bus traveled for 240 / 60 = 4 hours. Therefore, the entire tour took 4 + 2 = 6 hours.
+The answer: 6
+Reverse engineering the question: Manex is a tour bus driver. He has to drive 55 miles to the destination and drive going back to the starting point on a different way that is 10 miles farther. If he can drive 1 mile for 2 minutes and stayed 2 hours at the destination, how long will it take the bus driver to do the entire tour in hours?
+
+Reasoning and answer: When her allowance is $5 a week, Francie gets a total of $5 * 8 = $40. When her allowance is $6 a week, Francie gets a total of $6 * 6 = $36. The total amount of money Francie gets is $40 + $36 = $76. After purchasing new clothes, she has $76 / 2 = $38 remaining. After buying the video game, Francie has $38 - $35 = $3 remaining.
+The answer: 3
+What was the question?
+Question: Francie saves up her allowance for several weeks. She receives an allowance of $5 a week for 8 weeks. Then her dad raises her allowance, and she receives $6 a week for 6 weeks. Francie uses half of the money to buy new clothes. With the remaining money, she buys a video game that costs $35. How much money does Francie have remaining after buying the video game?
+
+1 minute is 60 seconds, so 4 minutes is 4 * 60 = 240 seconds. During this time there would be 240 / 20 = 12 big crashes. And also 240 / 10 = 24 car collisions. So in total during 4 minutes there would be 12 + 24 = 36 accidents.
+The answer: 36
+Reverse engineering the question: Every 10 seconds, there is a car collision, and every 20 seconds there is a big crash. How many accidents overall will happen in 4 minutes?
+
+Frank has $7 in one dollar bills because 7 x 1 = 7. Frank has $20 in five dollar bills because 4 x 5 = 20. Frank has $20 in ten dollar bills because 2 x 10 = 20. Frank has 67 dollars in total because 7 + 20 + 20 + 20 = 67. Frank spent $63 because 67 - 4 = 63. Frank bought 21 pounds of peanuts because 63 / 3 = 21. He eats 3 pounds a day on average because 21 / 7 = 3.
+The answer: 3
+Reverse engineering the question:

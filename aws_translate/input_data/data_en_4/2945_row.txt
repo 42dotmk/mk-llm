@@ -1,0 +1,25 @@
+q... Fusion reactions create the light elements that power the stars and produce virtually all elements in a process called nucleosynthesis. The Sun is a main-sequence star, and thus generates its energy by nuclear fusion of hydrogen nuclei into helium. In its core, the Sun fuses 610 million metric tons of hydrogen each second and gives helium 606 million metric tons. The fusion of lighter elements in stars releases energy and the mass that always accompanies it. For example, in the fusion of two hydrogen nuclei to form helium, 0.7 % of the mass is carried away from the system in the form of kinetic energy of an alpha particle or other forms of energy, such as electromagnetic radiation.
+
+Answer this question based on the passage: energy released by the sun is a result of?
+a... The relevant information is: Fusion reactions create the light elements that power the stars and produce virtually all elements in a process called nucleosynthesis. The Sun is a main-sequence star, and thus generates its energy by nuclear fusion of hydrogen nuclei into helium.
+The answer is nuclear fusion of hydrogen nuclei into helium
+
+
+q... Rachel Lindsay Rene Bush and Sidney Robyn Danae Bush (born May 25, 1970, Los Angeles) are former child actresses, best known for their combined (alternating) role as Carrie Ingalls, in the drama series Little House on the Prairie. They are identical twin sisters, born to actor Billy "Green" Bush and Carole Kay Bush. Their older brother, Clay, is also an actor. Their shared character's younger sister Grace Ingalls was played by Wendi and Brenda Turnbaugh.
+
+Based on this passage, who played baby carrie on little house on the prairie?
+a... To answer the question, consider the following: Rachel Lindsay Rene Bush and Sidney Robyn Danae Bush (born May 25, 1970, Los Angeles) are former child actresses, best known for their combined (alternating) role as Carrie Ingalls, in the drama series Little House on the Prairie.
+The answer is Rachel Lindsay Rene Bush and Sidney Robyn Danae Bush
+
+
+q... Context: Wayne Gretzky scored his 50th goal in his 39th game in 1981 -- 82, the fastest any player has done so. He also shares the record for most 50-goal seasons with Mike Bossy, each having reached the milestone nine times in their careers. A record fourteen players exceeded 50 goals in 1992 -- 93, after which offence declined across the league, and with it the number of players to reach the total. For the first time in 29 years, no player scored 50 goals in 1998 -- 99. Ninety-one unique players have scored 50 goals in any one NHL season, doing so a combined 186 times.
+
+Question: how many nhl players have scored 50 goals in a season?
+a... To answer this question, we should know that: Ninety-one unique players have scored 50 goals in any one NHL season, doing so a combined 186 times.
+The answer is Ninety - one
+
+
+q... "The Farm" is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall. It originally aired on NBC on March 14, 2013. The episode guest stars Matt Jones as Dwight's cousin Zeke, Majandra Delfino as Dwight's sister Fannie, Blake Garrett Rosenthal as his nephew, and Thomas Middleditch as his brother.
+
+Based on this passage, who plays dwight's brother on the office?
+a...

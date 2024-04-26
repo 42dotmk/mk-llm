@@ -1,0 +1,25 @@
+If he uses 6 cups of flour, the baker will be making 6 / 2 = 3 times the normal amount that the recipe describes. Thus, he must use 3 * 3 = 9 eggs.
+The answer: 9
+Reverse engineering the question: A baker is making bread according to a recipe that requires him to use 3 eggs for every 2 cups of flour. If the baker wants to use up the 6 cups of flour he has remaining in his pantry, how many eggs will he need to use?
+
+Reasoning and answer: On Monday, she spends 4 poodles * 2 hours = 8 hours walking poodles. On Monday, she spends 2 Chihuahuas * 1 hour = 2 hours walking Chihuahuas. On Tuesday, she spends 2 Chihuahuas * 1 hour = 2 hours walking Chihuahuas. On Wednesday, she spends 4 Labradors * 3 hours = 12 hours walking Labradors. Over the week, this is a total of 8 + 2 + 2 + 12 = 24 hours spent dog - walking. This means she still has 32 maximum hours – 24 used hours = 8 hours available for dog - walking. Therefore, she can walk 8 hours / 2 hours per poodle = 4 poodles on Tuesday.
+The answer: 4
+What was the question?
+Question: Charlotte is a dog walker and is creating a schedule for all of her clients this week. Each dog is walked separately. On Monday, she needs to walk 4 poodles and 2 Chihuahuas. On Tuesday, she walks the same amount of Chihuahuas but isn't sure how many poodles she should walk. On Wednesday, she walks 4 Labradors. It takes 2 hours to walk a poodle, 1 hour to walk a Chihuahua, and 3 hours to walk a Labrador. If she has time for a total of 32 hours spent in dog-walking this week, how many poodles can Charlotte walk on Tuesday?
+
+He sold 10 + 12 + 9 = 31 bicycles. He bought 15 + 8 + 11 = 34 bicycles. He now has 34 - 31 = 3 more than at Friday's opening.
+The answer: 3
+Reverse engineering the question: On Friday, Hank opened his used-bicycle store with a stock of bicycles, all fixed-up and ready to ride. Over the course of the day, he sold 10 bicycles and bought an additional 15 to fix up. On Saturday, he sold 12 bicycles and bought 8 more. And on Sunday, he sold 9 bicycles and bought 11 more. What was the net increase in the number of bicycles in stock in Hank's store over the three days?
+
+Reasoning and answer: In 2 minutes, 12 liters of water flow into the bathtub and 2 liters (2 minutes x 1 liter / minute ) escape. This will leave 12 – 2 = 10 liters of water every two minutes. We can divide the number of liters by the number of minutes to find the average flow per minute, which is 10 / 2 = 5 liters per minute. To fill the tub, it will take 120 liters / 5 liters / min = 24 min.
+The answer: 24
+What was the question?
+Question: Robi Ney wants to fill a 120-liter tub. He is amused by letting the water run for 1 minute, then closing the water supply for 1 minute, and so on alternating opening and closing the water supply. But the cap at the bottom of the tub is not very airtight and lets 1 liter of water escape per minute. The flow rate of the tap is 12 liters per minute. How long does it take to fill the tub in minutes?
+
+His sister is 10 * 2 = 20 years old. Their age difference is 20 - 10 = 10 years. Therefore when he is 50 she will be 50 + 10 = 60 years old.
+The answer: 60
+Reverse engineering the question: John is 10 years old. His sister is twice his age. When he is 50 years old, how old will his sister be?
+
+Rory has 30 more jellybeans than Gigi who has 15 so Rory has 30 + 15 = 45 jellybeans. Rory has 45 jellybeans and Gigi has 15 so that's 45 + 15 = 60 jellybeans total. Lorelai has eaten three times the amount of jellybeans that both girls have so she has eaten 3 * 60 = 180 jellybeans.
+The answer: 180
+Reverse engineering the question:

@@ -1,0 +1,36 @@
+Answer: November 10 , 2017. Now, what could be the question and solution-maybe?
+Ques: The 2017 -- 18 NCAA Division I men's basketball season will begin on November 10, 2017 The first tournament will be the 2K Sports Classic and the season will end with the Final Four in San Antonio on April 2, 2018. Practices officially began on September 29, 2017.
+
+Answer this question based on the passage: when does the 2017 college basketball season start?
+CoT: This is the relevant information: The 2017 -- 18 NCAA Division I men's basketball season will begin on November 10, 2017 The first tournament will be the 2K Sports Classic and the season will end with the Final Four in San Antonio on April 2, 2018.
+
+
+Ans: Billy Stewart
+Ques: "I Do Love You" is a song written and performed by Billy Stewart. It reached # 6 on the U.S. R&B chart and # 26 on the Billboard Hot 100 in 1965. The song was featured on his 1965 album, I Do Love You.
+
+Answer this question: who sings the oldie song i do love you?
+CoT: To answer the above question, the relevant sentence is: "I Do Love You" is a song written and performed by Billy Stewart.
+
+
+Ans: James Cooper , an orphaned boy who , along with his sister , is adopted by the Ingalls family
+Ques: Passage: Bateman first appeared in a cereal commercial for Golden Grahams in 1980 and began his television career on Little House on the Prairie as James Cooper, an orphaned boy who, along with his sister, is adopted by the Ingalls family. From 1982 to 1984, he was a supporting character on the television show Silver Spoons as Ricky Schroder's "bad boy" best friend Derek Taylor. He appeared in the Knight Rider third-season episode "Lost Knight" in 1984, and a number of other small television roles. In 1984, in response to his popularity on Silver Spoons, the show's producers gave Bateman his own starring role as Matthew Burton on the NBC sitcom It's Your Move, from September 1984 to February 1985. In 1987, he appeared with Burt Reynolds on the men's team in the inaugural week of game show Win, Lose or Draw.
+
+Question: Based on this passage, who did jason bateman play in the little house on the prairie?
+CoT: The relevant information is: Bateman first appeared in a cereal commercial for Golden Grahams in 1980 and began his television career on Little House on the Prairie as James Cooper, an orphaned boy who, along with his sister, is adopted by the Ingalls family.
+
+
+Answer: English / Scottish patronymic surname from the medieval masculine given name ' Simme '. Now, what could be the question and solution-maybe?
+Ques: Simpson is an English / Scottish patronymic surname from the medieval masculine given name' Simme'. The earliest public record of the name was in 1353 in Staffordshire, West Midlands region of England.
+
+Answer this question: where does the last name simpson come from?
+CoT: To answer the above question, the relevant sentence is: Simpson is an English / Scottish patronymic surname from the medieval masculine given name' Simme'.
+
+
+Ans: Master of Surgery
+Ques: The Master of Surgery (Latin: Magister Chirurgiae) is an advanced qualification in surgery. Depending upon the degree, it may be abbreviated Ch. M., M.Ch., M. Chir. or M.S. At a typical medical school the program lasts between two and three years. The possession of a medical degree is a prerequisite. The Ch. M. can be awarded on both clinical and academic competency or on academic competency. The regulations may ask for surgical experience and a thesis topic that is not purely medical.
+
+Answer this question based on the passage: what is the full form of ms in medical?
+CoT: To answer the above question, the relevant sentence is: Depending upon the degree, it may be abbreviated Ch. M., M.Ch., M. Chir. or M.S.
+
+
+Ans: 2011

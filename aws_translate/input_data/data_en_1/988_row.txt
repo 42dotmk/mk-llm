@@ -1,0 +1,27 @@
+Reasoning and answer: If James bought 400 fish, the number of fish that were bad is 20 / 100 * 400 = 80. The remaining fish that he used to make the sushi rolls is 400 - 80 = 320. If 40 fish are required to make one sushi roll, 320 fish will make 320 / 40 = 8 sushi rolls.
+The answer: 8
+What was the question?
+Question: James needs 40 fish to make one sushi roll. He goes to the market and buys 400 fish, but later finds out that 20% of the fish have gone bad and cannot be used. How many sushi rolls did James make with the remaining fish?
+
+One serving = 1 + 2.5 = 3.5 cups. Eight servings = 8 * 3.5 = 28 cups. 28 cups = 14 pints. Eight servings would need 14 pints of vegetables and broth.
+The answer: 14
+Reverse engineering the question: One serving of soup has 1 cup of vegetables and 2.5 cups of broth. How many pints of vegetables and broth combined would be needed for 8 servings?
+
+Reasoning and answer: The finance charge amounts to $150 x 2 / 100 = $3. Thus, Mr. Smith will pay a total of $150 + $3 = $153.
+The answer: 153
+What was the question?
+Question: Mr. Smith has incurred a 2% finance charge because he was not able to pay on time for his balance worth $150. If he plans to settle his balance today, how much will Mr. Smith pay?
+
+Two hamburger cost 2 x $2 = $4. So, Andy spent $1 + $4 = $5. Therefore, Bob's fruit drink cost $5 - $3 = $2.
+The answer: 2
+Reverse engineering the question: Andy and Bob went to the canteen to buy snacks. They spent the same amount. Andy bought a can of soda at $1 and two hamburgers at $2 each. Bob ordered two sandwiches for $3 and a can of fruit drink. How much did Bob's fruit drink cost?
+
+Reasoning and answer: First, find how many servings one corn plant produces by multiplying the number of carrot servings by 5: 4 servings * 5 = 20 servings. Then find how many servings one green bean plant produces by dividing the number of corn servings by two: 20 servings / 2 = 10 servings. Now multiply the number of servings per carrot plant by the number of carrot plants: 4 servings / plant * 9 plants = 36 servings. Do the same for corn: 20 servings / plant * 9 plants = 180 servings. And do the same for green beans: 10 servings / plant * 9 plants = 90 servings. Now add up the servings for all three types of plant: 36 servings + 180 servings + 90 servings = 306 servings.
+The answer: 306
+What was the question?
+Question: Jimmy is setting up a garden. He has three plots: one plot for green beans, one plot for carrots, and one plot for corn. Each corn plant produces 5 times as many servings of veggies as each carrot, and each green bean plant produces half as many servings as each corn plant. If each carrot produces 4 servings of vegetables, and each plot has 9 plants, how many servings of vegetables is Jimmy growing?
+
+Reasoning and answer: There are 80 / 100 * 10 = 8 more purple flowers than yellow flowers. So in Mark's garden, there are 10 + 8 = 18 purple flowers. Purple and yellow flowers sum up to 10 + 18 = 28 flowers. That means in Mark's garden there are 25 / 100 * 28 = 7 green flowers. So in total Mark has 28 + 7 = 35 plants in his garden.
+The answer: 35
+What was the question?
+Question:

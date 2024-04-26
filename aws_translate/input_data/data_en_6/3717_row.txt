@@ -1,0 +1,19 @@
+Q: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+
+Answer this question based on the passage: when was the last time a total eclipse happened?
+A: August 21 , 2017. How to explain the answer? The relevant information is: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+
+Q: Election Commission of India's Model Code of Conduct is a set of guidelines issued by the Election Commission of India for conduct of political parties and candidates during elections mainly with respect to speeches, polling day, polling booths, election manifestos, processions and general conduct. These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections. Much of it is designed to avert communal clashes and corrupt practices. For example, politicians should not make hate speeches, putting one community against another or make promises about new projects that may sway a voter.
+
+When does model code of conduct come into force?
+A: immediately on announcement of the election schedule by the commission. How to explain the answer? The relevant sentence in the passage is: These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections.
+
+Q: Passage: Pearl Harbor is a lagoon harbor on the island of Oahu, Hawaii, west of Honolulu. It has been long visited by the Naval fleet of the United States, before it was acquired from the Hawaiian Kingdom by the U.S. with the signing of the Reciprocity Treaty of 1875. Much of the harbor and surrounding lands is now a United States Navy deep-water naval base. It is also the headquarters of the United States Pacific Fleet. The U.S. government first obtained exclusive use of the inlet and the right to maintain a repair and coaling station for ships here in 1887. The attack on Pearl Harbor by the Empire of Japan on December 7, 1941, was the immediate cause of the United States' entry into World War II.
+
+Question: Based on this passage, where is pearl harbor located on a map?
+A: on the island of Oahu , Hawaii , west of Honolulu. How to explain the answer? The important part for answering this question is: Pearl Harbor is a lagoon harbor on the island of Oahu, Hawaii, west of Honolulu.
+
+Q: Passage: The Zookeeper's Wife is a non-fiction book written by the poet and naturalist Diane Ackerman. Drawing on the unpublished diary of Antonina Żabiński's, it recounts the true story of how Antonina and her husband, Jan Żabiński, director of the Warsaw Zoo, saved the lives of 300 Jews who had been imprisoned in the Warsaw Ghetto following the German invasion of Poland on September 1, 1939. The book was first published in 2007 by W.W. Norton.
+
+Question: Based on this passage, who wrote the book the zookeeper's wife?
+A:

@@ -1,0 +1,25 @@
+q... Context: Winters is the daughter of supermodel-turned-executive Drucilla Winters (Victoria Rowell) born in the midst of a questioned paternity storyline, with Neil Winters (Kristoff St. John) believing he was her father. Eleven years later, the storyline was readdressed with the revelation that Malcolm Winters (Shemar Moore) is her biological father. Lily later began a relationship with Daniel Romalotti (Michael Graziadei), a romance inspired by Romeo and Juliet. The couple were popular with viewers, who were saddened at their separation (because of Daniel's addiction to pornography).
+
+Question: who is lily's mother on the young and the restless?
+a... To answer this question, we should know that: Winters is the daughter of supermodel-turned-executive Drucilla Winters (Victoria Rowell) born in the midst of a questioned paternity storyline, with Neil Winters (Kristoff St. John) believing he was her father.
+The answer is supermodel - turned - executive Drucilla Winters ( Victoria Rowell )
+
+
+q... "Paradise by the Dashboard Light" is a song written by Jim Steinman. It was first released in 1977 on the album Bat Out of Hell, with vocals by the American musician Meat Loaf alongside Ellen Foley. The song is most notable for its unique structure and length, and has become a staple of classic rock radio. Entitled "Let Me Sleep on It," the song was also recorded by Brotherhood of Man. (1)
+
+Who sang on paradise by the dashboard light?
+a... To answer the question, consider the following: It was first released in 1977 on the album Bat Out of Hell, with vocals by the American musician Meat Loaf alongside Ellen Foley.
+The answer is Meat Loaf alongside Ellen Foley
+
+
+q... Context: The Cambrian Period (/ ˈkæmbriən / or / ˈkeɪmbriən /) was the first geological period of the Paleozoic Era, of the Phanerozoic Eon. The Cambrian lasted 55.6 million years from the end of the preceding Ediacaran Period 541 million years ago (mya) to the beginning of the Ordovician Period 485.4 mya. Its subdivisions, and its base, are somewhat in flux. The period was established (as "Cambrian series") by Adam Sedgwick, who named it after Cambria, the Latinised form of Cymru, the Welsh name for Wales, where Britain's Cambrian rocks are best exposed. The Cambrian is unique in its unusually high proportion of lagerstätte sedimentary deposits, sites of exceptional preservation where "soft" parts of organisms are preserved as well as their more resistant shells. As a result, our understanding of the Cambrian biology surpasses that of some later periods.
+
+Question: where did the cambrian period get its name from?
+a... The relevant sentence in the passage is: The period was established (as "Cambrian series") by Adam Sedgwick, who named it after Cambria, the Latinised form of Cymru, the Welsh name for Wales, where Britain's Cambrian rocks are best exposed.
+The answer is Adam Sedgwick , who named it after Cambria , the Latinised form of Cymru , the Welsh name for Wales , where Britain 's Cambrian rocks are best exposed
+
+
+q... Journey to the Center of the Earth (French: Voyage au centre de la Terre, also translated under the titles A Journey to the Centre of the Earth and A Journey to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne. The story involves German professor Otto Lidenbrock who believes there are volcanic tubes going toward the centre of the Earth. He, his nephew Axel, and their guide Hans descend into the Icelandic volcano Snæfellsjökull, encountering many adventures, including prehistoric animals and natural hazards, before eventually coming to the surface again in southern Italy, at the Stromboli volcano.
+
+Answer this question: when was journey to the center of the earth written?
+a...

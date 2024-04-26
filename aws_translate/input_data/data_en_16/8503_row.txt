@@ -1,0 +1,80 @@
+Here is a news article: China is building massive databases of Americans’ personal information by hacking government agencies and U.S. health-care companies, using a high-tech tactic to achieve an age-old goal of espionage: recruiting spies or gaining more information on an adversary, U.S. officials and analysts say. 
+  
+ Groups of hackers working for the Chinese government have compromised the networks of the Office of Personnel Management, which holds data on millions of current and former federal employees, as well as the health insurance giant Anthem, among other targets, the officials and researchers said. 
+  
+ “They’re definitely going after quite a bit of personnel information,” said Rich Barger, chief intelligence officer of ThreatConnect, a Northern Virginia cybersecurity firm. “We suspect they’re using it to understand more about who to target [for espionage], whether electronically or via human ­recruitment.” 
+  
+ [How the Internet became so vulnerable] 
+  
+ The targeting of large-scale data­bases is a relatively new tactic and is used by the Chinese government to further its ­intelligence-gathering, the officials and analysts say. It is government espionage, not commercial espionage, they say. 
+  
+ China hacked into the federal government’s network, compromising four million current and former employees' information. The Post's Ellen Nakashima talks about what kind of national security risk this poses and why China wants this information. (Alice Li/The Washington Post) 
+  
+ “This is part of their strategic goal — to increase their intelligence collection via big-data theft and big-data aggregation,” said a U.S. government official who, like others, spoke on the condition of anonymity to discuss a sensitive topic. “It’s part of a strategic plan.” 
+  
+ One hack of OPM, which was disclosed by the government Thursday, dates at least to December, officials said. Earlier last year, OPM discovered a separate intrusion into a highly sensitive database that contains information on employees seeking or renewing security clearances and on their background investigations. 
+  
+ Once harvested, the data can be used to glean details about key government personnel and potential spy recruits, or to gain information useful for counter­intelligence. Records in OPM’s database of background investigations, for instance, could contain a complete history of where an individual has lived and all of his or her foreign contacts in, say, China. “So now the Chinese counterintelligence authorities know which American officials are meeting with which Chinese,” a China cyber and intelligence expert said. 
+  
+ The data could help Chinese analysts do more effective targeting of individuals, said a former National Security Agency official. “They can find specific individuals they want to go after, family members,” he said. 
+  
+ The trend has emerged and accelerated over the past 12 to 18 months, the official said. An increase in Chinese capability has opened the way “for bigger data storage, for bigger data theft,” he said. “And when you can gain it in bulk, you take it in bulk.” 
+  
+ The Chinese government, he said, is making use of Chinese companies that specialize in aggregating large sets of data “to help them in sifting through” the information for useful details. “The analogy would be one of our intelligence organizations using Google, Yahoo, Accenture to aggregate data that we collected.” 
+  
+ China on Friday dismissed the allegation of hacking as “irresponsible and unscientific.” 
+  
+ Chinese Foreign Ministry spokesman Hong Lei said Beijing wanted to cooperate with other nations to build a peaceful and secure cyberspace. 
+  
+ “We wish the United States would not be full of suspicions, catching wind and shadows, but rather have a larger measure of trust and cooperation,” he told a regular news briefing, 
+  
+ OPM disclosed that the latest hack of one of its systems exposed personal data of up to 4 million current and former employees — the largest hack of federal employee data in recent years. 
+  
+ It is possible that officials as senior as Cabinet secretaries had their data exposed, a congressional aide said on a briefing call with government officials Friday. 
+  
+ U.S. officials privately said China was behind it. The stolen information included Social Security numbers and performance evaluations. 
+  
+ [What to do if you are a federal worker] 
+  
+ “This is an intelligence operation designed to help the Chinese government,” the China expert said. “It’s a new phase in an evolution of what they’re doing. It certainly requires greater sophistication on their part in terms of being able to take out this much data.” 
+  
+ Barger’s firm has turned up technical evidence that the same Chinese group is behind the hacks of Premera Blue Cross and Empire BlueCross, which were discovered at roughly the same time earlier this year. 
+  
+ The first OPM incident has been linked to the health-care hacks by Barger and another security researcher, John Hultquist, senior manager for cyberespionage threat intelligence at iSight Partners. Hultquist said the same group is responsible for all of them, and for other intrusions into commercial databases containing large sets of Americans’ personal information. 
+  
+ “They would leverage this data to get to diplomatic, political, military and economic intelligence that they typically target,” said Hultquist, who declined to comment on who was behind the attacks. 
+  
+ Though much Chinese cyber­espionage is attributed to the People’s Liberation Army, these hacks, Barger said, appeared to be linked to the Ministry of State Security, which is a spy agency responsible for foreign espionage and domestic counterintelligence. 
+  
+ Other Chinese entities, including the military, may also be involved in the campaign, analysts said. 
+  
+ Chinese government hackers “are like a vacuum cleaner” in sucking up information electronically, said Robert “Bear” Bryant, a former top counterespionage official in the government. “They’re becoming much more sophisticated in tying it all together. And they’re trying to harm us.” 
+  
+ [Why the Internet’s massive flaws never get fixed] 
+  
+ Security researchers have pointed to a cyber tool or family of malicious software called Derusbi that has been linked exclusively to Chinese actors. One group that has used Derusbi is Deep Panda, a name coined by the firm CrowdStrike, which has linked that group to the Anthem hack. 
+  
+ Disclosed in February, that incident exposed the Social Security numbers, addresses, phone numbers, e-mail addresses and member IDs of tens of millions of customers. No medical data such as diagnosis or treatment information was compromised, the company said. 
+  
+ Researchers note that in contrast to the hacks of Home Depot and Target, personal data that might have been stolen from OPM, Anthem and the other companies has not shown up on the black market, where it can be sold to identity thieves. That is another sign, they said, that the intrusions are not being made for commercial purposes. 
+  
+ “Usually if there’s a criminally or financially motivated breach like that, we see the data making its way into the black market soon after that,” Barger said. 
+  
+ The big-data approach being taken by the Chinese might seem to mirror techniques used abroad by the NSA, which has come under scrutiny for its data-gathering practices under executive authority. But in China, the authorities do not tolerate public debate over the proper limits of large-scale spying in the digital age. 
+  
+ “This is what all intelligence services do if they’re good,” said the China cyber expert. “If you want to find a needle, first you have to gather a haystack of needles.” 
+  
+ The massive data harvesting “reflects a maturity in Chinese” electronic intelligence gathering, the expert said. “You have to put in place structured data repositories. You have to have big-data management tools to be able to store and sift and analyze.” 
+  
+ Barger said that “with a large pool of data, they can prioritize who is the best to target electronically and who is the best to target via human recruitment.” 
+  
+ The U.S. official noted that the Chinese “would not take [the data] if they did not have the opportunity to aggregate it.” And, he added, “they are taking it.” 
+  
+ Simon Denyer in Beijing contributed to this report. ||||| The U.S. suspects that Chinese hackers stole the personal records of four million people, the latest in a series of cyberspying accusations the two countries have lobbed at each other. The WSJ's Deborah Kan explains how the issue is driving a wedge of mistrust between the two economic powers. 
+  
+ WASHINGTON—Government officials were scrambling Friday to gauge the extent of information gained in a suspected hacking of millions of government workers’ personnel files, including whether sensitive security data was compromised. 
+  
+ “I don’t think we can tell you with a whole lot of detail precisely what was taken,” White House spokesman Josh Earnest said, adding the breach may have resulted in a “substantial amount’’ of data stolen from government computers. 
+  
+ ... |||||
+A summary of this is?

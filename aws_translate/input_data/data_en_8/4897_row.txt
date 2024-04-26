@@ -1,0 +1,19 @@
+Question: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+
+Answer this question based on the passage: when was the last time a total eclipse happened?
+Answer: The relevant information is: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017. The answer is August 21 , 2017.
+
+Question: "Man of Constant Sorrow" (also known as "I Am a Man of Constant Sorrow") is a traditional American folk song first published by Dick Burnett, a partially blind fiddler from Kentucky. The song was originally titled "Farewell Song" in a songbook by Burnett dated to around 1913. An early version was recorded by Emry Arthur in 1928, which gave the song its current titles.
+
+Who wrote the song man of constant sorrow?
+Answer: The relevant sentence in the passage is: "Man of Constant Sorrow" (also known as "I Am a Man of Constant Sorrow") is a traditional American folk song first published by Dick Burnett, a partially blind fiddler from Kentucky. The answer is Dick Burnett.
+
+Question: Anfisa Arkhipchenko (20, from Moscow, Russia) was contacted by Jorge Nava (27, from Riverside, California) via Facebook after he saw her photos online. Though Anfisa was at first resistant to his messages, Anfisa eventually agreed to meet him and Jorge ends up taking her on an expensive vacation around Europe. Shortly before Anfisa was scheduled to come to the United States, she asked Jorge for a $10,000 handbag, which Jorge declined to buy. Anfisa erased Jorge's cellphone and cancelled the flights, though the two reconciled and eventually Anfisa agreed to travel to the United States. Jorge had pleaded guilty to marijuana trafficking, which made it hard for him to rent an apartment. They move into a hotel and Anfisa is not impressed; though why exactly Jorge does not have his own place to live has not been revealed. They later move into a small apartment. Jorge does not buy an engagement ring or wedding dress for Anfisa. Jorge's friends and family are concerned about Anfisa's motives. Anfisa admits that she is indeed interested in Jorge providing for her, and she opines that while she may be using Jorge for his money, she believes that Jorge is primarily interested in her for her looks and would not want to marry her if she was ugly. At some point, Anfisa was considering going back to Russia, and Jorge considered for a while that he would not try to stop her. Later on, they get married alone in a simple courthouse ceremony, after which Jorge promises to buy the ring to Anfisa and to have a bigger ceremony later on so that her family could attend.
+
+Answer this question: what is jorge last name from 90 day fiance?
+Answer: This is the relevant information: Anfisa Arkhipchenko (20, from Moscow, Russia) was contacted by Jorge Nava (27, from Riverside, California) via Facebook after he saw her photos online. The answer is Nava.
+
+Question: Context: A blister is a small pocket of body fluid (lymph, serum, plasma, blood, or pus) within the upper layers of the skin, typically caused by forceful rubbing (friction), burning, freezing, chemical exposure or infection. Most blisters are filled with a clear fluid, either serum or plasma. However, blisters can be filled with blood (known as "blood blisters") or with pus (if they become infected).
+
+Question: what's the fluid that comes out of blisters?
+Answer:

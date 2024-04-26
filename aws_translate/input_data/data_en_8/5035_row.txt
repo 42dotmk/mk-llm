@@ -1,0 +1,27 @@
+Reasoning and answer: After 30 days, there will be enough food left to sustain 300 people for 90 days – 30 days = 60 days. After the 100 people leave, there will be 300 - 100 = 200 people left. The 200 people will eat 200 / 300 = 2 / 3 as much food as the original group of people in the castle. The 60 days' worth of food will last this smaller group for 60 days / (2 / 3) = 90 more days.
+The answer: 90
+What was the question?
+Question: There are enough provisions in a castle to feed 300 people for 90 days. After 30 days, 100 people leave the castle. How many more days are left until all the food runs out?
+
+If Olive charges her phone for 3 / 5 of the time she charged the phone last night, the phone would be charged for 3 / 5 * 10 = 6 hours. Assuming each hour of charge lasts the phone 2 hours of use, the phone will last for 6 * 2 = 12 hours before it goes off when Olive uses it on a six hours charge.
+The answer: 12
+Reverse engineering the question: Last night, Olive charged her phone for 10 hours. Assuming each hour of charge lasts the phone 2 hours of use, calculate the total time Olive would be able to use her phone before it goes off if she charges it for 3/5 of the time she charged the phone last night.
+
+Reasoning and answer: On Trey's list there are 7 + 1 + 4 things to do = 12 things to do in total. Each thing takes 10 minutes to do, so 10 minutes x 12 things = 120 minutes. An hour has 60 minutes in it, so 120 minutes / 60 minutes in an hour = 2 total hours it will take Trey to complete his list.
+The answer: 2
+What was the question?
+Question: On Sunday Trey is going to do some chores at home. First, he wants to make a To Do list and count up how many things he has to do that day and how long it should take. He has several items under 'clean the house,' 'take a shower' and then 'make dinner.' In total there are 7 things to do to clean the house; 1 thing to do to take a shower; and 4 things to do to make dinner. If everything on Trey's list takes 10 minutes to do, how many hours total will it take to complete Trey's list?
+
+Joey studies 2 hours a night 5 nights a week so that's 2 * 5 = 10 hours. He studies 3 hours a day on the weekends so that's 3 * 2 = 6 hours. In one week, Joey studies 10 + 6 = 16 hours. He has 6 weeks till his exams and he studies for 16 hours a week so that's 6 * 16 = 96 hours of studying.
+The answer: 96
+Reverse engineering the question: Joey studies for his SAT exams 2 hours per night 5 nights a week. On the weekends, he studies 3 hours a day. If his SAT exam is 6 weeks away, how much time will Joey spend studying?
+
+Reasoning and answer: She bought 10 - 4 = 6 adult tickets. So 6 * 30 = $180 was the cost for adult tickets. Children tickets cost 30 / 2 = $15 each. So the children tickets cost 15 * 4 = $60. So the total cost of tickets is 60 + 180 = $240. They get a 240 * .2 = $48 discount. So the tickets cost 240 - 48 = $192. So in total she paid 192 + 5 = $197.
+The answer: 197
+What was the question?
+Question: A waterpark opens up and charges $30 for admission. Kids' tickets are half price. If a group of people brings a soda, they can get 20% off the total price of admission. Janet gets tickets for 10 people and 4 of them are children. She buys a soda for $5 to take advantage of the discount for her group. How much did she pay for everything?
+
+Reasoning and answer: It cost 20000 * 2 = $40,000 a year. So it cost 40,000 * 13 = $520,000.
+The answer: 520000
+What was the question?
+Question:

@@ -1,0 +1,25 @@
+The first 8 customers bought 8 * 3 = 24 cases. The next 4 customers bought 4 * 2 = 8 cases. The last 8 customers bought 8 * 1 = 8. In total 24 + 8 + 8 = 40 cases were sold.
+The answer: 40
+Reverse engineering the question: There was a big sale on cat food at the pet store. 20 people bought cat food that day. The first 8 customers bought 3 cases each. The next four customers bought 2 cases each. The last 8 customers of the day only bought 1 case each. How many cases of cat food were sold?
+
+Reasoning and answer: When you add the first two days you get 14 + 25 = 39 marigolds. On the third day they sold 25 * 2 = 50 marigolds. During the three day sale 39 + 50 = 89 marigolds were sold.
+The answer: 89
+What was the question?
+Question: On the first day of the garden center sale, 14 marigolds were sold. The next day 25 more marigolds were sold. On the third day the center sold two times the number of marigolds it did on the day before. How many marigolds were sold during the sale?
+
+Sangita has already flown for a total of 50 hours + 9 hours + 121 hours = 180 hours. The flight time she has remaining is 1500 hours - 180 hours = 1320 hours. Sangita's monthly target must therefore be 1320 hours / 6 months = 220 hours / month.
+The answer: 220
+Reverse engineering the question: To earn an airplane pilot certificate, Sangita is required to fly 1,500 hours. She has already completed 50 hours of day flying, 9 hours of night flying, and 121 hours flying cross-country. To meet her goal in exactly 6 months, how many hours per month must Sangita fly?
+
+Reasoning and answer: You save $5 per chair with the 25% off sale. On sale chairs cost $15 each because 20 - 5 = 15. You bought 3 chairs above the 5 required before the extra savings starts because 8 - 5 = 3. You save an extra $5 on these chairs because 15 x (1 / 3) = 5. The first five chairs cost $75 in total because 5 x 15 = 75. The final three chairs cost $30 in total because 3 x 10 = 30. In total they cost $105 because 75 + 30 = 105.
+The answer: 105
+What was the question?
+Question: Big Lots is having a sale. All chairs are 25% off. If you buy more than 5 chairs, you get an additional 1/3 off the discounted price of the number of chairs over 5. If you bought 8 chairs that were normally priced at $20, how much do the chairs cost in total?
+
+If Zack's classroom had 22 students when he was absent, then the total students in his class are 22 + 1 = 23. If Tina's classroom has as many students as Maura's then T = M. If Zack's classroom has half the amount of total students between Tina and Maura's classrooms then 23 = 1 / 2 * (T + M ). 23 = 1 / 2 * (T + M). We know from above that T = M, therefore 23 = (1 / 2) * (M + M) or 23 = (1 / 2) * 2M. 23 = M. Because T = M, then T is also T = 23. Between the three classes then we have a total of T + M + Z or 23 + 23 + 23 = 69.
+The answer: 69
+Reverse engineering the question: Tina's classroom has the same amount of students as Maura's. Zack's classroom has half the amount of total students between Tina and Maura's classrooms. How many students are there in total between the 3 classrooms if when Zack was sick there were 22 students in his class?
+
+On Monday, Mack writes 60 / 30 = 2 pages. On Tuesday, Mack writes 45 / 15 = 3 pages. In total, from Monday to Wednesday, Mack writes 2 + 3 + 5 = 10 pages.
+The answer: 10
+Reverse engineering the question:

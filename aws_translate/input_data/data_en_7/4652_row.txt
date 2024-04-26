@@ -1,0 +1,34 @@
+Student A:Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC. Howie Mandel, Mel B, Heidi Klum and Simon Cowell returned as judges for their respective ninth, sixth, sixth, and third seasons. Meanwhile, Tyra Banks returned for her second season as host.
+
+Answer this question: when does america's got talent season 13 start?
+Student B:OK... To answer the above question, the relevant sentence is: Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC.
+May 29 , 2018.
+
+Problem:Ferris Bueller's Day Off is a 1986 American teen comedy film written, co-produced, and directed by John Hughes, and co-produced by Tom Jacobson. The film stars Matthew Broderick as Ferris Bueller, a high-school slacker who spends a day off from school, with Mia Sara and Alan Ruck. Ferris regularly "breaks the fourth wall" to explain techniques and inner thoughts.
+
+Answer this question: who played the title role in ferris beullers day off?
+Solution:OK... To answer the above question, the relevant sentence is: The film stars Matthew Broderick as Ferris Bueller, a high-school slacker who spends a day off from school, with Mia Sara and Alan Ruck.
+Matthew Broderick.
+
+Student A:Passage: The Aruba Natural Bridge was a tourist attraction in Aruba that was formed naturally out of coral limestone. It collapsed on September 2, 2005.
+
+Question: Based on this passage, when did the natural bridge in aruba collapse?
+Student B:OK... The important part for answering this question is: It collapsed on September 2, 2005.
+September 2 , 2005.
+
+Problem:In 1808 François Isaac de Rivaz designed the first car powered by an internal combustion engine fueled by hydrogen.
+
+Answer this question based on the passage: when was the first car made what year?
+Solution:OK... The important part for answering this question is: In 1808 François Isaac de Rivaz designed the first car powered by an internal combustion engine fueled by hydrogen.
+1808.
+
+Student A:Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009. The engine is rated at 240 PS (177 kW; 237 hp) and 550 N ⋅ m (410 lb ⋅ ft) of torque. The car was unveiled in 2009 Geneva Motor Show. The diesel can accelerate from 0 -- 60 mph in 9.2 seconds.
+
+Answer this question: what engine is in the porsche cayenne diesel?
+Student B:OK... To answer the above question, the relevant sentence is: Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009.
+a 3.0 - L V6 TDI engine.
+
+Student A:"Bring Me to Life" is a song by American rock band Evanescence recorded for their debut studio album Fallen (2003). Wind-up released it as the lead single from the album on April 22, 2003. The track was written by group members Amy Lee, Ben Moody, and David Hodges and produced by Dave Fortman. It also features uncredited guest vocals from Paul McCoy of the band 12 Stones. "Bring Me to Life" is a nu metal, gothic metal and rap rock song. According to Lee, "Bring Me to Life" has several meanings and inspirations; its subjects are an incident in a restaurant, open-mindedness, and waking up to the things which are missing in the protagonist's life. Lee later revealed that the song was inspired by her long-time friend and husband Josh Hartzler.
+
+Based on this passage, who sings bring me back to life with evanescence?
+Student B:

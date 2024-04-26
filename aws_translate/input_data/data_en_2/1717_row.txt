@@ -1,0 +1,25 @@
+q... Context: The economy of India is a developing mixed economy. It is the world's sixth-largest economy by nominal GDP and the third-largest by purchasing power parity (PPP). The country ranks 141st in per capita GDP (nominal) with $1723 and 123rd in per capita GDP (PPP) with $6,616 as of 2016. After 1991 economic liberalisation, India achieved 6-7 % average GDP growth annually. In FY 2015 and 2018 India's economy became the world's fastest growing major economy surpassing China.
+
+Question: what is the type of economy in india?
+a... The relevant information to answer the above question is: The economy of India is a developing mixed economy.
+The answer is a developing mixed economy
+
+
+q... Passage: Zimbabwe (/ zɪmˈbɑːbweɪ /), officially the Republic of Zimbabwe, is a landlocked country located in southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. A country of roughly 16 million people, Zimbabwe has 16 official languages, with English, Shona, and Ndebele the most commonly used.
+
+Question: Based on this passage, where is zimbabwe located in the world map?
+a... To answer the above question, the relevant sentence is: Zimbabwe (/ zɪmˈbɑːbweɪ /), officially the Republic of Zimbabwe, is a landlocked country located in southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique.
+The answer is located in southern Africa , between the Zambezi and Limpopo Rivers , bordered by South Africa , Botswana , Zambia and Mozambique
+
+
+q... Karen Gillan (born 28 November 1987) is a Scottish actress, director, screenwriter and model. She played the role of Amy Pond, companion to the Eleventh Doctor, in the BBC One science fiction series Doctor Who (2010 -- 2013). She has received wide recognition for portraying Nebula in the Marvel Cinematic Universe films Guardians of the Galaxy (2014), Guardians of the Galaxy Vol. 2 (2017), Avengers: Infinity War (2018), and its untitled sequel (2019), and also played Ruby Roundhouse in the box-office hit Jumanji: Welcome to the Jungle (2017).
+
+Answer this question: who does karen gillian play in the avengers?
+a... The relevant information is: She has received wide recognition for portraying Nebula in the Marvel Cinematic Universe films Guardians of the Galaxy (2014), Guardians of the Galaxy Vol. 2 (2017), Avengers: Infinity War (2018), and its untitled sequel (2019), and also played Ruby Roundhouse in the box-office hit Jumanji: Welcome to the Jungle (2017).
+The answer is Nebula
+
+
+q... Making amends for years of underperforming V-twins, Honda set out to produce a cruiser with the biggest CID ever and so designed a big bike with a muscular looking body that was long and low to the ground, featuring significant rake and trail. Honda claimed that the 1800 put out 159 N m (117 lbf ft) of torque at only 3000 rpm and 75 kW (101 hp) at 5000 rpm, making the VTX1800 one of the most powerful production V-twin motorcycles of its time. (See infobox for measured horsepower and torque values.)
+
+Answer this question based on the passage: how much horsepower does a honda vtx 1800 have?
+a...

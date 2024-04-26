@@ -1,0 +1,27 @@
+Reasoning and answer: The total number of shirts in the donation box is 4. The total number of pants in the donation box is 4 x 2 = 8. The total number of shorts in the donation box is 8 / 2 = 4. The total number of clothes donated is 4 + 8 + 4 = 16 pieces.
+The answer: 16
+What was the question?
+Question: Avery puts 4 shirts in the donation box. He adds twice as many pants as shirts in the box. He throws in half as many shorts as pants in the box. In total, how many pieces of clothes is Avery donating?
+
+Wearing the high - tech shoes, Candace can hike 6 mph * 2 = 12 mph for the first two hours. Then she gets one blister, so her speed drops to 12 mph - 2 mph = 10 mph for the next two hours of the hike. After that time Candace gets another blister, but 2 hours + 2 hours = 4 hours, so the hike is over and we don't care about her speed anymore. Candace spends an equal amount of time walking at 12 mph and 10 mph, so we can average the two speeds to find an overall speed of (12 mph + 10 mph) / 2 = 11 mph.
+The answer: 11
+Reverse engineering the question: Candace is trying to decide whether to wear her old shoes or new high-tech shoes for a hike. The high-tech shoes will help Candace walk twice as fast, but they're not broken in yet, so she'll get 1 blister after every 2 hours she spends walking in them. Each blister slows Candance down by 2 miles per hour. If Candance walks 6 miles per hour in the old shoes and plans to hike for 4 hours, how many miles per hour can she go in the new shoes?
+
+Reasoning and answer: Tallest Tree: 150 feet. Middle Tree:150(2 / 3) = 300 / 3 = 100 feet. Shortest Tree:100 / 2 = 50 feet.
+The answer: 50
+What was the question?
+Question: There are three trees in the town square. The tallest tree is 150 feet tall. The middle height tree is 2/3 the height of the tallest tree. The shortest tree is half the size of the middle tree. How tall is the shortest tree?
+
+They need $60 / game x 2 games = $120 in total. If one ice cream is sold for $5, they will need to sell $120 ÷ $5 / ice cream = 24 ice creams.
+The answer: 24
+Reverse engineering the question: Ronald and his friend Max want to buy a new video game that was just released. The game costs $60. To earn money, they started selling ice cream in their yard, and they sell each ice cream for $5. How many ice creams will they need to sell for both to be able to afford to buy the game?
+
+Reasoning and answer: They will earn 15 x $2 = $30 for the candied apples. They will earn 12 x $1.5 = $18 for the candied grapes. Therefore, Cindy and Olaf will earn $30 + $18 = $48 if they sell everything.
+The answer: 48
+What was the question?
+Question: Cindy and Olaf made 15 candied apples which they will be selling for $2 each, and 12 candied grapes which they will be selling for $1.5. How much will they earn if they sell everything?
+
+Reasoning and answer: They are to order a total of 3 burger meals and 3 sodas for Paulo and Jeremy. The cost of a soda is $6 / 3 = $2. So, the 3 sodas will amount to $2 / soda x 3 sodas = $6. The 3 burger meals will amount to $6 / burger x 3 burgers = $18. Hence, the total cost for their orders is $6 + $18 = $24.
+The answer: 24
+What was the question?
+Question:

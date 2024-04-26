@@ -1,0 +1,22 @@
+Student A:Chyler Leigh West (pronounced / ˈkaɪlər /; née Potts; born April 10, 1982), known professionally as Chyler Leigh, is an American actress, singer and model. She is best known for her portrayal of Janey Briggs in the comedy film Not Another Teen Movie (2001), Dr. Alexandra "Lexie" Grey in the ABC medical drama series Grey's Anatomy (2007 -- 2012), and Alexandra "Alex" Danvers in the CBS / CW superhero series Supergirl (2015 -- present), subsequently appearing in the other series that make up the Arrowverse.
+
+Answer this question: who does chyler leigh play in greys anatomy?
+Student B:OK... The relevant information is: She is best known for her portrayal of Janey Briggs in the comedy film Not Another Teen Movie (2001), Dr. Alexandra "Lexie" Grey in the ABC medical drama series Grey's Anatomy (2007 -- 2012), and Alexandra "Alex" Danvers in the CBS / CW superhero series Supergirl (2015 -- present), subsequently appearing in the other series that make up the Arrowverse.
+Dr. Alexandra `` Lexie '' Grey.
+
+Student A:In the 1979 -- 80 season, after having tested it in the previous pre-season, the NBA adopted the three-point line despite the view of many that it was a gimmick. Chris Ford of the Boston Celtics is widely credited with making the first three-point shot in NBA history on October 12, 1979. Kevin Grevey of the Washington Bullets also made one on the same day.
+
+Based on this passage, when did the nba get the 3 point line?
+Student B:OK... The relevant sentence in the passage is: In the 1979 -- 80 season, after having tested it in the previous pre-season, the NBA adopted the three-point line despite the view of many that it was a gimmick.
+the 1979 -- 80 season.
+
+Student A:Context: The 2022 FIFA World Cup is scheduled to be the 22nd edition of the FIFA World Cup, the quadrennial international men's football championship contested by the national teams of the member associations of FIFA. It is scheduled to take place in Qatar in 2022. This will be the first World Cup ever to be held in the Arab world and the first in a Muslim-majority country. This will be the first World Cup held entirely in geographical Asia since the 2002 tournament in South Korea and Japan (the 2018 competition in Russia featured one geographically Asian venue, Yekaterinburg). In addition the tournament will be the last to involve 32 teams, with an increase to 48 teams scheduled for the 2026 tournament.
+
+Question: who will be hosting the world cup in 2022?
+Student B:OK... To answer the question, consider the following: It is scheduled to take place in Qatar in 2022.
+Qatar.
+
+Student A:Context: Founded by Murray Koffler, the Koffler family still retains ownership of the Super-Pharm pharmacy which is in Israel, Poland, and China. Super-Pharm uses the same logo as Shoppers Drug Mart, created by the artist Sylvain Liu. It also uses some of the same private-label brands, such as Life Brand and Quo. In 2013, Brampton-based Loblaw Companies acquired Shoppers Drug Mart Corporation for $12.4 billion in cash and stock.
+
+Question: who is the owner of shoppers drug mart?
+Student B:

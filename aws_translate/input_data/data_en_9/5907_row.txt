@@ -1,0 +1,34 @@
+Problem:"Tired of Waiting for You" was a hit 1965 rock song by the English band The Kinks. The song was released as a single on 15 January 1965 in the UK and on 17 February 1965 in the USA. It then appeared on their second studio album Kinda Kinks.
+
+Answer this question based on the passage: who sang so tired of waiting for you?
+Solution:OK... The relevant information is: "Tired of Waiting for You" was a hit 1965 rock song by the English band The Kinks.
+the English band The Kinks.
+
+Student A:The Hatter introduced in Carroll's Alice's Adventures in Wonderland wears a large top hat with a hatband reading "In this style 10 / 6". This is the hat's price tag, indicative of The Hatter's trade, and giving the price in pre-decimal British money as ten shillings and six pence (or half a guinea).
+
+What is written on the mad hatter's hat?
+Student B:OK... The relevant information to answer the above question is: The Hatter introduced in Carroll's Alice's Adventures in Wonderland wears a large top hat with a hatband reading "In this style 10 / 6".
+In this style 10 / 6.
+
+Problem:Passage: In Trevor's volcanology laboratory, a device shows activity on Snæfell, a dormant volcano in Iceland. Trevor and Sean travel to Iceland to investigate. They try to contact Icelandic volcanologist Sigurbjörn Ásgeirsson, but instead encounter his daughter Hannah Ásgeirsson (Anita Briem) since her father had died some years earlier. It turns out that Sigurbjörn and Max were both Vernians, a group of people who believe the works of Jules Verne to be fact and not fiction.
+
+Question: Based on this passage, who plays the girl in journey to the center of the earth?
+Solution:OK... The relevant information is: They try to contact Icelandic volcanologist Sigurbjörn Ásgeirsson, but instead encounter his daughter Hannah Ásgeirsson (Anita Briem) since her father had died some years earlier.
+Anita Briem.
+
+Student A:"Man in the Mirror" is a song recorded by Michael Jackson, written by Glen Ballard and Siedah Garrett and produced by Jackson and Quincy Jones. It peaked at number 1 in the United States when released in January 1988 as the fourth single from his seventh solo album, Bad (1987). It was nominated for Record of the Year at the Grammy Awards.
+
+Answer this question based on the passage: who wrote michael jackson's man in the mirror?
+Student B:OK... To answer the above question, the relevant sentence is: "Man in the Mirror" is a song recorded by Michael Jackson, written by Glen Ballard and Siedah Garrett and produced by Jackson and Quincy Jones.
+Glen Ballard.
+
+Problem:The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+
+Answer this question: when was the last solar eclipse we had?
+Solution:OK... The important part for answering this question is: The next solar eclipse (Partial) will occur on February 15, 2018; the last solar eclipse (Total) occurred on August 21, 2017.
+August 21 , 2017.
+
+Problem:Vega, Lyra's brightest star, is one of the brightest stars in the night sky, and forms a corner of the famed Summer Triangle asterism. Beta Lyrae is the prototype of a class of stars known as Beta Lyrae variables. These binary stars are so close to each other that they become egg-shaped and material flows from one to the other. Epsilon Lyrae, known informally as the Double Double, is a complex multiple star system. Lyra also hosts the Ring Nebula, the second-discovered and best-known planetary nebula.
+
+Brightest star in the constellation lyra dan word?
+Solution:

@@ -1,0 +1,22 @@
+Complete the passage: pick from possible candidates.
+
+Kabul, Afghanistan (CNN) -- President Barack Obama marked the first anniversary of the death of terror mastermind Osama bin Laden with an unannounced visit to Afghanistan, signing a long-awaited strategic partnership agreement meant to set the conditions of an American withdrawal from the war-torn nation. The president reiterated that U.S. forces will not remain "a single day longer" than necessary, that he remains committed to pulling 23,000 troops out of the country by September and that he will stick to a 2014 deadline to fully withdraw from Afghanistan. "We will not build permanent bases in this country, nor will we be patrolling its cities and mountains," the president said during a nationally televised speech to the U.S. people from Bagram Air Base early on Wednesday (Tuesday evening in the United States). "That will be the job of the Afghan people."
+
+Addressing Afghan concerns that America will abandon the country once its troops leave,
+
+OPTIONS:
+- Afghan noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Afghanistan noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- American noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Bagram Air Base noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Barack Obama noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- CNN noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Carl Levin noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Hamid Karzai noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Kabul noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- NATO summit noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Obama noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Osama bin Laden noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- U.S. noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- United States noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."
+- Wardak noted, "With this agreement, I am confident that the Afghan people will understand that the United States will stand by them."

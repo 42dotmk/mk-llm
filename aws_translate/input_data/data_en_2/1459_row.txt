@@ -1,0 +1,29 @@
+## question
+The mass number is written either after the element name or as a superscript to the left of an element's symbol. For example, the most common isotope of carbon is carbon-12, or 12, which has 6 protons and 6 neutrons. The full isotope symbol would also have the atomic number (Z) as a subscript to the left of the element symbol directly below the mass number: 12 6C. This is technically redundant, as each element is defined by its atomic number, so it is often omitted.
+
+Answer this question: where is the atomic mass located on an element?
+## answer
+This is the relevant information: The mass number is written either after the element name or as a superscript to the left of an element's symbol.
+So the answer must be either after the element name or as a superscript to the left of an element 's symbol
+
+## question
+Passage: In the history of Europe, the Middle Ages (or Medieval Period) lasted from the 5th to the 15th century. It began with the fall of the Western Roman Empire and merged into the Renaissance and the Age of Discovery. The Middle Ages is the middle period of the three traditional divisions of Western history: classical antiquity, the medieval period, and the modern period. The medieval period is itself subdivided into the Early, High, and Late Middle Ages.
+
+Question: Based on this passage, when did the period known as the middle ages take place?
+## answer
+The important part for answering this question is: In the history of Europe, the Middle Ages (or Medieval Period) lasted from the 5th to the 15th century.
+So the answer must be the 5th to the 15th century
+
+## question
+The English Reformation was a series of events in 16th century England by which the Church of England broke away from the authority of the Pope and the Roman Catholic Church. These events were, in part, associated with the wider process of the European Protestant Reformation, a religious and political movement that affected the practice of Christianity across western and central Europe during this period. Many factors contributed to the process: the decline of feudalism and the rise of nationalism, the rise of the common law, the invention of the printing press and increased circulation of the Bible, and the transmission of new knowledge and ideas among scholars, the upper and middle classes and readers in general. However, the various phases of the English Reformation, which also covered Wales and Ireland, were largely driven by changes in government policy, to which public opinion gradually accommodated itself.
+
+Answer this question based on the passage: when did england break away from the catholic church?
+## answer
+The relevant information is: The English Reformation was a series of events in 16th century England by which the Church of England broke away from the authority of the Pope and the Roman Catholic Church.
+So the answer must be 16th century
+
+## question
+The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, the week before the British Open, at TPC Deere Run in the Quad Cities community of Silvis, Illinois.
+
+Answer this question: where is the john deere classic 2018 played?
+## answer

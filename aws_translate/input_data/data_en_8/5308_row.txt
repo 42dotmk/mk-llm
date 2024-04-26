@@ -1,0 +1,18 @@
+Definition: In this task, you are given a Reddit post as a text. Your task is to generate a short summary for this text. The summary must include a situation which caused humor. The summary should be one or two sentences long.
+Input: Text: this literally just happened about 10 minutes ago and i cannot believe how fucking stupid i am.
+
+a little background. an old friend of mine, lets call him mike, is getting married in a few weeks and i recently received his wedding invitation in the mail. so i texted him the other day to catch up a little and talk about his big day coming up, etc, etc. i then ask if he was busy memorial day weekend so i could visit him because i haven't seen him in so long, but he says he'll be busy with his bachelor party and then proceeds to invite me to this celebration. keep in mind, i did not feel completely comfortable with the idea of attending a bachelor party for an old friend, that i feel like i hardly know anymore, and all of his closest friends that i have never met. however, he persisted so i accepted and he told me i'd hear the details from his best man soon, lets call him jake. jake would be texting me the details because he and the other groomsmen spent weeks elaborately planning all the details of the bachelor party while keeping mike in the dark.
+
+**relevant side note:** during our conversation, i asked mike how he knew jake and he told me he met him during his training as a paramedic while jake was training to be a police officer. so i jokingly told mike my first response to jake would be fuck you pig and mike said i should totally do it, jake would find it hilarious. damn it mike
+
+so today, police officer jake sends me a long text with all the details of the bachelor party including whirleyball, a limo, the strip club, a penthouse sweet, and other epic details. so naturally i respond with "sorry i don't party with pigs" expecting a light-hearted response. jake did not appreciate my joke. in fact, he was extremely offended and went off on this mini tangent about cop stereotypes and how its "complete bullshit and pisses [him] off". fuck up #1. so i apologize profusely and told him mike put me up to it and he eventually cools off but it wasn't a hot start to our relationship.
+
+but here's where i really dropped the ball. i wanted to show mike my cop-hating initial response to jake, as promised, and then the shit storm that ensued. so i haphazardly screenshotted my response to jake and sent it to mike. as i'm getting screenshots of the rest of the shit storm, i get a response from mike... "dude what the fuck". i should've known, you never screenshot a shit storm until the shit winds have stopped blowin. my dumbass screenshot included *the entire bachelor party plan* preceding my not-so-funny response. all i've heard from mike since was "and as if jake didn't like you before".
+
+now i'm sot sure what to do. do i still go to the bachelor party in hopes that jake doesn't pull out his state issued handgun and shoot me in the penis? do i text jake my fu hoping he doesn't track me down and shoot me in the penis? who knows, maybe i keep my penis and we all have a big laugh about this and become best friends.
+
+ 
+
+
+edit: just an update for the few that took the time to read my fu. i talked to mike the bachelor and well be hanging out this weekend (bachelor party next weekend) and he's going to tell jake that we got drunk and then he stole my phone and read the text himself. gg mike to the rescue!
+Output:

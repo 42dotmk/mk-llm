@@ -1,0 +1,16 @@
+Problem:Passage: "El Paso" is a country and western ballad written and originally recorded by Marty Robbins, and first released on Gunfighter Ballads and Trail Songs in September 1959. It was released as a single the following month, and became a major hit on both the country and pop music charts, reaching number one in both at the start of 1960. It won the Grammy Award for Best Country & Western Recording in 1961, and remains Robbins' best-known song. It is widely considered a genre classic for its gripping narrative which ends in the death of its protagonist, its shift from past to present tense, haunting harmonies by vocalists Bobby Sykes and Jim Glaser (of the Glaser Brothers) and the eloquent and varied Spanish guitar accompaniment by Grady Martin that lends the recording a distinctive Tex-Mex feel. The name of the character Feleena was based upon a schoolmate of Robbins in the fifth grade -- Fidelina Martinez.
+
+Question: Based on this passage, who sang west texas town of el paso?
+Solution:OK... The relevant information is: "El Paso" is a country and western ballad written and originally recorded by Marty Robbins, and first released on Gunfighter Ballads and Trail Songs in September 1959.
+Marty Robbins.
+
+Problem:Passage: The Hatch Act of 1887 (ch. 314, 24 Stat. 440, enacted 1887-03-02, 7 U.S.C. § 361a et seq.) gave federal funds, initially of $15,000 each, to state land-grant colleges in order to create a series of agricultural experiment stations, as well as pass along new information, especially in the areas of soil minerals and plant growth. The bill was named for Congressman William Hatch, who chaired the House Committee of Agriculture at the time the bill was introduced. State agricultural stations created under this act were usually connected with those land-grant state colleges and universities founded under the Morrill Act of 1862, with few exceptions.
+
+Question: Based on this passage, what was the purpose of the hatch act of 1887?
+Solution:OK... To answer the above question, the relevant sentence is: The Hatch Act of 1887 (ch. 314, 24 Stat. 440, enacted 1887-03-02, 7 U.S.C. § 361a et seq.) gave federal funds, initially of $15,000 each, to state land-grant colleges in order to create a series of agricultural experiment stations, as well as pass along new information, especially in the areas of soil minerals and plant growth.
+gave federal funds , initially of $15,000 each , to state land - grant colleges in order to create a series of agricultural experiment stations , as well as pass along new information , especially in the areas of soil minerals and plant growth.
+
+Problem:It was not until about 12: 45 a.m., an hour after Titanic struck the iceberg at 11: 40 p.m. on 14 April, that the first lifeboat was lowered into the sea. The boats were lowered in sequence, from the middle forward then aft, with First Officer William McMaster Murdoch, Third Officer Herbert Pitman and Fifth Officer Harold Lowe working on the starboard side, and Chief Officer Henry Tingle Wilde and Second Officer Charles Lightoller working on the port side, with the assistance of Captain Smith. The collapsible boats were dealt with last, as they could not be launched until the forward davits were clear.
+
+Answer this question: when was the first lifeboat launched on the titanic?
+Solution:

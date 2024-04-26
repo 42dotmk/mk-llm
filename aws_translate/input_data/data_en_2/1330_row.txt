@@ -1,0 +1,25 @@
+Currently, Mark is reading books for 2 * 7 = 14 hours weekly. His goal is to read books, for 14 + 4 = 18 hours during one week.
+The answer: 18
+Reverse engineering the question: Mark is reading books, for 2 hours each day. He decided to increase his time spent on reading books weekly, by 4 hours. How much time does Mark want to spend during one week on reading books?
+
+Reasoning and answer: He has $2 in $1 bills because 2 times 1 equals 2. He has $5 in $5 bills because 1 times 5 equals 5. He has $3.25 in quarters because 13 times .25 equals 3.25. He has $2 in dimes because 20 times .1 equals 2. He has $.40 in nickels because 8 times .05 equals .4. He has $.35 in pennies because 35 times .01 equals .35. He has $13 because 2 plus 5 plus 3.25 plus 2 plus .4 plus .35 equals 13.
+The answer: 13
+What was the question?
+Question: Tyrone empties his piggy bank and finds two $1 bills, a $5 bill, 13 quarters, 20 dimes, 8 nickels, and 35 pennies. How much money does Tyrone have?
+
+3 / 5th of 20 liters of water is 20 * (3 / 5) = 12 liters. 5 / 6th of 18 liters of vinegar is 18 * (5 / 6) = 15 liters. 12 liters of water mixed with 15 liters of vinegar gives 12 + 15 = 27 - liter mixture.
+The answer: 27
+Reverse engineering the question: In a dye-making process, a young lady mixes 3/5th of 20 liters of water with 5/6th of 18 liters of vinegar. How many liters of the mixture are obtained?
+
+Reasoning and answer: He got a discount of 400 * .8 = $320. He got that discount for 3 - 1 = 2 visits. So each of those visits cost 400 - 320 = $80. So he paid 2 * 80 = $160 for those visits. That means he paid a total of 400 + 160 + 100 = $660.
+The answer: 660
+What was the question?
+Question: John adopts a dog from a shelter. The dog ends up having health problems and this requires 3 vet appointments, which cost $400 each. After the first appointment, John paid $100 for pet insurance that covers 80% of the subsequent visits. How much did he pay in total?
+
+Kara drinks 4 * 3 = 12 ounces of water with her medication each day. In a week, she drinks 12 * 7 = 84 ounces of water with her medication. In two weeks, she drinks 84 * 2 = 168 ounces of water with her medication. One day, she forgot two tablets, so she did not drink 2 * 4 = 8 ounces of water. Thus, Kara drank 168 - 8 = 160 ounces of water with her medication over two weeks.
+The answer: 160
+Reverse engineering the question: Kara has to drink 4 ounces of water every time she takes her medication. Her medication instructions are to take one tablet three times a day. She followed the instructions for one week, but in the second week, she forgot twice on one day. How many ounces of water did she drink with her medication over those two weeks?
+
+The tickets for both of her brothers will cost her $10 * 2 = $20. To buy tickets for all of them, it will cost Isabelle $20 + $20 = $40. Between all of them, they have saved a total of $5 + $5 = $10. Since they have already saved $10, she needs to earn an additional $40 - $10 = $30 to afford the tickets. Since she makes $3 per week, it will take her $30 / ($3 / week) = 10 weeks to save enough money for all of the tickets.
+The answer: 10
+Reverse engineering the question:

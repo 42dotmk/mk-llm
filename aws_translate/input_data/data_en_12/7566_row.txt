@@ -1,0 +1,36 @@
+Ans: two
+Ques: Each shell can contain only a fixed number of electrons: The first shell can hold up to two electrons, the second shell can hold up to eight (2 + 6) electrons, the third shell can hold up to 18 (2 + 6 + 10) and so on. The general formula is that the nth shell can in principle hold up to 2 (n) electrons. Since electrons are electrically attracted to the nucleus, an atom's electrons will generally occupy outer shells only if the more inner shells have already been completely filled by other electrons. However, this is not a strict requirement: atoms may have two or even three incomplete outer shells. (See Madelung rule for more details.) For an explanation of why electrons exist in these shells see electron configuration.
+
+Answer this question: what is the maximum number of electrons in the first energy shell of an atom?
+CoT: The important part for answering this question is: Each shell can contain only a fixed number of electrons: The first shell can hold up to two electrons, the second shell can hold up to eight (2 + 6) electrons, the third shell can hold up to 18 (2 + 6 + 10) and so on.
+
+
+Answer: January 6 , 2017. Now, what could be the question and solution-maybe?
+Ques: The fourth and final season of the Fox television series Sleepy Hollow premiered on January 6, 2017 and concluded on March 31, 2017, and consisted of 13 episodes.
+
+When does sleepy hollow return for season 4?
+CoT: To answer this question, we should know that: The fourth and final season of the Fox television series Sleepy Hollow premiered on January 6, 2017 and concluded on March 31, 2017, and consisted of 13 episodes.
+
+
+Ans: west of the town of Mammoth Lakes , California , in the Inyo National Forest of Madera and Mono Counties
+Ques: Mammoth Mountain is a lava dome complex west of the town of Mammoth Lakes, California, in the Inyo National Forest of Madera and Mono Counties. It is home to a large ski area on the Mono County side.
+
+Based on this passage, where is mammoth mountain located on a map?
+CoT: The relevant information to answer the above question is: Mammoth Mountain is a lava dome complex west of the town of Mammoth Lakes, California, in the Inyo National Forest of Madera and Mono Counties.
+
+
+Ans: excessive when compared to the crime , or compared to the competence of the perpetrator
+Ques: According to the Supreme Court, the Eighth Amendment forbids some punishments entirely, and forbids some other punishments that are excessive when compared to the crime, or compared to the competence of the perpetrator.
+
+Answer this question: when may a non-capital sentence be considered to violate the 8th amendment?
+CoT: This is the relevant information: According to the Supreme Court, the Eighth Amendment forbids some punishments entirely, and forbids some other punishments that are excessive when compared to the crime, or compared to the competence of the perpetrator.
+
+
+Answer: Dr. Henry Louis Gates Jr.. Now, what could be the question and solution-maybe?
+Ques: Finding Your Roots with Henry Louis Gates Jr. is a documentary television series hosted by Dr. Henry Louis Gates Jr. that airs on PBS. In each episode, celebrities are presented with a "book of life" that is compiled with information researched by professional genealogists that allows them to view their ancestral histories, learn about familial connections, and discover secrets about their lineage. The series premiered on March 25, 2012. Season four concluded airing on December 19, 2017.
+
+Who is the host of finding your roots?
+CoT: To answer this question, we should know that: Finding Your Roots with Henry Louis Gates Jr. is a documentary television series hosted by Dr. Henry Louis Gates Jr. that airs on PBS.
+
+
+Ans: Ahmad Saeed

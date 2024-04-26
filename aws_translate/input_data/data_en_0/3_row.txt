@@ -1,0 +1,22 @@
+Student A:Passage: Formerly, the vice president would preside regularly over Senate proceedings, but in modern times, the vice president rarely presides over day-to-day matters in the Senate; in their place, the Senate chooses a President pro tempore (or "president for a time") to preside in the vice president's absence; the Senate normally selects the longest-serving senator in the majority party. The President pro tempore has the power to appoint any other senator to preside, and in practice junior senators from the majority party are assigned the task of presiding over the Senate at most times.
+
+Question: Based on this passage, who takes the vice president's place in senate?
+Student B:OK... The important part for answering this question is: Formerly, the vice president would preside regularly over Senate proceedings, but in modern times, the vice president rarely presides over day-to-day matters in the Senate; in their place, the Senate chooses a President pro tempore (or "president for a time") to preside in the vice president's absence; the Senate normally selects the longest-serving senator in the majority party.
+a President pro tempore ( or `` president for a time '' ).
+
+Student A:In the 1980s, Ole and Arn allied themselves with Ric Flair, a Minnesota native who they claimed was another cousin of the family, and formed the famous wrestling stable The Four Horsemen. The stable was a major influence on professional wrestling in North America, creating the blueprint for future groups such as the New World Order, Triple Threat, and Evolution. Flair's sons David and Reid (the latter now deceased), as well as his daughter Ashley who wrestles in WWE as Charlotte Flair, can be counted as part of the family by extension.
+
+Based on this passage, who was portrayed as the anderson brothers cousin?
+Student B:OK... The relevant sentence in the passage is: In the 1980s, Ole and Arn allied themselves with Ric Flair, a Minnesota native who they claimed was another cousin of the family, and formed the famous wrestling stable The Four Horsemen.
+Ric Flair.
+
+Student A:Passage: As an adult, Pebbles pursued a career in advertising and married Bamm-Bamm. After this, the newly married couple moved to Hollyrock, a fictional, prehistoric version of Hollywood, California. They eventually had a son named Chip and a daughter named Roxy, who were fraternal twins.
+
+Question: Based on this passage, who is pebbles and bam bam's daughter?
+Student B:OK... This is the relevant information: They eventually had a son named Chip and a daughter named Roxy, who were fraternal twins.
+Roxy.
+
+Student A:Disneyland Park, originally Disneyland, is the first of two theme parks built at the Disneyland Resort in Anaheim, California, opened on July 17, 1955. It is the only theme park designed and built under the direct supervision of Walt Disney. It was originally the only attraction on the property; its official name was changed to Disneyland Park to distinguish it from the expanding complex in the 1990s.
+
+Based on this passage, where is disney land located in united states?
+Student B:

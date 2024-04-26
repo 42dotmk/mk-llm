@@ -1,0 +1,36 @@
+Ans: Chicago
+Ques: The House on Mango Street is a 1984 coming-of-age novel by Mexican-American writer Sandra Cisneros. It deals with Esperanza Cordero, a young Latina girl, and her life growing up in Chicago with Chicanos and Puerto Ricans. Esperanza is determined to "say goodbye" to her impoverished Latino neighborhood by turning to a life on the streets. Major themes include her quest for a better life and the importance of her promise to come back for "the ones (she) left behind". The novel has been critically acclaimed, and has also become a New York Times Bestseller. It has also been adapted into a stage play by Tanya Saracho.
+
+Where does esperanza live in the house on mango street?
+CoT: To answer this question, we should know that: It deals with Esperanza Cordero, a young Latina girl, and her life growing up in Chicago with Chicanos and Puerto Ricans.
+
+
+Ans: 1972
+Ques: "If You Do n't Know Me by Now" is a song written by Kenny Gamble and Leon Huff, and recorded by the Philly soul musical group Harold Melvin & the Blue Notes. It became their first hit after being released as a single in 1972, topping the US R&B chart and peaking at number three on the US Pop chart.
+
+Based on this passage, when did if you don't know me by now come out?
+CoT: To answer the question, consider the following: It became their first hit after being released as a single in 1972, topping the US R&B chart and peaking at number three on the US Pop chart.
+
+
+Answer: President Dwight D. Eisenhower. Now, what could be the question and solution-maybe?
+Ques: The "Air Force One" call sign was created after a 1953 incident during which a Lockheed Constellation named Columbine II, carrying President Dwight D. Eisenhower, entered the same airspace as a commercial airline flight using the same flight number.
+
+Who was the first president to use air force one?
+CoT: The relevant information to answer the above question is: The "Air Force One" call sign was created after a 1953 incident during which a Lockheed Constellation named Columbine II, carrying President Dwight D. Eisenhower, entered the same airspace as a commercial airline flight using the same flight number.
+
+
+Ans: a state college
+Ques: Miami Dade College, or simply Miami Dade or MDC, is a state college located in Miami, Florida. Miami Dade has eight campuses and twenty-one outreach centers located throughout Miami-Dade County. Founded in 1959, Miami Dade is the largest college in the Florida College System with over 165,000 students. Additionally, MDC is also the largest institution of higher education in Florida, and the second-largest in the United States. Miami Dade College's main campus, the Wolfson Campus, is in Downtown Miami.
+
+Answer this question: what type of school is miami dade college?
+CoT: To answer the above question, the relevant sentence is: Miami Dade College, or simply Miami Dade or MDC, is a state college located in Miami, Florida.
+
+
+Ans: Irish rock band U2
+Ques: "I Still Have n't Found What I'm Looking For" is a song by Irish rock band U2. It is the second track from their 1987 album The Joshua Tree and was released as the album's second single in May 1987. The song was a hit, becoming the band's second consecutive number-one single on the US Billboard Hot 100 while peaking at number six on the UK Singles Chart.
+
+Answer this question: who sings but i still haven't found what i'm looking for?
+CoT: This is the relevant information: "I Still Have n't Found What I'm Looking For" is a song by Irish rock band U2.
+
+
+Answer: Millie Bobby Brown. Now, what could be the question and solution-maybe?

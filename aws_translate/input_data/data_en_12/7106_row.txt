@@ -1,0 +1,23 @@
+Ques & Ans: The White Rabbit is a fictional character in Lewis Carroll's book Alice's Adventures in Wonderland. He appears at the very beginning of the book, in chapter one, wearing a waistcoat, and muttering "Oh dear! Oh dear! I shall be too late!" Alice follows him down the rabbit hole into Wonderland. Alice encounters him again when he mistakes her for his housemaid Mary Ann and she becomes trapped in his house after growing too large. The Rabbit shows up again in the last few chapters, as a herald-like servant of the King and Queen of Hearts.
+
+What's the name of the rabbit in alice in wonderland?
+The White Rabbit
+Stream of consciousness: To answer the question, consider the following: The White Rabbit is a fictional character in Lewis Carroll's book Alice's Adventures in Wonderland.
+
+Ques & Ans: The Sistine Chapel (/ ˌsɪstiːn ˈtʃæpəl /; Latin: Sacellum Sixtinum; Italian: Cappella Sistina ( kapˈpɛlla siˈstiːna) ) is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City. Originally known as the Cappella Magna, the chapel takes its name from Pope Sixtus IV, who restored it between 1477 and 1480. Since that time, the chapel has served as a place of both religious and functionary papal activity. Today it is the site of the Papal conclave, the process by which a new pope is selected. The fame of the Sistine Chapel lies mainly in the frescos that decorate the interior, and most particularly the Sistine Chapel ceiling and The Last Judgment by Michelangelo.
+
+Based on this passage, where is the sistine chapel located in the vatican?
+the Apostolic Palace , the official residence of the Pope , in Vatican City
+Stream of consciousness: The relevant sentence in the passage is: The Sistine Chapel (/ ˌsɪstiːn ˈtʃæpəl /; Latin: Sacellum Sixtinum; Italian: Cappella Sistina ( kapˈpɛlla siˈstiːna) ) is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City.
+
+Ques & Ans: Context: Guy Pearce reprises his role as Peter Weyland, the trillionaire founder and CEO of Weyland Corporation (now the Weyland-Yutani Corporation) who died before the destruction of the Prometheus. Noomi Rapace had played archaeologist Dr. Elizabeth Shaw as a member of the destroyed Prometheus in the prequel film, and appeared in a short promotional prologue to Covenant that was set in the period between the two movies, but does not act in the final cut of the movie itself, though her voice is heard and image seen. Andrew Crawford portrays the role of a neomorph, while Goran D. Kleut portrays the roles of both neomorph and xenomorph. Lorelei King portrays the voice of the Covenant's computer "Mother"; she was a colleague of Helen Horton, the voice of the Nostromo's "Mother" from 1979's Alien.
+
+Question: whos the voice of mother in alien covenant?
+Lorelei King
+Stream of consciousness: The relevant sentence in the passage is: Lorelei King portrays the voice of the Covenant's computer "Mother"; she was a colleague of Helen Horton, the voice of the Nostromo's "Mother" from 1979's Alien.
+
+Ques & Ans: In computer networking, a wireless access point (WAP), or more generally just access point (AP), is a networking hardware device that allows a Wi-Fi device to connect to a wired network. The AP usually connects to a router (via a wired network) as a standalone device, but it can also be an integral component of the router itself. An AP is differentiated from a hotspot, which is the physical location where Wi-Fi access to a WLAN is available.
+
+Answer this question: in wifi network which acts as a base station?
+a wireless access point ( WAP ) , or more generally just access point ( AP )
+Stream of consciousness:

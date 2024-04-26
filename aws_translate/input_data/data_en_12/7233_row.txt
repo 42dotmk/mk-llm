@@ -1,0 +1,23 @@
+Ques & Ans: Passage: Lata Mangeshkar (pronunciation ( help info) ) (born 28 September 1929) is an Indian playback singer and occasional music composer. She is one of the best-known and most respected playback singers in India. Mangeshkar's career started in 1942 and has spanned over seven decades. She has recorded songs for over a thousand Hindi films and has sung songs in over thirty-six regional Indian languages and foreign languages, though primarily in Marathi and Hindi. She is the recipient of three National Film Awards, 12 Bengal Film Journalists' Association Awards, four Filmfare Best Female Playback Awards and many more. The Dadasaheb Phalke Award was bestowed on her in 1989 by the Government of India. She is also the second vocalist, after M.S. Subbulakshmi, to have ever been awarded the Bharat Ratna in 2001, India's highest civilian honour. She has four siblings -- Asha Bhosle, Hridaynath Mangeshkar, Usha Mangeshkar and Meena Mangeshkar -- of which she is the eldest.
+
+Question: Based on this passage, famous indian playback singer. one of the best known and respected playback singers?
+Lata Mangeshkar
+Stream of consciousness: This is the relevant information: She is one of the best-known and most respected playback singers in India.
+
+Ques & Ans: Context: The seventh season of the fantasy drama television series Game of Thrones premiered on HBO on July 16, 2017, and concluded on August 27, 2017. Unlike previous seasons that consisted of ten episodes each, the seventh season consisted of only seven. Like the previous season, it largely consisted of original content not found in George R.R. Martin's A Song of Ice and Fire series, while also incorporating material Martin revealed to showrunners about the upcoming novels in the series. The series was adapted for television by David Benioff and D.B. Weiss.
+
+Question: how many episodes does season 7 game of thrones have?
+seven
+Stream of consciousness: To answer the question, consider the following: Unlike previous seasons that consisted of ten episodes each, the seventh season consisted of only seven.
+
+Ques & Ans: The 2018 UEFA Champions League Final was the final match of the 2017 -- 18 UEFA Champions League, the 63rd season of Europe's premier club football tournament organised by UEFA, and the 26th season since it was renamed from the European Cup to the UEFA Champions League. It was played at the NSC Olimpiyskiy Stadium in Kiev, Ukraine on 26 May 2018, between Spanish side and defending champions Real Madrid, who had won the competition in each of the last two seasons, and English side Liverpool.
+
+Answer this question based on the passage: where are they going to play uefa champions league final?
+the NSC Olimpiyskiy Stadium in Kiev , Ukraine
+Stream of consciousness: To answer the above question, the relevant sentence is: It was played at the NSC Olimpiyskiy Stadium in Kiev, Ukraine on 26 May 2018, between Spanish side and defending champions Real Madrid, who had won the competition in each of the last two seasons, and English side Liverpool.
+
+Ques & Ans: Beverly Hills Cop II is a 1987 American action comedy film directed by Tony Scott, written by Larry Ferguson and Warren Skaaren and starring Eddie Murphy. It is the sequel to the 1984 film Beverly Hills Cop and the second installment in the Beverly Hills Cop series. Murphy returns as Detroit police detective Axel Foley, who reunites with Beverly Hills detectives Billy Rosewood (Judge Reinhold) and John Taggart (John Ashton) to stop a robbery / gun-running gang after Captain Andrew Bogomil (Ronny Cox) is shot and seriously wounded.
+
+Answer this question: when did beverly hills cop 2 come out?
+1987
+Stream of consciousness:

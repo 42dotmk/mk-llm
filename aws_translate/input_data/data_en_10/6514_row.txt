@@ -1,0 +1,34 @@
+Student A:Passage: Joseph "Kaka" Baptista (17 March 1864 -- 1930) was an Indian politician and activist from Bombay (today known as Mumbai), closely associated with the Lokmanya Tilak and the Home Rule Movement. He is credited with the coining of the popular phrase "Swaraj is my Birthright and I shall have it". He was elected as the Mayor of Bombay in 1925. He was given the title Kaka that means "uncle".
+
+Question: Based on this passage, who coined the term swaraj is my birthright?
+Student B:OK... This is the relevant information: He is credited with the coining of the popular phrase "Swaraj is my Birthright and I shall have it".
+Joseph `` Kaka '' Baptista.
+
+Problem:Context: Common-law marriage in the United States can still be contracted in the District of Columbia as well as in the following nine states: Colorado, Iowa, Kansas, Montana, Oklahoma, Rhode Island, South Carolina, Texas, and Utah.
+
+Question: what are the common law states in the united states?
+Solution:OK... To answer this question, we should know that: Common-law marriage in the United States can still be contracted in the District of Columbia as well as in the following nine states: Colorado, Iowa, Kansas, Montana, Oklahoma, Rhode Island, South Carolina, Texas, and Utah.
+Colorado , Iowa , Kansas , Montana , Oklahoma , Rhode Island , South Carolina , Texas , and Utah.
+
+Student A:Context: Clara Edwards (originally Bertha Edwards, Bertha Johnson and then Clara Johnson) is a fictional character on the American television sitcom The Andy Griffith Show (1960 -- 1968). Clara was portrayed by actress Hope Summers.
+
+Question: who plays clara johnson on the andy griffith show?
+Student B:OK... The relevant information to answer the above question is: Clara was portrayed by actress Hope Summers.
+Hope Summers.
+
+Problem:Passage: Elizabeth Ann Theresa "Betty" Lynn (born August 29, 1926) is a former American actress. She is best known for her role as Thelma Lou, Deputy Barney Fife's girlfriend, on The Andy Griffith Show.
+
+Question: Based on this passage, who played thelma lou on the andy griffith show?
+Solution:OK... This is the relevant information: She is best known for her role as Thelma Lou, Deputy Barney Fife's girlfriend, on The Andy Griffith Show.
+Elizabeth Ann Theresa `` Betty '' Lynn.
+
+Student A:Context: Perumal Murugan is an Indian author, scholar and literary chronicler who writes novels in Tamil. He has written six novels, four collections of short stories and four anthologies of poetry to his credit. Three of his novels have been translated into English: Seasons of the Palm, which was shortlisted for the Kiriyama Prize in 2005, Current Show and One Part Woman. He was a professor of Tamil at the Government Arts College in Namakkal.
+
+Question: the book one part woman has been authored by whom?
+Student B:OK... To answer the question, consider the following: Three of his novels have been translated into English: Seasons of the Palm, which was shortlisted for the Kiriyama Prize in 2005, Current Show and One Part Woman.
+Perumal Murugan.
+
+Student A:The hip bone is formed by three parts: ilium, ischium, and pubis. At birth, these three components are separated by hyaline cartilage. They join each other in a Y-shaped portion of cartilage in the acetabulum. By the end of puberty the three regions will have fused together, and by the age of 25 they will have ossified. The two hip bones join each other at the pubic symphysis. Together with the sacrum and coccyx, the hip bones form the pelvis.
+
+Answer this question based on the passage: where do the ilium the ischium and the pubis meet?
+Student B:

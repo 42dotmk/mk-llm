@@ -1,0 +1,34 @@
+Problem:Dana Air is a Nigerian airline headquartered in Ikeja and based out of Lagos's Murtala Muhammed International Airport.
+
+Answer this question: where does dana air take off from in lagos?
+Solution:OK... The relevant information is: Dana Air is a Nigerian airline headquartered in Ikeja and based out of Lagos's Murtala Muhammed International Airport.
+Murtala Muhammed International Airport.
+
+Student A:Within the executive branch itself, the president has broad powers to manage national affairs and the priorities of the government. The president can issue rules, regulations, and instructions called executive orders, which have the binding force of law upon federal agencies but do not require approval of the United States Congress. Executive orders are subject to judicial review and interpretation.
+
+Based on this passage, what can the president do without congress approval?
+Student B:OK... The relevant information to answer the above question is: The president can issue rules, regulations, and instructions called executive orders, which have the binding force of law upon federal agencies but do not require approval of the United States Congress.
+issue rules , regulations , and instructions called executive orders.
+
+Problem:Context: In Australia the dimensions are defined in AS2890 and are 2.4 m wide by 5.4 m long
+
+Question: average size of a car parking space australia?
+Solution:OK... The relevant sentence in the passage is: In Australia the dimensions are defined in AS2890 and are 2.4 m wide by 5.4 m long
+2.4 m wide by 5.4 m long.
+
+Student A:"Remember Me" is a song from the 2017 animated Pixar film Coco, written by Robert Lopez and Kristen Anderson-Lopez. The song is performed variously within the film by Benjamin Bratt, Gael García Bernal, Anthony Gonzalez, and Ana Ofelia Murguía. Miguel and Natalia Lafourcade perform a pop version of the song that is featured in the film's end credits. Carlos Rivera recorded a cover version of the song, titled "Recuérdame" for the film's Spanish-language soundtrack album. It won Best Original Song at the 90th Academy Awards in 2018.
+
+Who sings remember me in the coco credits?
+Student B:OK... The relevant information to answer the above question is: Miguel and Natalia Lafourcade perform a pop version of the song that is featured in the film's end credits.
+Miguel and Natalia Lafourcade.
+
+Problem:Charlotte's Web is a children's novel by American author E.B. White and illustrated by Garth Williams; it was published on October 15, 1952, by Harper & Brothers. The novel tells the story of a livestock pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur (such as "Some Pig") in her web in order to persuade the farmer to let him live.
+
+What is the pig called in charlotte's web?
+Solution:OK... The relevant information to answer the above question is: The novel tells the story of a livestock pig named Wilbur and his friendship with a barn spider named Charlotte.
+Wilbur.
+
+Problem:Joseph Gladwin (22 January 1906 -- 11 March 1987) was an English actor, best known in his roles as myopic Stan Hardman in Nearest and Dearest from 1968-73, and Wally Batty in the world's longest-running sitcom, Last of the Summer Wine (1975, 1976-87).
+
+Who played wally in last of the summer wine?
+Solution:

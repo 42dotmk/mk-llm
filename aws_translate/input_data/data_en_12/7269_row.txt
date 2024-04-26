@@ -1,0 +1,23 @@
+# QUESTION
+The Pittsburgh Steelers (6 -- 2) have won the most Super Bowls with six championships, while the New England Patriots (5 -- 5), the Dallas Cowboys (5 -- 3), and the San Francisco 49ers (5 -- 1) have five wins. New England has the most Super Bowl appearances with ten, while the Buffalo Bills (0 -- 4) have the most consecutive appearances with four (all losses) from 1990 to 1993. The Miami Dolphins are the only other team to have at least three consecutive appearances: 1972 -- 1974. The Denver Broncos (3 -- 5) and Patriots have each lost a record five Super Bowls. The Minnesota Vikings (0 -- 4) and the Bills have lost four. The record for consecutive wins is two and is shared by seven franchises: the Green Bay Packers (1966 -- 1967), the Miami Dolphins (1972 -- 1973), the Pittsburgh Steelers (1974 -- 1975 and 1978 -- 1979, the only team to accomplish this feat twice), the San Francisco 49ers (1988 -- 1989), the Dallas Cowboys (1992 -- 1993), the Denver Broncos (1997 -- 1998), and the New England Patriots (2003 -- 2004). Among those, Dallas (1992 -- 1993; 1995) and New England (2001; 2003 -- 2004) are the only teams to win three out of four consecutive Super Bowls. The 1972 Dolphins capped off the only perfect season in NFL history with their victory in Super Bowl VII. The only team with multiple Super Bowl appearances and no losses is the Baltimore Ravens, who in winning Super Bowl XLVII defeated and replaced the 49ers in that position. Four current NFL teams have never appeared in a Super Bowl, including franchise relocations and renaming: the Cleveland Browns, Detroit Lions, Jacksonville Jaguars, and Houston Texans, though both the Browns (1964) and Lions (1957) had won NFL championship games prior to the creation of the Super Bowl.
+
+Answer this question: who won the super bowl 2 years in a row?
+# ANSWER
+This is the relevant information: The record for consecutive wins is two and is shared by seven franchises: the Green Bay Packers (1966 -- 1967), the Miami Dolphins (1972 -- 1973), the Pittsburgh Steelers (1974 -- 1975 and 1978 -- 1979, the only team to accomplish this feat twice), the San Francisco 49ers (1988 -- 1989), the Dallas Cowboys (1992 -- 1993), the Denver Broncos (1997 -- 1998), and the New England Patriots (2003 -- 2004).
+FINAL ANSWER: the Green Bay Packers ( 1966 -- 1967 )
+
+
+# QUESTION
+Little Italy is a neighborhood in lower Manhattan, New York City, once known for its large population of Italian Americans. Today the neighborhood consists of only a few Italian stores and restaurants. It is bounded on the west by Tribeca and Soho, on the south by Chinatown, on the east by the Bowery and Lower East Side, and on the north by Nolita.
+
+Answer this question based on the passage: where is little italy in new york city?
+# ANSWER
+This is the relevant information: Little Italy is a neighborhood in lower Manhattan, New York City, once known for its large population of Italian Americans.
+FINAL ANSWER: lower Manhattan
+
+
+# QUESTION
+Passage: Considered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million (some sources say $310-$330 million), the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country. Each film in the series also had special extended editions released on DVD a year after their respective theatrical releases. While the films follow the book's general storyline, they do omit some of the novel's plot elements and include some additions to and deviations from the source material.
+
+Question: Based on this passage, where did lord of the rings get filmed?
+# ANSWER

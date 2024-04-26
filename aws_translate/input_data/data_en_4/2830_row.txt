@@ -1,0 +1,27 @@
+Reasoning and answer: Julian's number of friends who are girls is .40 * 80 = 32. Boyd has twice as many friends as Julian who are girls, a total of 2 * 32 = 64. If Boyd has 100 friends, he has 100 - 64 = 36 boys. The percentage of boys in Boyd's Facebook friends is 36 / 100 * 100 = 36.
+The answer: 36
+What was the question?
+Question: Julian has 80 Facebook friends. 60% are boys and 40% are girls. Boyd has twice as many friends who are girls and has 100 friends total. What percentage of Boyd’s friends are boys?
+
+Julia buys 4 * 3 = 12 pens. Dorothy buys 12 / 2 = 6 pens. The total number of pens purchased is 4 + 12 + 6 = 22 pens. The total cost of the pens is 22 * $1.50 = $33.
+The answer: 33
+Reverse engineering the question: Dorothy, Julia, and Robert go to the store to buy school supplies. Dorothy buys half as many pens as Julia. Julia buys three times as many pens as Robert. Robert buys 4 pens. If one pen costs $1.50, how much money did the three friends spend in total on pens?
+
+Reasoning and answer: If it took Hadassah six hours to paint 12 paintings, then she paints 12 / 6 = 2 paintings in an hour. If two paintings take an hour to complete, 20 paintings will take 20 / 2 = 10 hours. The total time she took to finish all the paintings is 10 + 6 = 16 hours.
+The answer: 16
+What was the question?
+Question: Hadassah took six hours to paint 12 paintings. What would be the total time she's taken to finish all the paintings if she paints 20 more paintings?
+
+The last 3 students had an average completion time of 35 seconds so the sum of their completion times was 3 * 35 = 105 seconds. All 4 students (now including the student who came first) had an average completion time of 30 seconds, meaning the sum of their completion times is 4 * 30 = 120 seconds. The student who came first spent 120 - 105 = 15 seconds in the race.
+The answer: 15
+Reverse engineering the question: 4 students participated in a 200m race. If the average completion time of the last three students was 35 seconds, and the average completion time of all four runners was 30 seconds, how long (in seconds) did it take the student who came first to finish the race?
+
+Reasoning and answer: The total number of girls in the choir is 80 + 10 = 90 girls. The total number of blondes in the choir after 10 more are added is 30 + 10 = 40 blonde - haired girls. From the total number, the number of black - haired girls is 90 - 40 = 50 black - haired - girls.
+The answer: 50
+What was the question?
+Question: Lizzy's school choir has a mixture of 80 blonde and black-haired girls. Their teacher decides to add 10 more girls to the choir, who turns out to be blonde. If there were 30 blonde-haired girls in the choir initially, how many black-haired girls are present?
+
+Reasoning and answer: The number of red flowers is twice as many as orange so 2 * 10 orange = 20 red flowers. The number of yellow flowers is 5 less than red so 20 red - 5 = 15 yellow flowers. The number of red, orange and yellow flowers is 20 red + 10 orange + 15 yellow = 45 flowers. The number of pink and purple flowers total is 105 flowers total - 45 flowers that are not pink or purple = 60 flowers. The number of pink and purple flowers each is 60 flowers / 2 = 30 flowers each.
+The answer: 30
+What was the question?
+Question:

@@ -1,0 +1,24 @@
+In 2016, both Android and iOS had their unique advantages and made significant progress, so comparing them requires looking at various aspects and use-cases.
+
+First, let's discuss the two statements in the questions to understand the context:
+
+1. Is Android better than iOS in 2016?
+2. Does iOS really work better than Android?
+
+These two questions are similar but not exactly the same. While the first question focuses on a direct comparison of Android and iOS in 2016, the second question implies that iOS is widely considered to work better than Android and asks about the validity of this belief.
+
+To make a comparison between the two, we can look at the following aspects:
+
+1. Customization: One of the biggest strengths of Android in 2016 was its customization capabilities. Users could personalize their devices by adding widgets, changing app icons, and installing custom launchers. This freedom made Android more appealing to those who wanted a tailored user experience. On the other hand, iOS had limited customization options, keeping the interface more homogeneous.
+
+2. App Quality: Generally, iOS had a reputation for delivering high-quality applications. Since it had fewer device models and strict guidelines, developers could optimize their apps for a specific resolution and hardware configurations, resulting in smoother performance. Android, being open source, had a wider range of devices with varying resolutions and hardware capabilities, making it a challenge for developers to ensure a consistent user experience.
+
+3. Security: iOS is well-known for its strong security measures due to Apple's closed ecosystem and strict app review process. This made it less prone to malware and viruses, especially in comparison to Android. Android, with its open nature, was more likely to encounter security breaches. However, Google made significant efforts to improve the security of Android devices with features like Google Play Protect and Android Nougat's granular app permission controls.
+
+4. Hardware & Price Range: In terms of hardware, Android devices offered a broader choice of manufacturers and price ranges, catering to different budgets. This flexibility allowed customers to choose a device that met their specific needs and preferences. In contrast, Apple's iOS devices were limited to iPhones, which were typically more expensive and had fewer hardware options.
+
+5. Software Updates: Apple prided itself on providing timely software updates to iOS devices, including those that were relatively old. This was a significant advantage over Android, where the number of devices and manufacturers often led to delayed updates or older devices being left with outdated software.
+
+6. Ecosystem Integration: Apple's ecosystem of devices, like Macs, iPads, and Apple Watches, all worked seamlessly with iPhones, making them more appealing to users who were looking to have a unified experience. In comparison, Android was not as closely integrated with other devices, although there were exceptions with certain manufacturers.
+
+In conclusion, deciding whether Android or iOS was better in 2016 depends on an individual's preferences and needs. Android offered greater customization and a wider choice of devices at different price points, while iOS was known for its higher quality apps, increased security, prompt software updates, and ecosystem integration. The two questions provided are inquiring about similar information, but the second question seeks to examine if iOS genuinely had a performance advantage over Android.

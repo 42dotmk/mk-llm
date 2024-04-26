@@ -1,0 +1,36 @@
+Ans: 1897
+Ques: Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduced Count Dracula, and established many conventions of subsequent vampire fantasy. The novel tells the story of Dracula's attempt to move from Transylvania to England so that he may find new blood and spread the undead curse, and of the battle between Dracula and a small group of men and a woman led by Professor Abraham Van Helsing.
+
+Based on this passage, when did bram stoker's dracula come out?
+CoT: The relevant sentence in the passage is: Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker.
+
+
+Ans: a forested area of New York state
+Ques: My Side of the Mountain is a children or young adult adventure novel written and illustrated by American writer Jean Craighead George published by E.P. Dutton in 1959. It features a boy who learns about courage, independence, and the need for companionship while attempting to live in a forested area of New York state. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name. George continued the story in print, decades later.
+
+Based on this passage, where does my side of the mountain take place?
+CoT: To answer this question, we should know that: It features a boy who learns about courage, independence, and the need for companionship while attempting to live in a forested area of New York state.
+
+
+Answer: Art Fleming. Now, what could be the question and solution-maybe?
+Ques: Passage: Arthur Fleming Fazzin (May 1, 1924 -- April 25, 1995), better known as Art Fleming, was an American actor and television host. He is most notable for being the original host of the television game show Jeopardy!, which aired on NBC from 1964 until 1975.
+
+Question: Based on this passage, who was the original host of the 1960's jeopardy tv game show?
+CoT: The relevant information is: He is most notable for being the original host of the television game show Jeopardy!, which aired on NBC from 1964 until 1975.
+
+
+Ans: the Ed Sullivan Theater in New York City
+Ques: The program is taped at the Ed Sullivan Theater in New York City and airs live to tape in most U.S. markets at 11: 35 p.m. Eastern and Pacific, and 10: 35 in the Central.
+
+Based on this passage, where is late night with stephen colbert filmed?
+CoT: The relevant information to answer the above question is: The program is taped at the Ed Sullivan Theater in New York City and airs live to tape in most U.S. markets at 11: 35 p.m. Eastern and Pacific, and 10: 35 in the Central.
+
+
+Ans: the Albatros Course of Le Golf National in Saint - Quentin - en - Yvelines , a suburb southwest of Paris
+Ques: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 at the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris. It will be the second Ryder Cup to be held in Continental Europe, after the 1997 contest, which was held in Spain. The United States are the defending champions, but last won in Europe in 1993, a quarter century earlier.
+
+Based on this passage, where is the 2018 ryder cup being held?
+CoT: The relevant information to answer the above question is: The 42nd Ryder Cup Matches will be held in France from 28 -- 30 September 2018 at the Albatros Course of Le Golf National in Saint-Quentin-en-Yvelines, a suburb southwest of Paris.
+
+
+Answer: after correlations are confirmed as real and all causational relationship are systematically explored using large enough data sets. Now, what could be the question and solution-maybe?

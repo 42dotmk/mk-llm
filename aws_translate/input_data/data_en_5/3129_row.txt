@@ -1,0 +1,19 @@
+Q: "I'm Lovin' It" is a song recorded by American singer-songwriter Justin Timberlake. The song was produced by The Neptunes and is credited as being written by Pharrell Williams, Tom Batoy, Andreas Forberger and Franco Tortora.
+
+Answer this question based on the passage: who has sung the mcdonald's jingle i am loving it?
+A: American singer - songwriter Justin Timberlake. How to explain the answer? The relevant information is: "I'm Lovin' It" is a song recorded by American singer-songwriter Justin Timberlake.
+
+Q: Major Tom is a fictional astronaut referenced in David Bowie's songs "Space Oddity", "Ashes to Ashes", "Hallo Spaceboy", "New Killer Star" and music video "Blackstar". Bowie's own interpretation of the character evolved throughout his career. "Space Oddity" (1969) depicts an astronaut who casually slips the bonds of the world to journey beyond the stars. In the song "Ashes to Ashes" (1980), Bowie reinterprets Major Tom as an oblique autobiographical symbol for himself. Major Tom is described as a "junkie, strung out in heavens high, hitting an all-time low". This lyric was interpreted as a play on the title of Bowie's album Low (1977), which charted his withdrawal following his drug abuse in the United States. Additionally, the choked and self-recriminating tone used in the lyrics "Time and again I tell myself I'll stay clean tonight." reinforces an autobiographical and retrospective interpretation. A short time later, there is another reversal of Major Tom's original withdrawal, turning' outwards' or towards space.
+
+Answer this question based on the passage: who sings this is ground control to major tom?
+A: David Bowie. How to explain the answer? To answer the above question, the relevant sentence is: Major Tom is a fictional astronaut referenced in David Bowie's songs "Space Oddity", "Ashes to Ashes", "Hallo Spaceboy", "New Killer Star" and music video "Blackstar".
+
+Q: Marine habitats can be divided into coastal and open ocean habitats. Coastal habitats are found in the area that extends from as far as the tide comes in on the shoreline out to the edge of the continental shelf. Most marine life is found in coastal habitats, even though the shelf area occupies only seven percent of the total ocean area. Open ocean habitats are found in the deep ocean beyond the edge of the continental shelf.
+
+Answer this question based on the passage: where are the majority of marine organisms found?
+A: coastal habitats. How to explain the answer? The relevant information is: Most marine life is found in coastal habitats, even though the shelf area occupies only seven percent of the total ocean area.
+
+Q: The Carr Fire is a wildfire burning in Shasta and Trinity Counties in California, United States. As of August 12, 2018, the fire had burned 202,976 acres (821 km; 317 sq mi) and is 61 % contained. It is the sixth-most destructive fire in California history. The fire was reported on the afternoon of July 23, 2018, at the intersection of Highway 299 and Carr Powerhouse Road in the Whiskeytown district of the Whiskeytown -- Shasta -- Trinity National Recreation Area. The fire was started when a flat tire on a vehicle caused the wheel's rim to scrape against the asphalt, thus creating sparks.
+
+Answer this question: what is the location of the carr fire?
+A:

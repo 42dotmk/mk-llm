@@ -1,0 +1,25 @@
+He has 2,000 pounds of fish because 10 x 200 = 2,000. He has enough for 80 customers because 2,000 / 25 = 80. 20 customers go home without any fish because 100 - 80 = 20.
+The answer: 20
+Reverse engineering the question: Mr. Ray has 100 customers waiting at his fish market. He has 10 tuna, each of which weighs 200 pounds. Each customer wants 25 pounds of tuna. Mr. Ray's store is first come, first served. How many customers will go home without any fish?
+
+Reasoning and answer: We know that the time that Anna spends traveling is 20 minutes less than Jenny's travel time: a = j - 20. We also know that the distance both people travel is equal, so their speeds times their travel times must be equal: 15j = 45a. Substituting the first equation into the second equation, we get 15j = 45(j - 20). Multiplying through the parentheses we get 15 j = 45j - 900. Subtracting 45 j from both sides, we get - 30j =  - 900. Dividing both sides by - 30, we get j = 30. Since Anna travels 20 minutes less than Jenny, she traveled 30 minutes - 20 minutes = 10 minutes.
+The answer: 10
+What was the question?
+Question: Jenny leaves her house at 8:00 with some cupcakes for her daughter's birthday party at school. She jogs to the school at 15 miles per hour. Half an hour later, her wife Anna realizes that Jenny used peanut butter frosting because she forgot one of the kids in the class had a severe peanut allergy. Jenny doesn't have her cell phone, so Anna leaves the house driving at 45 miles her hour to catch Jenny and warn her. How long does Anna spend traveling in minutes?
+
+April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = 26 days. If each day he earned $10, he ends up with 26 days * $10 / day = $260 . After buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $160.
+The answer: 160
+Reverse engineering the question: John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?
+
+Reasoning and answer: Alone it would take him 9 * 20 = 180 minutes. With his brother, it would take him 12 * 20 = 240 minutes. 240 - 180 = 60 more minutes.
+The answer: 60
+What was the question?
+Question: It takes Derek 9 minutes to walk a mile if he doesn't have to walk with his brother. If he has to take his brother it takes 12 minutes to walk a mile. How many minutes longer would it take him to walk 20 miles if he had to take his brother?
+
+Bella receives 2 x 12 = 24 roses from her parents. She receives 2 x 10 = 20 roses from her friends. She receives a total of 24 + 20 = 44 roses.
+The answer: 44
+Reverse engineering the question: After Bella’s ballet performance, she received 2 dozen roses from her parents, and 2 roses from each of her 10 dancer friends. How many roses did Bella receive?
+
+First find the total number of rings in a ring group: 2 rings + 4 rings = 6 rings. Then subtract the number of ring groups in the second tree from the number in the first tree to find the difference: 70 groups - 40 groups = 30 groups. Then multiply that number by the number of rings in a group to find the difference in the trees' ages: 30 groups * 6 rings / group = 180 rings, or 180 years.
+The answer: 180
+Reverse engineering the question:

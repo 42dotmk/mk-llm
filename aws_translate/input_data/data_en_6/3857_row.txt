@@ -1,0 +1,27 @@
+Article:After a three night marathon on the quiz show Jeopardy, Watson emerged victorious to win a $1million (£622,000) prize.
+The computer's competitors were two of the most successful players ever to have taken part in Jeopardy.
+But in the end their skill at the game was no match for Watson.
+Ken Jennings had previously notched up 74 consecutive wins on the show - the most ever - while Brad Rutter had won the most amount of money, $3million (£1.9m).
+"I for one welcome our new computer overlords," Mr Jennings wrote along with his correct final Jeopardy question.
+But the victory for Watson and IBM was about more than money. It was about ushering in a new era in computing where machines will increasingly be able to learn and understand what humans are really asking them for.
+Jeopardy is seen as a significant challenge for Watson because of the show's rapid fire format and clues that rely on subtle meanings, puns, and riddles; something humans excel at and computers do not.
+On the night of the grand finale, IBM announced a research agreement with speech recognition firm Nuance Communications, to "explore, develop and commercialise" the Watson computing system's advanced analytics capabilities in the health care industry.
+The technology behind Watson has the ability to scan and analyse information from many more resources than a human can in a short period of time, potentially aiding doctors in diagnosing patients quickly.
+"We can transform the way that health care professionals accomplish everyday tasks by enabling them to work smarter and more efficiently," said Dr John E Kelly III, senior vice president and director of IBM research.
+Other possible applications for Watson's technology include dealing with big sets of data commonly found in the legal and financial worlds.
+There is little doubt that Watson's win stirred up a host of emotions.
+Paul Miller of the technology blog Engadget.com was moderately impressed.
+"It's obvious that IBM's DeepQA research programme has developed some of the most sophisticated natural language AI known to man. At the same time, Jeopardy questions aren't really that hard... all three contestants knew the answer most of the time, but Watson was just quicker on the draw.
+"Of course, it's no surprise that computers have quicker reflexes, so why shouldn't Watson get to use his inbuilt advantage to the utmost? It seems like a fair fight to us."
+Daniel Terdiman of news website CNet watched the final with IBM staff at an event at the company's Silicon Valley research centre.
+"I was rooting for the humans," he said.
+Twitter was alight with praise and condemnation for the machine's victory.
+The comments ranged from "Robot Apocalypse, here we come" to "IBM's Watson dominates Ken Jennings, turns attention to plotting our demise".
+One user wrote: "next challenge for #Watson: The Price is Right".
+The final Jeopardy category was 19th century novelists.
+And the answer: William Wilkinson's "An Account of the Principalities of Wallachia and Moldavia" inspired this author's most famous novel.
+The question - which all three contestants got right was "Who is Bram Stoker?"
+Watson wagered $17,973 (£11,154) to cement his victory.
+In the end Watson accumulated $77,147 (£47,923) versus Mr Jennings' total of $24,000 (£14,907) and Mr Rutter's $21,600 (£12,416).
+
+Summarize the main points of that article.

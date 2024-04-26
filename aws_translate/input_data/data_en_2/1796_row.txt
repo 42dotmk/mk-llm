@@ -1,0 +1,27 @@
+Reasoning and answer: He has 2 horses, 5 dogs, 7 cats, 3 turtles and 1 goat so in total he has 2 + 5 + 7 + 3 + 1 = 18 animal. Each animal has 4 legs so 18 * 4 = 72 legs total.
+The answer: 72
+What was the question?
+Question: Over several years, Daniel has adopted any stray animals he sees on the side of the road. He now has 2 horses, 5 dogs, 7 cats, 3 turtles, and 1 goat. All of the animals are perfectly healthy. In total, how many legs do his animals have?
+
+The team's total number of goalies and defenders is 3 + 10 = 13. The number of midfielders in the team is twice the number of defenders, which means there are 2 * 10 = 20 defenders in the team. The total number of players in the team playing the positions of goalies, defenders and midfielders is 20 + 13 = 33. If there are 40 players in the team, then the number of strikes in the team is 40 - 33 = 7.
+The answer: 7
+Reverse engineering the question: A soccer team has three goalies and ten defenders. The team also has twice as many midfielders as defenders, and the rest of the players are strikers. If the team has 40 players, how many strikers are in the team?
+
+Reasoning and answer: If the box has four dozen bottles of water, there are 4 * 12 = 48 bottles of water in the box. After the first half, the 11 players take 11 * 2 = 22 bottles of water from the box. If they take 11 more bottles of water at the end of the game, the number increases to 22 + 11 = 33 bottles of water taken. Without the bottles taken, there are 48 - 33 = 15 bottles of water remaining in the box.
+The answer: 15
+What was the question?
+Question: Samira is the assistant coach of a soccer team playing against one of the best teams in their league. She has four dozen water bottles filled with water in a box. In the first break of the match, the 11 players on the field each take two bottles of water from Samira's box, and at the end of the game, take one more bottle each. How many bottles of water are remaining in Samira's box?
+
+The dogs have 16 total legs because 4 times 4 equals 16. The cats have 12 total legs because 4 times 3 equals 12. There are 28 total legs because 16 plus 12 equals 28. She needs to buy 14 pairs because 28 divided by two equals 14.
+The answer: 14
+Reverse engineering the question: Haleigh needs to buy leggings for her pet animals. She has 4 dogs and 3 cats. How many pairs of leggings does she need?
+
+Reasoning and answer: The conference center can hold up to 80 x 6 = 480 people. Today, there are 480 x 2 / 3 = 320 people in the conference center.
+The answer: 320
+What was the question?
+Question: A conference center has six rooms. Each room can hold up to 80 people. Today, the conference center is only 2/3 full. How many people are in the conference center?
+
+Reasoning and answer: On Saturday, he threw the ball 20 times, and since the temperature was 50 degrees, he could throw only 20 yards, totaling 20 * 20 = 400 yards. On Sunday, the temperature favored him, and he threw the ball twice the distance he could throw on Saturday, which is 2 * 20 = 40 yards. If he threw the ball 30 times, he threw for 30 * 40 = 1200 yards. In the two days, he threw 1200 + 400 = 1600 yards.
+The answer: 1600
+What was the question?
+Question:

@@ -1,0 +1,80 @@
+Article:
+Getty Magnus Carlsen has just won the World Chess Championship by drawing Viswanathan Anand in Game 10 of the best-of-12 match. 
+  
+ Carlsen finishes the historic victory with a 6.5 to 3.5 score, having won twice as black and once as white. 
+  
+ Magnus Carlsen is only 22, so because of his youth there's a lot of talk about "the passing the torch" to a new generation of players. 
+  
+ At 43, Anand is from of the era of Kasparov (50) and other greats from the '90s. But to just focus on the age of the players misses the even bigger symbolism, which is that we're entering a totally new post-modern era of human chess. 
+  
+ In the old days, high-level chess was a swashbuckling game filled with daring piece sacrifices and head-spinning multi-move combinations where the winner would pull off wins seemingly out of nowhere. 
+  
+ Here's a beautiful game from 1857, where the American player Paul Morphy (playing as black) sacrificed his queen on his way to a crushing victory. You can quickly click the arrow buttons below to play through the game fast, and see how Morphy dominated his opponent despite his lack of a queen. 
+  
+ This era of chess is also known as the "romantic" era. Between the daringness and drama of this, it's not hard to see why. 
+  
+ As the study of chess became more rigorous, these wild games became more and more rare at the highest level, as daring (but theoretically weak) combinations became more easy to repel. 
+  
+ That doesn't mean chess players stopped winning games via jaw-dropping combinations. 
+  
+ This 1956 match between Donald Byrne and Bobby Fischer is sometimes called The Game Of The Century. Fischer was just 13 (!!) when he won by sacrificing his queen on move 17, only to win 24 moves later. 
+  
+ Sadly (for fans) these kind of ridiculous-looking games have gotten more rare. 
+  
+ Modern chess champions have won by building crushing, airtight, positional superiorities against their opponents, grinding them down and forcing a resignation. The chess is amazing, although frequently less of a high-wire act. 
+  
+ Which brings us to the current match between Carlsen and Anand. 
+  
+ After the first two games of the best-of-12 series, we lamented that the tournament was off to a disastrous start. The first two games were totally boring draws, with neither player comfortable going off "book." In other words, the players spend so much time studying positions (and their opponents' play) with computers that by the time the players get to the table, much of the gamesmanship is already finished. There's a lot of hesitation to uncork a novelty on the board if it isn't something that's been backed up by hours of analysis by software programs (which at this point are better at chess than actual humans). 
+  
+ Since those first two games, things have gotten more exciting, which is obvious as Carlsen has won three games. But the manner of the victories is interesting and tells us something important. In each game, Anand had decent chances to draw, but made some late-game blunder that gave Carlsen the victory. 
+  
+ In today's match, actually, Anand playing as white had the initiative with a strong pawn position bearing down on Carlsen's castled king. But Anand blundered at the end, allowing Carlsen to gain an extra queen, without a clear chance to mate. Anand definitely had winning chances and probably could have drawn, but he screwed up. 
+  
+ // var cbeOptions = { layout: "1", room: "cbtest-wcc1", game: "09-Anand_Viswanathan-Carlsen_Magnus", annotations: true }; // 
+  
+ Live chess broadcast powered by ChessBomb and Chessdom 
+  
+ This is, essentially how all the decisive games have gone. There's a chance for a draw, and Anand cracks under the pressure, while Magnus plays flaw-free chess. Magnus is just crushing Anand on the psychological game. And he does it in multiple ways. For one thing, if you've been watching the game you see that Magnus frequently just gets up and walks away from the table after he moves, which has to be unnerving. 
+  
+ Also this is fascinating, from Tyler Cowen (via Kottke): 
+  
+ Second, Carlsen is demonstrating one of his most feared qualities, namely his "nettlesomeness," to use a term coined for this purpose by Ken Regan. Using computer analysis, you can measure which players do the most to cause their opponents to make mistakes. Carlsen has the highest nettlesomeness score by this metric, because his creative moves pressure the other player and open up a lot of room for mistakes. In contrast, a player such as Kramnik plays a high percentage of very accurate moves, and of course he is very strong, but those moves are in some way calmer and they are less likely to induce mistakes in response. 
+  
+ This is our new era of post-modern chess. It's not about uncorking crazy, romantic brilliancies. And it's not about achieving crushing, positional victories. It's about being as cool as a computer while your opponent does things that are, well, human. ||||| The Chess World Championship is currently underway in Chennai, India. Through nine games, challenger and world #1 Magnus Carlsen is leading reigning world champ and world #8 Viswanathan Anand by the score of 6-3. It seems as though Carlsen’s nettlesomeness is contributing to his good fortunes. 
+  
+ Second, Carlsen is demonstrating one of his most feared qualities, namely his “nettlesomeness,” to use a term coined for this purpose by Ken Regan. Using computer analysis, you can measure which players do the most to cause their opponents to make mistakes. Carlsen has the highest nettlesomeness score by this metric, because his creative moves pressure the other player and open up a lot of room for mistakes. In contrast, a player such as Kramnik plays a high percentage of very accurate moves, and of course he is very strong, but those moves are in some way calmer and they are less likely to induce mistakes in response. 
+  
+ Or perhaps Carlsen’s just inspired by the lovely chess set they’re using? Either way, he needs just one draw in the remaining three games to win the Championship. Or putting it another way, Anand has to win all three of the remaining games to retain the title. ||||| World number one Magnus Carlsen toppled local favourite Viswanathan Anand in Chennai to add the world chess championship title to his already impressive resume on Friday. 
+  
+ A draw in the crucial 10th game after 65 moves of play gave the young Norwegian an unassailable lead in the 12-match contest and put an end to Anand’s hopes of retaining the FIDE title he’s held since 2007. 
+  
+ Carlsen, about a week shy of his 23rd birthday, led 6-3 before Friday’s game and needed just a draw to become the first champion from the West since American Bobby Fischer’s reign ended in 1975. 
+  
+ “I really hope that this could have positive effects for chess both in Norway and worldwide,” Carlsen said at the post-match news conference. 
+  
+ Anand, who has slumped to eighth in the rankings, did not win a game in a series billed as the “War of the Wizards”. In this battle of youth and experience that kicked off on Nov. 9, both players started out with draws before the Norwegian won the fifth and sixth games to pull ahead. Anand drew the next two games before Carlsen prevailed in the ninth. 
+  
+ On Friday, Anand was playing with black pieces — a disadvantage as white moves first — and could not make much headway in a game that lasted nearly five hours. 
+  
+ The world title was the one accomplishment that had eluded Carlsen, often called the “Mozart of chess”. He earned the right to challenge Anand by virtue of winning the candidates’ tournament in April. 
+  
+ The baby-faced Norwegian wasn’t even born when Anand became India’s first grandmaster in 1988 and was just 10 when Anand won the first of his five world titles in 2000. 
+  
+ A grandmaster since he was 13, Carlsen now has the highest rating in the history of the game, breaking chess great Garry Kasparov’s record this year. He became the world’s number one at age 19, the youngest player ever to do so. 
+  
+ Kasparov, who coached Carlsen for a while, described him as “a type of Harry Potter” destined “to leave a deep mark” on the game. 
+  
+ A household name in India, Anand is widely credited with firing up the nation’s passion for chess more than two decades ago. Friday’s result was a disappointment for the 43-year-old, who had been the undisputed world champion since 2007. 
+  
+ “This year, I’ve had a lot of problems with mistakes creeping into my game,” Anand said at the post-match news conference. 
+  
+ “(Losing) the fifth game was a heavy blow,” he said, adding that it was time for him “to take stock”. 
+  
+ The 2013 championship, played on a glass-encased, soundproof stage at five-star hotel in Chennai, drew unprecedented media interest, despite reams of newsprint and TV coverage devoted to Sachin Tendulkar’s swansong series happening concurrently in cricket-crazy India. 
+  
+ More than 100 million TV viewers in India and Norway watched the chess championship broadcast, organisers said on the championship website. 
+  
+ This year, the chess title comes with a cash prize of $1.5 million for Carlsen while Anand will receive around $1 million. 
+  
+ (Editing by Amlan Chakraborty; Follow Tony on Twitter @tonytharakan and Amlan @amlan_reuters; This article is website-exclusive and cannot be reproduced in any form without permission) |||||Summary:

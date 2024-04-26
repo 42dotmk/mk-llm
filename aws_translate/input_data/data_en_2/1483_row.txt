@@ -1,0 +1,19 @@
+Consider the Q and A. Q: Jill is painting her 20 toenails and fingernails. She paints 6 of her nails purple, 8 of them blue, and the rest striped. What is the difference in percentage points between the percentage of nails painted blue and the percentage painted striped?
+A: 10
+What is the step-by-step reasoning process?
+Step-by-step reasoning process: First find the total number of striped nails: 20 nails - 6 nails - 8 nails = 6 nails. Then divide the number of blue nails by the number of total nails and multiply by 100% to express the answer as a percentage: 8 blue nails / 20 total nails * 100% = 40%. Then divide the number of striped nails by the number of total nails and multiply by 100% to express the answer as a percentage: 6 striped nails / 20 total nails * 100% = 30%. Then subtract the percentage of striped nails from the percentage of blue nails to find the difference: 40% - 30% = 10%.
+
+Consider the Q and A. Q: Nate is reading a 400-page book. He finished reading 20% of the book. How many pages does he need to read to finish the book?
+A: 320
+What is the step-by-step reasoning process?
+Step-by-step reasoning process: Nate had read 400 x 20 / 100 = 80 pages. So, he still needs to read 400 - 80 = 320 pages to finish the book.
+
+Consider the Q and A. Q: Ishmael was monitoring whales out at sea for conservation purposes. Each time he takes a trip to sea, he sees a different group of whales. On his first trip, he counts 28 male whales and twice as many female whales. On his second trip, he sees 8 baby whales, each travelling with their parents. On his third trip, he counts half as many male whales as the first trip and the same number of female whales as on the first trip. In total, how many whales were out at sea during Ishmael’s monitoring?
+A: 178
+What is the step-by-step reasoning process?
+Step-by-step reasoning process: On the first trip, Ishmael sees 28 male whales * 2 = 56 female whales. So in total, he sees 28 male whales + 56 female whales = 84 whales on the first trip. On the second trip, each baby whale travels with its parents which means it travels in a group of 1 baby whale + 2 parents = 3 whales / baby whale. This means there are 8 baby whales * 3 whales / baby whale = 24 whales on the second trip. On the third trip, there are half as many male whales as there were on the first trip, so there must be 28 male whales / 2 = 14 male whales. Adding this to the female whales means he saws 14 males whales + 56 female whales = 70 whales on the third trip. In total, Ishmael saw 84 + 24 + 70 = 178 whales across the three trips.
+
+Consider the Q and A. Q: Veronica's flashlight was bright enough to be seen at night from a distance of 1000 feet. Freddie's flashlight could be seen at night for a distance three times farther than Veronica's flashlight, and Velma's flashlight could be seen at night from a distance 2000 feet less than 5 times farther than Freddie's flashlight. If Veronica's and Velma's flashlight were placed next to one another and turned on at night, how much farther, in feet, could Velma's flashlight be seen compared to Veronica's?
+A: 12000
+What is the step-by-step reasoning process?
+Step-by-step reasoning process:

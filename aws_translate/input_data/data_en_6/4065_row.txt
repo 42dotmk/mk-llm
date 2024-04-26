@@ -1,0 +1,22 @@
+Student A:Rondo played two years of college basketball for the Kentucky Wildcats before he was drafted 21st overall by the Phoenix Suns in the 2006 NBA draft. He was subsequently traded to the Celtics where he played a supporting role during his rookie season. He established himself as the starting point guard for the Celtics during the 2007 -- 08 season, helping the franchise record their 17th NBA championship playing alongside All-Stars Ray Allen, Kevin Garnett and Paul Pierce. His breakout performance came during the 2009 NBA Playoffs, where he averaged a near triple-double, and helped his team take the eventual Eastern Conference champion Orlando Magic to seven games in the Conference Semifinals. Rondo is considered to be one of the premier triple-double threats in the NBA. He ranks 12th in NBA history in career regular season triple-doubles (28), and fourth in career playoff triple-doubles (10).
+
+Based on this passage, how many triple doubles does rondo have in his career?
+Student B:OK... The relevant information to answer the above question is: He ranks 12th in NBA history in career regular season triple-doubles (28), and fourth in career playoff triple-doubles (10).
+career regular season triple - doubles ( 28 ) , and fourth in career playoff triple - doubles ( 10 ).
+
+Student A:Báez or Baez is a surname of Hispanic origin meaning son of Pelayo (Peláez > Páez > Báez). As of 2008, it was the 20th most popular surname in Paraguay.
+
+Where does the last name baez originate from?
+Student B:OK... To answer the question, consider the following: Báez or Baez is a surname of Hispanic origin meaning son of Pelayo (Peláez > Páez > Báez).
+Hispanic origin.
+
+Student A:Context: A year later, the four have their first major performance as the Four Horsemen in an elaborate Las Vegas show funded by insurance magnate Arthur Tressler (Michael Caine). Their final trick appears to transport one of the audience members to the vault of his bank, the Crédit Républicain in Paris, where stacks of new euro bills are stored. At the magicians' command, the fans in the vault activate, drawing the bills into the vents and then showering the Las Vegas crowd with them. The euros are shown to be real, and the vault in Paris is found to be empty of its recent shipment of euros. FBI agent Dylan Rhodes (Mark Ruffalo), and Interpol agent Alma Dray (Mélanie Laurent), are then partnered to investigate the Horsemen. The two question the magicians but have no evidence to hold them. Dylan and Alma turn to Thaddeus Bradley (Morgan Freeman), a former magician who now makes money by explaining the tricks behind magic acts. Thaddeus demonstrates how the Horsemen used a mock vault under the Las Vegas stage and says that the group must have stolen the money in Paris before it arrived at the bank, replacing it with flash paper that left no evidence.
+
+Question: who plays dylan in now you see me?
+Student B:OK... To answer the question, consider the following: FBI agent Dylan Rhodes (Mark Ruffalo), and Interpol agent Alma Dray (Mélanie Laurent), are then partnered to investigate the Horsemen.
+Mark Ruffalo.
+
+Student A:Context: Howard Jerome Morris (September 4, 1919 -- May 21, 2005) was an American actor, voice actor and director who was best known for his role in The Andy Griffith Show as Ernest T. Bass.
+
+Question: who was the actor that played ernest t bass?
+Student B:

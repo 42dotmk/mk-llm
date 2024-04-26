@@ -1,0 +1,23 @@
+# QUESTION
+The Super Bowl ring is an award in the National Football League given to the winners of the league's annual championship game, the Super Bowl. Since only one Vince Lombardi Trophy is awarded to the team (ownership) itself, the Super Bowl ring offers a collectable memento for the actual players and team members to keep for themselves to symbolise their victory.
+
+Answer this question: who gets super bowl rings when a team wins?
+# ANSWER
+To answer the above question, the relevant sentence is: The Super Bowl ring is an award in the National Football League given to the winners of the league's annual championship game, the Super Bowl.
+FINAL ANSWER: the winners of the league 's annual championship game , the Super Bowl
+
+
+# QUESTION
+The denomination of two dollars was authorized under a congressional act, and first used in March 1862. The denomination was continuously used until the 1960s; by this time the United States Note was the only remaining class of U.S. currency the two-dollar bill was assigned to. In 1966 it was decided to discontinue production of all United States Notes, which included the two-dollar bill. The two-dollar denomination was not immediately reassigned to the Federal Reserve Note class of United States currency and was thus fully discontinued; the Treasury Department cited the two-dollar bill's low use and unpopularity as the reason for not immediately resuming use of the denomination. In 1976, production of the two-dollar denomination was resumed and the two-dollar bill was finally assigned as a Federal Reserve Note, with a new reverse design featuring John Trumbull's depiction of the drafting of the United States Declaration of Independence replacing the previous design of Monticello. It has remained a current denomination since then. It was estimated that if the two-dollar bill replaced approximately half of the one-dollar bills in circulation, the federal government would be able to save about $26 million in 1976 dollars ($112 million adjusted for inflation) over the period from 1976 to 1981, due to reduced production, storage, and shipping costs.
+
+Answer this question based on the passage: when did the first 2 dollar bill come out?
+# ANSWER
+The relevant information is: The denomination of two dollars was authorized under a congressional act, and first used in March 1862.
+FINAL ANSWER: March 1862
+
+
+# QUESTION
+"Time After Time" is the second single by American singer-songwriter Cyndi Lauper from her debut studio album, She's So Unusual (1983), with Rob Hyman (co-writer and founding member of the rock band The Hooters) contributing backing vocals. The track was produced by Rick Chertoff and released as a single on January 27, 1984. The song became Lauper's first number 1 hit in the U.S. The song was written in the album's final stages, after "Girls Just Wanna Have Fun", "She Bop" and "All Through the Night" had been written. The writing began with the title, which Lauper had seen in TV Guide magazine, referring to the science fiction film Time After Time (1979).
+
+Answer this question: who is the original singer of time after time?
+# ANSWER

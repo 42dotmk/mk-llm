@@ -1,0 +1,53 @@
+Teacher:In this task, you are given a Reddit post as a text. Your task is to generate a title for this text. The title should start with "TIFU by", followed by a situation that caused humor. The title should contain 7-12 words, ideally.
+Teacher: Now, understand the problem? Solve this instance: Text: obligatory, not today but... about a year and a half ago...
+
+background: i have a congenital heart defect known as a "bicuspid aortic valve". it is not a huge deal, and not uncommon, but can become very serious, and has the potential to see you just drop dead if it is not monitored, especially for the unfortunates that are never diagnosed. basically, blood flows back in with every pump, and the valve can calcify over time and require replacement - the options for which are limited and not ideal. besides getting tired a little easier, and not being able to do things that rapidly raise blood pressure (like power lifting), it doesn't affect me much. however, in 2015, at one of my checkups, it was found that i had developed an aortic aneurysm. i was told that it still had a bit to grow until it became urgent, but also that there was a chance it could burst, and cause, well… you get the point, and this is where the fuckup truly starts.
+
+i had known that i had my condition since i was about twelve, but having it finally present a real and present problem brought it from the abstract to the all-too-real. being the totally not-anxious, happy-go-lucky guy who doesn't know the meaning of existential crisis that i am, i began panicking at every slight chest pain - which i have frequently due to an unrelated condition. *it’s fun, gives me energy, and is a great way to stay in shape.*
+
+a few months later i was driving back from a meeting in a town about 50 minutes away from home, and i began to feel chest pain along with some other disconcerting symptoms: numbness and lack of mobility in my extremities, face tightening, eyelids twitching. after nearly pulling over and calling an ambulance several times, i decided i was close enough to drive myself to the er, so i stopped briefly and used my defunct digits to mash out directions to the nearest hospital on google maps.
+
+about 20 minutes later, i had made it to the hospital, and walked in with what i am sure was a look of sheer terror on my face, as the security guard at the intake didn't bother to ask me to empty my pockets and whatnot. lpt: if you go into an er saying you have a heart condition, and are experiencing chest pain - to the front of the line you go. not sure if this works for other lines, but feel free to try. an older couple waiting (and apparently, not *dying*) were not pleased with my usurping their place in the queue, but we would meet again later.
+
+after the basic hospital intake stuff, and speaking with the doctor, most of my symptoms subsided and i began to feel embarrassed for freaking out. i apologized to the physician multiple times, and sheepishly told him i was just going to go home. after quite a bit of convincing – and worrying about the cost (because i live in the us, and it is generally cheaper to just go ahead and die) – he persuaded me to at least stay and get a ct-scan, just in case. as they moved me to radiology, in obvious “this guy might die” mode, we pass the old man half of the couple from earlier; his eyes apologized for him.
+
+the ct-scan was completed, and i was wheeled back to my room for about 3 minutes before the doctor came back in with a look on his face that you never want to see from an er doctor, police officer, emt, parent, friend, or anyone. ever. 
+
+“your aneurysm has ruptured, and the cardiac surgeon is on his way, but i need you to stay calm to keep it from escalating”
+
+so, of course, insta-panic. after hyperventilating enough to bring back the numbness and twitching (which is what had caused those symptoms in the first place), i did eventually manage – with the help of a very kind nurse – to mellow out a bit and call my family. my brother and girlfriend were waiting at the bar for me, and she did not hear her phone, so i called my brother:
+
+“hey, man. when you comin’? thought you would have been here by now…”
+
+“i need you to call mom and dad right away. my aneurysm ruptured and they are rushing me into emergency surgery. i am at ___________ hospital.”
+
+“oh fuck. fuck. fuck. ok, ok man, i love you. hang on we’ll be right there.”
+
+“ok, thanks. i love you too, little buddy.”
+
+with a quickness that only comes from such a situation, my family showed up in what was both an impossibly short, and absolutely interminable amount of time. the medical team that had by now amassed around me (doctor, several nurses, anesthesiologist, and newly-arrived cardiac surgeon) explained to my family what was happening, and the cardiac surgeon sat down to ask me some questions and explain the procedure. first, he told me that they would try to save the valve as it was still working fine, but would likely have to go ahead and replace it, so i needed to decide if i wanted a tissue (porcine/cadaver), or artificial valve. the former only has about an 8-10 year lifespan before you need to be opened up again; the latter can last a lifetime, but requires blood thinners forever. like i said earlier, not ideal either way, but i was not willing to have to take blood thinners every day to not die at 29. seeing an opportunity to lighten the mood, and after a prompt from my father attempting to do the same, i requested a tiger valve if it wasn’t too much trouble. 
+
+next, the surgeon briefly explained the procedure:
+
+“we are going to open up your chest, and fill your chest cavity with ice to stop your heart while a machine circulates your blood. after fixing the aneurysm, and possibly replacing the valve, we will *try* to revive you.”
+
+try!? why use that word? i mean, maybe some people get some comfort from having what happens next described… i. did. not.
+
+*i know what a lot of you are probably thinking here: “that doesn’t sound like they rushed at all if it was such an emergency”. the entire time from scan results, to going under, was no more than 25 minutes, and i was conscious, my heart rate was stable (but elevated), and my other vitals were good. i am sure they would have moved faster if i had started flopping like a fish and making that awful dying-guy snoring sound.*
+
+so, i begged them not to let me die on my birthday (forgot that lovely tidbit; it was my 29th birthday) as that would be “so fucked up” (because everything was just peachy otherwise), and told them “let’s get on with it then”. moments later i was under, and on my way to the or.
+
+many hours later, i can’t fully recall just how long, i was in a recovery room coming out of the anesthesia. this part was told to me by my family; i do not remember anything but snippets. i very politely asked for a glass of water, and then proceeded – one by one – to inform each member of my family and the medical staff present, that “my balls itch” – “my balls itch” – “my balls itch”. of course, i was groggily itching my balls as i made this important announcement. 
+
+a few more hours pass, and i remember fully coming around. as you could imagine, the first thing i did was to look at my chest for the damage. only, there was none. i was shaved (which sucked for quite a while after as i am hairy like ape), but had no sign of having been operated on. my brother, half-asleep on a chair next to me, saw that i was awake, and i asked him what the fuck was going on. he said it would be better to just wait and let the doctors explain. he went and retrieved the surgeon, who explained that the initial ct-scan had given a false positive. they had me on the operating table, but part of the procedure is to stick an ultrasound device of some kind down the throat to better pinpoint the area of the aneurysm. when they did this, they could not find it, so they sent me back for a “gated” ct-scan, which apparently times the pictures with your heartbeat. why they did not do this in the first place is beyond me, and i didn’t think to ask at the time.
+
+my brother seemed upset that they had almost cut me open for no reason, but i told him it was fine, and that i was just glad to be alive and un-filleted. i was shown the original scan, and even to a lay person, it looked pretty fucking bad; i don’t blame the medical staff one bit for treating it the way they did. one thing i **do** blame them for is not telling me how badly it was going to hurt the first time i peed, due to the catheter that had been inserted (and removed while i was unconscious, thank god).
+
+after a day of observation, “recovery”, and one of the most guilt-free hearthstone binges i will ever be afforded, i was discharged with a blood pressure/heart rate monitor, some beta blockers (blood pressure meds), and mercifully – diazepam. it is over a year later, i have the aneurysm checked every 6-12 months, and its progress is slow enough to give me at least a few more years to pray that medical technology advances far enough to offer me less invasive surgery (this looks promising) and better valve replacement options (haven’t seen anything encouraging here). i still panic a little when i have chest pains, but i have gotten marginally better at managing my reactions – at least enough to have not been to the hospital again.
+
+ 
+
+
+
+edit: thank you all so much for the support and information, i am working on responding to all you wonderful internet strangers, and glad you enjoyed my story. in the mean time, have [this](https://imgur.com/gallery/h1hvh) .
+Student:

@@ -1,0 +1,40 @@
+Part #1: Create a pair of sentences each containing a blank (_).
+Usage: "I filled my ________ with coffee." and "I filled my ________ with water."
+The first part requires the generation of two sentences, each containing a blank space. This is met as two sentences are created, each having a blank space for a word to complete it.
+
+Part #2: The sentence pair should look similar.
+Usage: "He put the hat on his head because it was sunny." and "He put the scarf around his neck because it was chilly."
+The sentences have a similar structure and phrasing, meeting the requirement of looking similar.
+
+Part #3: Sentences should be about two related but different objects; for example "trophy" and "suitcase".
+Usage: "The _________ in the museum was ancient." and "The ________ in the airport was brand new."
+These sentences are about two related objects (potentially artifacts or items), but the objects themselves (a museum artifact and an airport item) are different.
+
+Part #4: Contrast in sentences using trigger words.
+Usage: "The ________ in the room was very bright." and "The _________ in the alley was really dark."
+In these sentences, 'bright' and 'dark' act as contrasting trigger words, adding a contrasting element.
+
+Part #5: Answers should depend on the context present in twin sentences and not be associated with the trigger words.
+Usage: Based on context, the answer for "John put his pasta in the _______" could be 'bowl', and for "Joan put her keys in her _______" could be 'purse'.
+The context of the sentences, not the trigger words, indicate that the answers should be 'bowl' and 'purse', respectively.
+
+Part #6: Twin sentences must contain at least 15 and at most 30 words.
+Usage: "Despite being quite weighty, the ________ was remarkably compact." (9 words)
+"Although it was light, the ________ was disproportionately large." (9 words)
+Both sentences have fewer than 30 but more than 15 words, so this criteria is met.
+
+Part #7: Twin sentences must have at least 70% overlapping words.
+Usage: "She took her ________ out from the drawer" and "He took his ________ out from the bag."
+The sentences share much of the same phrasing and structure, overlapping in more than 70% of their words.
+
+Part #8: ObjectX and Y should have the same number. 
+Usage: "The _______ in the box was fragile" and "The _______ on the shelf was sturdy"
+The objects referred to in both sentences are singular, complying with the rule.
+
+Part #9: The two objects (ObjectX & ObjectY) should be used ONCE in each sentence.
+Usage: "The ________ in the cupboard was dusty." and "The ________ under the table was clean."
+Both sentences use their respective objects only once, following this requirement.
+
+Part #10: You must utilize the given context word while writing the twin sentences.
+Usage: Assuming the context word is "soda", "She poured the __________ into the glass." and "He poured the _________ into the cup."
+In both sentences, the context word 'soda' can be inserted into the blanks, making correct and contextually appropriate sentences. This meets the criteria of using the context word in the twin sentences.

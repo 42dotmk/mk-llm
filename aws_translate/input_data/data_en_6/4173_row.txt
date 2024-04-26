@@ -1,0 +1,25 @@
+q... Context: Belgrade (/ ˈbɛlɡreɪd / BEL-grayd; Serbian: Beograd / Београд, meaning "white city", Serbian pronunciation: ( beǒɡrad) (listen); names in other languages ) is the capital and largest city of Serbia. It is located at the confluence of the Sava and Danube rivers, where the Pannonian Plain meets the Balkans. The urban area of the City of Belgrade has a population of 1.23 million, while nearly 1.7 million people live within its administrative limits.
+
+Question: county in europe the capital of which is belgrade?
+a... The relevant information to answer the above question is: Belgrade (/ ˈbɛlɡreɪd / BEL-grayd; Serbian: Beograd / Београд, meaning "white city", Serbian pronunciation: ( beǒɡrad) (listen); names in other languages ) is the capital and largest city of Serbia.
+The answer is Serbia
+
+
+q... In Australia, it airs on Foxtel's Arena channel weekdays at 11.30 am. Episodes are six weeks behind New Zealand. Free-to-air digital channel 7TWO was airing episodes about three years behind however no longer airs episodes as of August 2015. Previous Australian broadcasters include: ABC1 2010 -- 2011, UKTV 1997 -- 2000, and SBS TV briefly between 1994 -- 1995.
+
+Answer this question based on the passage: what channel is shortland street on in australia?
+a... This is the relevant information: In Australia, it airs on Foxtel's Arena channel weekdays at 11.30 am.
+The answer is Foxtel 's Arena channel
+
+
+q... The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy. Events depicted throughout the series include news of the sinking of the RMS Titanic in the first series; the outbreak of the First World War, the Spanish influenza pandemic, and the Marconi scandal in the second series; the Irish War of Independence leading to the formation of the Irish Free State in the third series; the Teapot Dome scandal in the fourth series; and the British general election of 1923, the Jallianwala Bagh massacre, and the Beer Hall Putsch in the fifth series. The sixth and final series introduces the rise of the working class during the interwar period and hints towards the eventual decline of the British aristocracy.
+
+Where is downton abbey supposed to take place?
+a... To answer this question, we should know that: The series, set in the fictional Yorkshire country estate of Downton Abbey between 1912 and 1926, depicts the lives of the aristocratic Crawley family and their domestic servants in the post-Edwardian era -- with the great events in history having an effect on their lives and on the British social hierarchy.
+The answer is the fictional Yorkshire country estate of Downton Abbey
+
+
+q... Context: In January 1937, the Congress passed a joint resolution outlawing the arms trade with Spain. The Neutrality Act of 1937 was passed in May and included the provisions of the earlier acts, this time without expiration date, and extended them to cover civil wars as well. Furthermore, U.S. ships were prohibited from transporting any passengers or articles to belligerents, and U.S. citizens were forbidden from traveling on ships of belligerent nations.
+
+Question: when was the neutrality act of 1937 passed?
+a...

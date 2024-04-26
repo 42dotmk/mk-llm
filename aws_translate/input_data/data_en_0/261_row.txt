@@ -1,0 +1,19 @@
+Q: Serena Williams was the defending champion and successfully defended her title, defeating Angelique Kerber in the final, 7 -- 5, 6 -- 3. By winning her seventh Wimbledon title, Williams equaled Steffi Graf's Open Era record of 22 major singles titles. This was also the first time two women contested two major finals against one another in a single season since Amélie Mauresmo and Justine Henin-Hardenne met in the 2006 Australian Open and Wimbledon finals.
+
+Answer this question based on the passage: who won the women's singles wimbledon championship 2016?
+A: Serena Williams. How to explain the answer? The relevant information is: Serena Williams was the defending champion and successfully defended her title, defeating Angelique Kerber in the final, 7 -- 5, 6 -- 3.
+
+Q: Escherichia coli (/ ˌɛʃɪˈrɪkiə ˈkoʊlaɪ /; also known as E. coli) is a Gram-negative, facultative aerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms (endotherms). Most E. coli strains are harmless, but some serotypes can cause serious food poisoning in their hosts, and are occasionally responsible for product recalls due to food contamination. The harmless strains are part of the normal microbiota of the gut, and can benefit their hosts by producing vitamin K, and preventing colonization of the intestine with pathogenic bacteria, having a symbiotic relationship. E. coli is expelled into the environment within fecal matter. The bacterium grows massively in fresh fecal matter under aerobic conditions for 3 days, but its numbers decline slowly afterwards.
+
+Answer this question based on the passage: what is the full name of e coli?
+A: Escherichia coli. How to explain the answer? The important part for answering this question is: Escherichia coli (/ ˌɛʃɪˈrɪkiə ˈkoʊlaɪ /; also known as E. coli) is a Gram-negative, facultative aerobic, rod-shaped, coliform bacterium of the genus Escherichia that is commonly found in the lower intestine of warm-blooded organisms (endotherms).
+
+Q: The fifth annual André the Giant Memorial Battle Royal took place at the venue where the original match occurred-the Superdome in New Orleans, Louisiana-as part of WrestleMania 34 on April 8, 2018. The match was won by Matt Hardy who eliminated Baron Corbin to win.
+
+Answer this question based on the passage: who won the andre the giant memorial battle royal?
+A: Matt Hardy. How to explain the answer? The important part for answering this question is: The match was won by Matt Hardy who eliminated Baron Corbin to win.
+
+Q: Passage: It is generally accepted that Agra was both an ancient city from the times of the Mahabharata (see above) and yet nevertheless Sultan Sikandar Lodī, the Muslim ruler of the Delhi Sultanate, founded Agra in the year 1504. After the Sultan's death, the city passed on to his son, Sultan Ibrāhīm Lodī. He ruled his Sultanate from Agra until he fell fighting to Mughal Badshah Bābar in the First battle of Panipat fought in 1526.
+
+Question: Based on this passage, who established the city of agra at its present location?
+A:

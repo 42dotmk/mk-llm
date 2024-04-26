@@ -1,0 +1,17 @@
+Teacher:Given a document, generate a short title of the document. The title should convey the main idea/event/topic about which the document is being written. Note that URLs in the text have been replaced with [Link].
+Teacher: Now, understand the problem? Solve this instance: Chief of staff  John Kelly  reportedly expressed a willingness to resign over the Rob Porter scandal.
+ Kelly  initially defended Porter  then said  he  was "shocked" by the new allegations.
+Rumors have begun swirling around the fate of  John Kelly   the White House chief of staff  who has found  himself  at the center of a firestorm in recent days amid allegations that a top Trump administration staffer had abused his ex-wives.
+ Kelly  expressed to Trump on Friday that he was willing to resign over the ordeal  sources close to Trump told ABC News. The New York Times also reported that  Kelly  told West Wing officials that  he  was willing to resign.
+It's unclear whether Trump will ask for  his  resignation. Sources familiar with the situation told ABC they didn't believe  Kelly 's departure was imminent.
+Rob Porter  the former White House staff secretary  resigned on Wednesday after news outlets published his ex-wives' allegations. But the scandal continued to build after news surfaced that  Kelly  and others in the White House knew for months about the accusations â and built up Porter's role within the West Wing anyway.
+White House deputy press secretary Hogan Gidley told CNN that  Kelly  has not offered his resignation.
+But Trump is reportedly furious with  Kelly  over his handling of the issue.  Kelly  issued a statement after the allegations were first published by the Daily Mail on Tuesday  vehemently praising Porter as a "man of true integrity and honor."
+"I was shocked by the new allegations released today against Rob Porter  " Kelly  said. "There is no place for domestic violence in our society."
+ Kelly  is on shaky ground
+Trump was so infuriated by the ordeal  he  even phoned Reince Priebus  the previous chief of staff who was ousted after  he  also attracted Trump's ire  to vent about  Kelly   The New York Times reported.
+Regardless  Trump is actively considering who might replace  Kelly  as chief of staff. He has floated names like Mick Mulvaney  the current Office of Management and Budget director  as well as top economic adviser Gary Cohn  Rep. Mark Meadows of North Carolina  and Rep. Kevin McCarthy of California  The New York Times and ABC News reported.
+ Kelly  was already on shaky ground in recent days and weeks  after  he  made headlines over controversial comments about immigrants and border security.
+In one instance   he  suggested that some of the young unauthorized immigrants who had not enrolled in the Deferred Action for Childhood Arrivals program were "too lazy to get off their asses."
+Several weeks earlier   Kelly  said in a Fox News interview that Trump was not "fully informed" about immigration issues when he promised in his 2016 campaign to build a wall along the US-Mexico border.  Kelly  also said Trump had since "evolved" on the issue.
+Student:

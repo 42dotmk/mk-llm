@@ -1,0 +1,19 @@
+Question: The Ozone layer or ozone shield is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation. It contains high concentrations of ozone (O) in relation to other parts of the atmosphere, although still small in relation to other gases in the stratosphere. The ozone layer contains less than 10 parts per million of ozone, while the average ozone concentration in Earth's atmosphere as a whole is about 0.3 parts per million. The ozone layer is mainly found in the lower portion of the stratosphere, from approximately 20 to 30 kilometers (12 to 19 mi) above Earth, although its thickness varies seasonally and geographically.
+
+Where is the ozone layer located in earth's atmosphere?
+Answer: The relevant sentence in the passage is: The ozone layer is mainly found in the lower portion of the stratosphere, from approximately 20 to 30 kilometers (12 to 19 mi) above Earth, although its thickness varies seasonally and geographically. The answer is the lower portion of the stratosphere , from approximately 20 to 30 kilometers ( 12 to 19 mi ) above Earth.
+
+Question: The Lord's Prayer (also called the Our Father or Pater Noster, among other names) is a venerated Christian prayer that, according to the New Testament, Jesus taught as the way to pray. Two versions of this prayer are recorded: the long form in the Gospel of Matthew in the middle of the Sermon on the Mount, and the short form in the Gospel of Luke when "one of his disciples said to him,' Lord, teach us to pray, as John taught his disciples."'
+
+Answer this question: where is the lord’s prayer in the bible?
+Answer: The important part for answering this question is: Two versions of this prayer are recorded: the long form in the Gospel of Matthew in the middle of the Sermon on the Mount, and the short form in the Gospel of Luke when "one of his disciples said to him,' Lord, teach us to pray, as John taught his disciples."' The answer is the long form in the Gospel of Matthew in the middle of the Sermon on the Mount , and the short form in the Gospel of Luke.
+
+Question: Jonathan Adam Saunders Baruchel (/ ˈbæruːˌʃɛl /; born April 9, 1982) is a Canadian actor, comedian, screenwriter, director, and producer. He played Josh Greenberg in the FXX comedy television series Man Seeking Woman and played the lead character in Judd Apatow's comedy series, Undeclared. He is known for his voice role as Hiccup Horrendous Haddock III in the How to Train Your Dragon franchise, and for his roles in comedy movies such as Knocked Up, Tropic Thunder, Fanboys, She's Out of My League, Goon, and This Is the End.
+
+Based on this passage, who does hiccups voice in how to train your dragon?
+Answer: The relevant sentence in the passage is: He is known for his voice role as Hiccup Horrendous Haddock III in the How to Train Your Dragon franchise, and for his roles in comedy movies such as Knocked Up, Tropic Thunder, Fanboys, She's Out of My League, Goon, and This Is the End. The answer is Jonathan Adam Saunders Baruchel.
+
+Question: "Lovey" Howell (née Wentworth), referred to as "Mrs. Howell" by characters other than her husband, is a fictional character from the 1964 to 1967 television show Gilligan's Island. Played by Natalie Schafer, the character was a rich, spoiled socialite, married to Thurston Howell III.
+
+Answer this question: what was mrs howell's first name on gilligan's island?
+Answer:

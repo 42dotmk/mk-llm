@@ -1,0 +1,132 @@
+CLOSE Tempe, Arizona police released video of the Uber Self-Driving SUV crash that killed a woman on Sunday. It shows a woman push her bicycle on a dark road and the human back-up driver's reaction.This video includes images some may find disturbing. (March 22) AP 
+  
+ An Uber vehicle cruises in Tempe, Ariz., on Aug. 25, 2017. A self-driving Uber vehicle fatally struck a woman Sunday, March 18, 2018, in Tempe. (Photo: Mark Henle, The Arizona Republic) 
+  
+ Uber's self-driving car system detected an Arizona pedestrian about six seconds before the vehicle it was in killed the woman in March. But the system never took action to prevent the incident, according to the preliminary results of a National Transportation Safety Board investigation. 
+  
+ Uber engineers had intentionally disabled the Volvo's emergency braking system "to reduce the potential for erratic vehicle behavior" but did not program the system to alert the human operator to manually brake the vehicle, NTSB reported Thursday. 
+  
+ If the emergency braking system had been activated, it would have been triggered 1.3 seconds before the car hit the pedestrian, according to the probe. 
+  
+ The revelations came a day after Uber announced it would shutter its Arizona self-driving car operations. 
+  
+ NTSB said Uber's system was "operating normally" on the 2017 Volvo XC90 with "no faults or diagnostic messages." 
+  
+ But "according to Uber, emergency braking maneuvers are not enabled while the vehicle is under computer control to reduce the potential for erratic vehicle behavior," NTSB said. "The vehicle operator is relied on to intervene and take action. The system is not designed to alert the operator." 
+  
+ The woman behind the wheel, an Uber employee, noticed a woman pushing a bicycle across the road in the dark and grabbed the steering wheel "less than a second before impact," NTSB said. 
+  
+ In a video released publicly after the crash, the operator was shown looking down at times. According to the NTSB probe, she told investigators that she was "monitoring the self-driving interface and that while her personal and business phones were in the vehicle, neither were in use until after the crash." 
+  
+ She began braking "less than second after impact" with the victim, the NTSB's Elaine Herzberg said. 
+  
+ NTSB said it had not yet reached a conclusion on the "probable cause" of the incident. 
+  
+ Uber said it is cooperating closely with NTSB investigators. 
+  
+ "As their investigation continues, we’ve initiated our own safety review of our self-driving vehicles program," Uber said in a statement. "We’ve also brought on former NTSB Chair Christopher Hart to advise us on our overall safety culture, and we look forward to sharing more on the changes we’ll make in the coming weeks." 
+  
+ Follow USA TODAY reporter Nathan Bomey on Twitter @NathanBomey. 
+  
+ Read or Share this story: https://usat.ly/2s7F8ek ||||| WASHINGTON (Reuters) - Uber had disabled an emergency braking system in a self-driving vehicle that struck and killed a woman in Arizona in March even though the car had identified the need to apply the brakes, the National Transportation Safety Board said in a preliminary report released on Thursday. 
+  
+ The report into the first fatal crash caused by a self-driving vehicle also disclosed that the modified 2017 Volvo XC90’s radar systems observed the pedestrian six seconds before impact but “the self-driving system software classified the pedestrian as an unknown object, as a vehicle, and then as a bicycle with varying expectations of future travel path.” 
+  
+ At 1.3 seconds before impact, the self-driving system determined emergency braking was needed. But Uber said, according to the NTSB, that automatic emergency braking maneuvers in the Volvo XC90 were disabled while the car was under computer control in order to “reduce the potential for erratic vehicle behavior.” 
+  
+ The report gives new fuel to opponents in Congress who have stalled a bill designed to speed the deployment of self-driving cars on U.S. roads and puts a spotlight on the fact that the National Highway Traffic Safety Administration, which is also investigating, does not test self-driving vehicles or certify them before they are deployed on U.S. roads. 
+  
+ Uber Technologies Inc, which voluntarily suspended testing after the crash in the city of Tempe, said on Wednesday it planned to end testing in Arizona and focus on limited testing in Pittsburgh and two cities in California. Uber aims to resume its self-driving operations this summer, likely with smaller routes and fewer cars, the company said. 
+  
+ The company did not directly comment on the NTSB findings but noted it recently named a former NTSB chairman, Christopher Hart, to advise on Uber’s safety culture. 
+  
+ “As their investigation continues, we’ve initiated our own safety review of our self-driving vehicles program,” the company said on Thursday, adding it planned to announce changes in the coming weeks. 
+  
+ All aspects of the self-driving system were operating normally at the time of the crash, and there were no faults or diagnostic messages, the NTSB said. 
+  
+ Elaine Herzberg, 49, was walking her bicycle outside the crosswalk on a four-lane road when she was struck by the Uber vehicle traveling 39 miles per hour (63 kph). 
+  
+ A safety operator behind the wheel appeared to be looking down, and not at the road, moments before the crash, according to video from inside the car released by police. The operator told the NTSB she was not looking at a mobile phone but monitoring the vehicle’s self-driving systems. 
+  
+ Tempe police said on Wednesday it had completed its investigation and turned the findings over to prosecutors to review. Police did not release the results of the probe. 
+  
+ The NTSB said the Uber vehicle required the operator to intervene and take action, but the system was not designed to alert the operator. The report said the operator engaged the steering wheel less than a second before impact and began braking less than a second after impact. 
+  
+ The report noted that Herzberg tested positive for methamphetamine and marijuana, and that she did not look in the direction of the vehicle until just before impact. 
+  
+ ‘RECKLESS’ 
+  
+ William Wallace, senior policy analyst for Consumers Union, the advocacy division of Consumer Reports, called Uber “reckless” and said the NTSB report “makes it clear that a self-driving car was tested on public roads when it wasn’t safe enough to be there, and it killed a pedestrian.” He added that the system “was far too dangerous to be tested off a closed track.” 
+  
+ Some cities expressed hesitation about immediately allowing Uber to return to testing. 
+  
+ Pittsburgh mayoral spokesman Timothy McNulty said the mayor still “wants a full federal investigation of the accident and for Uber to agree to his demands specific to Pittsburgh testing before he would welcome them back to the city.” 
+  
+ Sacramento, California, is interested in having Uber and other developers test in the city but wants to ensure the companies follow all regulations. 
+  
+ “The NTSB report really shines a light on the importance of safety and security of vehicles, so I think it hardens our stance a little bit on safety and security,” said Louis Stewart, Sacramento chief innovation officer. 
+  
+ A spokesman for Ontario’s Ministry of Transportation said on Thursday it would ensure it was satisfied with the steps Uber has taken to ensure the safety of its automated vehicles, before resuming testing in Toronto. 
+  
+ Arizona’s governor in March suspended Uber’s permit for the testing, citing safety concerns. 
+  
+ Uber has said it considers self-driving technology important to the future of its ride services, although it is not clear how it fits into the plans of new Chief Executive Dara Khosrowshahi. He has revamped the company structure and cut expenses as Uber prepares for an initial public offering next year. 
+  
+ The NTSB did not say when it would release its final report on the accident. The agency typically issues its final conclusions at least a year after an accident. 
+  
+ It is also investigating a series of crashes involving Tesla Inc’s semi-autonomous “Autopilot” system after faulting the system last year after a fatal crash in Florida. 
+  
+ FILE PHOTO: U.S. National Transportation Safety Board (NTSB) investigators examine a self-driving Uber vehicle involved in a fatal accident in Tempe, Arizona, U.S., March 20, 2018. A women was struck and killed by the vehicle on March 18, 2018. National Transportation Safety Board/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. - RC124083F3B0 ||||| The Uber Technologies Inc. self-driving car involved in a fatal crash in Arizona identified an object on the road six seconds before impact and didn’t determine the need for emergency braking until nearly five seconds later, U.S. safety investigators said Thursday. 
+  
+ The calculation ultimately wasn’t acted on as the car’s built-in automatic emergency braking system was disabled and the safety operator responsible for performing such a maneuver didn’t apply the brakes until after the collision, the National Transportation Safety Board said in its preliminary report on the March 18 accident in Tempe, Ariz., near Phoenix. 
+  
+ The crash marked the first pedestrian death involving a self-driving car and ignited a broader discussion about whether the driverless technology that auto and tech companies are racing to develop is ready for the real world. 
+  
+ It also illustrates the challenges Uber has faced in developing software that can detect hazards on the road and respond appropriately, as the ride-hailing company chases rivals such as Alphabet Inc.’s Waymo and General Motors Co.’s Cruise Automation, which aim to deploy robot taxis that could pose as a threat to Uber’s business. 
+  
+ Uber was testing a fleet of Volvo Cars sport-utility vehicles that come equipped with automatic emergency braking and other safety features. The vehicles, however, were modified by the ride-hailing company, which equipped them with cameras, sensors and onboard computers. An operator rides in each vehicle, prepared to take the wheel to ensure safety as needed. 
+  
+ The NTSB said the Uber vehicle’s sensors detected the pedestrian walking across the road with a bicycle six seconds before impact. At first, the self-driving system’s software classified the pedestrian as an unknown object, then as a vehicle and finally as a bicycle with varying expectations of where the bike was headed. 
+  
+ The NTSB said the vehicle was traveling at 43 miles an hour before impact. At that speed, six seconds is enough time for a vehicle to stop, said Todd Humphreys, an associate professor who specializes in robotic perception at the University of Texas at Austin. He said stopping time in those conditions could have occurred within less than three seconds. 
+  
+ It was 1.3 seconds before impact that the system decided emergency braking was needed, the NTSB said. According to Uber, the NTSB said, Volvo’s built-in automatic braking system had been disabled during testing to “reduce the potential for erratic vehicle behavior.” The safety operator began braking less than a second after impact, the NTSB said. 
+  
+ “The vehicle operator is relied on to intervene and take action,” the report said. “The system isn’t designed to alert the operator.” 
+  
+ Uber’s decision to deactivate the vehicle’s automatic-braking system and leave it in the hands of the safety operator, who in turn wasn’t given an alert, were mistakes, Mr. Humphreys said. 
+  
+ Related Video As part of its investigation, the Tempe, Ariz., police department released this video showing the moment before a self-driving Uber operating in autonomous mode struck a pedestrian on March 18. Warning: Graphic content. PHOTO: CHRIS CARLSON/ASSOCIATED PRESS 
+  
+ “This was an absolutely inexcusable design decision,” Mr. Humphreys said in an email. “Over those critical 1.3 seconds, the car could have slowed down from 43 to 24 mph before the collision.” That would have given the pedestrian a better chance of surviving the collision, he said. 
+  
+ It is common for developers to disable built-in vehicle features such as automatic braking to avoid multiple systems issuing conflicting commands, said Raj Rajkumar, a Carnegie Mellon University professor who founded and later sold an autonomous-car software startup. 
+  
+ The problem with Uber’s approach, he said, is the company didn’t replace Volvo’s system with its own automatic emergency braking. Instead, Uber relied on the safety operator, who was seemingly distracted and didn’t receive a warning to brake or swerve, he said. 
+  
+ “Uber’s software designers punted the final action to the operator; except that no alert was generated,” Mr. Rajkumar said in an email. 
+  
+ At the very least, Uber’s autonomous software should have predicted the potential collision and slowed the vehicle or slammed on the brakes, he said. 
+  
+ A video released around the time of the crash showed the safety operator glancing down toward the center console of the vehicle several times before impact. In an interview with NTSB investigators, the operator said she had been monitoring the self-driving system interface. 
+  
+ In addition to being responsible for intervening in the driving of the vehicle, the safety operator is also monitoring diagnostic messages that appear on a digital screen in the center console and tagging events for further review, the NTSB said. 
+  
+ Many autonomous vehicle developers begin with two safety operators and move to one as their systems become more advanced. Uber moved from two to one after more than a year of planning and continues to use two in some scenarios, the company said. 
+  
+ “We decided to make this transition because after testing, we felt we could accomplish the task of the second person—annotating each intervention with information about what was happening around the car—by looking at our logs after the vehicle had returned to base, rather than in real time,” the company said. 
+  
+ Mr. Humphreys said the operator shouldn’t be expected to interact with the screen if it means not looking at the road. “A second Uber employee should have been in the car to interact with the system interface,” he said. 
+  
+ The pedestrian was dressed in dark clothing and was walking a bicycle across the road, not at a crosswalk, according to the report. NTSB also said the pedestrian tested positive for methamphetamine and marijuana, though it didn’t say that played a role in the crash. 
+  
+ Volvo, in statement, said it was helping with the investigation, noting its driver-assistance system was disengaged. 
+  
+ An Uber spokeswoman Thursday said the company has worked with the NTSB and started its own review, bringing on former NTSB head Christopher Hart to advise on its safety culture. She said the company in the coming weeks will detail changes it plans to make. 
+  
+ On Wednesday, Uber said it was closing down its self-driving vehicle program in Arizona, two months after the state barred it from road-testing self-driving technology. 
+  
+ —Austen Hufford contributed to this article. 
+  
+ Write to Tim Higgins at Tim.Higgins@WSJ.com |||||
+What is a one-paragraph summary of the above article?

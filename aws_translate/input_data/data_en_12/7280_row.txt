@@ -1,0 +1,36 @@
+Ans: to reorder the file system hierarchy
+Ques: Some Unix as well as Linux distributions use symbolic links extensively in an effort to reorder the file system hierarchy. This is accomplished with several mechanisms, such as variant, context-dependent symbolic links. This offers the opportunity to create a more intuitive or application-specific directory tree and to reorganize the system without having to redesign the core set of system functions and utilities.
+
+Based on this passage, what is the use of symbolic link in linux?
+CoT: To answer this question, we should know that: Some Unix as well as Linux distributions use symbolic links extensively in an effort to reorder the file system hierarchy.
+
+
+Ans: Parthenogenesis
+Ques: Parthenogenesis (/ ˌpɑːrθɪnoʊˈdʒɛnɪsɪs,-θɪnə-/; from the Greek παρθένος parthenos, "virgin", + γένεσις genesis, "creation") is a natural form of asexual reproduction in which growth and development of embryos occur without fertilization. In animals, parthenogenesis means development of an embryo from an unfertilized egg cell. In plants parthenogenesis is a component process of apomixis.
+
+Based on this passage, when queen ants or honeybees are able to reproduce asexually (without mating) this is called?
+CoT: To answer the question, consider the following: Parthenogenesis (/ ˌpɑːrθɪnoʊˈdʒɛnɪsɪs,-θɪnə-/; from the Greek παρθένος parthenos, "virgin", + γένεσις genesis, "creation") is a natural form of asexual reproduction in which growth and development of embryos occur without fertilization.
+
+
+Answer: south central Wyoming. Now, what could be the question and solution-maybe?
+Ques: Context: The Red Desert is a high altitude desert and sagebrush steppe located in south central Wyoming, comprising approximately 9,320 square miles (24,000 km). Among the natural features in the Red Desert region are the Great Divide Basin, a unique endorheic drainage basin formed by a division in the Continental Divide, and the Killpecker Sand Dunes, the largest living dune system in the United States. In the 19th century, the Oregon, California and Mormon Trails crossed the Continental Divide at South Pass, just north of the Red Desert. Today, busy Interstate 80 bisects the desert's southern region while gas field roads cross the desert.
+
+Question: where is the red desert located in wyoming?
+CoT: To answer this question, we should know that: The Red Desert is a high altitude desert and sagebrush steppe located in south central Wyoming, comprising approximately 9,320 square miles (24,000 km).
+
+
+Ans: August 14 , 2006
+Ques: Passage: She made her Street debut on August 14, 2006.
+
+Question: Based on this passage, when did abby cadabby first appear on sesame street?
+CoT: To answer the above question, the relevant sentence is: She made her Street debut on August 14, 2006.
+
+
+Ans: Italian artists of the Renaissance
+Ques: The Teenage Mutant Ninja Turtles (often shortened to TMNT or Ninja Turtles) are four fictional teenaged anthropomorphic turtles named after Italian artists of the Renaissance. They were trained by their anthropomorphic rat sensei in the art of ninjutsu. From their home in the sewers of New York City, they battle petty criminals, evil overlords, mutated creatures, and alien invaders while attempting to remain hidden from society. They were created by Kevin Eastman and Peter Laird.
+
+Where did the ninja turtles get their names?
+CoT: To answer the question, consider the following: The Teenage Mutant Ninja Turtles (often shortened to TMNT or Ninja Turtles) are four fictional teenaged anthropomorphic turtles named after Italian artists of the Renaissance.
+
+
+Answer: Cole Swindell. Now, what could be the question and solution-maybe?

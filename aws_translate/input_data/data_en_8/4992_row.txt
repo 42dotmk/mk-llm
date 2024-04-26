@@ -1,0 +1,34 @@
+Problem:Passage: "Season of the Witch" is an early example of psychedelic rock, written by Donovan and Shawn Phillips. It was released in September 1966 on Donovan's Epic Records (USA) album, Sunshine Superman.
+
+Question: Based on this passage, who sang must be the season of the witch?
+Solution:OK... The relevant information is: It was released in September 1966 on Donovan's Epic Records (USA) album, Sunshine Superman.
+Donovan.
+
+Student A:Washington, D.C., formally the District of Columbia and commonly referred to as "Washington", "the District", or simply "D.C.", is the capital of the United States.
+
+Based on this passage, what do dc stand for in washington dc?
+Student B:OK... The relevant sentence in the passage is: Washington, D.C., formally the District of Columbia and commonly referred to as "Washington", "the District", or simply "D.C.", is the capital of the United States.
+District of Columbia.
+
+Problem:The voiced palato-alveolar sibilant affricate, voiced post-alveolar affricate or voiced domed postalveolar sibilant affricate, is a type of consonantal sound, used in some spoken languages. The sound is transcribed in the International Phonetic Alphabet with ⟨ d͡ʒ ⟩ (formerly the ligature ⟨ ʤ ⟩), or in broad transcription ⟨ ɟ ⟩, and the equivalent X-SAMPA representation is dZ. Alternatives commonly used in linguistic works, particularly in older or American literature, are ⟨ ǰ ⟩, ⟨ ǧ ⟩, ⟨ ǯ ⟩, and ⟨ dž ⟩. It is familiar to English speakers as the pronunciation of ⟨ j ⟩ in jump.
+
+Answer this question based on the passage: choose the correct ipa symbol according to the characteristics given. voiced post-alveolar affricate?
+Solution:OK... The relevant information is: The sound is transcribed in the International Phonetic Alphabet with ⟨ d͡ʒ ⟩ (formerly the ligature ⟨ ʤ ⟩), or in broad transcription ⟨ ɟ ⟩, and the equivalent X-SAMPA representation is dZ.
+⟨ d͡ʒ ⟩ ( formerly the ligature ⟨ ʤ ⟩ ).
+
+Student A:The Palace of Fine Arts in the Marina District of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition in order to exhibit works of art presented there. One of only a few surviving structures from the Exposition, it is still situated on its original site. It was rebuilt in 1965, and renovation of the lagoon, walkways, and a seismic retrofit were completed in early 2009.
+
+Based on this passage, when was the palace of fine arts built?
+Student B:OK... The relevant sentence in the passage is: The Palace of Fine Arts in the Marina District of San Francisco, California, is a monumental structure originally constructed for the 1915 Panama-Pacific Exposition in order to exhibit works of art presented there.
+1915.
+
+Problem:The father, who represents the Heavenly Father, implies to the older son that his love for both sons is not dependent upon their perfection, but their willingness to return to Him with a broken heart and a contrite spirit.
+
+Answer this question: who does the father represent in the prodigal son?
+Solution:OK... The relevant information is: The father, who represents the Heavenly Father, implies to the older son that his love for both sons is not dependent upon their perfection, but their willingness to return to Him with a broken heart and a contrite spirit.
+the Heavenly Father.
+
+Problem:"Good Time Charlie's Got the Blues" is a song written and performed by Danny O'Keefe.
+
+Who wrote good time charlie's got the blues?
+Solution:

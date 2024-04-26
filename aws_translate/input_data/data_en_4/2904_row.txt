@@ -1,0 +1,22 @@
+Student A:Passage: Uzoamaka Nwanneka "Uzo" Aduba (/ ˈuːzoʊ əˈduːbə /; born February 10, 1981) is an American actress. She is known for her role as Suzanne "Crazy Eyes" Warren on the Netflix original series Orange Is the New Black (2013 -- present), for which she won an Emmy Award for Outstanding Guest Actress in a Comedy Series in 2014, an Emmy Award for Outstanding Supporting Actress in a Drama Series in 2015, and two Screen Actors Guild Awards for Outstanding Performance by a Female Actor in a Comedy Series in 2014 and 2015. She is one of only two actors to win an Emmy Award recognition in both the comedy and drama categories for the same role, the other being Ed Asner for the character Lou Grant.
+
+Question: Based on this passage, who plays crazy in orange is the new black?
+Student B:OK... The relevant information is: She is known for her role as Suzanne "Crazy Eyes" Warren on the Netflix original series Orange Is the New Black (2013 -- present), for which she won an Emmy Award for Outstanding Guest Actress in a Comedy Series in 2014, an Emmy Award for Outstanding Supporting Actress in a Drama Series in 2015, and two Screen Actors Guild Awards for Outstanding Performance by a Female Actor in a Comedy Series in 2014 and 2015.
+Uzoamaka Nwanneka `` Uzo '' Aduba.
+
+Student A:Context: The NSO is conducted on two levels each year. It was the first Olympiad to be conducted by SOF.It has been conducted since 1996. Students from class I-XII may participate in the examination.
+
+Question: how many levels are there in science olympiad?
+Student B:OK... The relevant information to answer the above question is: The NSO is conducted on two levels each year.
+two levels.
+
+Student A:Passage: Van Mahotsav festival was started in 1950 by Kulapati Dr. KM Munshi, then the Union Minister for Agriculture and Food to create enthusiasm among masses for forest conservation and planting trees. It is now a week-long festival, celebrated on different days in different parts of India, but usually between 1 July to 7 July. It began after a flourishing tree planting drive which was undertaken in Delhi, in which national leaders participated. The festival was simultaneously celebrated in a number of states in India. Since then, millions of saplings of diverse species have been planted with energetic participation of local people and various agencies like the forest department. Awareness spread as the chipko movement rose in popularity as a crusade to save mother earth..
+
+Question: Based on this passage, when do we celebrate van mahotsav in india?
+Student B:OK... This is the relevant information: It is now a week-long festival, celebrated on different days in different parts of India, but usually between 1 July to 7 July.
+on different days in different parts of India , but usually between 1 July to 7 July.
+
+Student A:The sixth and final season of the American television drama series The Americans, comprising 10 episodes, premiered on FX on March 28, 2018. The final season was announced in May 2016, when the series received a two-season renewal to conclude the series. The series moved back to its original time slot, Wednesdays at 10: 00 pm, after airing on Tuesdays the previous season.
+
+Based on this passage, when does season 6 of the americans start?
+Student B:

@@ -1,0 +1,23 @@
+Choose the next sentence for this paragraph.
+
+Journalists Steven Sotloff (left) and James Foley (right) have both been killed by Islamist militants in recent weeks. Sotloff was pictured in the video delivering message taunting U.S. President Barack Obama. The Arabic text at the bottom of this frame translates to: 'Now is the time for my message'. A knife-wielding jihadist stands next to U.S. journalist Steven Sotloff in the video that was released online overnight. U.S. journalist Steven Sotloff, 31, (left) was kidnapped in Syria last year. Sotloff's mother Shirley (right) made a televised appeal for the return of her son last week. Australian Warren Rodwell, pictured in a ransom video with his Abu Sayyaf captors in the Philippines. Mr Rodwell has today shed light on what it is like to be a captive who has lost hope. He spent 472 days in captivity. He was never tortured and has previously described his abductors as 'buffoons'
+
+Here you are now,
+
+OPTIONS:
+- Abu Sayyaf, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- America, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Arabic, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Australian, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Barack Obama, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Islamic State, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Islamist, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- James Foley, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Philippines, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Rodwell, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Shirley, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Sotloff, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Steven Sotloff, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Syria, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- U.S., nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'
+- Warren Rodwell, nearing the end of your term, and having achieved none of the above and deceivingly marching us the American people in the blazing fire.'

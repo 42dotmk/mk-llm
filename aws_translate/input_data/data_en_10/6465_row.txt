@@ -1,0 +1,25 @@
+In a day, Mr. Jesiah's total income from the sale of the milk is $3.55 / gallon * 200 gallons / day = $710 / day. In June, his total income is $710 / day * 30 days = $21300. The net income from the sale is $21300 - $3000 = $18300.
+The answer: 18300
+Reverse engineering the question: Mr. Jesiah is a dairy cow farmer with cows producing 200 gallons of milk every day. The expenses for maintenance of the dairy farm and purchase of feeds is $3000 per month. Calculate his total income in June if he sells 1 gallon of milk at $3.55.
+
+Reasoning and answer: There was a net immigration to the country of 50,000 - 30,000 = 20,000. So the total number of people before birth is 300,000 + 20,000 = 320,000. That means 320,000 / 8 = 40,000 get pregnant. So 40,000 / 4 = 10,000 have twins. So that means they have 10,000 * 2 = 20,000 children. There are 40,000 - 10,000 = 30,000 children from single births. So the total number of people is 320,000 + 30,000 + 20,000 = 370,000.
+The answer: 370000
+What was the question?
+Question: A city has a population of 300,000. 50,000 people immigrate to the country and then 30,000 people leave. After that 1/8 of the population gets pregnant and 1/4 of those people have twins. How many people are there after the births?
+
+The total cost of the two smart televisions is $650 x 2 = $1300. The total discount of the two smart televisions is $1300 x 25 / 100 = $325. Mrs. Taylor paid $1300 - $325 = $975 for the two smart televisions.
+The answer: 975
+Reverse engineering the question: Mrs. Taylor bought two smart televisions that cost $650 each. If the total sales price had a 25% discount, how much did Mrs. Taylor pay for the two televisions?
+
+Reasoning and answer: The number of stores required for the new city is 2000 / 2 = 1000 stores. The number of hospitals required for the new city is 2 * 500 = 1000 hospitals. The number of schools required for the new city is 200 - 50 = 150 schools. The number of police stations required for the new city is 20 + 5 = 25 police stations. The total number of buildings required for this new city project 1000 + 1000 + 150 + 25 = 2175 buildings.
+The answer: 2175
+What was the question?
+Question: Jacob has been tasked with a project to write up an urban plan proposal that will be used to construct a new city. He uses Pittsburg city as a reference which has 2000 stores, 500 hospitals, 200 schools, and 20 police stations. If the new city should have half the number of stores, twice as many hospitals, 50 fewer schools, and 5 more police stations, what is the total number of buildings required for this project?
+
+First, the weight of 20 cans is 20 cans * 2 oz per can = 40 oz. Thus, Jenny has the capacity to carry 100 oz - 40 oz = 60 oz of bottles. Jenny can carry 60 oz / 6 oz per bottle = 10 bottles. Jenny earns 10 bottles * 10 cents per bottle = 100 cents for the bottles. Jenny earns 20 cans * 3 cents per can = 60 cents for the cans. In total, she earns 100 cents + 60 cents = 160 cents.
+The answer: 160
+Reverse engineering the question: Jenny collects cans and bottles to take down to the recycling center. Each bottle weighs 6 ounces and each can weighs 2 ounces. Jenny can carry a total of 100 ounces. She collects 20 cans and as many bottles as she can carry. If she gets paid 10 cents per bottle and 3 cents per can, how much money does she make (in cents)?
+
+The boat had 20 - 3 = 17 sheep make it to shore. 3 sheep drowned, so 2 * 3 = 6 cows drowned. 10 cows on the boat - 6 drowned = 4 cows made it to the shore. 17 sheep + 4 cows + 14 dogs = 35 animals made it to shore.
+The answer: 35
+Reverse engineering the question:

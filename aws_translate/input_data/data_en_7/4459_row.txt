@@ -1,0 +1,25 @@
+Here is an article:
+
+This week The Wall Street Journal and VentureSource ranked the top 50 U.S. venture-backed companies with the most potential to become "The Next Big Thing." You can check out the list, along with the methodology, here.
+
+We thought we'd take a look at where these companies reside. After all, if these are the next Ciscos, Microsofts and Amgens (all formerly venture-backed companies), which cities and states will claim bragging rights?
+
+Let's be clear—it's hard to draw hard conclusions from such a tiny sliver of the 10,000-plus venture-backed companies out there, and many stellar start-ups just missed making this list (or were excluded because their valuation was above $1 billion). But the study is interesting, nonetheless.
+
+For your convenience, we've marked these companies' exact locations on the interactive, color-coded map here. Blue is for information technology companies, red for health care, green for clean technology, yellow for consumer services and purple for business and financial services.
+
+Not surprisingly, a large share of these companies make their home in California, a state that year-after-year captures the most venture funding thanks mostly to Silicon Valley. (California companies raised 49% of the $21.4 billion in venture capital distributed last year.) But it was curious that such a high percentage of the top companies—33 out of 50, or 66%—hailed from California.
+
+Within the state, nearly half—24 of 50—are in Silicon Valley, which received 36% of the total venture dollars last year. In fact, five companies—No. 6 Azul Systems, No. 7 Complete Genomics, No. 12 NeuroPace, No. 17 Fanfare Group and No. 36 Soasta—all operate a few blocks from each other in Mountain View.
+
+So why is this list so heavily tilted in California's favor? The answer is likely in the survey's methodology. The track record of these companies' venture capital board members account for 27.5% of the final rank, and some of the most well-established venture firms dwell in Silicon Valley. Even though it's a documented fact that the density of entrepreneurs and investors in a place like Silicon Valley breeds innovation, the list may provide some interesting insight into the subtle and powerful ways those connections help companies rise to the top.
+
+Perhaps more curious is the lack of companies in Massachusetts, which, thanks to the Boston area, is the second largest region for venture-capital funding (12% of last year's venture dollars). Just three companies—No. 29 Boston-Power, No. 43 Akorri Networks and No. 50 Acceleron Pharma—live there. By comparison, five companies are in the New York City area: No. 19 Gilt Groupe, No. 22 HuffingtonPost.com, No. 24 Small Bone Innovations, No. 33 Vidyo and No. 39 Etsy.
+
+Then there are the few companies outside the traditional venture-capital hot spots. For instance, No. 21 Xanodyne Pharma is located in Newport, Ky. (Cincinnati area), No. 15 Suniva in Norcross, Ga. (Atlanta suburb), and No. 31 CVRx in Minneapolis. That's impressive, considering they're in regions not know for producing major high-tech companies.
+
+Perhaps we should do follow-up "top 50″ lists and apply the methodology to individual regions. That might help us understand, as Seattle tech blogger John Cook asked, why there are no companies on this list in the tech-heavy Seattle area.
+
+Write to Scott Austin at scott.austin@dowjones.com
+
+Write a title for it.

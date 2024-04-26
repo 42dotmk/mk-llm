@@ -1,0 +1,36 @@
+Ans: 66,579
+Ques: Context: 7-Eleven Inc. is a Japanese-owned American international chain of convenience stores, headquartered in Dallas, Texas. The chain was known as Tote'm Stores until it was renamed in 1946. Its parent company, Seven-Eleven Japan Co., Ltd., operates, franchises, and licenses 66,579 stores in 17 countries as of 30 June 2018. Seven-Eleven Japan is headquartered in Chiyoda, Tokyo and held by the Seven & I Holdings Co.
+
+Question: how many 7 elevens are in the world?
+CoT: To answer the question, consider the following: Its parent company, Seven-Eleven Japan Co., Ltd., operates, franchises, and licenses 66,579 stores in 17 countries as of 30 June 2018.
+
+
+Answer: September 6 , 1787. Now, what could be the question and solution-maybe?
+Ques: The Convention approved the Committee's Electoral College proposal, with minor modifications, on September 6, 1787. Delegates from states with smaller populations or limited land area such as Connecticut, New Jersey, and Maryland generally favored the Electoral College with some consideration for states. At the compromise providing for a runoff among the top five candidates, the small states supposed that the House of Representatives with each state delegation casting one vote would decide most elections.
+
+Answer this question: when did we start using the electoral college?
+CoT: The relevant information is: The Convention approved the Committee's Electoral College proposal, with minor modifications, on September 6, 1787.
+
+
+Ans: June 5 , 1976
+Ques: The Teton Dam was an earthen dam on the Teton River in Idaho, United States. It was built by the Bureau of Reclamation, one of eight federal agencies authorized to construct dams. Located in the eastern part of the state, between Fremont and Madison counties, it suffered a catastrophic failure on June 5, 1976, as it was filling for the first time.
+
+Answer this question: when did the teton dam break in idaho?
+CoT: To answer the above question, the relevant sentence is: Located in the eastern part of the state, between Fremont and Madison counties, it suffered a catastrophic failure on June 5, 1976, as it was filling for the first time.
+
+
+Ans: a 3.0 - L V6 TDI engine
+Ques: Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009. The engine is rated at 240 PS (177 kW; 237 hp) and 550 N ⋅ m (410 lb ⋅ ft) of torque. The car was unveiled in 2009 Geneva Motor Show. The diesel can accelerate from 0 -- 60 mph in 9.2 seconds.
+
+Answer this question: what engine is in the porsche cayenne diesel?
+CoT: To answer the above question, the relevant sentence is: Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009.
+
+
+Answer: The Brick Field at Commonwealth Stadium in Edmonton , Alberta. Now, what could be the question and solution-maybe?
+Ques: Passage: The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta on Sunday, November 25, 2018.
+
+Question: Based on this passage, where is the 2018 grey cup being played?
+CoT: The important part for answering this question is: The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta on Sunday, November 25, 2018.
+
+
+Ans: Norman Whitfield and Barrett Strong

@@ -1,0 +1,22 @@
+Student A:From 1994, the Power Stroke engine family existed as a re-branding of engines produced by Navistar International, sharing engines with its medium-duty truck lines. Since the 2010 introduction of the 6.7 L PowerStroke V8, Ford has designed and produced its own diesel engines. During its production, the PowerStroke engine range has been marketed against large-block V8 (and V10) gasoline engines along with the General Motors Duramax V8 and the Dodge Cummins B-Series inline-six.
+
+Answer this question based on the passage: when did ford come out with the 6.7?
+Student B:OK... This is the relevant information: Since the 2010 introduction of the 6.7 L PowerStroke V8, Ford has designed and produced its own diesel engines.
+2010.
+
+Student A:A retarder is a device used to augment or replace some of the functions of primary friction-based braking systems, usually on heavy vehicles. Retarders serve to slow vehicles, or maintain a steady speed while traveling down a hill, and help prevent the vehicle from "running away" by accelerating down the hill. They are not usually capable of bringing vehicles to a standstill, as their effectiveness diminishes as vehicle speed lowers. They are usually used as an additional "assistance" to slow vehicles, with the final braking done by a conventional friction braking system. As the friction brake will be used less, particularly at higher speeds, their service life is increased, and since in those vehicles the brakes are air-actuated helps to conserve air pressure too.
+
+What is a retarder on a semi truck?
+Student B:OK... The relevant information to answer the above question is: A retarder is a device used to augment or replace some of the functions of primary friction-based braking systems, usually on heavy vehicles.
+a device used to augment or replace some of the functions of primary friction - based braking systems.
+
+Student A:Onomatopoeia (/ ˌɒnəˌmætəˈpiːə,-ˌmɑː-/ ( listen); from the Greek ὀνοματοποιία; ὄνομα for "name" and ποιέω for "I make", adjectival form: "onomatopoeic" or "onomatopoetic" ) is the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes. As such words are uncountable nouns, onomatopoeia refers to the property of such words. Common occurrences of words our of the onomatopoeia process include animal noises such as "oink", "miaow" (or "meow"), "roar" and "chirp". Onomatopoeia can differ between languages: it conforms to some extent to the broader linguistic system; hence the sound of a clock may be expressed as tick tock in English, tictac in Spanish, dī dā in Mandarin, katchin katchin in Japanese, or "tik-tik" in Hindi.
+
+Which figure of speech uses words that imitate the sounds they refer to?
+Student B:OK... To answer the question, consider the following: Onomatopoeia (/ ˌɒnəˌmætəˈpiːə,-ˌmɑː-/ ( listen); from the Greek ὀνοματοποιία; ὄνομα for "name" and ποιέω for "I make", adjectival form: "onomatopoeic" or "onomatopoetic" ) is the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes.
+Onomatopoeia.
+
+Student A:The Second Amendment (Amendment II) to the United States Constitution protects the right of the people to keep and bear arms and was adopted on December 15, 1791, as part of the first ten amendments contained in the Bill of Rights. The Supreme Court of the United States has ruled that the right belongs to individuals, while also ruling that the right is not unlimited and does not prohibit all regulation of either firearms or similar devices. State and local governments are limited to the same extent as the federal government from infringing this right, per the incorporation of the Bill of Rights.
+
+When was the right to bear arms passed?
+Student B:

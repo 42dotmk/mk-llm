@@ -1,0 +1,27 @@
+Reasoning and answer: If we let x be the amount of time, in hours, it will take for Darrel to catch up to the coyote, then we can figure this out. Because the distance Darrel travels is defined as the length of time Darrel travels (x) and Darrel's speed (20mph), or the expression 2 * x. And the distance the coyote travels is defined as the length of time the coyote travels (x + 1 hour) and the coyote's speed (15 mph), or the expression (x + 1) * 1. And since the distance Darrel and the coyote travel is the same, then 2 * x = (x + 1) * 1. Simplifying the expression, we get 2 * x = x + 1. If we subtract 1 x from each side, we get x = 1, the amount of time in hours.
+The answer: 1
+What was the question?
+Question: Darrel is an experienced tracker. He can tell a lot about an animal by the footprints it leaves behind. One day he saw a set of coyote footprints. Based on the impressions, he could tell the animal was traveling east at 15 miles per hour, and that the animal left the prints 1 hour ago. If the coyote continues to travel east at 15 miles per hour, and Darrell hops on his motorbike and travels east at 30 miles per hour, how long, in hours, will it take for Darrel to catch up to the coyote?
+
+Bush is younger than Matt by 3 years, so if Bush is 12 years old then Matt is 12 + 3 = 15 years old. In 10 years' time, Matt will be 10 + 15 = 25 years old.
+The answer: 25
+Reverse engineering the question: Bush and Matt are brothers. Bush is younger than Matt by 3 years. This year Bush will be 12 years old. What will be Matt's age 10 years from now?
+
+Reasoning and answer: Since 1 hour is 60 minutes, 20 minutes is 20 / 60 = 1 / 3 of an hour. Eating 3 potatoes per 20 minutes is 3 / (1 / 3) = 9 potatoes per hour. At 9 potatoes per hour, it will take Jason 27 / 9 = 3 hours to eat all of the potatoes.
+The answer: 3
+What was the question?
+Question: If Jason eats three potatoes in 20 minutes, how long, in hours, would it take for him to eat all 27 potatoes cooked by his wife?
+
+The 5% discount amounts to $50 x 5 / 100 = $2.50. So the total discount given to the customer for 4 months was $2.50 x 4 = $10. The customer was supposed to pay $50 x 4 = $200 in all for 4 months without discount. Since the customer is entitled to the discount, then he only paid a total of $200 - $10 = $190 for 4 months.
+The answer: 190
+Reverse engineering the question: An internet provider gives a 5% discount if the customer pays before the 25th day of the month. If the monthly internet rate is $50, how much did the customer pay in all for 4 months if he paid every 25th of the month?
+
+Reasoning and answer: Let's say Greg had x number of golds. Katie had 4 * x = 4x. The total number of gold they all had is Katie's 4x + x gold for Gref = 5x. If the total amount of gold, which was 100 = 5x. Then x = 100 / 5 = 20. Greg had x = 20 gold.
+The answer: 20
+What was the question?
+Question: Greg and Katie went to Mrs. Scarlet's gold store to have their gold chests opened. They realized Greg had four times less gold than Katie when Mrs. Scarlet opened the chests. If the total amount of gold is 100, how much gold does Greg have?
+
+Reasoning and answer: Eustace’s current age must be 39 years old – 3 years = 36 years old. So Milford’s current age must be 36 years old / 2 = 18 years old. So in 3 years, Milford will be 18 years old + 3 years = 21 years old.
+The answer: 21
+What was the question?
+Question:

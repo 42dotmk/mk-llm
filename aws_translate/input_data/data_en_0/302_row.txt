@@ -1,0 +1,25 @@
+On the second day, Maria sold 30 * 2 = 60 tulips. She also sold 20 * 2 = 40 roses the second day. On the third day, Maria sold only 10 / 100 * 60 = 6 tulips. Over these three days Maria sold 30 + 60 + 6 = 96 tulips. She also sold 20 + 40 + 16 = 76 roses. So on the tulips Maria earned 96 * 2 = $192. And on roses Maria earned 76 * 3 = $228. In total, over these three days, Maria has earned 192 + 228 = $420.
+The answer: 420
+Reverse engineering the question: Maria is a saleswoman at a flower shop. On the first day, she sold 30 tulips and 20 roses. The next day, she doubled the previous day's sales. On the third day, she sold only 10% of the tulips sold on the second day and 16 roses. The price of one tulip is $2 and one rose is $3. How much did Maria earn over these three days?
+
+Reasoning and answer: The tax was 200 * .15 = $30. So he paid 200 + 30 = $230.
+The answer: 230
+What was the question?
+Question: John buys a pair of earbuds that cost $200. If tax was 15%, how much did he pay after tax?
+
+Marnie has already eaten 5 of the chips + 5 more = 10 chips Marnie ate. The bag has 100 chips in it and Marnie has only eaten 10, 100 - 10 = 90 chips left. If Marnie eats 10 chips a day starting from the second day she has them, it will take her 90 chips in the bag / 10 chips Marine eats a day = 9 days to eat the whole bag. However, Marnie also ate chips on the first day she bought them, so 9 + 1 = 10 days to eat the whole bag.
+The answer: 10
+Reverse engineering the question: Marnie opens a bag of chips and eats 5 of them to see if she likes them. She does, so she eats 5 more. The bag has 100 chips in it and starting on the second day she has them, Marnie eats 10 each day. How many days does it take for Marnie to eat the whole bag of chips?
+
+Reasoning and answer: Half of the books on the bottom section of the cart are mystery books, which means they are the same as the number of Western novels and biographies put together. So there are 5 + 6 = 11 mystery novels. Add them all together, and there are 12 history + 8 romance + 4 poetry + 11 mystery + 5 Western + 6 biographies = 46 books total.
+The answer: 46
+What was the question?
+Question: Nancy, the librarian, is shelving books from the cart. She shelved 12 history books, 8 romance books, and 4 poetry books from the top section of the cart. Half the books on the bottom section of the cart were mystery books, which she quickly put back into place. Then, she shelved the remaining books from the bottom of the cart, including 5 Western novels and 6 biographies. How many books did she have on the book cart when she started?
+
+Katie runs one - third of Xavier's distance, which is 84 / 3 miles = 28 miles. Cole runs a quarter of Katie's distance, which translates to 28 / 4 = 7 miles.
+The answer: 7
+Reverse engineering the question: Xavier runs three times as many miles as Katie, who runs 4 times as many miles as Cole. If Xavier runs 84 miles, how many miles does Cole run?
+
+There were 123 students – 3 single attendees = 120 students in couples. 120 students / 2 in a couple = 60 couples.
+The answer: 60
+Reverse engineering the question:

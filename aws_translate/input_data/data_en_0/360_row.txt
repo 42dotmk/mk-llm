@@ -1,0 +1,36 @@
+Answer: merchandise. Now, what could be the question and solution-maybe?
+Ques: PCH is a direct-marketing company that sells merchandise, magazine subscriptions and operates several prize-based websites. While best known for the sweepstakes and Prize Patrol it uses to promote its magazine subscriptions, the majority of the company's revenue now comes from merchandise. The company has been selling books, media, jewelry and other consumer items since the 1980s. PCH operates eight websites, including PCH Search and Win, PCH Lotto, PCH Games, PCH Save and Win, and Candystand.
+
+Answer this question based on the passage: where does the money for pch come from?
+CoT: The relevant information is: While best known for the sweepstakes and Prize Patrol it uses to promote its magazine subscriptions, the majority of the company's revenue now comes from merchandise.
+
+
+Ans: Candi Staton
+Ques: Passage: "You Got the Love" is a 1986 single by Candi Staton. It was then remixed by The Source and re-released in 1991 as' The Source and Candi Staton'.
+
+Question: Based on this passage, who sang the original youve got the love?
+CoT: The important part for answering this question is: "You Got the Love" is a 1986 single by Candi Staton.
+
+
+Ans: Steven Marshall
+Ques: Steven Marshall is the current Premier, having served since 19 March 2018.
+
+Based on this passage, who is currently holding power in state government in south australia?
+CoT: To answer this question, we should know that: Steven Marshall is the current Premier, having served since 19 March 2018.
+
+
+Answer: the First Amendment to the United States Constitution. Now, what could be the question and solution-maybe?
+Ques: Freedom of the press in the United States is protected by the First Amendment to the United States Constitution. This amendment is generally understood to prevent the government from interfering with the distribution of information and opinions. Nevertheless, freedom of the press is subject to certain restrictions, such as defamation law.
+
+Answer this question: where did freedom of the press come from?
+CoT: The relevant information is: Freedom of the press in the United States is protected by the First Amendment to the United States Constitution.
+
+
+Ans: 11
+Ques: Context: There are currently 41 active-duty four-star officers in the uniformed services of the United States: 11 in the Army, 4 in the Marine Corps, 9 in the Navy, 14 in the Air Force, 2 in the Coast Guard, and 1 in the Public Health Service Commissioned Corps. Of the seven federal uniformed services, the National Oceanic and Atmospheric Administration Commissioned Officer Corps is the only service that does not have an established four-star position.
+
+Question: how many 4 star generals are there in the us army?
+CoT: The relevant sentence in the passage is: There are currently 41 active-duty four-star officers in the uniformed services of the United States: 11 in the Army, 4 in the Marine Corps, 9 in the Navy, 14 in the Air Force, 2 in the Coast Guard, and 1 in the Public Health Service Commissioned Corps.
+
+
+Ans: one by Garth Brooks and one by Trisha Yearwood

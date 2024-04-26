@@ -1,0 +1,19 @@
+Detailed Instructions: Given a post that is a real-life anecdote of a complex ethical situation and an associated claim about its type, verify if the claim is true or not. The claim asks if the posts are historical or hypothetical. The posts are "HISTORICAL" when the author has already done something and they are "HYPOTHETICAL" when the author is considering doing something in the future. Say 'yes' if the claim is true otherwise say 'no'
+Q: CLAIM : The following post is HISTORICAL. POST : Throwaway account since my sister is on Reddit.
+
+&amp;#x200B;
+
+Some context: my sister is 27, I am 19. She married her husband, Jack, when she was 22 and I was 15. I'm not close to my sister, or Jack at all. I'd met him a handful of times and we got along fine, but I wouldn't even really say that we were friends. 
+
+&amp;#x200B;
+
+Soon after I added him as a friend on Facebook, my sister's husband Jack started liking all of my stuff on Facebook. Not just photos and statuses, but things that I was tagged in, or even if I said that I was 'interested' in an event. He even went and liked all of my old profile pictures. I would get texts from friends asking me why this man they didn't know was liking dozens of their photos and statuses at a time and I didn't know how to explain. I don't know what brought this on, considering we hardly ever interacted. I asked my brother about it and he found it strange, since he had a much closer relationship with Jack and Jack never liked any of the things my brother posted on Facebook, even though he posted more often than I did. When this started I was 16, and Jack was 24.  
+
+&amp;#x200B;
+
+The entire ordeal made me uncomfortable, but I didn't know what to do. I didn't want to tell my sister or my parents because I was worried that this might cause unnecessary tension amongst all of us. In retrospect, I should've just talked to my sister about it, but it seemed petty to say that I didn't like that her husband was just liking things on Facebook. And I was 16, I didn't know how to handle this kind of situation. So I blocked Jack, but I realized that if he ever used my sister's Facebook account that he would see that I was still active and know that I blocked him. So I blocked her too. I meant to unblock both of them after awhile to see if the problem was solved, but I forgot. 
+
+&amp;#x200B;
+
+Now fast forward to last month - nearly 3 years after all of this happened. Jack and my sister have since divorced (she found out that he had cheated on her with a coworker), and my sister discovers through my brother that I am still active on Facebook and she puts it together that I must've blocked her. After explaining the situation for the first time ever to my family, she goes ballistic and calls me a bitch for not unblocking her and telling her about Jack after they had gotten their divorce. She also takes Jack's side in the matter, saying that it was a selfish of me to find him just liking my stuff creepy. My defense was that she was already hurt by finding out Jack cheated, and had no intention of getting back with him after she found out - telling her about the liking incident would rub unnecessary salt in her wound, especially seeing as how we already barely talk to one another. I also explained that I forgot that I had blocked them, and fully intended to unblock them at one point. Needless to say she's now unblocked, but Jack's still blocked.
+A:

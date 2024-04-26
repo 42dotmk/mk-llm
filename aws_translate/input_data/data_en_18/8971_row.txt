@@ -1,0 +1,139 @@
+You will be given a definition of a task first, then some input of the task.
+In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+
+The Village Voice, the iconic New York newspaper that became online-only last year, has shut down. 
+  
+ “Today is kind of a sucky day,” said owner Pete Barbey in a phone call, according to audio obtained by Gothamist. 
+  
+ “Due to, basically, business realities, we’re going to stop publishing Village Voice new material. About half the staff, it’ll be last day today. About half the staff staying on to wind things down and to work on the archive project,” Barbey reportedly said, referring to efforts to archive the Voice’s content. 
+  
+ Bloomberg via Getty Images The former headquarters of The Village Voice in the East Village neighborhood of New York City, seen on Aug. 22, 2017. 
+  
+ Barbey bought the famous citycentric weekly, co-founded by Dan Wolf, Ed Fancher and Norman Mailer in 1955, from Voice Media Group in 2015 after it spent years going through assorted owners, mergers and separations. Barbey also noted on the call that he bought the publication to save it. 
+  
+ “This isn’t exactly how I though it was going to end up. I’m still trying to save The Village Voice,” he said, before telling his staff that they had “amazing grit” and remained “professional” through it all. 
+  
+ Bloomberg via Getty Images Distribution boxes like this one, pictured in 2017, used to dot New York City. 
+  
+ Cindy Ord via Getty Images 
+  
+ Just one year ago, the alt-weekly ceased print operations and moved solely to digital. That news rattled the newsroom, with film editor Alan Scherstuhl telling Esquire at the time, “I think everybody was stunned.” 
+  
+ “You know how you always expect this will be the last month things keep going? Everybody is kind of surprised, but also like, ‘I can’t believe we got away with it this long,’” he said. 
+  
+ A statement from Barbey confirmed that the paper was indeed shuttering and recalled its illustrious history that “defined a new genre of publishing” and how it was “subject to the increasingly harsh economic realities facing those creating journalism and written media.” 
+  
+ “The Village Voice was created to give speed to a cultural and social revolution, and its legacy and the voices that created that legacy are still relevant today. Perhaps more than ever,” the statement said. 
+  
+ Barbey continued: 
+  
+ Its archives are an indispensable chronicle of history and social progress. Although the Voice will not continue publishing, we are dedicated to ensuring that its legacy will endure to inspire more generations of readers and writers to give even more speed to those same goals. 
+  
+ News of the Voice’s last remnants folding has sent shockwaves through Twitter. One editor of the publication shared a succinct message, calling the Voice’s work “a good run.” 
+  
+ And pour one out for the Village Voice. It was a good run. — Neil deMause (@neildemause) August 31, 2018 
+  
+ The publication’s closure particularly struck a chord with journalists who got their start in that newsroom and those who contributed to the publication in its six-decade life: 
+  
+ I was happy to keep writing for the site, including my recent Aretha Franklin obit, but the owner has announced there will be no new content. I hope it gets sold and stay alive. https://t.co/6wqT0mDFUg — michael musto (@mikeymusto) August 31, 2018 
+  
+ This is so sad for NYC. The paper where I got my start (and obviously where a lot of much, much more impressive people did too) https://t.co/N7I3KwablF — Emma Span (@emmaspan) August 31, 2018 
+  
+ This crap future where we have Facebook and fascism but no village voice. — ❤️ (@umairh) August 31, 2018 
+  
+ the village voice meant so much to so many people. and writing 20 columns there changed my life. @DavidSwansonNYC is one of the best editors in the entire world: thoughtful, talented, smart, empathetic. everyone at VV was kind to me when no one else was. this is crushing. — anemone of the people (@chick_in_kiev) August 31, 2018 
+  
+ Unfortunately for us all, well-intentioned but staggeringly ignorant and egotistical rich idiots are not journalism's salvation. RIP for now VVhttps://t.co/vHbZZTe0Ss — Hamilton Nolan (@hamiltonnolan) August 31, 2018 
+  
+ Never forget this Village Voice piece, one of my all-time favorite pieces of sports writing, The Power and the Gory https://t.co/1ZQXNRWTxC — Erik Hinton (@erikhinton) August 31, 2018 
+  
+ Long live the Village Voice: the newspaper that gave New York its cool, birthed generations of some of the best writers this city has ever known, and taught me everything I know about being a journalist here. You will be dearly missed. https://t.co/yi9FGbkQZ7 — John Surico (@JohnSurico) August 31, 2018 
+  
+ Terrible news. What a loss for NYC. Will always appreciate what I learned freelancing there; thanks @chelipj and @laurashunk https://t.co/sCl5LTUihm — Alanna Schubach (@AlannaSchu) August 31, 2018 
+  
+ It’s hard to even imagine New York without the Village Voice — Sam Adams (@SamuelAAdams) August 31, 2018 
+  
+ I was afraid this would happen. I read The Village Voice religiously. For my money, they always had the best film criticism in the city. I learned more about film in their pages than I did in college. https://t.co/lscXtAvQ3W — Luke Epplin (@LukeEpplin) August 31, 2018 
+  
+ I remember walking past the Village Voice offices shortly after I moved to NYC, thinking, "I will work there." Two years later, I started as an editorial assistant on the arts desk. A year after that, I published my first cover story. 
+  
+  
+  
+ The Village Voice was a place for dreamers. — Eric Sundermann (@ericsundy) August 31, 2018 
+  
+ A salute to everyone who kept the Village Voice going strong online after the print edition ceased. This is a really painful loss. https://t.co/CWFS79dL5r — Alyssa Katz (@alykatzz) August 31, 2018 
+  
+ RIP, The Village Voice. |||||  
+  
+ Village Voice newspaper boxes on a sidewalk in 2013 (Mark Lennihan/AP/Shutterstock) 
+  
+ Three years after buying The Village Voice, and a year after the paper shut down its print edition, owner Peter Barbey told the remaining staff today that the publication will no longer be posting any new stories. 
+  
+ "Today is kind of a sucky day," Barbey told the staff, according to audio obtained by Gothamist. "Due to, basically, business realities, we're going to stop publishing Village Voice new material [sic]." 
+  
+ Barbey said that half of the staff, which is around 15 to 20 people, will remain on to "wind things down," and work on a project to archive the Voice's material online. 
+  
+ The rest of the staff will be let go today. 
+  
+ Listen to Christopher Robbins discuss the Voice's closure on WNYC: 
+  
+ "I bought the Village Voice to save it; this isn't exactly how I thought it was going to end up. I'm still trying to save the Village Voice," Barbey told the staff. 
+  
+ He also praised them for doing important work: "You had amazing grit, to remain professional in doing what you're doing and hanging in there to the end." 
+  
+  
+  
+ The Voice, founded as an alternative weekly newspaper in 1955, has had a number of previous owners, including New York magazine, Rupert Murdoch, Leonard Stern, and New Times (later Village Voice) Media. 
+  
+ Barbey also seemed to indicate that he may have been thinking about selling the Voice for some time. 
+  
+ "I've been having conversations with other entities for months now," Barbey said in the Friday meeting. "This is something we have to do—for some of them this is something we'd have to do before they could talk to us any further." 
+  
+ Friend just turned in his news piece, was told by his editor there was good news: He's the journalist with the last news story to appear in the Voice. That's also, the editor said, the bad news. — Valerie Vande Panne (@asktheduchess) August 31, 2018 
+  
+ In a 2015 interview, Barbey, whose family owns The Reading Eagle (Barbey is president) as shares in a textile empire, that includes brands like The North Face, Vans, Dickies, and Reef, promised to invest in the Voice: "I’m honored I had an the opportunity to purchase it and be part of its future. It’s one of the world’s great journalistic brands. It deserves to survive and prosper. It’s important to a lot of people. It needs to not be resource constrained. Kind of like anything organic, it just needs food and water." 
+  
+ A voicemail left at the Voice's offices was not immediately returned. The mailbox attached to Barbey's cell phone number was full. We'll update as we learn more. 
+  
+ Update: Barbey has issued a statement. "The Voice has been a key element of New York City journalism and is read around the world. As the first modern alternative newspaper, it literally defined a new genre of publishing The Voice has connected multiple generations to local and national news, music, art, theater, film, politics and activism, and showed us that its idealism could be a way of life." 
+  
+ He also addressed the financial issues: "In recent years, the Voice has been subject to the increasingly harsh economic realties facing those creating journalism and written media. Like many others in publishing, we were continually optimistic that relief was around the next corner. Where stability for our business is, we do not know yet. The only thing that is clear now is that we have not reached that destination.” 
+  
+ You can read the statement in full below: 
+  
+ This is a sad day for The Village Voice and for millions of readers. The Voice has been a key element of New York City journalism and is read around the world. As the first modern alternative newspaper, it literally defined a new genre of publishing. As the Voice evolved over the years, its writers, editors, reporters, reviewers, contributors, photographers, artists and staff were united by the idea that the they spoke for and fought hard for those that believed in a better New York City and a better world. The Voice has connected multiple generations to local and national news, music, art, theater, film, politics and activism, and showed us that it’s idealism could be a way of life. In recent years, the Voice has been subject to the increasingly harsh economic realities facing those creating journalism and written media. Like many others in publishing, we were continually optimistic that relief was around the next corner. Where stability for our business is, we do not know yet. The only thing that is clear now is that we have not reached that destination. The Village Voice was created to give speed to a cultural and social revolution, and its legacy and the voices that created that legacy are still relevant today. Perhaps more than ever. Its archives are an indispensable chronicle of history and social progress. Although the Voice will not continue publishing, we are dedicated to ensuring that its legacy will endure to inspire more generations of readers and writers to give even more speed to those same goals. We have begun working to ensure that the enormous print archive of The Village Voice is made digitally accessible. I began my involvement with the Voice intending to ensure its future. While this is not the outcome I’d hoped for and worked towards, a fully digitized Voice archive will offer coming generations a chance to experience for themselves what is clearly one of this city’s and this country’s social and cultural treasures. From the bottom of my heart, I thank everyone who pulled together to attempt create a new future for The Village Voice. Their passion and perseverance have inspired me. I will always be humbled by the grit they’ve shown and the dedication they have displayed. 
+  
+ (Disclosure: This reporter spent a year at the Voice from 2016 to 2017.) 
+  
+ This story has been corrected to reflect that Barbey told the staff the news in person, but that other Voice employees who weren't present called in. ||||| The Village Voice is on sale at a newsstand on 42nd Street on August 22, 2017 in New York. (Photo: AFP PHOTO / Don Emmert) 
+  
+ After operating for more than 60 years, the Village Voice is shutting down. 
+  
+ The owner of the groundbreaking New York City publication, Peter Barbey, gave staff the news on Friday. 
+  
+ “Today is kind of a sucky day," he said, according to audio obtained by Gothamist. “We’re going to stop publishing Voice's material online.” 
+  
+ The decision to close shop comes one year after the former alternative weekly newspaper went 100 percent digital as a last-ditch effort to stay afloat. 
+  
+ The newspaper advertising business "has moved online – and so has the Voice’s audience, which expects us to do what we do not just once a week, but every day, across a range of media, from words and pictures to podcasts, video and even other forms of print publishing," Barbey said in 2017. 
+  
+ Approximately half of the staff, 15 to 20 people, will be staying on to archive some of the publication’s content. 
+  
+ Barbey bought the weekly newspaper from Voice Media Group in 2015 after it had gone through various owners and mergers. 
+  
+ “This isn’t exactly how I thought it was going to end up. I’m still trying to save The Village Voice,” Barbey said. 
+  
+ He said that the decision to shut down the paper was brought on by “harsh economic realities facing those creating journalism and written media.” 
+  
+ The Voice, once home to a number of critically acclaimed writers and journalists, now joins the long list of former alternative weeklies to fold in recent years, such as the Boston Phoenix and the San Francisco Bay Guardian. 
+  
+ Journalists who started their careers writing for the paper have taken to Twitter to offer condolences. 
+  
+ And pour one out for the Village Voice. It was a good run. — Neil deMause (@neildemause) August 31, 2018 
+  
+ Long live the Village Voice: the newspaper that gave New York its cool, birthed generations of some of the best writers this city has ever known, and taught me everything I know about being a journalist here. You will be dearly missed. https://t.co/yi9FGbkQZ7 — John Surico (@JohnSurico) August 31, 2018 
+  
+ Follow Dalvin Brown on Twitter @Dalvin_Brown 
+  
+ Read or Share this story: https://usat.ly/2PVEgEK |||||
+Output:

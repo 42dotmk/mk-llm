@@ -1,0 +1,16 @@
+Problem:A Canadian has not won the Canadian Open since Pat Fletcher in 1954, and one of the most exciting conclusions ever seen at the Open came in 2004, extending that streak. Mike Weir had never done well at the Glen Abbey Golf Course, the site of the tournament that week. In fact, he had only made the cut once at any of the Opens contested at Glen Abbey. But Weir clawed his way to the top of the leaderboard by Friday. And by the third day at the 100th anniversary Open, he had a three-stroke lead, and many Canadians were buzzing about the possibility of the streak's end. Weir started off with a double bogey, but then went 4-under to keep his 3-stroke lead, with only eight holes left. Yet, with the expectations of Canadian observers abnormally high, there was another roadblock in the way of Mike Weir: Vijay Singh. Weir bogeyed three holes on the back nine but still had a chance to win the tournament with a 10-footer on the 72nd hole. When he missed the putt, the two entered a sudden-death playoff. Weir missed two more chances to win the tournament: a 25-foot putt for eagle on No. 18 on the first hole of sudden-death, and a 5-foot putt on No. 17, the second playoff hole. On the third playoff hole, Weir put his third shot into the water after a horrid drive and lay-up, and Singh was safely on the green in two. Singh won the Open and overtook Tiger Woods as the world's number one player.
+
+Answer this question: when was the last time a canadian won the canadian open?
+Solution:OK... The relevant information is: A Canadian has not won the Canadian Open since Pat Fletcher in 1954, and one of the most exciting conclusions ever seen at the Open came in 2004, extending that streak.
+Pat Fletcher in 1954.
+
+Problem:Of these proposals, one created by 17-year-old Robert G. Heft in 1958 as a school project received the most publicity. His mother was a seamstress, but refused to do any of the work for him. He originally received a B -- for the project. After discussing the grade with his teacher, it was agreed (somewhat jokingly) that if the flag was accepted by Congress, the grade would be reconsidered. Heft's flag design was chosen and adopted by presidential proclamation after Alaska and before Hawaii was admitted into the Union in 1959. According to Heft, his teacher did keep to their agreement and changed his grade to an A for the project. The 49-and 50-star flags were each flown for the first time at Fort McHenry on Independence Day, in 1959 and 1960 respectively.
+
+Based on this passage, where was the 50 star flag first flown?
+Solution:OK... The relevant sentence in the passage is: The 49-and 50-star flags were each flown for the first time at Fort McHenry on Independence Day, in 1959 and 1960 respectively.
+Fort McHenry.
+
+Problem:Ca n't Buy Me Love is a 1987 American teen romantic comedy feature film starring Patrick Dempsey and Amanda Peterson in a story about a nerd at a high school in Tucson, Arizona who gives a cheerleader $1,000 to pretend to be his girlfriend for a month. The film was directed by Steve Rash and takes its title from a Beatles song with the same title.
+
+Based on this passage, where does cant buy me love take place?
+Solution:

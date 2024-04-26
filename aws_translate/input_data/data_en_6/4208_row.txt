@@ -1,0 +1,29 @@
+## question
+James and the Giant Peach is a popular children's novel written in 1961 by British author Roald Dahl. The original first edition published by Alfred Knopf featured illustrations by Nancy Ekholm Burkert. There have been reillustrated versions of it over the years, done by Michael Simeon for the first British edition, Emma Chichester Clark, Lane Smith and Quentin Blake. It was adapted into a film of the same name in 1996.
+
+When was james and the giant peach written?
+## answer
+The relevant sentence in the passage is: James and the Giant Peach is a popular children's novel written in 1961 by British author Roald Dahl.
+So the answer must be 1961
+
+## question
+Passage: Steffan Rhodri (born 1 March 1967) is a Welsh film actor, best known for portraying Dave Coaches on Gavin & Stacey and as Reg Cattermole in Harry Potter and the Deathly Hallows part I.
+
+Question: Based on this passage, who plays dave coaches in gavin and stacey?
+## answer
+This is the relevant information: Steffan Rhodri (born 1 March 1967) is a Welsh film actor, best known for portraying Dave Coaches on Gavin & Stacey and as Reg Cattermole in Harry Potter and the Deathly Hallows part I.
+So the answer must be Steffan Rhodri
+
+## question
+In March 1995, Jordan decided to quit baseball due to the ongoing Major League Baseball strike, as he wanted to avoid becoming a potential replacement player. On March 18, 1995, Jordan announced his return to the NBA through a two-word press release: "I'm back." The next day, Jordan took to the court with the Bulls to face the Indiana Pacers in Indianapolis, scoring 19 points. The game had the highest Nielsen rating of a regular season NBA game since 1975. Although he could have opted to wear his normal number in spite of the Bulls having retired it, Jordan instead wore number 45, as he had while playing baseball.
+
+Answer this question: when did michael jordan change his number to 45?
+## answer
+This is the relevant information: Although he could have opted to wear his normal number in spite of the Bulls having retired it, Jordan instead wore number 45, as he had while playing baseball.
+So the answer must be March 1995
+
+## question
+Context: A year later, the four have their first major performance as the Four Horsemen in an elaborate Las Vegas show funded by insurance magnate Arthur Tressler (Michael Caine). Their final trick appears to transport one of the audience members to the vault of his bank, the Crédit Républicain in Paris, where stacks of new euro bills are stored. At the magicians' command, the fans in the vault activate, drawing the bills into the vents and then showering the Las Vegas crowd with them. The euros are shown to be real, and the vault in Paris is found to be empty of its recent shipment of euros. FBI agent Dylan Rhodes (Mark Ruffalo), and Interpol agent Alma Dray (Mélanie Laurent), are then partnered to investigate the Horsemen. The two question the magicians but have no evidence to hold them. Dylan and Alma turn to Thaddeus Bradley (Morgan Freeman), a former magician who now makes money by explaining the tricks behind magic acts. Thaddeus demonstrates how the Horsemen used a mock vault under the Las Vegas stage and says that the group must have stolen the money in Paris before it arrived at the bank, replacing it with flash paper that left no evidence.
+
+Question: who plays dylan in now you see me?
+## answer

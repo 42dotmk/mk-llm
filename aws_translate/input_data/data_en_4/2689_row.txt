@@ -1,0 +1,25 @@
+First find the total number of basil leaves: 3 pots * 4 leaves / pot = 12 leaves. Then find the total number of rosemary leaves: 9 pots * 18 leaves / pot = 162 leaves. Then find the total number of thyme leaves: 6 pots * 30 leaves / pot = 180 leaves. Then add the number of each type of leaf to find the total number of leaves: 12 leaves + 162 leaves + 180 leaves = 354 leaves.
+The answer: 354
+Reverse engineering the question: Annie plants 3 pots of basil, 9 pots of rosemary, and 6 pots of thyme. Each basil plant has 4 leaves, each rosemary plant has 18 leaves, and each thyme plant has 30 leaves. How many leaves are there total?
+
+Reasoning and answer: If the final number of geese was 12, which included the 4 that joined from the trees, then before these 4 joined, there were 12 - 4 = 8 geese in the sky. Since these 8 geese represent the half of geese remaining, then the initial formation contained 8 * 2 = 16 geese.
+The answer: 16
+What was the question?
+Question: Albert noticed a flock of geese flying together in a V formation in the sky overhead. One half of the geese broke off from the formation, flew toward the earth, and landed in some trees. Then, 4 geese flew up, out of the trees, and joined those already flying in the air to make a new V formation in the sky. If the final number of geese flying in the V formation was 12, how many geese were in the first formation Albert noticed in the sky?
+
+Machine A can put caps on 12 x 10 = 120 bottles in 10 minutes. Machine B can put caps on 12 - 2 = 10 bottles in 1 minute. So in 10 minutes, machine B can put caps on 10 x 10 = 100 bottles. Machine c can put caps on 10 + 5 = 15 bottles in 1 minute. So in 10 minutes, machine C can put caps on 15 x 10 = 150 bottles. Therefore, the three machines can put caps on 120 + 100 + 150 = 370 bottles in 10 minutes.
+The answer: 370
+Reverse engineering the question: There are three machines in a factory. Machine A can put caps on 12 bottles in 1 minute. Machine B can put caps to 2 fewer bottles than Machine A. Machine C can put caps to 5 more bottles than Machine B. How many bottles can those three machines put caps on in 10 minutes?
+
+Reasoning and answer: 1491 + 3025 = 4516. 4516 + 1768 = 6284. There are 6284 flowers at the Greene Nursery.
+The answer: 6284
+What was the question?
+Question: At the Greene Nursery, there are 1491 red roses, 3025 yellow carnations, and 1768 white roses. How many flowers are at the Greene Nursery in total?
+
+He will write for 120 hours because 2 x 60 = 120. He will write for 24 units of five minutes each because 120 / 5 = 24. He can write 600 words because 24 x 25 = 600. He can earn $6 because 600 x .01 = 6.
+The answer: 6
+Reverse engineering the question: Rikki is writing and selling poetry. He sells his poems for $.01 a word. He can write 25 words of poetry in 5 minutes. If he has 2 hours to write poetry, how much can he expect to earn?
+
+If Bom has 300 seeds, then Gwi has 300 + 40 = 340 watermelon seeds. Together, Bom and Gwi have 340 + 300 = 640 melon seeds. Yeon's number of watermelon seeds is three times as many as the number that Gwi has, meaning Yeon has 3 * 340 = 1020 watermelon seeds. Together, the three friends have 1020 + 640 = 1660 watermelon seeds.
+The answer: 1660
+Reverse engineering the question:

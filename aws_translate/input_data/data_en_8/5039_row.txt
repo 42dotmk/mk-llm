@@ -1,0 +1,25 @@
+q... Every player who has won this award and has been eligible for the Naismith Memorial Basketball Hall of Fame has been inducted. Kareem Abdul-Jabbar won the award a record six times. Both Bill Russell and Michael Jordan won the award five times, while Wilt Chamberlain and LeBron James won the award four times. Russell and James are the only players to have won the award four times in five seasons. Moses Malone, Larry Bird and Magic Johnson each won the award three times, while Bob Pettit, Karl Malone, Tim Duncan, Steve Nash and Stephen Curry have each won it twice. Only two rookies have won the award: Wilt Chamberlain in the 1959 -- 60 season and Wes Unseld in the 1968 -- 69 season. Hakeem Olajuwon of Nigeria, Tim Duncan of the U.S. Virgin Islands, Steve Nash of Canada and Dirk Nowitzki of Germany are the only MVP winners considered "international players" by the NBA.
+
+Based on this passage, nba players who won mvp as a rookie?
+a... The relevant sentence in the passage is: Only two rookies have won the award: Wilt Chamberlain in the 1959 -- 60 season and Wes Unseld in the 1968 -- 69 season.
+The answer is Wilt Chamberlain in the 1959 -- 60 season and Wes Unseld in the 1968 -- 69 season
+
+
+q... Bristol Temple Meads is the oldest and largest railway station in Bristol, England. It is an important transport hub for public transport in the city. In addition to the train services there are bus services to many parts of the city and surrounding districts, and a ferry to the city centre. Bristol's other major station, Bristol Parkway, is on the northern outskirts of the conurbation.
+
+Based on this passage, what is the main train station in bristol?
+a... The relevant information to answer the above question is: Bristol Temple Meads is the oldest and largest railway station in Bristol, England.
+The answer is Bristol Temple Meads
+
+
+q... The 2018 UEFA Champions League Final was the final match of the 2017 -- 18 UEFA Champions League, the 63rd season of Europe's premier club football tournament organised by UEFA, and the 26th season since it was renamed from the European Cup to the UEFA Champions League. It was played at the NSC Olimpiyskiy Stadium in Kiev, Ukraine on 26 May 2018, between Spanish side and defending champions Real Madrid, who had won the competition in each of the last two seasons, and English side Liverpool.
+
+Answer this question based on the passage: where are they going to play uefa champions league final?
+a... To answer the above question, the relevant sentence is: It was played at the NSC Olimpiyskiy Stadium in Kiev, Ukraine on 26 May 2018, between Spanish side and defending champions Real Madrid, who had won the competition in each of the last two seasons, and English side Liverpool.
+The answer is the NSC Olimpiyskiy Stadium in Kiev , Ukraine
+
+
+q... David Bailie (born 4 December 1937) is an English actor, known for his performances on stage, television and film. In the 1960s and 1970s he worked for both the National Theatre and the Royal Shakespeare Company, where he was an associate artist. On TV he played "Dask" in the 1977 Doctor Who serial The Robots of Death, and also appeared in Blake's 7. On film, he played the mute pirate Cotton in the Pirates of the Caribbean series. Bailie is also a professional photographer, specialising in portrait photography. He has a studio in West Kensington, London.
+
+Answer this question based on the passage: who played cotton in pirates of the caribbean?
+a...

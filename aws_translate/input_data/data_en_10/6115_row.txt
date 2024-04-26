@@ -1,0 +1,18 @@
+Definition: In this task, you need to write an incorrect answer to the given question. Along with the question, you are also given the correct answer(s) and the associated paragraph. An incorrect answer should be closely related to the content of the paragraph and/or the question but will not truthfully answer the question. Your incorrect answers should be similar to the given correct answer such that it will pose a challenge for students to distinguish the two. A good incorrect answer should prevent those who skip the paragraph from answering the question. The incorrect answer should not be trivial, in the sense that they should not be easily eliminated without reading the paragraph.
+Input: Paragraph- Sent 1: After the disruption of the plot in Amman, it had not escaped notice in Washington that Hijazi had lived in California and driven a cab in Boston and that Deek was a naturalized U.S. citizen who, as Berger reminded President Clinton, had been in touch with extremists in the United States as well as abroad.
+Sent 2: Before Ressam's arrest, Berger saw no need to raise a public alarm at home- although the FBI put all field offices on alert.
+Sent 3: Now, following Ressam's arrest, the FBI asked for an unprecedented number of special wiretaps.
+Sent 4: Both Berger andTenet told us that their impression was that more Foreign Intelligence Surveillance Act (FISA) wiretap requests were processed during the millennium alert than ever before.
+Sent 5: The next day, writing about Ressam's arrest and links to a cell in Montreal, Berger informed the President that the FBI would advise police in the United States to step up activities but would still try to avoid undue public alarm by stressing that the government had no specific information about planned attacks.
+Sent 6: At a December 22 meeting of the Small Group of principals, FBI Director Louis Freeh briefed officials from the NSC staff, CIA, and Justice on wiretaps and investigations inside the United States, including a Brooklyn entity tied to the Ressam arrest, a seemingly unreliable foreign report of possible attacks on seven U.S. cities, two Algerians detained on the Canadian border, and searches in Montreal related to a jihadist cell.
+Sent 7: The Justice Department released a statement on the alert the same day.
+Sent 8: Clarke's staff warned, "Foreign terrorist sleeper cells are present in the US and attacks in the US are likely."Sent 9: Clarke asked Berger to try to make sure that the domestic agencies remained alert."Sent 10: Is there a threat to civilian aircraft?"he wrote.
+Sent 11: Clarke also asked the principals in late December to discuss a foreign security service report about a  Bin Laden plan to put bombs on transatlantic flights.
+Sent 12: The CSG met daily.
+Sent 13: Berger said that the principals met constantly.
+Sent 14: Later, when asked what made her decide to ask Ressam to step out of his vehicle, Diana Dean, a Customs inspector who referred Ressam to secondary inspection, testified that it was her "training and experience."Sent 15: It appears that the heightened sense of alert at the national level played no role in Ressam's detention.
+Sent 16: There was a mounting sense of public alarm.
+Sent 17: The earlier Jordanian arrests had been covered in the press, and Ressam's arrest was featured on network evening news broadcasts throughout the Christmas season.
+Sent 18: The FBI was more communicative during the millennium crisis than it had ever been. 
+Question: Following Ressam's arrest, which type of wiretap requests were being requested?.
+Output:

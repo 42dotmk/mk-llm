@@ -1,0 +1,27 @@
+Reasoning and answer: One less than 5 is 5 - 1 = 4. If one tarantula egg sac can contain 1000 tarantulas, then four egg sacs can hold 4 * 1000 = 4000 tarantula babies. If each tarantula baby has eight legs, the 4 egg sacs can contain 4000 * 8 = 32,000 baby tarantula legs.
+The answer: 32000
+What was the question?
+Question: If a tarantula has eight legs, and one tarantula egg sac can contain 1000 tarantulas, how many baby tarantula legs would be in one less than 5 egg sacs?
+
+Let S be the number of systems Rodney sold on the first street. He sold 2S systems on the second street. Based on his commission, he sold 175 / 25 = 7 systems. In all, he sold S + 2S + 0 + 1 = 3S + 1 = 7 systems. On the first and second streets, he sold 3S = 7 - 1 = 6 systems. Thus, on the first street he sold S = 6 / 3 = 2 systems. On the second street, Rodney sold 2 * 2 = 4 security systems.
+The answer: 4
+Reverse engineering the question: Rodney is a door-to-door salesman trying to sell home security systems. He gets a commission of $25 for each system he sells. He is canvassing a neighborhood of four streets with eight houses each. The first street gave him half the sales that the second street did, while every house on the third street turned him away and the fourth street resulted in only one sale. His total commission was $175. How many security systems did he sell on the second street?
+
+Reasoning and answer: Kelsey answered 35 + 8 = 43 correctly. Martin answered 43 - 3 = 40 correctly.
+The answer: 40
+What was the question?
+Question: On a quiz, Martin answered three fewer questions correctly than Kelsey, and Kelsey answered eight more questions correctly than Campbell. If Campbell answered 35 questions correctly, how many did Martin answer correctly?
+
+Shaun got 5 * 16 = 80 votes. Eliot got 80 * 2 = 160 votes.
+The answer: 160
+Reverse engineering the question: In the school election, Eliot got twice as many votes as Shaun, and Shaun got 5 times as many votes as Randy. If Randy got 16 votes, how many did Eliot get?
+
+Reasoning and answer: Joey studies 2 hours a night 5 nights a week so that's 2 * 5 = 10 hours. He studies 3 hours a day on the weekends so that's 3 * 2 = 6 hours. In one week, Joey studies 10 + 6 = 16 hours. He has 6 weeks till his exams and he studies for 16 hours a week so that's 6 * 16 = 96 hours of studying.
+The answer: 96
+What was the question?
+Question: Joey studies for his SAT exams 2 hours per night 5 nights a week. On the weekends, he studies 3 hours a day. If his SAT exam is 6 weeks away, how much time will Joey spend studying?
+
+Reasoning and answer: First, we figure out the price per meal by adding the steak and the drink together, finding a cost of 20 + 5 = 25 per meal. Then we multiply this by 2, as there are two people eating, meaning a total cost of 25 * 2 = 50 for both meals. Then we find the total tip amount for a 20% tip, by multiplying 50 * .2 = 10. Then we find out what 80% of this tip amount is by multiplying the desired tip of 10 by .8, finding 10 * .8 = 8 dollars that Billy should contribute.
+The answer: 8
+What was the question?
+Question:

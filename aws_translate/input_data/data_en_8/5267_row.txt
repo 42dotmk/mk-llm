@@ -1,0 +1,27 @@
+Reasoning and answer: The couple want 3 slices each for a total of 2 * 3 = 6 slices. The children want 1 slice each for a total of 1 * 6 = 6 slices. They want 6 + 6 = 12 slices in total. Each pizza has 4 slices so they need 12 / 4 = 3 pizzas.
+The answer: 3
+What was the question?
+Question: A married couple and their 6 children are ordering some pizza. If the couple want 3 slices each and the children want 1 slice each, how many 4-slice pizzas should they order?
+
+Polly stands on her back legs for 3 * 10 = 30 minutes. Petra stands on his back legs for 30 / 6 = 5 minutes. In total, the three entertainers stand on their back legs for 10 + 30 + 5 = 45 minutes'.
+The answer: 45
+Reverse engineering the question: Pulsar, the shuffle-dancing bear, Polly, the pink prancing poodle, and Petra, the proud portly pachyderm, are entertainers at the Big Top Circus. In one show, Pulsar stands on his two back legs for a total of 10 minutes. Then, Polly stands on her back legs for three times as long as Pulsar. And then, finally, Petra stands of his back legs for one-sixth as long as Polly. What is the combined length of time, in minutes, that the three entertainers stand on their back legs?
+
+Reasoning and answer: They gave the cashier $20 x 2 = $40. Since a $1 change was returned, this means the tickets cost $40 - $1 = $39. Two adult tickets cost $9 x 2 = $18. So, $39 - $18 = $21 was spent for the children's tickets. Each child's ticket costs $9 - $2 = $7. Therefore, there are $21 / $7 = 3 children.
+The answer: 3
+What was the question?
+Question: A family went out to see a movie. The regular ticket costs $9 and the ticket for children is $2 less. They gave the cashier two $20 bills and they received a $1 change. How many children are there if there are 2 adults in the family?
+
+Mike started by throwing 20 seeds to the birds and then threw twice as many, 20 + 20(2) = 20 + 40. That totals to 20 + 40 = 60 seeds. He also threw 30 other seeds and had 30 left over, which means he started with 60 + 30 + 30 = 120 seeds.
+The answer: 120
+Reverse engineering the question: Mike is feeding the birds at the park. He counts out the seeds as he throws them. He throws 20 seeds to the birds on the left. He throws twice as much to the bigger group of birds on the right. Some more birds flutter over to join the others for lunch and Mike throws 30 more seeds for them. If Mike has 30 seeds left to feed the last of the birds, how many seeds did Mike start with?
+
+Reasoning and answer: If on a tough week she sells half what she sells on a good week, then on a good week she sells 800 * 2 = 1600 dollars. If she had 5 good weeks, the amount is 5 * 1600 = 8000 dollars. During the 3 tough weeks, she sells 3 * 800 = 2400 dollars. The total amount she sold in both weeks is 2400 + 8000 = 10400 dollars.
+The answer: 10400
+What was the question?
+Question: On a tough week, Haji's mother sells goods worth $800, which is half the amount she sells on a good week. What's the total amount of money she makes if she has 5 good weeks and 3 tough weeks?
+
+Reasoning and answer: Saly saves 1 / 2 * $6 / day = $3 / day. Since each year have 365 days, the total amount of money Sally will save in a year is $3 / day * 365 days / year = $1095 / year. Bob saves 1 / 2 * $4 / day = $2 / day. The total amount of money Bob will have saved in a year is $2 / day * 365 days / year = $730 / year. In total, Sally and Bob would have saved $730 + $1095 = $1825.
+The answer: 1825
+What was the question?
+Question:

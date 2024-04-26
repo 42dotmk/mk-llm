@@ -1,0 +1,23 @@
+Given the task definition and input, reply with output. In this task you are given an anecdote, which recount a complex ethical situation. The question you are given is, has the author of the anecdote acted ethically? answer this question with "RIGHT" or "WRONG".
+
+**Context:** I have social anxiety &amp; often can't perceive reality correctly. I don't take meds. Please help me figure out if I was an asshole or not. 
+
+While I was in a cafe with my dad, a black homeless man ran in and told us our car was getting a ticket. My dad left so speak with the meter maid. Meanwhile I was wondering what I should do to thank the homeless man. I didn’t have any cash and I didn’t see any ATMs. I saw my dad give the homeless man a dollar.
+
+I worried the homeless man would think we were stingy, selfish people who were so out of touch with reality that we thought giving a single dollar would make us white saviors. I didn't have cash but I did have a card. I bought him tea and 3 cookies.
+
+I made up a speech in my head to use when I gave the man his food. I kept repeating it in my head, trying emphasize how sorry I was that I didn’t have any money and that I hoped this food would be enough.
+
+My dad disappeared while I was ordering the food and I freaked out so much I forgot to apologize for not giving money. The homeless man put down my food and drinks besides 5 other drinks he'd been given before. I felt ashamed, like my pathetic efforts to help were just another unwanted item that robbed him of the chance to choose for himself with money.
+
+I got into the car with my dad and angrily asked him why he left when I asked him to stay. He didn’t care at all that I’d been calling for him or that my hot tea burned my full hands when I got bumped by someone, looking for him. I told him I was incredibly upset and he told me not to be, but I wouldn’t stop. I kept saying, “Why the hell did you leave? It messed up what I was going to say. Stop leaving me all the time!”
+
+“Use your eyes to look for me, stop freaking out,” he said.
+
+I yelled, “I made myself look like a stupid, racist, out-of-touch white bitch with a savior complex who can’t even do one thing right!” and my dad turned to me and yelled, “Shut up! Shut up and be grateful. I’m paying for everything on this trip. You shut your mouth and quit talking.”
+
+I felt so bad that I burst out crying. I cried so hard I couldn’t even speak. It was just all stupid blubbering and it made my dad yell at me, "Why are you crying? You have no reason to cry!" Finally I blubbered out in a pathetic voice, “Please just give me a minute! Just a minute, God!” 
+
+We drove down the streets and I explained how ashamed I was that I couldn’t help at all and how I failed to use my privilege to actually help another human being. He told me I didn’t care about being a good person and that I was just doing it out of guilt. I told him I was upset because I should have done more and he told me I needed to quit being upset because I helped the homeless man and I couldn’t give him everything in one interaction. 
+
+I still feel like a huge, worthless, unhelpful, privileged asshole who’s just one more idiotic white bitch who can't do anything to help. Am I the asshole?

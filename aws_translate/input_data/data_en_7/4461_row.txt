@@ -1,0 +1,26 @@
+Answer this question please:
+The first amateur draft was held in 1965. Unlike most sports drafts, the first-year player draft is held mid-season, in June. Another distinguishing feature of this draft in comparison with those of other North American major professional sports leagues is its sheer size: under the current collective bargaining agreement the draft lasts 40 rounds, plus compensatory picks. In contrast, the NFL draft lasts for seven rounds (a maximum of 256 selections), the NHL entry draft lasts seven rounds and roughly 215 picks, and the NBA draft lasts for only two rounds (60 selections).
+
+Answer this question: hiw many rounds are in the mlb draft?
+
+Stream of random thoughts: This is the relevant information: Another distinguishing feature of this draft in comparison with those of other North American major professional sports leagues is its sheer size: under the current collective bargaining agreement the draft lasts 40 rounds, plus compensatory picks.... The answer is 40.
+----
+Answer this question please:
+Passage: The Clean Air Act (42 U.S.C. § 7401) is a United States federal law designed to control air pollution on a national level. It is one of the United States' first and most influential modern environmental laws, and one of the most comprehensive air quality laws in the world. As with many other major U.S. federal environmental statutes, it is administered by the U.S. Environmental Protection Agency (EPA), in coordination with state, local, and tribal governments. Its implementing regulations are codified at 40 C.F.R. Subchapter C, Parts 50-97.
+
+Question: Based on this passage, the clean air act requires this agency to regulate environmental policies?
+
+Stream of random thoughts: To answer the above question, the relevant sentence is: As with many other major U.S. federal environmental statutes, it is administered by the U.S. Environmental Protection Agency (EPA), in coordination with state, local, and tribal governments.... The answer is the U.S. Environmental Protection Agency ( EPA ).
+----
+Answer this question please:
+Queen Elizabeth II became the longest-reigning British monarch on 9 September 2015 when she surpassed the reign of her great-great-grandmother Victoria. On 6 February 2017 she became the first British monarch to celebrate a sapphire jubilee, commemorating 65 years on the throne.
+
+Who has been the longest reigning british monarch?
+
+Stream of random thoughts: To answer this question, we should know that: Queen Elizabeth II became the longest-reigning British monarch on 9 September 2015 when she surpassed the reign of her great-great-grandmother Victoria.... The answer is Queen Elizabeth II.
+----
+Answer this question please:
+Context: The normal blood glucose level (tested while fasting) for non-diabetics, should be between 3.9 and 5.5 mmol / L (70 to 100 mg / dL). The mean normal blood glucose level in humans is about 5.5 mmol / L (100 mg / dL); however, this level fluctuates throughout the day. Blood sugar levels for those without diabetes and who are not fasting should be below 6.9 mmol / L (125 mg / dL). The blood glucose target range for diabetics, according to the American Diabetes Association, should be 5.0 -- 7.2 mmol / l (90 -- 130 mg / dL) before meals, and less than 10 mmol / L (180 mg / dL) after meals (as measured by a blood glucose monitor).
+
+Question: what is the normal percentage of sugar level in the body?
+

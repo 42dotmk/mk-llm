@@ -1,0 +1,25 @@
+q... Passage: The Saint Lawrence River (French: Fleuve Saint-Laurent; Tuscarora: Kahnawáʼkye; Mohawk: Kaniatarowanenneh, meaning "big waterway") is a large river in the middle latitudes of North America. The Saint Lawrence River flows in a roughly north-easterly direction, connecting the Great Lakes with the Atlantic Ocean and forming the primary drainage outflow of the Great Lakes Basin. It traverses the Canadian provinces of Quebec and Ontario, and is part of the international boundary between Ontario, Canada, and the U.S. state of New York. This river also provides the basis of the commercial Saint Lawrence Seaway.
+
+Question: Based on this passage, which way does the st. lawrence river flow?
+a... This is the relevant information: The Saint Lawrence River flows in a roughly north-easterly direction, connecting the Great Lakes with the Atlantic Ocean and forming the primary drainage outflow of the Great Lakes Basin.
+The answer is a roughly north - easterly direction
+
+
+q... Leila Seth (20 October 1930 -- 5 May 2017) was the first woman judge on the Delhi High Court and she became the first woman to become Chief Justice of a state High Court on 5 August 1991. She sat on a number of enquiry commissions, including one into the death of' Biscuit Baron' Rajan Pillai, and was also a part of the three-member bench of the Justice Verma Committee that was established to overhaul India's rape laws in the aftermath of the infamous 2012 Delhi gang-rape case. She was a member of the 15th Law Commission of India from 1997 to 2000, and was responsible for the amendments to the Hindu Succession Act that gave equal rights to daughters in joint family property.
+
+Answer this question: who was the first woman judge to be appointed chief justice of a high court?
+a... The important part for answering this question is: Leila Seth (20 October 1930 -- 5 May 2017) was the first woman judge on the Delhi High Court and she became the first woman to become Chief Justice of a state High Court on 5 August 1991.
+The answer is Leila Seth
+
+
+q... "Take It All Back" is a song written and recorded by American folk band Judah & the Lion, released as a single from their second studio album Folk Hop N' Roll. It was released by the band's label, Cletus the Van Records.
+
+Answer this question: who sings take it all back just to have you?
+a... The relevant information is: "Take It All Back" is a song written and recorded by American folk band Judah & the Lion, released as a single from their second studio album Folk Hop N' Roll.
+The answer is American folk band Judah & the Lion
+
+
+q... War for the Planet of the Apes is a 2017 American science fiction film directed by Matt Reeves and written by Mark Bomback and Reeves. A sequel to Rise of the Planet of the Apes (2011) and Dawn of the Planet of the Apes (2014), it is the third installment in the Planet of the Apes reboot series. The film stars Andy Serkis, Woody Harrelson and Steve Zahn, and follows a confrontation between the apes, led by Caesar, and the humans for control of Earth. Like its predecessor, its premise shares several similarities to the fifth film in the original series, Battle for the Planet of the Apes, but it is not a direct remake.
+
+Answer this question based on the passage: who directed war for the planet of the apes?
+a...

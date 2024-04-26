@@ -1,0 +1,29 @@
+## question
+Context: In April 2005, the show was revised slightly. Aside from numerous tweakings to the script, there are slight differences in the revised version's musical numbers. Chief among these is a brand new song opening Act II called "Still Rockin."' Other changes include the removal of the' rap' "Dancing is not a Crime". Only the very first section of the rap is used and right before "Mama Says" instead of during the Town Council meeting. Ren gives a speech instead during the meeting. Also, the Reverend's song "I Confess" has also been removed and replaced with a much longer and more emotional scene with Ren after the Town Council meeting and a short reprise of "Heaven Help Me" sung by Reverend Moore alone. Furthermore, the show now begins with Rusty, Wendy Jo, and Urleen singing the opening of "Footloose" instead of Ren and the boys, and during "Learning to be Silent" Ariel sings with Vi and Ethel during the song.
+
+Question: who sings learning to be silent in footloose?
+## answer
+The relevant information to answer the above question is: Furthermore, the show now begins with Rusty, Wendy Jo, and Urleen singing the opening of "Footloose" instead of Ren and the boys, and during "Learning to be Silent" Ariel sings with Vi and Ethel during the song.
+So the answer must be Ariel sings with Vi and Ethel
+
+## question
+Wags is a tall, brown, furry dog with floppy ears and a happy face. He "loves to sing and dance and kids bring' bones' that the Wiggly dancers collect from the audience". The last of the four characters to be introduced, Wags was originally played by Field. Fatt provided the original barking noises for Wags before Paul Field, general manager of The Wiggles and brother of Blue Wiggle Anthony took over. Mic Conway of The Captain Matchbox Whoopee Band fame, has provided Wags's full-spoken dialogue.
+
+Who played wags the dog in the wiggles?
+## answer
+The relevant information to answer the above question is: Mic Conway of The Captain Matchbox Whoopee Band fame, has provided Wags's full-spoken dialogue.
+So the answer must be Mic Conway
+
+## question
+Passage: Martin Seamus "Marty" McFly is a fictional character and the main protagonist of the Back to the Future trilogy. He is portrayed by actor Michael J. Fox. Marty also appears in the animated series, where he was voiced by David Kaufman. In the videogame by Telltale Games, he is voiced by A.J. Locascio; in addition, Fox voiced Marty's future counterparts at the end of the game. In 2008, Marty McFly was selected by Empire magazine as the 12th Greatest Movie Character of All Time.
+
+Question: Based on this passage, who plays marty in back to the future?
+## answer
+To answer the above question, the relevant sentence is: He is portrayed by actor Michael J. Fox.
+So the answer must be Michael J. Fox
+
+## question
+Context: Slender: The Eight Pages is a freeware indie-developed first-person survival horror video game released in June 2012 as a beta for Microsoft Windows and OS X, utilizing the Unity engine. Developed by Mark J. Hadley, the game is based on the quasi-folklore meme figure known as the Slender Man, who is depicted as a tall man wearing all black with a white face with no facial features. The character is known for the ominous abduction of countless children in dark mysterious settings, such as deep forests and abandoned buildings.
+
+Question: when did the slender man game come out?
+## answer

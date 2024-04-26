@@ -1,0 +1,30 @@
+Instructions: In this task, you are given an article. Your task is to summarize the article in a sentence.
+Input: The giant sculpture depicted a scantily-clad prime minister sitting on a throne with a pig's head on his lap.
+Thousands of people gathered at the annual event in Lewes, which traditionally features near-the-knuckle satirical creations poking fun at famous or controversial figures.
+More than 30 different processions made their way through the East Sussex town.
+Last year, Lewes, torched figures including Russian president Vladimir Putin.
+Effigies this year included former BBC Top Gear presenter Jeremy Clarkson.
+A 50ft (15m) Guy Fawkes effigy was also torched in an bid to set a record for the tallest Guy.
+Lewes Borough Bonfire Society, one of six societies involved in the event, boasted it had built a one-of-a-kind landmark which would illuminate the sky.
+Chairman Jason Winter said of the 50ft Guy: "This is the biggest one we've ever done. I think it's the biggest one that anyone's ever done."
+Jim Etherington, from Cliffe Bonfire Society, said people described the famous Sussex event as anarchic, but that was "romanticising it".
+"It's incredibly well-organised with due care for safety," he said.
+"The days when fireworks were thrown and barrels rolled down through the town are long gone."
+Michael Symes, from Lewes Bonfire Society, said the town would "be alight from one end to another".
+The Lewes bonfire isn't for the faint-hearted.
+Standing at the front as the men, women and children of the various societies march by, banging drums and carrying flaming torches, you are inches away from fire, showered with burning cinders, while ear-splitting bangers are let off randomly, just feet away from where you are standing.
+To a newcomer, this sensory feast feels like a once-in-a-lifetime bucket-list experience, yet for the people of Lewes the loud and colourful celebration is an annual experience and has been for more than 100 years.
+The town began to pulsate with explosions as the night reached its climax and the effigies - this year including David Cameron, Sepp Blatter and Jeremy Clarkson - were each "blown up", to shouts of "burn him, burn him", from the crowds.
+It may take some time to process the night, and I'm expecting some vivid dreams.
+Sussex Police assistant chief constable Robin Smith said the priority was safety.
+Alcohol also caused problems and about 50 injuries last year were related to drink, he added.
+6 bonfire societies  take part in celebrations on 5 November
+4,450  people will join the procession through Lewes
+30,000  spectators could attend on Thursday evening
+26,000 torches will be burned
+BBC reporter Charlie Rose tweeted that the centre of Lewes was packed with onlookers enjoying the spectacle of the parades, and there was no room to move on the pavements.
+The celebrations in Lewes are one of the UK's biggest annual bonfire events.
+A model of Pope Paul V - Pontiff at the time of the Gunpowder Plot - is burned every year to remember 17 Protestant martyrs burned at the stake in the town during the 16th Century.
+Fifa president Sepp Blatter has already been named as the target of a Kent society's celebrations - but BBC reporter Nathalie Edell also saw him make an appearance in Lewes before the evening parades got under way.
+She tweeted: "Well there's a sight for sore eyes... A Blatter effigy makes its way through Lewes this morning #lewesbonfire"
+Output:

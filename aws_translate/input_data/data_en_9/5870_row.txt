@@ -1,0 +1,17 @@
+This proposal for a regulation on the European satellite navigation system recommends the establishment of an administrative structure for this system that is as efficient and reliable as possible.
+
+The proposal for a regulation regarding the European satellite navigation system aims to set up an administrative structure that ensures the smooth functioning and effectiveness of the system. Satellite navigation systems play a crucial role in various aspects of modern life, including transport, agriculture, telecommunications, scientific research, and defense. In Europe, the two primary satellite navigation systems are Galileo and European Geostationary Navigation Overlay Service (EGNOS).
+
+The administrative structure proposed in the regulation consists of several components designed to oversee, manage, and maintain the European satellite navigation system. This includes the establishment of an executive agency, a governing board, and advisory councils, as well as the development of procedures for decision-making, budget allocation, and performance assessments.
+
+1. The Executive Agency: This agency would be responsible for the overall management and supervision of the European satellite navigation system. Its tasks would include coordinating the actions and policies of the various stakeholders, ensuring the proper implementation of the regulatory framework, and overseeing the allocation of funds and resources.
+
+2. The Governing Board: Composed of representatives from EU Member States, this board would provide strategic direction and guidance to the Executive Agency. The Governing Board would establish the objectives and priorities for the European satellite navigation system, review and approve annual work programs and budget proposals, and assess the performance of the Executive Agency.
+
+3. Advisory Councils: These councils would consist of experts from various fields related to satellite navigation, such as industry, research, academia, and end-users. The advisory councils would provide input and advice on specific aspects of the European satellite navigation system, ensuring that the different needs and perspectives of the stakeholders are taken into account in the decision-making process.
+
+4. Decision-making Procedures: The regulation recommends establishing clear and transparent procedures for decision-making within the administrative structure. This would involve setting up processes for consultation, collaboration, and consensus-building among the various stakeholders, as well as mechanisms for monitoring, evaluation, and conflict resolution.
+
+5. Budget Allocation and Performance Assessments: To ensure the efficiency and effectiveness of the European satellite navigation system, the regulation proposes setting up systems for allocating financial resources according to the priorities and objectives established by the Governing Board. Additionally, the regulation recommends conducting regular performance assessments to identify areas for improvement and to ensure the optimal use of resources.
+
+In conclusion, the proposal for a regulation on the European satellite navigation system seeks to establish an administrative structure that is efficient, reliable, and capable of meeting the needs and expectations of the various stakeholders involved in the system. By creating a clear and cohesive governance framework, the regulation aims to ensure the long-term success and sustainability of the European satellite navigation system and its contributions to the European economy and society.

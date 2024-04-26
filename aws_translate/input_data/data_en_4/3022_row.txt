@@ -1,0 +1,21 @@
+a: The relevant information is: "Ca n't Get Enough of Your Love, Babe" is a song written, recorded, and produced by Barry White.
+Barry White
+q: "Ca n't Get Enough of Your Love, Babe" is a song written, recorded, and produced by Barry White. Released as the first single from his album Ca n't Get Enough in 1974, the song topped the US Billboard Hot 100 and R&B charts and has since become one of his signature tunes. It was his second US chart-topper, after "Love's Theme". It became a gold record.
+
+Answer this question based on the passage: who sang can't get enough of your love baby?
+
+a: The important part for answering this question is: In Europe, the concept of banknotes was first introduced during the 13th century by travelers such as Marco Polo, with European banknotes appearing in 1661 in Sweden.
+1661
+q: Passage: The idea of using a durable lightweight substance as evidence of a promise to pay a bearer on demand originated in China during the Han Dynasty in 118 BC, and was made of leather. Although Carthage was purported to have issued bank notes on parchment or leather, at least before the city's destruction in 146 BC, making Carthage the oldest known user of lightweight promissory notes. The first known banknote was first developed in China during the Tang and Song dynasties, starting in the 7th century. Its roots were in merchant receipts of deposit during the Tang Dynasty (618 -- 907), as merchants and wholesalers desired to avoid the heavy bulk of copper coinage in large commercial transactions. During the Yuan Dynasty, banknotes were adopted by the Mongol Empire. In Europe, the concept of banknotes was first introduced during the 13th century by travelers such as Marco Polo, with European banknotes appearing in 1661 in Sweden.
+
+Question: Based on this passage, when was paper money first used in europe?
+
+a: This is the relevant information: It was originally placed atop the Aśoka pillar at the important Buddhist site of Sarnath by the Emperor Ashoka, in about 250 BCE.
+the Emperor Ashoka
+q: Passage: The Lion Capital of Ashoka is a sculpture of four Asiatic lions standing back to back, on an elaborate base that includes other animals. A graphic representation of it was adopted as the official Emblem of India in 1950. It was originally placed atop the Aśoka pillar at the important Buddhist site of Sarnath by the Emperor Ashoka, in about 250 BCE. The pillar, sometimes called the Aśoka Column, is still in its original location, but the Lion Capital is now in the Sarnath Museum, in the state of Uttar Pradesh, India. Standing 2.15 metres (7 feet) high including the base, it is more elaborate than the other very similar surviving capitals of the pillars of Ashoka bearing the Edicts of Ashoka that were placed throughout India several of which feature single animals at the top; one other damaged group of four lions survives, at Sanchi.
+
+Question: Based on this passage, lion capital of sarnath belongs to which king?
+
+a: The relevant information is: At the Sarajevo 1984 Winter Olympics the pair won gold and became the highest scoring figure skaters of all time (for a single programme) receiving twelve perfect 6.0 s and six 5.9 s which included artistic impression scores of 6.0 from every judge, after skating to Maurice Ravel's Boléro.
+1984
+q:

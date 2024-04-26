@@ -1,0 +1,25 @@
+q... A presidential election was held in India on 17 July 2017 with the votes counted and the results announced on 20 July 2017. Ram Nath Kovind became 14th president of India (Dr Rajendra Prasad had became twice the president of India) President Pranab Mukherjee, whose term of office was due to expire on 24 July 2017, declined to seek re-election due to health concerns.
+
+Based on this passage, who is elected as new president of india?
+a... The relevant sentence in the passage is: Ram Nath Kovind became 14th president of India (Dr Rajendra Prasad had became twice the president of India) President Pranab Mukherjee, whose term of office was due to expire on 24 July 2017, declined to seek re-election due to health concerns.
+The answer is Ram Nath Kovind
+
+
+q... The fourth player in the batting order is known as the cleanup hitter, also known as the cleanup spot and in modern baseball is almost always one of the best hitters on the team, often the one with the most power and ability to drive in runs with extra-base hits (double, triple, or home run). Baseball managers tend to place hitters who are most likely to reach base ahead of the clean-up man, so that the fourth batter can "clean" the bases by driving these baserunners home to score runs. His main goal is to drive in runs, although he is expected to score runs as well. Hitting cleanup requires an exceptional level of talent, and the ability to deliver big hits in important situations (such as the bases loaded with two out). Examples of # 4 hitters include Lou Gehrig, Eddie Mathews, Willie McCovey, Billy Williams, Tony Pérez, Eddie Murray, Daniel Murphy, Alex Rodriguez, Prince Fielder, David Ortiz, Edgar Martínez, and Ryan Howard.
+
+Answer this question: what is the clean up hitter in baseball?
+a... The relevant information is: The fourth player in the batting order is known as the cleanup hitter, also known as the cleanup spot and in modern baseball is almost always one of the best hitters on the team, often the one with the most power and ability to drive in runs with extra-base hits (double, triple, or home run).
+The answer is The fourth player in the batting order
+
+
+q... The series focuses on a boy named Ryder who leads a pack of search and rescue dogs known as the PAW Patrol. They work together on missions to protect the shoreside community of Adventure Bay. Each dog has a specific set of skills based on a real-life profession, such as a firefighter and a police officer. They all reside in doghouses that can transform into customized vehicles when necessary. They are also equipped with backpacks called "pup packs" that contain tools that relate to the pups' jobs.
+
+Based on this passage, what is the boy's name in paw patrol?
+a... To answer the question, consider the following: The series focuses on a boy named Ryder who leads a pack of search and rescue dogs known as the PAW Patrol.
+The answer is Ryder
+
+
+q... Passage: Segovia (/ sɪˈɡoʊviə /; Spanish pronunciation: ( seˈɣoβja) ) is a city in the autonomous region of Castile and León, Spain, famous for its magnificent Roman aqueduct and for its cathedral, one of the last Gothic temples to be built in Europe. It is the capital of Province of Segovia.
+
+Question: Based on this passage, in which region of spain is the city of segovia located?
+a...

@@ -1,0 +1,18 @@
+The first Indianapolis 500 was held in 1911, where Ray Harroun was declared the first winner, driving the Marmon Wasp. The race has been run annually since 1911 (with exceptions during World War I and World War II) and 71 drivers have been crowned champions of the 500-mile race over the course of 101 races. The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears. The Indianapolis 500 has also drawn many international drivers to the Indianapolis Motor Speedway over the years, with 26 of the winners coming from outside of the United States, representing nine separate countries. The most recent champion of the Indianapolis 500 is Takuma Sato, winner of the 2017 race.
+
+Answer this question based on the passage: who has won the indy 500 the most? Let's do a good job answering this.
+--
+Stream of consciousness: To answer the above question, the relevant sentence is: The most race victories held by a single driver is four, which has been accomplished only by A.J. Foyt, Al Unser and Rick Mears.... The answer is A.J. Foyt , Al Unser and Rick Mears.
+
+
+The Yalta Conference, also known as the Crimea Conference and code named the Argonaut Conference, held from 4 to 11 February, 1945, was the World War II meeting of the heads of government of the United States, the United Kingdom and the Soviet Union for the purpose of discussing Germany and Europe's postwar reorganization. The three states were represented by President Franklin D. Roosevelt, Prime Minister Winston Churchill and Premier Joseph Stalin, respectively. The conference convened near Yalta in Crimea, Soviet Union within the Livadia, Yusupov, and Vorontsov Palaces.
+
+Where was the location of the yalta conference in 1945? Let's do a good job answering this.
+--
+Stream of consciousness: To answer this question, we should know that: The conference convened near Yalta in Crimea, Soviet Union within the Livadia, Yusupov, and Vorontsov Palaces.... The answer is near Yalta in Crimea , Soviet Union within the Livadia , Yusupov , and Vorontsov Palaces.
+
+
+Context: Hurricane Agnes was the second tropical cyclone and first named storm of the 1972 Atlantic hurricane season. Agnes developed on June 14 from the interaction of a polar front and an upper trough over the Yucatán Peninsula. Initially forming as a tropical depression, the storm headed slowly eastward and emerged into the western Caribbean Sea on June 15. Once in the Caribbean, the depression began to strengthen, and by the following day, it became Tropical Storm Agnes. Thereafter, Agnes slowly curved northward and passed just west of Cuba on June 17. Early on June 18, the storm intensified enough to be upgraded to Hurricane Agnes. Heading northward, the hurricane eventually made landfall near Panama City, Florida late on June 19. After moving inland, Agnes rapidly weakened and was only a tropical depression when it entered Georgia. The weakening trend halted as the storm crossed over Georgia and into South Carolina. While over eastern North Carolina, Agnes re-strengthened into a tropical storm on June 21, as a result of baroclinic activity. Early the following day, the storm emerged into the Atlantic Ocean before re-curving northwestward and making landfall near New York City as a strong tropical storm. Agnes quickly became an extratropical cyclone on June 23, and tracked to the northwest of Great Britain, before being absorbed by another extratropical cyclone on July 6.
+
+Question: where did hurricane agnes make landfall in 1972? Let's do a good job answering this.
+--

@@ -1,0 +1,25 @@
+First find the time Mary spent downloading the Windows version: 10 minutes * 3 = 30 minutes. Then find the total time the audio glitches took: 4 minutes / glitch * 2 glitches = 8 minutes. Then add the video glitch time to find the total glitch time: 8 minutes + 6 minutes = 14 minutes. Then double that time to find the total glitch - free time: 14 minutes * 2 = 28 minutes. Then add the talking time to the download time to find the total time: 30 minutes + 10 minutes + 14 minutes + 28 minutes = 82 minutes.
+The answer: 82
+Reverse engineering the question: Mary is trying to get Zoom set up for the first time. She spent 10 minutes downloading the Mac version, only to realize she needed the Windows version, which took three times as long to download. During her first call, the audio glitched twice for 4 minutes each time and the video glitched once for 6 minutes. She spent twice as long talking without glitches as with glitches. How much time did Mary spend downloading Zoom and talking total?
+
+Reasoning and answer: On a regular day it would take 3 * 12 = 36 minutes. With the leak it will take 5 * 12 = 60 minutes. It will take 60 - 36 = 24 more minutes if the leak goes undetected.
+The answer: 24
+What was the question?
+Question: A machine at the soda factory can usually fill a barrel of soda in 3 minutes. However this morning a leak went unnoticed and it took 5 minutes to fill one barrel. If the leak remains undetected, how much longer will it take to fill 12 barrels of soda than on a normal day when the machine works fine?
+
+The cost of the loaves of bread is 4 × $2 = $8. The cost of the milk is 2 × $2 = $4. The total cost of the groceries is $8 + $4 = $12. Clare has $47 − $12 = $35 left.
+The answer: 35
+Reverse engineering the question: Clare's mother gave her $47 to go to the store. Clare bought 4 loaves of bread and 2 cartons of milk. Each loaf of bread cost $2 and each carton of milk cost $2. How much money does Clare have left?
+
+Reasoning and answer: First find the total distance she drives to get to the dermatologist and back to her house: 30 miles * 2 = 60 miles. Then find the total distance she drives to get to the gynecologist and back to her house: 50 miles * 2 = 100 miles. Then add those two amounts to find how far she drives total: 60 miles + 100 miles = 160 miles. Then divide that distance by her car's gas mileage to find how many gallons of gas she needs: 160 miles / 20 miles / gallon = 8 gallons.
+The answer: 8
+What was the question?
+Question: Janet has to drive 30 miles east from home to see her dermatologist and 50 miles west from home to see her gynecologist. If she has appointments with both doctors on the same day, how many gallons of gas does she use driving to both appointments and back home again, if her car gets 20 miles per gallon?
+
+Flour + sugar = 4 + 1.5 = 5.5 cups. 8 batches = 5.5 * 8 = 44 cups. There would be 44 cups of flour and sugar combined for 8 batches of cookies.
+The answer: 44
+Reverse engineering the question: One batch of cookies requires 4 cups of flour and 1.5 cups of sugar. How many cups of flour and sugar combined would be needed for 8 batches?
+
+It will be easy to solve the problem by first calculating how much money she makes in a week at her job by multiplying her hourly rate by the number of hours she works in a week: $8 * 35 = $280 in a week. The weekly earnings need to be multiplied by the number of weeks in a month to get how much she made in a month: $280 * 4 = $1120. The bike’s cost must be subtracted from her earnings made in a month to get how much money is left over after purchasing the bike: $1120 - $400 = $720 is left over after purchasing her bike.
+The answer: 720
+Reverse engineering the question:

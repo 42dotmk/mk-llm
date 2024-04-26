@@ -1,0 +1,36 @@
+Answer: the Mescalero Apache Reservation , located in south central New Mexico. Now, what could be the question and solution-maybe?
+Ques: Mescalero or Mescalero Apache is an Apache tribe of Southern Athabaskan Native Americans. The tribe is federally recognized as the Mescalero Apache Tribe of the Mescalero Apache Reservation, located in south central New Mexico.
+
+Based on this passage, where have the mescalero apache settled in new mexico?
+CoT: The relevant sentence in the passage is: The tribe is federally recognized as the Mescalero Apache Tribe of the Mescalero Apache Reservation, located in south central New Mexico.
+
+
+Ans: Olivia Rodrigo
+Ques: An American Girl: Grace Stirs Up Success is a 2015 family-drama film starring newcomer Olivia Rodrigo in the title role, Virginia Madsen, Eloise Webb, Caitlin Carmichael, Notlim Taylor, Lili Bordán, Fabrice Michel, Roxane Bret, Krisztina Peremartoni and András Bálint in supporting roles, along with an appearance from restaurateur Joe Bastianich as himself.
+
+Who plays grace in grace stirs up success?
+CoT: To answer the question, consider the following: An American Girl: Grace Stirs Up Success is a 2015 family-drama film starring newcomer Olivia Rodrigo in the title role, Virginia Madsen, Eloise Webb, Caitlin Carmichael, Notlim Taylor, Lili Bordán, Fabrice Michel, Roxane Bret, Krisztina Peremartoni and András Bálint in supporting roles, along with an appearance from restaurateur Joe Bastianich as himself.
+
+
+Ans: Raja Ravi Varma
+Ques: Shakuntala or Shakuntala looking for Dushyanta is an epic painting by celebrated Indian painter, Raja Ravi Varma.
+
+Who is the famous painter who painted shakunthala?
+CoT: The relevant sentence in the passage is: Shakuntala or Shakuntala looking for Dushyanta is an epic painting by celebrated Indian painter, Raja Ravi Varma.
+
+
+Answer: through photosynthesis. Now, what could be the question and solution-maybe?
+Ques: Cyanobacteria / saɪˌænoʊbækˈtɪəriə /, also known as Cyanophyta, is a phylum of bacteria that obtain their energy through photosynthesis, and are the only photosynthetic prokaryotes able to produce oxygen. The name "cyanobacteria" comes from the color of the bacteria (Greek: κυανός ( kyanós) = blue ). Cyanobacteria (which are prokaryotes) used to be called "blue-green algae". They have been renamed' cyanobacteria' in order to avoid the term "algae", which in modern usage is restricted to eukaryotes.
+
+Based on this passage, where do blue-green algae get their energy from?
+CoT: The relevant information to answer the above question is: Cyanobacteria / saɪˌænoʊbækˈtɪəriə /, also known as Cyanophyta, is a phylum of bacteria that obtain their energy through photosynthesis, and are the only photosynthetic prokaryotes able to produce oxygen.
+
+
+Ans: a galloping horse
+Ques: Passage: In the emblem adopted by Madhav Sawhney in 1950, only three lions are visible, the fourth being hidden from view. The wheel appears in relief in the centre of the abacus, with a bull on the right and a galloping horse on the left, and outlines of Dharma Chakras on the extreme right and left. The bell-shaped lotus beneath the abacus has been omitted.
+
+Question: Based on this passage, which animal appears on the left side of the abacus on the national emblem of india?
+CoT: To answer the above question, the relevant sentence is: The wheel appears in relief in the centre of the abacus, with a bull on the right and a galloping horse on the left, and outlines of Dharma Chakras on the extreme right and left.
+
+
+Ans: mostly calm

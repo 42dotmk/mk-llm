@@ -1,0 +1,27 @@
+Reasoning and answer: The cost of the 12 student tickets is 12 * $1 = $12. The cost of the 4 teacher tickets is 4 * $3 = $12. Adding the cost of the student and teacher tickets, the museum tickets cost $12 + $12 = $24 in total.
+The answer: 24
+What was the question?
+Question: 12 archeology students and 4 teachers went on a field trip to a dinosaur museum. Student tickets cost $1 each, and adult tickets cost $3 each. How much did the museum tickets cost in all?
+
+First find the total numbers of marbles: 14 + 20 + 19 + 7 = 60 marbles. After sharing them equally each person will get 60 marbles / 4 people = 15 marbles / person.
+The answer: 15
+Reverse engineering the question: Dilan, Martha, Phillip, and Veronica went to the park together to have some fun. They all had a different number of marbles: Dilan had 14 marbles, Martha had 20 marbles, Phillip had 19 marbles and finally, Veronica had only 7 marbles. They wanted to redistribute the marbles so they each had an equal number. How many marbles did each friend have at the end of the day?
+
+Reasoning and answer: First find the total number of striped nails: 20 nails - 6 nails - 8 nails = 6 nails. Then divide the number of blue nails by the number of total nails and multiply by 100% to express the answer as a percentage: 8 blue nails / 20 total nails * 100% = 40%. Then divide the number of striped nails by the number of total nails and multiply by 100% to express the answer as a percentage: 6 striped nails / 20 total nails * 100% = 30%. Then subtract the percentage of striped nails from the percentage of blue nails to find the difference: 40% - 30% = 10%.
+The answer: 10
+What was the question?
+Question: Jill is painting her 20 toenails and fingernails. She paints 6 of her nails purple, 8 of them blue, and the rest striped. What is the difference in percentage points between the percentage of nails painted blue and the percentage painted striped?
+
+John traveled 10 + 4 = 14 miles to the park. His round trip would take 14 x 2 = 28 miles. If you subtract the 4 miles he walked then John traveled 28 - 4 = 24 miles.
+The answer: 24
+Reverse engineering the question: John skateboarded for 10 miles and then walked another 4 miles to the park. He then skated all the way back home. How many miles has John skateboarded in total?
+
+Reasoning and answer: After the first month you get 10 / 100 * $300 = $30 interest. After the first month you will have $300 + $30 = $330 in total. After the second month you get = 10 / 100 * $330 = $33 interest. After the second month you will have $330 + $33 = $363 in total.
+The answer: 363
+What was the question?
+Question: An investment bank gives 10 percent interest at the end of every month. How much money in total will you have, including interest, at the end of 2 months if you invest $300?
+
+Reasoning and answer: Since each package weighed 4 pounds, the first butcher delivered 10 * 4 = 40 pounds. The second butcher's delivery was 7 * 4 = 28 pounds. The first two butchers therefore delivered 40 + 28 = 68 pounds. Subtracting that weight from the total weight of ground beef gives 100 - 68 = 32 pounds. It therefore means the third butcher delivered 32 / 4 = 8 packages.
+The answer: 8
+What was the question?
+Question:

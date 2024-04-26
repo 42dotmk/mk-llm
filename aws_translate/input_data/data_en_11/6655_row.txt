@@ -1,0 +1,36 @@
+Answer: Randy Newman. Now, what could be the question and solution-maybe?
+Ques: "You've Got a Friend in Me" is a song by Randy Newman. Used as the theme song for the 1995 Disney / Pixar animated film Toy Story, it has since become a major musical component for its sequels, Toy Story 2 (1999) and Toy Story 3 (2010) as well as a musical leitmotif throughout the whole Toy Story franchise. The song was nominated for both the Academy Award for Best Original Song and the Golden Globe Award for Best Original Song, but lost both to "Colors of the Wind" from Disney's Pocahontas.
+
+Who sings the song you got a friend in me?
+CoT: The relevant information to answer the above question is: "You've Got a Friend in Me" is a song by Randy Newman.
+
+
+Ans: a light - year
+Ques: The light-year is a unit of length used to express astronomical distances and measures about 9.5 trillion kilometres or 5.9 trillion miles. As defined by the International Astronomical Union (IAU), a light-year is the distance that light travels in vacuum in one Julian year (365.25 days). Because it includes the word "year", the term light-year is sometimes misinterpreted as a unit of time, as a year is a unit of time equivalent to approximately 365 days.
+
+What is the distance that light travels in one year called?
+CoT: To answer this question, we should know that: As defined by the International Astronomical Union (IAU), a light-year is the distance that light travels in vacuum in one Julian year (365.25 days).
+
+
+Ans: Hiroshima and Nagasaki
+Ques: During the final stage of World War II, the United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively. The United States dropped the bombs after obtaining the consent of the United Kingdom, as required by the Quebec Agreement. The two bombings killed at least 129,000 people, most of whom were civilians. They remain the only use of nuclear weapons in the history of warfare.
+
+Based on this passage, where were the two atomic bombs dropped in japan?
+CoT: To answer the question, consider the following: During the final stage of World War II, the United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively.
+
+
+Answer: between 1989 and 1991. Now, what could be the question and solution-maybe?
+Ques: The Rose That Grew from Concrete (1999) is a collection of poetry written between 1989 and 1991 by Tupac Shakur, published by Pocket Books through its MTV Books imprint. A preface was written by Shakur's mother Afeni Shakur, a foreword by Nikki Giovanni and an introduction by his manager, Leila Steinberg.
+
+Answer this question based on the passage: when was the rose that grew from concrete written?
+CoT: The important part for answering this question is: The Rose That Grew from Concrete (1999) is a collection of poetry written between 1989 and 1991 by Tupac Shakur, published by Pocket Books through its MTV Books imprint.
+
+
+Ans: Integrated Forecast System
+Ques: ECMWF's operational forecasts are produced from its "Integrated Forecast System" (sometimes informally known in the United States as the "European model") which is run every twelve hours and forecasts out to ten days.
+
+Based on this passage, what is the name of the european weather model?
+CoT: To answer this question, we should know that: ECMWF's operational forecasts are produced from its "Integrated Forecast System" (sometimes informally known in the United States as the "European model") which is run every twelve hours and forecasts out to ten days.
+
+
+Ans: Samuel Francis Smith

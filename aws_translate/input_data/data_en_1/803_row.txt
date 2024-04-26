@@ -1,0 +1,19 @@
+The branch of astronomy that relates to precise measurements and explanations of the positions and movements of celestial bodies is called Astrometry. Astrometry is a critical field in astronomy, as it provides essential information for various astronomical studies.
+
+Astrometry is an ancient discipline that has been practiced for thousands of years, with early observations recorded by ancient civilizations such as the Babylonians, the Chinese, and the Maya. Modern astrometry, however, started in the 17th century with the introduction of telescopic observations and more precise measurements.
+
+The primary goals of astrometry are to accurately measure the positions, distances, and movements of celestial objects such as stars, planets, and other astronomical phenomena. These measurements are essential for increasing our understanding of the universe's structure, the behaviors of celestial objects, and the underpinning physical laws that drive their motions.
+
+There are several important techniques in astrometry, including:
+
+1. Positional astrometry: This involves the precise measurement of the angular positions of celestial objects on the celestial sphere. The data obtained from these measurements are often used to create stellar catalogs, which list positions and other properties of stars.
+
+2. Parallax measurements: Parallax is the apparent change in the position of an object due to a change in the observer's position. By observing the parallax of stars, astronomers can calculate their distances from Earth, which helps in understanding the scale and structure of the universe.
+
+3. Proper motion measurements: Proper motion is the apparent motion of a celestial object across the sky over time relative to distant background stars. By measuring the proper motion of stars, astronomers can study the kinematics and dynamics of our galaxy and determine the orbits of stars and other celestial bodies.
+
+4. Radial velocity measurements: Radial velocity is the change in distance of a celestial object along the line of sight of the observer. By measuring the radial velocities of stars and other celestial objects, astronomers can investigate the motion of objects within the galaxy and the presence of exoplanets around other stars.
+
+Astrometry also plays a critical role in other astronomical studies, such as the determination of the celestial reference frame, which is a coordinate system for precisely defining the positions of celestial objects. Additionally, it contributes to fields like celestial mechanics, the study of the motion of celestial objects influenced by gravity and other forces, and astrodynamics, which is the application of celestial mechanics to the practical problems of space travel, spacecraft navigation, and mission planning.
+
+In summary, astrometry is the branch of astronomy that focuses on the precise measurements and explanations of the positions and movements of celestial bodies. It is a fundamental branch of astronomy that provides essential data and knowledge for a variety of astronomical studies, enabling a deeper understanding of our universe's composition, structure, and behaviors.

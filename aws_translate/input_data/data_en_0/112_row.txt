@@ -1,0 +1,19 @@
+Given the task definition and input, reply with output. Given a post that is a real-life anecdote of a complex ethical situation and an associated claim about its type, verify if the claim is true or not. The claim asks if the posts are historical or hypothetical. The posts are "HISTORICAL" when the author has already done something and they are "HYPOTHETICAL" when the author is considering doing something in the future. Say 'yes' if the claim is true otherwise say 'no'
+
+CLAIM : The following post is HISTORICAL. POST : A bit of background: I have very severe period cramps. I’m on strong painkillers, which have side effects that make me very drowsy.
+I’m also dealing with a number of mental health issues, one of which is anxiety about whether or not I deserve help/special treatment (this is relevant)
+So last week, I had very bad cramps. They were so bad that while I was in school, I was curled up on the floor of the common room unable to move. I end up having to miss a mandatory assembly because I can’t move. My teacher is an amazing woman and is completely understanding when the situation is explained to her.
+I end up missing two assemblies, but that was last week, and I assume the situation is over.
+Fast forward to today, and I’m having a really bad day mentally. I’m exhausted, and extremely self loathing, and I’m contemplating skipping lunch (also mandatory)
+I skipped lunch every day last week, which has resulted in teachers monitoring who goes to lunch.
+I tell my friend I don’t think I can go to lunch (I have an issue with food, and anxiety around people eating). She is usually very understanding with my mental and physical limitations, so I assumed she’d be okay with it.
+Instead, she rolled her eyes and said ‘oh yeah, like you skipped assembly last week’.
+I was rather taken aback, but I reminded her that I skipped because I couldn’t move.
+She said ‘yes you could have, it wasn’t your legs, was it?’
+At this point I’m starting to freak out internally. I’m thinking, if she (my best friend) doesn’t believe me when I say I can’t do something due to a physical limitation, what does everyone else think? I’m getting very anxious, and I go on the defensive.
+We have an argument, and I say that I think she’s being very insensitive to my situation-I don’t enjoy having to miss out on things because of my period, especially since it’s for a month every week (I miss out on good stuff as well, I often spend whole days in bed when I can’t move)
+She takes offence to this, and tells me about all the times she’s supported me with my mental health issues (which she has, brilliantly) and how ungrateful I’m being.
+I tell her that I’m extremely grateful for what she’s done for me, and I end up apologising for calling her insensitive. 
+She apologises too, but begrudgingly, and I can tell she doesn’t understand why I’m upset, but I don’t dare try to explain for fear she’ll get mad again.
+I know I should have handled the situation better, but it’s hard to deal with when I’m already dealing with a horrible, depressed day.
+Should I have kept quiet about her original comment?

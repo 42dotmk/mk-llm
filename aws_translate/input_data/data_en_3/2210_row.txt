@@ -1,0 +1,27 @@
+Reasoning and answer: They need to rotate 1,600 times because 8 x 200 = 1,600. They need to rotate 1,000 more times because 1,600 - 600 = 1,000.
+The answer: 1000
+What was the question?
+Question: Greg is riding his bike around town and notices that each block he rides, his wheels rotate 200 times. He's now on a a trail and wants to make sure he rides at least 8 blocks. His wheels have already rotated 600 times, how many more times do they need to rotate to reach his goal?
+
+On Monday, Shawna was short of 30 - 12 = 18 situps. On Tuesday, Shawna was short of 30 - 19 = 11 situps. On Wednesday, Shawna would have to do 30 + 18 + 11 = 59 situps.
+The answer: 59
+Reverse engineering the question: Shawna's workout goal is 30 situps. On Monday, Shawna was only able to do 12 situps, so she decided that she would make up for the rest on Tuesday. However, she was only able to do 19 situps on Tuesday. How many situps would Shawna have to do on Wednesday to meet her minimum goal and make up for the ones she didn't do?
+
+Reasoning and answer: Linda wants to do two coats, so the total area she will be painting is 2 coats * 600 sq. ft. / coat = 1200 sq. ft. A gallon of paint will cover 400 sq. ft., so Linda will need 1200 sq. ft. / 400 sq. ft. per can = 3 cans of paint.
+The answer: 3
+What was the question?
+Question: Linda is repainting her bedroom. The wall area is 600 sq. ft. If a gallon of paint can cover 400 sq. ft., how many gallon cans of paint will Linda have to buy if she wants to do two coats?
+
+In round one, Jeff completed 16 - 1 = 15. In round two, Jeff completed 16 - 3 = 13. In round three, Jeff completed 16 + 4 = 20. In round four, Jeff completed 16 / 2 = 8. Jeff completed 15 + 13 + 20 + 8 = 56 skips in total. Jeff skipped an average of 56 / 4 = 14 skips per round.
+The answer: 14
+Reverse engineering the question: Sam and Jeff had a skipping competition at recess. The competition was split into four rounds. Sam completed 1 more skip than Jeff in the first round. Jeff skipped 3 fewer times than Sam in the second round. Jeff skipped 4 more times than Sam in the third round. Jeff got tired and only completed half the number of skips as Sam in the last round. If Sam skipped 16 times in each round, what is the average number of skips per round completed by Jeff?
+
+Reasoning and answer: If there were four rows of twenty gold bars arranged in the safe, the total number of bars in the safe is 4 * 20 = 80 bars. Since each gold bar is worth $20000, the 80 bars are worth 80 * $20000 = $1,600,000.
+The answer: 1600000
+What was the question?
+Question: Sam bought a heavy safe with a combination lock. There were four rows with twenty gold bars per row arranged in the safe. If each gold bar is worth $20000, calculate the total worth of the gold bars in the safe.
+
+Reasoning and answer: There are 3 families of 4 meaning there are 3 * 4 = 12 people in the vacation rental. They all use 1 oversized beach towel a day so they use 1 * 12 = 12 towels a day. They use 12 towels a day for 7 days so in one week they use 12 * 7 = 84 beach towels. The washing machine can only hold 14 towels and they have 84 towels to wash which means there are 84 / 14 = 6 loads of laundry.
+The answer: 6
+What was the question?
+Question:

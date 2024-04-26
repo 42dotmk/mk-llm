@@ -1,0 +1,19 @@
+Question: The Death Cure will be released on Blu-Ray and DVD on April 24, 2018.
+
+Answer this question: when is the death cure released on dvd?
+Answer: The relevant information is: The Death Cure will be released on Blu-Ray and DVD on April 24, 2018. The answer is April 24 , 2018.
+
+Question: Passage: Jamie Ross is a fictional character on the TV drama Law & Order, created by Rene Balcer and portrayed by Carey Lowell from 1996 to 1998. She also appears in the short-lived Law & Order spin-off Law & Order: Trial by Jury, by which time the character has become a judge. She appeared in 52 episodes (49 episodes of Law & Order, one episode of Homicide: Life on the Street, and two episodes of Law & Order: Trial by Jury)
+
+Question: Based on this passage, who played jamie ross on law & order?
+Answer: The important part for answering this question is: Jamie Ross is a fictional character on the TV drama Law & Order, created by Rene Balcer and portrayed by Carey Lowell from 1996 to 1998. The answer is Carey Lowell.
+
+Question: Passage: In 1702, both divisions of New Jersey were reunited as one royal colony by Queen Anne with a royal governor appointed by the Crown. Until 1738, this Province of New Jersey shared its royal governor with the neighboring Province of New York. The Province of New Jersey was governed by appointed governors until 1776. William Franklin, the province's last royal governor before the American Revolution (1775 -- 83), was marginalized in the last year of his tenure, as the province was run de facto by the Provincial Congress of New Jersey. In June 1776, the Provincial Congress formally deposed Franklin and had him arrested, adopted a state constitution, and reorganized the province into an independent state. The constitution granted the vote to all inhabitants who had a certain level of wealth, including single women and blacks (until 1807). The newly formed State of New Jersey elected William Livingston as its first governor on 31 August 1776 -- a position to which he would be reelected until his death in 1790. New Jersey was one of the original Thirteen Colonies, and was the third colony to ratify the constitution forming the United States of America. It thereby was admitted into the new federation as a state on 18 December 1787. On 20 November 1789 New Jersey became the first state to ratify the Bill of Rights.
+
+Question: Based on this passage, who was the first govener of new jersey?
+Answer: To answer the above question, the relevant sentence is: The newly formed State of New Jersey elected William Livingston as its first governor on 31 August 1776 -- a position to which he would be reelected until his death in 1790. The answer is William Livingston.
+
+Question: Context: Carl Weathers (born January 14, 1948) is an American actor and former professional football player. He is best known for portraying Apollo Creed in the Rocky series of films, George Dillon in Predator, Chubbs Peterson in Happy Gilmore and Little Nicky, and a fictionalized version of himself on the comedy series Arrested Development. As a football player, Weathers played for the Oakland Raiders of the National Football League and the B.C. Lions of the Canadian Football League.
+
+Question: who played apollo creed in the rocky films?
+Answer:

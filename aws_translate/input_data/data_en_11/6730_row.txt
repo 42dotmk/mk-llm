@@ -1,0 +1,25 @@
+q... Passage: Mauna Loa has probably been erupting for at least 700,000 years, and may have emerged above sea level about 400,000 years ago. The oldest-known dated rocks are not older than 200,000 years. The volcano's magma comes from the Hawaii hotspot, which has been responsible for the creation of the Hawaiian island chain over tens of millions of years. The slow drift of the Pacific Plate will eventually carry Mauna Loa away from the hotspot within 500,000 to one million years from now, at which point it will become extinct.
+
+Question: Based on this passage, where did the magma that erupts from mauna loa likely form?
+a... This is the relevant information: The volcano's magma comes from the Hawaii hotspot, which has been responsible for the creation of the Hawaiian island chain over tens of millions of years.
+The answer is the Hawaii hotspot
+
+
+q... A tittle or superscript dot is a small distinguishing mark, such as a diacritic or the dot on a lowercase i or j. The tittle is an integral part of the glyph of i and j, but diacritic dots can appear over other letters in various languages. In most languages, the tittle of i or j is omitted when a diacritic is placed in the tittle's usual position (as í or ĵ), but not when the diacritic appears elsewhere (as į, ɉ).
+
+What is the dot on top of an i called?
+a... To answer the question, consider the following: A tittle or superscript dot is a small distinguishing mark, such as a diacritic or the dot on a lowercase i or j.
+The answer is A tittle or superscript
+
+
+q... An isomer (/ ˈaɪsəmər /; from Greek ἰσομερής, isomerès; isos = "equal", méros = "part") is a molecule with the same molecular formula as another molecule, but with a different chemical structure. That is, isomers contain the same number of atoms of each element, but have different arrangements of their atoms. Isomers do not necessarily share similar properties, unless they also have the same functional groups. There are two main forms of isomerism (/ ˈaɪsəmərɪzm / or / aɪ ˈsɒmərɪzm /): structural isomerism (or constitutional isomerism) and stereoisomerism (or spatial isomerism).
+
+Answer this question: explain why isomers have different chemical and physical properties?
+a... The relevant information is: That is, isomers contain the same number of atoms of each element, but have different arrangements of their atoms.
+The answer is contain the same number of atoms of each element , but have different arrangements of their atoms
+
+
+q... The Falklands War (Spanish: Guerra de las Malvinas), also known as the Falklands Conflict, Falklands Crisis, Malvinas War, South Atlantic Conflict, and the Guerra del Atlántico Sur (Spanish for "South Atlantic War"), was a ten-week war between Argentina and the United Kingdom over two British dependent territories in the South Atlantic: the Falkland Islands, and its territorial dependency, the South Georgia and the South Sandwich Islands. It began on Friday, 2 April 1982, when Argentina invaded and occupied the Falkland Islands (and, the following day, South Georgia and the South Sandwich Islands) in an attempt to establish the sovereignty it had claimed over them. On 5 April, the British government dispatched a naval task force to engage the Argentine Navy and Air Force before making an amphibious assault on the islands. The conflict lasted 74 days and ended with the Argentine surrender on 14 June 1982, returning the islands to British control. In total, 649 Argentine military personnel, 255 British military personnel, and three Falkland Islanders died during the hostilities.
+
+Why did argentina attack the falklands/malvinas islands?
+a...

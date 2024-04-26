@@ -1,0 +1,36 @@
+Ans: Obama
+Ques: Obama defeated Romney, winning a majority of both the popular vote and the Electoral College. Obama won 51.1 % of the popular vote compared to Romney's 47.2 %, while Libertarian nominee Gary Johnson won just under 1 % of the vote. Obama was the first incumbent since Franklin D. Roosevelt in 1944 to win reelection with fewer electoral votes and a lower popular vote percentage than had been won in the previous election, and was also the first two-term president since Ronald Reagan to win both his presidential bids with a majority of the nationwide popular vote.
+
+Answer this question: who won the popular vote in the 2012 presidential election?
+CoT: The important part for answering this question is: Obama defeated Romney, winning a majority of both the popular vote and the Electoral College.
+
+
+Ans: Charlene Amoia
+Ques: Context: Charlene Amoia is an American actress best known for her role as Wendy the waitress in the TV sitcom How I Met Your Mother. Some of her other television credits include Glee and Diana Coto on Switched at Birth, and her film credits include Kevin's (Thomas Ian Nicholas) wife Elllie in American Reunion (2012) from the American Pie series.
+
+Question: who plays wendy the waitress on how i met your mother?
+CoT: The relevant information to answer the above question is: Charlene Amoia is an American actress best known for her role as Wendy the waitress in the TV sitcom How I Met Your Mother.
+
+
+Answer: nine. Now, what could be the question and solution-maybe?
+Ques: The enduring popularity of the Christmas song "Rudolph the Red-Nosed Reindeer" has led to Rudolph often joining the list, bringing the number of Santa Claus's reindeer up to nine.
+
+Answer this question: how many reindeers are there on santa's slay?
+CoT: This is the relevant information: The enduring popularity of the Christmas song "Rudolph the Red-Nosed Reindeer" has led to Rudolph often joining the list, bringing the number of Santa Claus's reindeer up to nine.
+
+
+Ans: Hamilton and Niagara on the Lake , Ontario
+Ques: Although set in "Middleton, USA", it was filmed in Hamilton and Niagara on the Lake, Ontario. In the sequel, The Good Witch's Charm, the map on the wall in the police station shows Middleton north and west of Chicago, in the vicinity of DuPage County. The names of the suburbs and interstates that are west of Chicago can be clearly seen.
+
+Based on this passage, where is the hallmark series good witch filmed?
+CoT: To answer this question, we should know that: Although set in "Middleton, USA", it was filmed in Hamilton and Niagara on the Lake, Ontario.
+
+
+Ans: 1870
+Ques: Although the Act of Parliament defining high treason remains on the United Kingdom's statute books, during a long period of 19th-century legal reform the sentence of hanging, drawing, and quartering was changed to drawing, hanging until dead, and posthumous beheading and quartering, before being abolished in England in 1870. The death penalty for treason was abolished in 1998.
+
+When did england stop hanging drawing and quartering?
+CoT: The relevant information to answer the above question is: Although the Act of Parliament defining high treason remains on the United Kingdom's statute books, during a long period of 19th-century legal reform the sentence of hanging, drawing, and quartering was changed to drawing, hanging until dead, and posthumous beheading and quartering, before being abolished in England in 1870.
+
+
+Answer: between 6 and 20 mg of urea nitrogen per 100 ml ( 6 -- 20 mg / dL ) of blood. Now, what could be the question and solution-maybe?

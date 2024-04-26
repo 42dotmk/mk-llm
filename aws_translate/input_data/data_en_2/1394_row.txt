@@ -1,0 +1,19 @@
+Question: R / T is the performance marker used on Dodge automobiles since the 1960s (much like Chevrolet Super Sport). R / T stands for Road / Track (no "and"). R / T models come with R / T badging, upgraded suspension, tires, brakes, and more powerful engines. Some models come with monotone paint and stripes, as well as aggressive body parts. The Chrysler SRT Division (Chrysler Corp. SRT Vehicles) has been the high performance auto group for Dodge vehicles from 2004 until present, therefore the R / T designation does not carry the status it once did. The R / T vehicles, however, still carry upgraded badging and performance indicative of their heritage.
+
+Based on this passage, what does rt mean on a dodge challenger?
+Answer: The relevant information to answer the above question is: R / T stands for Road / Track (no "and"). The answer is Road / Track ( no `` and '' ).
+
+Question: In statistical significance testing, a one-tailed test and a two-tailed test are alternative ways of computing the statistical significance of a parameter inferred from a data set, in terms of a test statistic. A two-tailed test is appropriate if the estimated value may be more than or less than the reference value, for example, whether a test taker may score above or below the historical average. A one-tailed test is appropriate if the estimated value may depart from the reference value in only one direction, for example, whether a machine produces more than one-percent defective products. Alternative names are one-sided and two-sided tests; the terminology "tail" is used because the extreme portions of distributions, where observations lead to rejection of the null hypothesis, are small and often "tail off" toward zero as in the normal distribution or "bell curve", pictured on the right.
+
+Based on this passage, how do you know if you have a two tailed test?
+Answer: The relevant information to answer the above question is: A two-tailed test is appropriate if the estimated value may be more than or less than the reference value, for example, whether a test taker may score above or below the historical average. The answer is if the estimated value may be more than or less than the reference value , for example , whether a test taker may score above or below the historical average.
+
+Question: "Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney. It was released in June 2015 as the fourth and final single from Chesney's album The Big Revival.
+
+Who wrote save it for a rainy day?
+Answer: The relevant information to answer the above question is: "Save It for a Rainy Day" is a song written by Andrew Dorff, Matthew Ramsey, and Brad Tursi and recorded by American country music artist Kenny Chesney. The answer is Andrew Dorff , Matthew Ramsey , and Brad Tursi.
+
+Question: Context: In the United States of America, the quantity of cigarettes in a pack must be at least 20. Certain brands, such as Export As, come in a pack of 25. For many years, half-packs of 10 (or even 14) cigarettes were commonly available.
+
+Question: how many cigarettes in a pack in the us?
+Answer:

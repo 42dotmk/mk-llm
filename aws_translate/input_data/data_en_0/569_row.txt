@@ -1,0 +1,27 @@
+Reasoning and answer: Since Onur bikes 250 kilometers in a day, he bikes 5 * 250 = 1250 kilometers for five days in a week. Onur's friend Hanil bikes 40 more kilometers in a day than Onur, meaning he bikes for 250 + 40 = 290 kilometers. In five days of the week, Hanil covers 290 * 5 = 1450 kilometers. In total, the two bikes for 1450 + 1250 = 2700 kilometers in 5 days of a week.
+The answer: 2700
+What was the question?
+Question: Five times a week, Onur bikes 250 kilometers a day. His friend Hanil bikes 40 more kilometers of Onur biking distance in a day. What's the total distance the two friends bikes in a week?
+
+If there are 3 identical cylindrical structures, with a combined total of 72 rooms, then each individual cylindrical structure contains 72 / 3 = 24 rooms. In each 24 - room cylindrical structure, there are 24 - 12 - 7 = 5 kitchens. Thus, the entire, three - cylinder space station contains a total of 3 * 5 = 15 kitchens.
+The answer: 15
+Reverse engineering the question: The space station, Lupus-1, is an enormous spacecraft made up of three identical cylindrical structures that house the living quarters for the crew.  The three cylindrical structures are linked together by a series of tunnels that hold them together and allow the crew to move between cylinders. Each cylindrical structure contains 12 bedrooms, 7 bathrooms, and several kitchens. If the entire space station has 72 rooms, how many kitchens are there on the entire space station?
+
+Reasoning and answer: Reversing the steps to obtain the amount she spent at the supermarket, $50 less than $350 is $350 - $50 = $300. If $300 was thrice the amount she spent at the supermarket, then the amount spent at the supermarket was $300 / 3 = $100. In addition to what she spent fixing her auto, she spent $100 + $350 = $450 altogether.
+The answer: 450
+What was the question?
+Question: Leila went to the supermarket to get some groceries. Then she headed to her mechanic to get her automobile fixed. If fixing her automobile cost $350 which was $50 more than thrice the amount she spent at the supermarket, how much has she spent altogether?
+
+This month she will earn $1000 * (110 / 100) = $1100. In total, she will make $1000 + $1100 = $2100.
+The answer: 2100
+Reverse engineering the question: Sally earned $1000 at work last month. This month, she received a 10% raise. How much money will she make in total for the two months?
+
+Reasoning and answer: Al weighs 146 + 38 = 184 pounds. Ben weighs 184 - 25 = 159 pounds. Carl weighs 159 + 16 = 175 pounds.
+The answer: 175
+What was the question?
+Question: Al is 25 pounds heavier than Ben. Ben is 16 pounds lighter than Carl. If Ed weighs 146 pounds and is 38 pounds lighter than Al, find the weight of Carl.
+
+Reasoning and answer: On the bus, the number of Dutch people was 3 / 5 of the total number, a total of 3 / 5 * 90 = 54 people. Out of the 54 people who were Dutch, 1 / 2 were Dutch Americans, a total of 1 / 2 * 54 = 27 people. If 1 / 3 of the passengers on the bus identifying as Dutch Americans sat at the windows, their number is 1 / 3 * 27 = 9.
+The answer: 9
+What was the question?
+Question:

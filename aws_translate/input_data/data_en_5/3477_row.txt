@@ -1,0 +1,23 @@
+Summarize this article in one sentence.
+
+Security blogger Brian Krebs has spent months investigating the attack which knocked his blog offline.
+He claims that the origins of the Mirai botnet can be traced back to rivalries in the Minecraft community.
+His claims are backed up by a security expert who provided net security for Minecraft servers.
+Robert Coelho, vice president of security firm ProxyPipe, told the BBC that his suspicions about who was behind the Mirai code have been passed to the FBI, which is "actively investigating" the claims.
+The botnet Mirai was made up of more than 500,000 web-connected devices such as webcams and routers.
+The attacks it launched - so-called denial-of-service (DDoS) attacks that hit web pages with so much data that they fall over - were the biggest the net had ever experienced.
+Victims that were knocked offline included Twitter, Spotify and Reddit.
+Shortly after the attacks, the individual claiming responsibility - using the codename Anna Senpai - released the source code online, paving the way for copycat attacks.
+A modified form of the malware was later used to attack UK internet service providers TalkTalk and the Post Office.
+Since being hit by the Mirai botnet in September 2016, Mr Krebs has devoted "hundreds of hours" into uncovering who was behind it.
+"If you've ever wondered why it seems that so few internet criminals are brought to justice, I can tell you that the sheer amount of persistence and investigative resources required to piece together who's done what to whom (and why) in the online era is tremendous," he wrote.
+His research led him directly to the community around Minecraft, a computer game now owned by Microsoft, in which users build things from cubic blocks.
+It has a huge following, especially among children, and it is estimated that at any one time a million people are playing it.
+According to Mr Krebs, a large successful Minecraft web server with more than 1,000 players logging on each day can earn up to $50,000 (Â£40,600) per month, mainly from players renting space to build their Minecraft worlds.
+"The first clues to Anna Senpai's identity didn't become clear until I understood that Mirai was just the latest incarnation of an IoT [internet of things] botnet family that has been in development and relatively broad use for nearly three years," he writes.
+The code for these earlier versions was often used to knock over web servers used to host Minecraft, he claims.
+ProxyPipe - owned by Mr Coelho - had plenty of Minecraft servers as clients and in mid-2015 was hit by a massive attack, launched from a botnet made up of IoT devices such as web cameras.
+Mr Coelho told the BBC that he had his suspicions about who was behind the attack: "Minecraft is a tight knit community. We know who is talking to who."
+He alleged that the attack came from a competing security firm, which also offered DDoS protection to Minecraft clients.
+He claimed that the founder of the security firm had previously run a Minecraft web server and was one of his clients.
+He also claims that the Mirai author - Anna Senpai - contacted him via Skype at the end of September, partly to explain that the attack on his firm was "not personal" but also to brag that he had been paid by the owners of a large Minecraft server to launch an attack on a rival server.

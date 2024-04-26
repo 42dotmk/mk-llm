@@ -1,0 +1,25 @@
+First find the total weight of the carrots: 4 pounds * 2 = 8 pounds. Now add the total weight of each item: 6 pounds + 8 pounds + 4 pounds = 18 pounds. Now subtract the total weight of the groceries from the bag's weight limit: 20 pounds - 18 pounds = 2 pounds.
+The answer: 2
+Reverse engineering the question: Mary uses plastic grocery bags that can hold a maximum of twenty pounds. She buys 4 pounds of green beans, 6 pounds milk, and twice the amount of carrots as green beans. How many more pounds of groceries can Mary fit in that bag?
+
+Reasoning and answer: Nick's sister is 13 + 6 = 19 years old. Their combined age is 19 + 13 = 32 years old. Their brother is 32 / 2 = 16 years old. In 5 years, their brother would be 16 + 5 = 21 years old.
+The answer: 21
+What was the question?
+Question: Nick is 13 years old. His sister is 6 years older and their brother is half their combined age. How old would their brother be in 5 years?
+
+If 40% of the balls had holes in them and could not inflate, their number was 40 / 100 * 100 = 40. The remaining balls that Nova could inflate were 100 - 40 = 60. While inflating, 20% of the good soccer balls were overinflated and exploded up, a total of 20 / 100 * 60 = 12. The number of soccer balls that inflated successfully and could be used is 60 - 12 = 48.
+The answer: 48
+Reverse engineering the question: Of the 100 soccer balls that Nova went to inflate, 40 percent had holes in them and could not inflate, while 20% of the remaining balls were overinflated and exploded. How many balls were inflated successfully and could be used?
+
+Reasoning and answer: The movie theater made 5 * 32 = $160 in matinee tickets. It made 7 * 40 = $280 in evening tickets. It made 10 * 58 = $580 in opening night tickets. There were 32 + 40 + 58 = 130 customers. Half of the customers bought popcorn, so 130 / 2 = 65 bought popcorn. Thus, the theater made 10 * 65 = $650 from popcorn. Therefore, in all, the theater made 160 + 280 + 580 + 650 = $1670 on Friday night.
+The answer: 1670
+What was the question?
+Question: A movie theater charges $5 for matinee tickets, $7 for evening tickets, and $10 for opening night tickets. A bucket of popcorn costs $10. On Friday, they had 32 matinee customers, 40 evening customers, and 58 customers for an opening night showing of a movie. If half the customers bought popcorn, how much money in dollars did the theater make on Friday night?
+
+The have run 12 laps because 6 + 6 = 12. They have run 1,800 meters because 12 x 150 = 1,800. They have 600 more meters to run because 2,400 - 1,800 = 600. The have to run 4 more laps because 600 / 150 = 4.
+The answer: 4
+Reverse engineering the question: Madison and Gigi have to run a total of 2400 meters in gym class. The track is 150 meters around. If they each have run 6 laps, how many more laps do they have to run before they reach 2400 meters?
+
+Half of the class consists of 28 students / 2 = 14 students. One half of the students have 14 students * 3 notebooks / student = 42 notebooks. The other half have 14 students * 5 notebooks / student = 70 notebooks. There are 42 notebooks + 70 notebooks = 112 notebooks in total in the classroom.
+The answer: 112
+Reverse engineering the question:

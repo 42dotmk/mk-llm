@@ -1,0 +1,19 @@
+Answer: Johnny Christopher , Mark James , and Wayne Carson , recorded first by Gwen McCrae ( as `` You Were Always on My Mind '' ) and Brenda Lee in 1972. Now, what could be the question and solution-maybe?
+Ques: Passage: "Always on My Mind" is a song by Johnny Christopher, Mark James, and Wayne Carson, recorded first by Gwen McCrae (as "You Were Always on My Mind") and Brenda Lee in 1972. The song has been a crossover hit, charting in both the country and western and pop categories.
+
+Question: Based on this passage, who sang the song you were always on my mind?
+CoT: This is the relevant information: "Always on My Mind" is a song by Johnny Christopher, Mark James, and Wayne Carson, recorded first by Gwen McCrae (as "You Were Always on My Mind") and Brenda Lee in 1972.
+---
+Answer: 2010. Now, what could be the question and solution-maybe?
+Ques: From 1994, the Power Stroke engine family existed as a re-branding of engines produced by Navistar International, sharing engines with its medium-duty truck lines. Since the 2010 introduction of the 6.7 L PowerStroke V8, Ford has designed and produced its own diesel engines. During its production, the PowerStroke engine range has been marketed against large-block V8 (and V10) gasoline engines along with the General Motors Duramax V8 and the Dodge Cummins B-Series inline-six.
+
+Answer this question based on the passage: when did ford come out with the 6.7?
+CoT: This is the relevant information: Since the 2010 introduction of the 6.7 L PowerStroke V8, Ford has designed and produced its own diesel engines.
+---
+Answer: on the west bank of the Mississippi river about 60 miles ( 96.6 kilometers ) downriver from where New Orleans is today. Now, what could be the question and solution-maybe?
+Ques: Mardi Gras in the United States is not observed nationally across the country, however a number of cities and regions in the U.S. have notable Carnival celebrations. Most trace their Mardi Gras celebrations to French, Spanish, and other colonial influences on the settlements over their history. The earliest Carnival celebration in North America occurred at a place on the west bank of the Mississippi river about 60 miles (96.6 kilometers) downriver from where New Orleans is today; this Mardi Gras on the 3rd of March 1699 and in honor of this holiday, Pierre Le Moyne, Sieur d'Iberville, a 38-year-old French Canadian, named the spot Point du Mardi Gras (French: "Mardi Gras Point") near Fort Jackson. The earliest organized Carnival celebrations occurred in Mobile, Biloxi, New Orleans, and Pensacola, which have each developed separate traditions. In addition, modern activities generally vary from city to city across the U.S.
+
+Answer this question: mardi gras in america began in what city?
+CoT: To answer the above question, the relevant sentence is: The earliest Carnival celebration in North America occurred at a place on the west bank of the Mississippi river about 60 miles (96.6 kilometers) downriver from where New Orleans is today; this Mardi Gras on the 3rd of March 1699 and in honor of this holiday, Pierre Le Moyne, Sieur d'Iberville, a 38-year-old French Canadian, named the spot Point du Mardi Gras (French: "Mardi Gras Point") near Fort Jackson.
+---
+Answer: the Godavari river. Now, what could be the question and solution-maybe?

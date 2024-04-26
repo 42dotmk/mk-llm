@@ -1,0 +1,27 @@
+Reasoning and answer: Ludo bought 1 / 4 more marbles than Wolfgang, which is 1 / 4 * 16 marbles = 4 marbles. The total number of marbles that Ludo bought is 16 marbles + 4 marbles = 20 marbles. Wolfgang and Ludo purchased a total of 20 marbles + 16 marbles = 36 marbles. If Michael bought 2 / 3 times the total number of marbles bought by Wolfgang and Ludo, he bought 2 / 3 * 36 marbles = 24 marbles. The three friends purchased a total of 24 marbles + 36 marbles = 60 marbles. When they shared the marbles equally, each got 60 marbles / 3 people = 20 marbles / person.
+The answer: 20
+What was the question?
+Question: Three friends Wolfgang, Ludo, and Michael, went to Walmart and bought marbles. Wolfgang bought 16 marbles, Ludo bought 1/4 times more marbles than Wolfgang, and Michael bought 2/3 times as many marbles as the number of marbles both Wolfgang and Ludo bought. If they combined their marbles and decided to share them equally, how many marbles did each get?
+
+The Ferris wheel will be open for 7:00 - 1:00 = 6 hours. In one hour the wheel can ride 60 minutes / 20 minutes = 3 times the number of riders. The total per hour riders is 3 * 70 people = 210 people. If the ride is open 6 hours * 210 people = 1260 people can ride.
+The answer: 1260
+Reverse engineering the question: A Ferris wheel can accommodate 70 people in 20 minutes. If the Ferris wheel is open from 1:00 pm until 7:00 pm, how many people will get to ride?
+
+Reasoning and answer: John dances 3 + 5 = 8 hours. John's total time is 3 + 5 + 1 = 9 hours. James dances 9 / 3 = 3 hours longer than that. So James dances 9 + 3 = 12 hours. So the total dancing time is 8 + 12 = 20 hours.
+The answer: 20
+What was the question?
+Question: John and James decided to have a dance-off. John danced for 3 hours and then another 5 hours after taking a 1-hour break. James danced the whole time John was dancing and resting, and then another 1/3 times more hours. How long was their combined dancing time without including John's break time?
+
+If Chris and Ryan put together their marbles in a pile, the pile will have 12 + 28 = 40 marbles. If they then take 1 / 4 of the marbles each, every person will receive 1 / 4 * 40 = 10 marbles. Both of them will have taken a total of 10 + 10 = 20 marbles. The number of marbles remaining in the pile is 40 - 20 = 20.
+The answer: 20
+Reverse engineering the question: Chris has twelve marbles, and Ryan has twenty-eight marbles. If they put marbles together in a pile and then each takes away 1/4 of marbles from the pile, calculate the number of marbles remaining in the pile.
+
+Reasoning and answer: First find the cost of the case: $1000 * 20% = $200. Then find the cost of the headphones: $200 / 2 = $100. Then find how much the phone contract will cost over a year: $200 / month * 12 months / year = $2400. Finally, add the cost of the phone, accessories, and plan over the first year to find the total: $2400 + $100 + $200 + $1000 = $3700.
+The answer: 3700
+What was the question?
+Question: Lisa bought a new iPhone for $1000. She bought a phone contract that costs $200/month, a case that costs 20% of the cost of the phone, and headphones that cost half as much as the case. How much will Lisa spend on her phone in the first year?
+
+Reasoning and answer: If Alice has 60 pens, Clara 2 / 5 * 60 = 24 pens. The number of pens that Alice has more than Clara is 60 - 24 = 36. Since Alice is 20, and the number of pens that Alice has more than Clara is their age difference, Clara is 20 + 36 = 56 years old. In five years, Clara's age will be 56 + 5 = 61 years.
+The answer: 61
+What was the question?
+Question:

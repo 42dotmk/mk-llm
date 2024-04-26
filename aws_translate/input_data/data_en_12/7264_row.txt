@@ -1,0 +1,25 @@
+He pays the minor characters 15000 * 4 = $60,000. The major characters each get 15000 * 3 = $45,000. So he pays the main characters 45,000 * 5 = $225,000. So in total he pays 225,000 + 60,000 = $285,000.
+The answer: 285000
+Reverse engineering the question: James runs a TV show and there are 5 main characters and 4 minor characters. He pays the minor characters $15,000 each episode. He paid the major characters three times as much. How much does he pay per episode?
+
+Reasoning and answer: Susan works 2 * 5 = 10 days in two weeks. She is taking 10 - 6 = 4 days of unpaid vacation. At $15 per hour, she is paid 15 * 8 = $120 per day. At $120 per day, Susan will miss 120 * 4 = $480 on her vacation.
+The answer: 480
+What was the question?
+Question: Susan is taking a two week vacation. She works five days a week and has six days of paid vacation. The rest of her workdays will be unpaid vacation time. She gets paid $15 per hour and works 8 hours a day. How much pay will she miss on her vacation?
+
+On Monday, Kekai uses 40 * 6 = 240 m&ms. On Tuesday, Kekai uses 20 * 10 = 200 m&ms. Kekai uses a total of 240 + 200 = 440 m&ms. Kekai uses a 440 / 40 = 11 m&m packs.
+The answer: 11
+Reverse engineering the question: Kekai is running a sundae booth at the carnival. On Monday, he makes a total of 40 sundaes, and he puts 6 m&ms on each sundae. On Tuesday, he makes a total of 20 sundaes, and he puts 10 m&ms on each sundae. If each m&m pack contains 40 m&ms, how many m&m packs does Kekai use?
+
+Reasoning and answer: Her hair needs to be 35 inches long when she cuts it because 23 + 12 = 35. She needs to grow it 21 more inches because 35 - 14 = 21.
+The answer: 21
+What was the question?
+Question: Patricia is growing her long very long to donate it to a charity that makes wigs for cancer survivors. Her hair is 14 inches long. She needs to donate 23 inches to make a wig. She wants her hair to be 12 inches long after the donation. How much longer does she have to grow her hair?
+
+Mark's team scores 25 2 pointers, meaning they scored 25 * 2 = 50 points in 2 pointers. His team also scores 6 3 pointers, meaning they scored 8 * 3 = 24 points in 3 pointers. They scored 10 free throws, and free throws count as one point so they scored 10 * 1 = 10 points in free throws. All together his team scored 50 + 24 + 10 = 84 points. Mark's opponents scored double his team's number of 2 pointers, meaning they scored 50 * 2 = 100 points in 2 pointers. His opponents scored half his team's number of 3 pointers, meaning they scored 24 / 2 = 12 points in 3 pointers. They also scored half Mark's team's points in free throws, meaning they scored 10 / 2 = 5 points in free throws. All together Mark's opponents scored 100 + 12 + 5 = 117 points. The total score for the game is both team's scores added together, so it is 84 + 117 = 201 points.
+The answer: 201
+Reverse engineering the question: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws. Their opponents score double the 2 pointers but half the 3 pointers and free throws. What's the total number of points scored by both teams added together?
+
+First find how many kids from Riverside High are rejected: 20% * 120 kids = 24 kids. Then find how many kids from West Side High are rejected: 70% * 90 kids = 63 kids. Then find how many kids from Mountaintop High are rejected: 50 kids / 2 = 25 kids. Then add the number of kids from each school to find the total number of kids: 120 kids + 90 kids + 50 kids = 260 kids. Then subtract all the kids who were rejected from the total number of kids to find the number who got in: 260 kids - 24 kids - 63 kids - 25 kids = 148 kids.
+The answer: 148
+Reverse engineering the question:

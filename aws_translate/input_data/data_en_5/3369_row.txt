@@ -1,0 +1,25 @@
+First multiply the number of loads by the time per load to find the washing time: 2 loads * 45 minutes / load = 90 minutes. Then add that time to the drying time to find the total laundry time: 90 minutes + 75 minutes = 165 minutes.
+The answer: 165
+Reverse engineering the question: Carlos is doing his laundry. He needs to wash two loads, which takes 45 minutes per load. Then he can combine both loads and dry them, which takes 75 minutes. How long does his laundry take in total?
+
+Reasoning and answer: Let the total profit of both companies be denoted by x. Therefore, 40% * x = 0.4 * x = $60000. So x = $60000 / 0.4 = $150000. If Company B gets 60 % of the profits, it gets 60% of $150000, which is 0.6 * $150000 = $90000.
+The answer: 90000
+What was the question?
+Question: Company A and Company B merge. Company A receives 60% of the combined profits under the new merger, and company B receives 40% of the profits. If company B gets a total of $60000 in profit, how much does company A get?
+
+If the number of adult men involved in the cleaning process was 30% of the community members, there were 30 / 100 * 2000 = 600 adult men at the event. There were also twice as many adult women as adult men in the event, a total of 2 * 600 = 1200 women. The total number of adults in the event was 1200 + 600 = 1800. If the rest of the people at the cleaning event were children, there were 2000 - 1800 = 200 children at the event.
+The answer: 200
+Reverse engineering the question: The community leader of a certain town organized a cleaning day event where community members were to be involved in collecting trash inside the town. Out of 2000 community members involved in the cleaning process, 30% were adult men. If there were twice as many adult women as adult men in the event, and the rest were children, calculate the total number of children involved in the cleaning event.
+
+Reasoning and answer: Knives 2, 3 & 4 will cost $4.00 each to sharpen so that’s 3 * 4 = $12.00. Knives 5 - 9 will cost $3.00 each to sharpen so that’s 5 * 3 = $15.00. The first knife will cost $5.00, the next 3 cost $12.00 and the rest cost $15.00 for a total of 5 + 12 + 15 = $32.00.
+The answer: 32
+What was the question?
+Question: Otto’s local kitchen supply store charges $5.00 for the first knife that you need sharpened. They charge $4.00 for the next 3 knives and $3.00 for any knife after that. If Otto has 9 knives that need to be sharpened, how much will it cost to sharpen his knives?
+
+Black printer inks will cost him 2 x $11 = $22. Red printer inks will cost him 3 x $15 = $45. And yellow printer inks will cost him 2 x $13 = $26. The total amount he has to pay for the printer inks is $22 + $45 + $26 = $93. Therefore, Phantom has to ask $93 - $50 = $43 more from his mom to be able to buy the printer inks.
+The answer: 43
+Reverse engineering the question: Phantom's mom gave him $50 to buy printer-inks. At the store, he bought two black printer inks which cost $11 each, three red printer inks which cost $15 each, and two yellow printer inks which cost $13 each. Phantom found out that his money is not enough to buy all the printer inks. How much more money should he ask his mom to be able to buy the printer inks?
+
+Tom has 3 * 12 = 36 stickers. Dan has 2 * 36 = 72 stickers.
+The answer: 72
+Reverse engineering the question:

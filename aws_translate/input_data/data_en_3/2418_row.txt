@@ -1,0 +1,27 @@
+Reasoning and answer: First find the total amount of money she saved: $260 - $50 = $210. Then divide that number by the number of months she saved to find the amount she saved each month: $210 / 3 months = $70 / month.
+The answer: 70
+What was the question?
+Question: Miranda wants to buy a pair of heels she saw online. She saved money for 3 months. Her sister heard that she was sad and gave her $50 for her to buy the heels. If she paid $260 in total for the heels, how much money did she save per month?
+
+First, calculate how many square feet of road Mark needs to cover by multiplying the length by the width: 2000 feet * 20 feet = 40,000 sq ft. Then divide the square footage of road by the number of square feet each truckload will cover: 40,000 sq ft / 800 sq ft / truckload = 50 truckloads. Now multiply the number of truckloads by the cost per truckload: $75 / truckload * 50 truckloads = $3750. Now calculate the sales tax by multiplying $3750 by 20%: $3750 * .2 = $750. Now add the sales tax to the cost of the asphalt to find the total: $750 + $3750 = $4500.
+The answer: 4500
+Reverse engineering the question: Mark is buying asphalt to pave a new section of road. The road will be 2000 feet long and 20 feet wide. Each truckload of asphalt will cover 800 square feet of road. If each truckload costs $75, and there's a 20% sales tax, how much will Mark need to pay for asphalt?
+
+Reasoning and answer: First find the total number of calories in the bacon: 125 calories + 125 calories = 250 calories. Then divide the number of bacon calories by the total number of calories and multiply by 100% to express the answer as a percentage: 250 calories / 1250 calories * 100% = 20%.
+The answer: 20
+What was the question?
+Question: Ben makes a sandwich that has 1250 calories total that has two strips of bacon with 125 calories each. What percentage of the sandwich's total calories come from bacon?
+
+The number of pies Cooper makes in 12 days is 7 pies / day * 12 days = 84 apple pies. After Ashley eats 50 of them, there are 84 pies – 50 pies = 34 apple pies.
+The answer: 34
+Reverse engineering the question: Cooper makes 7 apple pies a day. He does this for 12 days. Ashley then eats 50 of his pies. How many apple pies remain with Cooper?
+
+Reasoning and answer: She makes $10.00 an hour for 2 hours walking dogs so she makes 10 * 2 = $20.00 every morning. Over 7 days she makes 7 * 20 = $140.00 a week. She makes $12.50 for 2 hours working at a card shop so she makes 12.5 * 2 = $25.00. She works there 5 days a week so she makes 5 * 25 = $125.00 a week. She also babysits for 4 hours making $10.00 an hour for a total of 4 * 10 = $40.00. Over 7 days, she makes 140 + 125 + 40 = $305.00.
+The answer: 305
+What was the question?
+Question: Donna worked 2 hours every morning walking dogs in her neighborhood for $10.00 an hour. 5 days a week, after school, she worked at a card shop for 2 hours and made $12.50 an hour. On the weekends, she usually made $10.00 an hour babysitting and was guaranteed 4 hours every Saturday from her neighbor. How much money did she make over 7 days?
+
+Reasoning and answer: Day 1:70(.30) = 21 crickets. Day 2:21 - 6 = 15 crickets. Day 3:70 - 21 - 15 = 34 crickets.
+The answer: 34
+What was the question?
+Question:

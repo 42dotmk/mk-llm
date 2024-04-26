@@ -1,0 +1,36 @@
+Answer: George H.W. Bush. Now, what could be the question and solution-maybe?
+Ques: Passage: The oldest living U.S. president is George H.W. Bush, born June 12, 1924 (age 93 years, 261 days). On November 25, 2017, he also became the longest-lived president, surpassing the lifespan of Gerald Ford, who died at the age of 93 years, 165 days. The second oldest living president, Jimmy Carter, has the distinction of having the longest post-presidency in U.S. history, currently at 37 years, 39 days. He surpassed the previous record, held by Herbert Hoover (31 years, 230 days) on September 7, 2012. The youngest living president is Barack Obama, born August 4, 1961 (age 56 years, 208 days).
+
+Question: Based on this passage, who was the longest living president of the united states?
+CoT: To answer the above question, the relevant sentence is: The oldest living U.S. president is George H.W. Bush, born June 12, 1924 (age 93 years, 261 days).
+
+
+Ans: Joachim `` Jogi '' Löw
+Ques: Joachim "Jogi" Löw (German pronunciation: ( ˈjoːaxɪm ˈløːf); born 3 February 1960 ) is a German football coach, and former player. He is the head coach of the Germany national team, which he led to victory at the 2014 FIFA World Cup in Brazil and the 2017 FIFA Confederations Cup in Russia.
+
+Who is the german national soccer team coach?
+CoT: To answer this question, we should know that: He is the head coach of the Germany national team, which he led to victory at the 2014 FIFA World Cup in Brazil and the 2017 FIFA Confederations Cup in Russia.
+
+
+Ans: $207,800 per year
+Ques: The Secretary of the Treasury pays a taxable pension to the president. Former presidents receive a pension equal to the pay that the head of an executive department (Executive Level I) would be paid, as of 2017 $207,800 per year. The pension begins immediately after a president's departure from office. A former president's spouse may also be paid a lifetime annual pension of $20,000 if they relinquish any other statutory pension.
+
+Based on this passage, what is the pension of the president of the united states?
+CoT: The relevant information to answer the above question is: Former presidents receive a pension equal to the pay that the head of an executive department (Executive Level I) would be paid, as of 2017 $207,800 per year.
+
+
+Answer: folk songs of Medieval Europe. Now, what could be the question and solution-maybe?
+Ques: Context: "Yankee Doodle" is a well-known British-American song, the early versions of which date back to before the Seven Years' War and the American Revolution (1775 -- 83). It is often sung patriotically in the United States today and is the state anthem of Connecticut. Its Roud Folk Song Index number is 4501. The melody is thought to be much older than both the lyrics and the subject, going back to folk songs of Medieval Europe.
+
+Question: where did the melody for yankee doodle come from?
+CoT: To answer this question, we should know that: The melody is thought to be much older than both the lyrics and the subject, going back to folk songs of Medieval Europe.
+
+
+Ans: Krantivira Sangolli Rayanna railway station
+Ques: Bangalore City railway station, officially known as Krantivira Sangolli Rayanna railway station, is the main railway station serving the city of Bengaluru, Karnataka, India.
+
+Based on this passage, what is the name of bangalore city railway station?
+CoT: The relevant information to answer the above question is: Bangalore City railway station, officially known as Krantivira Sangolli Rayanna railway station, is the main railway station serving the city of Bengaluru, Karnataka, India.
+
+
+Ans: The Queen of Hearts

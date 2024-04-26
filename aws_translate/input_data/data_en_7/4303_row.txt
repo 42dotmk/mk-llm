@@ -1,0 +1,29 @@
+## question
+The specialized high schools of New York City are nine selective public high schools, established and run by the New York City Department of Education to serve the needs of academically and artistically gifted students. The Specialized High Schools Admissions Test (SHSAT) examination is required for admission to all the schools except LaGuardia, which requires an audition or portfolio for admission.
+
+Answer this question based on the passage: what are the specialized high schools in nyc?
+## answer
+This is the relevant information: The specialized high schools of New York City are nine selective public high schools, established and run by the New York City Department of Education to serve the needs of academically and artistically gifted students.
+So the answer must be nine selective public high schools , established and run by the New York City Department of Education to serve the needs of academically and artistically gifted students
+
+## question
+Leukonychia (or leuconychia), also known as white nails or milk spots, is a medical term for white discolouration appearing on nails. It is derived from the Greek words leuko ("white") and nychia ("nails"). The most common cause is injury to the base of the nail (the matrix) where the nail is formed.
+
+Answer this question: what are the white marks on your fingernails?
+## answer
+This is the relevant information: Leukonychia (or leuconychia), also known as white nails or milk spots, is a medical term for white discolouration appearing on nails.
+So the answer must be Leukonychia ( or leuconychia ) , also known as white nails or milk spots
+
+## question
+Jonah or Jonas is the name given in the Hebrew Bible (Tanakh / Old Testament) to a prophet of the northern kingdom of Israel in about the 8th century BCE. He is the eponymous central figure of the Book of Jonah, in which he is called upon by God to travel to Nineveh and warn its residents to repent of their sins or face divine wrath. Instead, Jonah boards a ship to Tarshish. Caught in a storm, he orders the ship's crew to cast him overboard, whereupon he is swallowed by a giant fish. Three days later, after Jonah agrees to go to Nineveh, the fish vomits him out onto the shore. Jonah successfully convinces the entire city of Nineveh to repent, but waits outside the city in expectation of its destruction. God shields Jonah from the sun with a plant, but later sends a worm to cause it to wither. When Jonah complains of the bitter heat, God rebukes him.
+
+Who got swallowed by a fish in the bible?
+## answer
+To answer the question, consider the following: Caught in a storm, he orders the ship's crew to cast him overboard, whereupon he is swallowed by a giant fish.
+So the answer must be Jonah
+
+## question
+More than 4,400 athletes including 300 para-athletes from 71 Commonwealth Games Associations took part in the event. The Gambia which withdrew its membership from the Commonwealth of Nations and Commonwealth Games Federation in 2013, was readmitted on 31 March 2018 and participated in the event. With 275 sets of medals, the games featured 19 Commonwealth sports, including beach volleyball, para triathlon and women's rugby sevens. These sporting events took place at 14 venues in the host city, two venues in Brisbane and one venue each in Cairns and Townsville.
+
+Answer this question: how many sports are there in the 2018 commonwealth games?
+## answer

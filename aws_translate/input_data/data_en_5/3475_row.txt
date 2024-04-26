@@ -1,0 +1,27 @@
+Reasoning and answer: He ran the 10 kilometers in a total of 20 + 30 = 50 minutes. Therefore, he ran at a pace of 50 minutes / 10 kilometers = 5 minutes per kilometer.
+The answer: 5
+What was the question?
+Question: TJ ran a 10K race last Saturday. He ran the first half in 20 minutes. He completed the second half in 30 minutes. What was his average time per kilometer?
+
+Jacob can eat 12 / 2 = 6 candies before crying. Lana can eat 6 - 3 = 3 candies before crying. Nellie, Jacob, and Lana all ate until they cried, so they ate 12 + 6 + 3 = 21 candies. Thus, there are 30 - 21 = 9 candies left in the bucket. After dividing the remaining candies equally, they will each get 9 / 3 = 3 sourball candies.
+The answer: 3
+Reverse engineering the question: Nellie can eat 12 sourball candies before crying. Jacob can only manage half of that number of candies, and Lana can only do three fewer than Jacob. They had a bucket of 30 candies, and all of them ate until they cried. If they divide the remaining candies in the bucket equally, how many sourball candies will they each get?
+
+Reasoning and answer: Harry ran 10 x 50 / 100 = 5 meters per hour faster on Tuesday to Wednesday. So he ran 10 + 5 = 15 meters per hour from Tuesday to Thursday. Then on Friday, he ran 15 x 60 / 100 = 9 meters per hour more. Therefore, he ran 15 + 9 = 24 meters per hour on Friday.
+The answer: 24
+What was the question?
+Question: Harry is joining a marathon that's why he practices and varies his workouts from day to day. He ran 10 meters per hour on Monday. From Tuesday to Thursday he ran 50% faster than on Monday. Then on Friday, he ran 60% faster than he ran on Thursday. How fast did Harry run on Friday?
+
+Monday, Wednesday, and Friday, Harry walks a total of 3 * 7 = 21 dogs. Thus, in a week he walks 21 + 12 + 9 = 42 dogs. At a rate of $5 per dog, Harry ears $5 * 42 = $210 per week.
+The answer: 210
+Reverse engineering the question: Harry is a professional dog-walker. He is paid to go on long walks with dogs while their families are away from home. On Monday, Wednesday, and Friday, Harry walks 7 dogs. On Tuesday, he walks 12 dogs. And on Thursday he walks 9 dogs. He is paid $5 for each dog that he walks. How many dollars does Harry earn in a week?
+
+Reasoning and answer: Anne and her brother use 1 gram + 1 gram = 2 grams. Anne's dad uses 3 grams and Anne's mom uses 2 grams so together they use 2 grams + 3 grams + 2 grams = 7 grams / wash. Each day, the family uses 7 grams / wash * 3 washes / day = 21 grams. Using that amount daily, the toothpaste will last 105 grams / 21 grams / day = 5 days.
+The answer: 5
+What was the question?
+Question: The toothpaste in Anne's family's bathroom contains 105 grams. Anne's dad uses 3 grams at each brushing, her mom uses 2 grams, Anne and her brother use 1 gram each. Each member of the family brushes their teeth three times a day. How many days will it take for the toothpaste to run out?
+
+Reasoning and answer: The necklace stand needs another 12 – 5 = 7 necklaces. This will cost the store 7 * 4 = $28. The ring display needs another 30 – 18 = 12 rings. This will cost the store 12 * 10 = $120. The bracelet display needs another 15 – 8 = 7 bracelets. This will cost the store 7 * 5 = $35. In total, the store needs to pay 28 + 120 + 35 = $183.
+The answer: 183
+What was the question?
+Question:

@@ -1,0 +1,36 @@
+Ans: Oliver Hardy
+Ques: The Wizard of Oz is a 1925 American silent film directed by Larry Semon, who also appears in a lead role -- that of a farmhand disguised as a Scarecrow. The only completed 1920s adaptation of L. Frank Baum's novel The Wonderful Wizard of Oz, this film features Oliver Hardy as the Tin Woodman. Dorothy is portrayed by Dorothy Dwan.
+
+Based on this passage, who played the tin man in the 1925 wizard of oz?
+CoT: The relevant sentence in the passage is: The only completed 1920s adaptation of L. Frank Baum's novel The Wonderful Wizard of Oz, this film features Oliver Hardy as the Tin Woodman.
+
+
+Ans: Foodstuffs ( NZ ) Ltd
+Ques: Passage: Foodstuffs (NZ) Ltd is a group of two New Zealand grocery and liquor retailers' cooperatives based in the North Island and the South Island that collectively control an estimated 53 % of the New Zealand grocery market. The group owns retail franchises Four Square, New World and Pak'nSave, in-store private labels Pam's and Budget, and a ten percent stake in The Warehouse. The effective duopoly in New Zealand's supermarket industry means that Foodstuffs' only real competitor is Australian supermarket chain Progressive Enterprises.
+
+Question: Based on this passage, who owns new world and pak n save?
+CoT: The relevant information is: The group owns retail franchises Four Square, New World and Pak'nSave, in-store private labels Pam's and Budget, and a ten percent stake in The Warehouse.
+
+
+Answer: Kiriath - Jearim. Now, what could be the question and solution-maybe?
+Ques: Context: Leithart provides a number of parallels between the Philistine captivity of the Ark and the Plagues of Egypt in the Book of Exodus. The ark brings about plagues, humbles the gods of the Philistines and returns full of treasure. In fact, the Philistine diviners refer to the events of the Exodus in 1 Samuel 6: 6. On the advice of these diviners about how to end the plagues, the Philistines made a guilt offering of five golden tumors and five gold mice (representing the five Philistine rulers). They then placed the gold along with the ark on a cart drawn by two milch cows, who head straight for Israel and do not waver. The ark stops at Beth Shemesh before finding a more permanent home at Kiriath-Jearim.
+
+Question: where was the ark of the covenant taken?
+CoT: To answer the question, consider the following: The ark stops at Beth Shemesh before finding a more permanent home at Kiriath-Jearim.
+
+
+Ans: August 17 , 2008
+Ques: Context: Maudie Hopkins (December 7, 1914 -- August 17, 2008) was an American woman believed to be the last publicly known and identified surviving widow of a Civil War veteran.
+
+Question: when did the last widow of the civil war die?
+CoT: The relevant information to answer the above question is: Maudie Hopkins (December 7, 1914 -- August 17, 2008) was an American woman believed to be the last publicly known and identified surviving widow of a Civil War veteran.
+
+
+Ans: St. Petersburg
+Ques: Pinellas County is a county located in the state of Florida. As of the 2010 census, the population was 916,542. The county is part of the Tampa -- St. Petersburg -- Clearwater, Florida Metropolitan Statistical Area. Clearwater is the county seat, and St. Petersburg is the largest city.
+
+Answer this question: what is the largest city in pinellas county?
+CoT: The relevant information is: Clearwater is the county seat, and St. Petersburg is the largest city.
+
+
+Answer: semilunar ( semi = half ; lunar = related to the Moon ) valves. Now, what could be the question and solution-maybe?

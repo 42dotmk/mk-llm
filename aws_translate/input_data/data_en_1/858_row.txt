@@ -1,0 +1,22 @@
+Student A:"If You're Not the One" is a song by English singer Daniel Bedingfield. It was released on 25 November 2002 as the third single from his debut studio album Gotta Get Thru This (2002).
+
+Answer this question: daniel bedingfield if you're not the one album?
+Student B:OK... This is the relevant information: It was released on 25 November 2002 as the third single from his debut studio album Gotta Get Thru This (2002).
+Gotta Get Thru This.
+
+Student A:This goose breeds north of the timberline in Greenland, Canada, Alaska, and the northeastern tip of Siberia, and spends winters in warm parts of North America from southwestern British Columbia through parts of the United States to Mexico. They fly as far south as Texas and Mexico during winter, and return to nest on the Arctic tundra each spring. It is a rare vagrant to Europe, but a frequent escape from collections and an occasional feral breeder. Snow geese are visitors to the British Isles where they are seen regularly among flocks of barnacle, Brent and Greenland white-fronted geese. There is also a feral population in Scotland from which many vagrant birds in Britain seem to derive.
+
+Where do snow geese go for the winter?
+Student B:OK... To answer this question, we should know that: This goose breeds north of the timberline in Greenland, Canada, Alaska, and the northeastern tip of Siberia, and spends winters in warm parts of North America from southwestern British Columbia through parts of the United States to Mexico.
+warm parts of North America from southwestern British Columbia through parts of the United States to Mexico.
+
+Student A:Evening is the period of time at the end of the day, usually from about 6pm to bedtime. It is a daily astronomic event of variable time period between daytime and night, and the period in which the daylight is decreasing, after the afternoon and before night. There is no exact time for when evening begins and ends (equally true with night). Though the term is subjective, evening is typically understood to begin shortly before sunset and during twilight (sunset and twilight vary throughout the year), lasting until night -- typically astronomical sunset. There can be no precise definition in terms of clock time, but it is socially considered to start around 6 pm. and to last until nighttime or bedtime.
+
+Answer this question: what time does afternoon end and evening start?
+Student B:OK... The important part for answering this question is: Evening is the period of time at the end of the day, usually from about 6pm to bedtime.
+about 6pm.
+
+Student A:The Thirteen Colonies were a group of British colonies on the east coast of North America founded in the 17th and 18th centuries that declared independence in 1776 and formed the United States of America. The Thirteen Colonies had very similar political, constitutional, and legal systems, and were dominated by Protestant English-speakers. They were part of Britain's possessions in the New World, which also included colonies in Canada and the Caribbean, as well as East and West Florida.
+
+Answer this question: when did the colonies became the united states?
+Student B:

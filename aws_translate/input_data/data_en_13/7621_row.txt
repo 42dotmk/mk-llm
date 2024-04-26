@@ -1,0 +1,25 @@
+Title: The Summit Supercomputer: a Leap Forward in Computing Power and a Symbol of Pride for America
+
+## Introduction
+
+The United States has reclaimed the title for the world's fastest computer, following the introduction of the Summit supercomputer by the Department of Energy. Created by IBM, the supercomputer will be used to explore a variety of scientific areas, aiding efforts to study diseases, investigate astrophysical phenomena, and more. This powerful machine serves as a source of pride among computer scientists, highlighting the competitive nature of advances in computing technology.
+
+## Overview of the Summit Supercomputer and Its Impact on Global Rankings
+
+The United States last held the top position in the world’s 500 fastest computers in November 2012. Since then, China had become the front-runner, dominating the list for the last two years. This changed with the announcement of Summit, which, at a price tag of around $200 million, is touted as the earth’s fastest.
+
+Summit boasts a peak performance of 200 quadrillion calculations per second (200 petaflops). To put this impressive capability into perspective, it's akin to 7.6 billion people working on 26 million hand calculator calculations per second. With a floor space equivalent to two tennis courts, this supercomputer demonstrates immense power and will have numerous applications, ranging from astrophysics and climate research to oil exploration and code decryption.
+
+Developed by IBM, Summit will be used by government agencies, academics, and industry researchers to tackle myriad scientific problems. This supercomputer is already slated to work on projects dedicated to devising treatments for various diseases, including Alzheimer's disease, heart disease, and the growing opioid crisis.
+
+## The Potential and Future of the Summit Supercomputer
+
+Summit's unprecedented computational power opens up avenues for scientific research and discovery that were previously unattainable. In the field of astrophysics, the supercomputer will be instrumental in the study of exploding stars—or supernovas—which will further our understanding of these astronomical events and their implications on our universe.
+
+Beyond healthcare and astrophysics, Summit could help advance other sectors. In oil exploration, it may contribute to the discovery of new energy sources, while its code-deciphering abilities could play a critical role in the development of advanced weapons systems. Additionally, its climate research applications hold promise for predicting and mitigating the impacts of global climate change.
+
+However, the United States' dominance in supercomputing speeds may not last long. Analysts predict that by 2020, China will unveil a supercomputer capable of performing at least one million trillion calculations per second (or exaflops)—an accomplishment seen as the holy grail in supercomputing. If achieved, this would undeniably cause "a certain amount of political gnashing of teeth," according to a computer analyst cited in the Wall Street Journal.
+
+## Conclusion
+
+The launch of the Summit supercomputer puts the United States back on top in terms of computing power, though it might be short-lived given the ongoing global competition in this field. Countries like China aren’t far behind, chasing the ultimate goal of developing an exaflop machine. Still, for now, Summit's capabilities are unmatched and are poised to bring about transformative scientific breakthroughs, benefiting various fields and potentially improving the quality of life worldwide. Whether it continues to hold this position or not, Summit marks a notable achievement in the history of computing and bolsters the United States' credibility as a technological powerhouse.

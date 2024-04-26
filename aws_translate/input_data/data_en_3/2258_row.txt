@@ -1,0 +1,27 @@
+Reasoning and answer: The interest on the loan is 0.1 * 1200 = $120. The total amount Jack needs to pay back is 1200 + 120 = 1320.
+The answer: 1320
+What was the question?
+Question: Jack and Jill are friends who borrow from each other often. Last week Jack borrowed $1200 from Jill, which he promised to pay back with an interest of 10%. How much will Jack pay back?
+
+Mr. Gardner bakes a total of 20 + 25 + 35 = 80 sweet treats. Each student will receive 80 / 20 = 4 sweet treats.
+The answer: 4
+Reverse engineering the question: Mr. Gardner bakes 20 cookies, 25 cupcakes, and 35 brownies for his second-grade class of 20 students. If he wants to give each student an equal amount of sweet treats, how many sweet treats will each student receive?
+
+Reasoning and answer: The most expensive lamp cost 20 * 3 = $60. So if Frank would pay for that lamp, he would leave himself with 90 - 60 = $30.
+The answer: 30
+What was the question?
+Question: Frank wants to buy a new lamp for his bedroom. The cost of the cheapest lamp is $20, and the most expensive in the store is 3 times more expensive. How much money would Frank have remaining, if he currently has $90, and he buys the most expensive lamp available?
+
+If b is the length of the body, h is the length of the head, and t is the length of the tail, we know that b + h + t = 30, h = b / 6 and t = b / 2. We can substitute the second two equations into the first equation to get b + b / 6 + b / 2 = 30. Now multiply both sides of this equation by 6: 6b + b + 3b = 180. Now combine like terms: 10b = 180. Now divide both sides by 10: b = 180. The dog's body is 18 inches long. Now divide that length by 2 to find the length of its tail: 18 inches / 2 = 9 inches.
+The answer: 9
+Reverse engineering the question: Jason's dog has a tail that's half the length of its body, and a head that's 1/6 the length of its body. If the dog is 30 inches long overall, how long is its tail?
+
+Reasoning and answer: First find the total amount Jackson still needs to collect: $1000 - $300 - $40 = $660. Then subtract the number of days he already worked from the number of workdays in the week to find how many more days he'll work: 5 days - 2 days = 3 days. Then divide the total amount he still needs to earn by the number of days he has to earn it to find how much he needs to earn per day: $660 / 3 days = $220 / day. Then find how much money he collects per house: $10 / 4 houses = $2.50 / house. Then divide the amount he needs to collect per day by the amount he collects per house to find how many houses he needs to visit per day: $220 / day / $2.50 / house = 88 houses / day.
+The answer: 88
+What was the question?
+Question: Jackson works 5 days a week going door-to-door collecting for charity. His goal is to raise $1000 for the week. He earned $300 on Monday and $40 on Tuesday. If he collects an average of $10 for every 4 houses he visits, how many houses will he have to visit on each of the remaining days of the week to meet his goal?
+
+Reasoning and answer: There are 4 * 7 = 28 days in those 4 weeks. That means he takes 28 / 2 = 14 showers. So he takes a total of 14 * 10 = 140 minutes of showers. So he uses 2 * 140 = 280 gallons of water.
+The answer: 280
+What was the question?
+Question:

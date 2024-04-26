@@ -1,0 +1,27 @@
+Instructions: Given a post that is a real-life anecdote of a complex ethical situation and an associated claim about its type, verify if the claim is true or not. The claim asks if the posts are historical or hypothetical. The posts are "HISTORICAL" when the author has already done something and they are "HYPOTHETICAL" when the author is considering doing something in the future. Say 'yes' if the claim is true otherwise say 'no'
+Input: CLAIM : The following post is HISTORICAL. POST : This happened last year, and I keep going back to it because I feel I could've handled this differently. 
+
+TL;DR - Had my bucket stolen, I took this guys bucket, he got mad and wanted to fight me, we threw some punches. 
+
+
+Last year I worked in concrete inspections. I have to take samples of concrete with a bucket and do my testing on them. I work at various job sites throughout the week, sometimes things go missing so I keep a stern eye on my things because workers like to take whatever they see lying around. 
+
+So I have 2 buckets, one is to collect the concrete and the other is for water for certain tests and to clean my equipment. Before the concrete truck arrived, I leave my buckets on the ground floor and I step away for a minute to talk to the general contractor. When I return I notice one of my buckets was missing. This is frustrating because I need that bucket to collect my sample, this $2 bucket is crucial. 
+
+So I decide to go look for my bucket, one of the workers informed me that he saw some of the guys take it to the 3rd floor. So I walk up there and see some guys working but I don't see my bucket. I see a bucket sitting on some plywood, it wasn't mine but I was frustrated and tired so I decided if they were going to take my bucket I'll just take theirs, no big deal right? Bucket for bucket. This bucket had some rolls of plans in them, so I take them out and set them to the side. 
+
+I take this bucket back downstair, the truck arrived and I take my sample. Some time passes by when I hear this man's voice in broken English go "Excuse me, boy, where did you get that bucket", I told him "I got it upstairs, one of your guys took my bucket so I took one back"
+
+This man go really fucking angry for no reason, I swear it was like I murdered his son. He goes "WHAT THE FUCK ARE YOU DOING TAKING MY SHIT, DUMP THAT SHIT OUT AND PUT IT BACK OR I'LL PUNCH YOUR FUCKING MOUTH"
+
+At this point I got a white flash of furry and replied "Fuck yourself you fucking cock sucker, you're going to take one of my buckets I'll take one of yours, get any fucking closer and I'll make you swallow your balls you bald fuck" (prime r/imabadass content)
+
+He then proceeds to push me to ground, I imedietly got back up, kneed him in the balls, kicked his hard hat off and started punching him in the back of his head. He was able to get back up and land a few punches on me. The workers 
+
+The GC came running and saw the whole thing. He told that guy to go home and asked me if I was ok. Apparently this isn't the first fight this man has gotten into on this job site. The GC told me not to worry, I'm not in any trouble, the guy was being a prick over a stupid bucket.
+
+
+I feel I could've handled that a whole lot differently
+
+AITA? 
+Output:

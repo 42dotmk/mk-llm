@@ -1,0 +1,19 @@
+Q: You are given a paragraph, with numbered sentences, and a question. Write the numbers of the sentences needed to answer the given question. Separate multiple sentence numbers with a comma (", "). E.g. "1, 2" would be the correct response if Sent 1 and Sent 2 are needed to answer the given question (do not include sentences that contain no information that is necessary to answer the question). Sort the sentence numbers in an increasing order (i.e., '1, 2', instead of '2, 1'). Your answer should not contain anything than the sentence numbers separated by a comma (e.g. '1, 2, 3, 4'). The given question requires more than one sentence to answer. So, your answer must contain at least one comma (", ").
+Paragraph- Sent 1: According to the radar reconstruction, American 77 reemerged as a primary target on Indianapolis Center radar scopes at 9:05, east of its last known position.
+Sent 2: The target remained in Indianapolis Center's airspace for another six minutes, then crossed into the western portion of Washington Center's airspace at 9:10.
+Sent 3: As Indianapolis Center continued searching for the aircraft, two managers and the controller responsible for American 77 looked to the west and southwest along the flight's projected path, not east-where the aircraft was now heading.
+Sent 4: Managers did not instruct other controllers at Indianapolis Center to turn on their primary radar coverage to join in the search for American 77.
+Sent 5: In sum, Indianapolis Center never saw Flight 77 turn around.
+Sent 6: By the time it reappeared in primary radar coverage, controllers had either stopped looking for the aircraft because they thought it had crashed or were looking toward the west.
+Sent 7: Although the Command Center learned Flight 77 was missing, neither it nor FAA headquarters issued an all points bulletin to surrounding centers to search for primary radar targets.
+Sent 8: American 77 traveled undetected for 36 minutes on a course heading due east for Washington, D.C. By 9:25, FAA's Herndon Command Center and FAA headquarters knew two aircraft had crashed into the World Trade Center.
+Sent 9: They knew American 77 was lost.
+Sent 10: At least some FAA officials in Boston Center and the New England Region knew that a hijacker on board American 11 had said "we have some planes."Sent 11: Concerns over the safety of other aircraft began to mount.
+Sent 12: A manager at the Herndon Command Center asked FAA headquarters if they wanted to order a "nationwide ground stop."Sent 13: While this was being discussed by executives at FAA headquarters, the Command Center ordered one at 9:25.
+Sent 14: The Command Center kept looking for American 77.
+Sent 15: At 9:21, it advised the Dulles terminal control facility, and Dulles urged its controllers to look for primary targets.
+Sent 16: At 9:32, they found one.
+Sent 17: Several of the Dulles controllers "observed a primary radar target tracking eastbound at a high rate of speed" and notified Reagan National Airport.
+Sent 18: FAA personnel at both Reagan National and Dulles airports notified the Secret Service. 
+Question: Which airplane went off the radar.
+A:

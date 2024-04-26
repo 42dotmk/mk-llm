@@ -1,0 +1,29 @@
+## question
+James gave the translators instructions intended to ensure that the new version would conform to the ecclesiology and reflect the episcopal structure of the Church of England and its belief in an ordained clergy. The translation was done by 47 scholars, all of whom were members of the Church of England. In common with most other translations of the period, the New Testament was translated from Greek, the Old Testament from Hebrew and Aramaic, and the Apocrypha from Greek and Latin. In the Book of Common Prayer (1662), the text of the Authorized Version replaced the text of the Great Bible for Epistle and Gospel readings (but not for the Psalter, which substantially retained Coverdale's Great Bible version) and as such was authorised by Act of Parliament.
+
+Answer this question based on the passage: who translated the king james bible to english?
+## answer
+To answer the above question, the relevant sentence is: The translation was done by 47 scholars, all of whom were members of the Church of England.
+So the answer must be 47 scholars
+
+## question
+The U.S. Constitution also provides for appointment of one of the elected Senators to serve as President pro tempore. This Senator presides when the vice president was absent from the body. The President pro tempore is selected by the body specifically for the role of presiding in the absence of (as the meaning of pro tempore, literally "for the time being") the actual presiding officer. By tradition, the title of President pro tempore has come to be given more-or-less automatically to the most senior senator of the majority party. In actual practice in the modern Senate, the President pro tempore also does not often serve in the role (though it is his or her constitutional right to do so), instead, as governed by the aforementioned Rule I, he or she frequently designates a junior senator to perform the function.
+
+Answer this question based on the passage: who is the backup leader of the senate?
+## answer
+The relevant information is: The President pro tempore is selected by the body specifically for the role of presiding in the absence of (as the meaning of pro tempore, literally "for the time being") the actual presiding officer.
+So the answer must be The President pro tempore
+
+## question
+Context: The 1980 Summer Olympics boycott was one part of a number of actions initiated by the United States to protest the Soviet invasion of Afghanistan. The Soviet Union, which hosted the 1980 Summer Olympics, and other countries would later boycott the 1984 Summer Olympics in Los Angeles.
+
+Question: which military action led to us boycott the 1980 olympics?
+## answer
+To answer the question, consider the following: The 1980 Summer Olympics boycott was one part of a number of actions initiated by the United States to protest the Soviet invasion of Afghanistan.
+So the answer must be the Soviet invasion of Afghanistan
+
+## question
+Plastic boards are usually called PE (polyethylene) cutting boards, or HDPE (high-density polyethylene plastic), the material of which these boards are made. There are basically two types of HDPE boards being made. One version is made from injection-molded plastic, while the other is HDPE from an extrusion line.
+
+Based on this passage, what type of plastic are cutting boards made from?
+## answer

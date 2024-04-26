@@ -1,0 +1,27 @@
+Reasoning and answer: The first station Tara stops at charges $3 for a gallon of gas, so for her 12 - gallon tank she spends 12 * 3 = 36 dollars. The second station Tara stops at charges $3.50 for a gallon of gas, so for her 12 - gallon tank she spends 12 * 3.5 = 42 dollars. The third station Tara stops at charges $4 for a gallon of gas, so for her 12 - gallon tank she spends 12 * 4 = 48 dollars. The fourth station Tara stops at charges $4.50 for a gallon of gas, so for her 12 - gallon tank she spends 12 * 4.5 = 54 dollars. Now that we know all the individual amounts, we add 36 + 42 + 48 + 54 = 180 dollars in gas in total.
+The answer: 180
+What was the question?
+Question: Tara's taking a road trip for the weekend. She drives for two days, stopping to fill up her gas tank each time from empty to full when she needs it. She visits 4 different gas stations in total, with the price of gas being $3, $3.50, $4, and $4.50 respectively at each. If Tara's car has a 12-gallon tank, how much does she spend on gas for her road trip?
+
+Luke takes 5 * 120 = 600 grape jelly beans, five times the vanilla jelly beans there are?. Luke's total number of grape jelly beans is fifty more than five times the number of vanilla jelly beans, a total of 600 + 50 = 650. In total, there are 650 + 120 = 770 jelly beans.
+The answer: 770
+Reverse engineering the question: Luke takes fifty more than five times as many grape jelly beans as vanilla jelly beans. If there are 120 vanilla jelly beans, how many jelly beans are there in total?
+
+Reasoning and answer: Mary ran 3 / 8 x 24 = 9 kilometers. Edna ran 2 / 3 x 9 = 6 kilometers. Lucy ran 5 / 6 x 6 = 5 kilometers. Lucy should run 9 - 5 = 4 kilometers more.
+The answer: 4
+What was the question?
+Question: Mary, Edna, and Lucy are athletes who train every Saturday. Mary ran 3/8 of a 24-kilometer field on one Saturday. Edna ran 2/3 of the distance of Edna, and Lucy ran 5/6 of the distance of Edna. How many more kilometers should Lucy run to cover the same distance as Mary?
+
+The rares cost 19 * 1 = $19. The uncommon cards cost 11 * .5 = $5.5. The commons cost 30 * .25 = $7.5. So the total cost 19 + 5.5 + 7.5 = $32.
+The answer: 32
+Reverse engineering the question: Tom plays an online trading card game. His deck has 19 rare cards, 11 uncommon, and 30 commons. The rare cards cost $1, the uncommon are $.50, and the commons are $.25 each. How much did his deck cost?
+
+Reasoning and answer: Puppies = 4 * 7.5 = 30 kg. Cats = 14 * 2.5 = 35 kg. 35 - 30 = 5. The cats weigh 5 kg more than the puppies.
+The answer: 5
+What was the question?
+Question: Hartley has 4 puppies that each weigh 7.5 kilograms. The rescue center has 14 cats that each weigh 2.5 kilograms. How many kilograms more do the cats weigh than the puppies?
+
+Reasoning and answer: Let x be the score that William needs to achieve. Since there are 30 people in the class, there are 30 - 1 = 29 people without him. Since their average was a 74%, this means that (29 * 74 + x) / 30 > = 75. Thus, 29 * 74 + x > = 30 * 75. Thus, 29 * 74 + x > = 2250. Thus, 2146 + x > = 2250. Thus, x > = 2250 - 2146. Thus, x > = 94.
+The answer: 94
+What was the question?
+Question:

@@ -1,0 +1,19 @@
+Question: Passage: "Ca n't Help Falling in Love" is a pop ballad originally recorded by American singer Elvis Presley and published by Gladys Music, Presley's publishing company. It was written by Hugo Peretti, Luigi Creatore, and George David Weiss. The melody is based on "Plaisir d'amour", a popular romance by Jean-Paul-Égide Martini (1784). The song was featured in Presley's 1961 film, Blue Hawaii. During the following four decades, it was recorded by numerous other artists, including Tom Smothers, Swedish pop group A-Teens, and the British reggae group UB40, whose 1993 version topped the U.S. and UK charts.
+
+Question: Based on this passage, who wrote song i can't help falling in love with you?
+Answer: To answer the above question, the relevant sentence is: It was written by Hugo Peretti, Luigi Creatore, and George David Weiss. The answer is Hugo Peretti , Luigi Creatore , and George David Weiss.
+
+Question: Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States of America. Founded after the American Revolution as the seat of government of the newly independent country, Washington was named after George Washington, first President of the United States and Founding Father. Washington is the principal city of the Washington Metropolitan Area, which has a population of 6,131,977. Washington is described as the political Capital of the World, owing to its status as the seat of the United States Federal Government and numerous international institutions, such as the World Bank and International Monetary Fund. Washington is one of the most visited cities in the world, with more than 20 million annual tourists.
+
+Based on this passage, what is the full form of wasington d.c?
+Answer: To answer the question, consider the following: Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States of America. The answer is the District of Columbia.
+
+Question: The name "dot product" is derived from the centered dot ``" that is often used to designate this operation; the alternative name "scalar product" emphasizes that the result is a scalar, rather than a vector, as is the case for the vector product in three-dimensional space.
+
+Based on this passage, the dot product of two vectors results in a?
+Answer: To answer this question, we should know that: " that is often used to designate this operation; the alternative name "scalar product" emphasizes that the result is a scalar, rather than a vector, as is the case for the vector product in three-dimensional space. The answer is a scalar.
+
+Question: Context: A total of 113 Justices have served on the Supreme Court of the United States, the highest judicial body in the United States. Justices have life tenure, and so they serve until they die in office, resign or retire, or are impeached and removed from office (which has never happened; the one impeached Justice was acquitted). Among the current members of the Court, Associate Justice Anthony Kennedy is the longest-serving justice, with a tenure of 7004110440000000000 ♠ 11,044 days (7004110440000000000 ♠ 30 years, 86 days) as of May 15, 2018. For the 104 non-incumbent justices, the mean length of service was 6,112 days (16.7 years) with a standard deviation of 3,620 days (9.9 years). The median length of service was 5,740 days (15.7 years). Their period of service ranges from William O. Douglas's 13,358 days (7004133580000000000 ♠ 36 years, 209 days) on the Court to the 163-day tenure of Thomas Johnson.
+
+Question: who is the longest serving justice currently on the supreme court?
+Answer:

@@ -1,0 +1,19 @@
+You will be given a definition of a task first, then some input of the task.
+Given a real-life anecdote of a complex ethical situation, generate a suitable title that describes the main event/root cause of the situation. Imagine that the given text is a social media post, and you have to write the title of the post, so the users can decide to read the main text or not.
+
+My girlfriend and I are both liberal in almost every sense of the word.  We have never disagreed about anything you could call a political issue.  
+
+I've always been more reserved in expressing my political opinions for a lot of reasons (some for professional reasons, but mostly because it's never comfortable).  
+
+For the last two years, for obvious reasons, politics had become a bigger part of our daily life than I'm okay with.  So I tend to not respond to her attempts to start conversation, or I politely (as politely as I can) tell her I'm not in the mood to talk about it.  She knows it makes me angry and uncomfortable and if it's all the same I'd rather leave it out of my day. 
+
+Things came to a head tonight when she convinced me to watch the Netflix documentary "Get Me Roger Stone" and I couldn't finish it.  I was getting too angry, I've got work tomorrow, I can't be dwelling on things like this while I'm trying to run a small business.  
+
+To her credit, she said she understood and was happy to switch it to something else.
+
+But when I mentioned, in passing, that I was recommending the doc to my mother (who has the same views and outspokenness of my girlfriend), she began to start the same usual rant about the state of things and was upset I didn't finish it.  I politely told her I still wasn't in the mood to talk about it but wanted to share that I was passing along her recommendation to my mom.  She got pretty upset, telling me that it was important for people to be politically aware, and that, since her entire family are far right wing, I am the only person she can talk to about this.  I told her I was aware, but didn't want that awareness to derail the little free time I have, especially with her, and wanted to stay in a good mood.  And that there's no use in discussing if it's just to an echo chamber.  We'd be angrily agreeing with each other for hours.  And that I didn't appreciate her insinuation that I was blissfully and intentionally ignorant to what's been going on for the sake of my own comfort, I just didn't want to talk about it.
+
+She lost her cool and stormed off, because she was getting angry and uncomfortable, even though I was willing to keep discussing it, at least to explain where I was coming from.  I didn't want to point out the irony in any of that, because that might have made me the asshole.  And I was happy the topic was being dropped.  But now we're sharing an awkward silence and I'm worried that I may be selfish and calloused to her needs due to the discomfort that usually prevents my own family taking about political or religious topics.  Or that I'm selfish in considering my own comfort over her's.  But nobody's comfortable getting increasingly upset about this kind of stuff, even if it is an echo chamber. 
+
+Am I the asshole?
+Output:

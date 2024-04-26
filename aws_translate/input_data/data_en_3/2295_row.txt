@@ -1,0 +1,27 @@
+Reasoning and answer: To carry 17 objects, three at a time, it takes 17 / 3 = 5 and 2 / 3 loads. This calculation means that she takes 5 trips carrying 3 objects per trip, and then she takes one additional trip carrying only two objects. Thus, in reality, she takes 5 + 1 = 6 trips to the surface.
+The answer: 6
+What was the question?
+Question: Gretchen is a scuba diver. She likes to hunt for treasure on the ocean's floor, but when she finds something to keep, she must carry it back to the surface of the water to give it to her shipmate on the boat. She can only carry 3 objects at a time while she swims underwater. If she finds 17 objects underwater, what is the fewest number of trips to the surface of the water she must take to carry all 17 objects to the boat?
+
+The volume of 1 iron bar is 12 cm x 8 cm x 6 cm = 576 cubic cm. The volume of 10 iron bars is 10 x 576 cubic cm = 5760 cubic cm. Therefore, there are 5760 / 8 = 720 iron balls that have been molded.
+The answer: 720
+Reverse engineering the question: An iron bar measures 12 cm by 8 cm by 6 cm. A factory wants to melt ten iron bars and mold them into iron balls. Each iron ball has a volume of 8 cubic cm. How many iron balls have been molded?
+
+Reasoning and answer: Violet has 27 - 3 = 24 nails, twice the number of nails that Tickletoe has. Therefore, Tickletoe has 1 / 2 * 24 = 12 nails. Together, Tickletoe and Violet have 12 + 27 = 39 nails.
+The answer: 39
+What was the question?
+Question: Violet has 3 more than twice as many nails as Tickletoe. If Violet has 27 nails, how many nails do they have together?
+
+If the bananas Charles cooked were 3 times the number of pears he picked, then Charles cooked 3 * 50 = 150 bananas. Since all the dishes that Sandrine washed were 10 more than the number of bananas Charles cooked, Sandrine washed 150 + 10 = 160 dishes.
+The answer: 160
+Reverse engineering the question: The number of dishes Sandrine washed was 10 more than the number of bananas Charles cooked. Also, the number of bananas Charles cooked was 3 times the number of pears he picked. If Charles picked 50 pears, how many dishes did Sandrine wash?
+
+Reasoning and answer: There were a total of 30 x 100 = 3000 tickets ordered by the school organizers. The 4th graders bought 3000 x 30 / 100 = 900 tickets. So, there were 3000 - 900 = 2100 tickets left for the other two grade levels. The 5th graders bought 2100 x 50 / 100 = 1050 tickets. So, 2100 - 1050 = 1050 tickets were left then. Since 100 tickets were bought by the 6th graders, therefore 1050 - 100 = 950 tickets were left unsold.
+The answer: 950
+What was the question?
+Question: For the funfair, the school organizers ordered 30 rolls of tickets. Each roll of tickets has 100 tickets. The 4th graders bought 30% of the tickets while the 5th graders bought 50% of the remaining tickets. Then the 6th graders bought a total of 100 tickets. How many tickets were left unsold?
+
+Reasoning and answer: The second present needs 3 / 4 * 2 = 1 1 / 2 square feet of wrapping paper. The third present needs 2 + 1 1 / 2 = 3 1 / 2 square feet of wrapping paper. Therefore, Carrie needs 2 + 1 1 / 2 + 3 1 / 2 = 7 square feet of wrapping paper for all three presents.
+The answer: 7
+What was the question?
+Question:

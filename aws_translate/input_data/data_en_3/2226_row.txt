@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: Samuel Francis Smith wrote the lyrics to "My Country' Tis of Thee" in 1831, while he was a student at the Andover Theological Seminary in Andover, Massachusetts. His friend Lowell Mason had asked him to translate the lyrics in some German school songbooks or to write new lyrics. A melody in Muzio Clementi's Symphony No. 3 (also called' The Great National' and contains the melody of' God Save the Queen' as a tribute to Clementi's adopted country) caught his attention. Rather than translating the lyrics from German, Smith wrote his own American patriotic hymn to the melody, completing the lyrics in thirty minutes.
+
+Question: Based on this passage, when was the song my country tis of thee written?
+
+Stream of random thoughts: The relevant information is: Samuel Francis Smith wrote the lyrics to "My Country' Tis of Thee" in 1831, while he was a student at the Andover Theological Seminary in Andover, Massachusetts.... The answer is 1831.
+----
+Answer this question please:
+Cheaper by the Dozen is a semi-autobiographical novel written by Frank Bunker Gilbreth, Jr. and Ernestine Gilbreth Carey, published in 1948. The novel recounts the authors' childhood lives growing up in a household of 12 kids. The bestselling book was later adapted into a feature film by Twentieth Century Fox in 1950 and followed up by the sequel, Belles on Their Toes (1950), which was adapted as a 1952 film.
+
+Who wrote the book cheaper by the dozen?
+
+Stream of random thoughts: The relevant sentence in the passage is: Cheaper by the Dozen is a semi-autobiographical novel written by Frank Bunker Gilbreth, Jr. and Ernestine Gilbreth Carey, published in 1948.... The answer is Frank Bunker Gilbreth , Jr. and Ernestine Gilbreth Carey.
+----
+Answer this question please:
+The movie was filmed in south-east Queensland, Australia utilising a huge, authentic recreation of a prisoner of war camp. In addition, numerous local Asian students were employed to play Japanese soldiers.
+
+Where was the movie the great raid filmed?
+
+Stream of random thoughts: The relevant sentence in the passage is: The movie was filmed in south-east Queensland, Australia utilising a huge, authentic recreation of a prisoner of war camp.... The answer is south - east Queensland , Australia utilising a huge , authentic recreation of a prisoner of war camp.
+----
+Answer this question please:
+Law & Order is an American police procedural and legal drama television series, created by Dick Wolf and part of the Law & Order franchise. It originally aired on NBC and, in syndication, on various cable networks. Law & Order premiered on September 13, 1990, and completed its 20th and final season on May 24, 2010. At the time of its cancellation, Law & Order was the longest-running crime drama on American primetime television. Its record of 20 seasons is a tie with Gunsmoke (1955 -- 75) for the longest-running live-action scripted American prime-time series with ongoing characters. Although it has fewer episodes than Gunsmoke, Law & Order ranks as the longest-running hour-long primetime TV series. Gunsmoke, for its first six seasons, was originally a half-hour program.
+
+Based on this passage, when did the show law and order start?
+

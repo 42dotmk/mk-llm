@@ -1,0 +1,29 @@
+Given the task definition and input, reply with output. In this task, you are given a text of many news articles seperated by special token "|||||". Your task is to summarize them.
+
+The Trump administration called on the U.S. Supreme Court to let bakers and potentially other wedding vendors to refuse on free-speech grounds to provide services for same-sex ceremonies. 
+  
+ Taking a side in one of the most hotly contested cases of the upcoming term, the administration urged the court to scale back Colorado’s equal-access law so that baker Jack Phillips isn’t forced to "create expression" against his will and his religious beliefs. The brief argues that his free-speech rights outweigh the state’s interest in preventing discrimination in commercial transactions. The court is set to hear arguments, probably in late November or early December. ||||| House and Senate Republicans are throwing their support behind the owner of a Colorado cake shop who refused to make a cake for a same-sex wedding in a case headed to the Supreme Court. 
+  
+ GOP lawmakers announced plans Thursday to send an amicus brief on behalf of Jack Phillips, the owner of Masterpiece Cakeshop. 
+  
+ Phillips is challenging whether the state can force him to bake a cake for a same-sex wedding under its public accommodations law, arguing that his constitutional rights to freedom of speech and the free exercise of religion are violated if he is required to make a wedding cake for Charlie Craig and David Mullins's marriage. 
+  
+ The amicus brief, which has 86 signatures so far, will be filed with the court in the coming days. 
+  
+ ADVERTISEMENT 
+  
+ The lawmakers claim the government is trying to tell Phillips how to exercise his artistic expression and send a message that contradicts his deeply held beliefs. 
+  
+ “As a matter of legal doctrine this is a compelled speech case,” said Sen. Mike Lee Michael (Mike) Shumway LeeTrump court decision energizes White House Will Trump get his Bork on the Supreme Court? Pence met with several Supreme Court hopefuls: report MORE (R-Utah), one of the co-signers, told reporters in the lawn of the Capitol Thursday morning. 
+  
+ “The Supreme Court has said the First Amendment, in addition to doing all the other things that it does, prohibits the government from requiring individuals to make a particular statement with which they disagree. The government cannot force you to speak where you would choose to remain silent. It cannot make a statement with which you firmly fundamentally disagree. These are foundational pillars of the American legal system and our Constitution.” 
+  
+ Phillips, who will appear before the Supreme Court later this term, said he has lost 40 percent of his business and most of his staff for standing up for what he believes. 
+  
+ His attorney, Kristen Waggoner, senior counsel at the Alliance Defending Freedom, said Phillips should be able to retain his right to disagree and live consistent with his convictions. 
+  
+ “We know tolerance is a two-way street and dignity cuts both ways,” she said. “We need to protect the right of all Americans to live and work consistent with their religious beliefs and not force creative professions to create visual art that violates who they are.” 
+  
+ The Colorado Civil Rights Division, which is named in the suit along with the couple that was denied the cake, said in briefs there was no discussion between Phillips and the couple about what the cake should actually look like. 
+  
+ “Petitioners acted not based on the design of the requested cake or the message it might have conveyed, but based on a blanket policy of refusing to sell a wedding cake of any kind to any same-sex couple,” it said. |||||

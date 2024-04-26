@@ -1,0 +1,18 @@
+Passage: In the emblem adopted by Madhav Sawhney in 1950, only three lions are visible, the fourth being hidden from view. The wheel appears in relief in the centre of the abacus, with a bull on the right and a galloping horse on the left, and outlines of Dharma Chakras on the extreme right and left. The bell-shaped lotus beneath the abacus has been omitted.
+
+Question: Based on this passage, which animal appears on the left side of the abacus on the national emblem of india? Let's do a good job answering this.
+--
+Stream of consciousness: To answer the above question, the relevant sentence is: The wheel appears in relief in the centre of the abacus, with a bull on the right and a galloping horse on the left, and outlines of Dharma Chakras on the extreme right and left.... The answer is a galloping horse.
+
+
+The Communist Party of Canada (French: Parti communiste du Canada, CPC / PCC) is a communist political party in Canada founded in 1921 under conditions of illegality. Although it is now a political party without any elected political representation, the party's candidates have been elected to the Parliament of Canada, the Ontario legislature, the Manitoba legislature, and various municipal governments across the country. The party has also contributed significantly to trade union organizing and labour history in Canada, peace and anti-war activism, and many other social movements.
+
+Answer this question: when was the communist party of canada formed? Let's do a good job answering this.
+--
+Stream of consciousness: The important part for answering this question is: The Communist Party of Canada (French: Parti communiste du Canada, CPC / PCC) is a communist political party in Canada founded in 1921 under conditions of illegality.... The answer is 1921.
+
+
+A game called hockey was played in English public schools in the early 19th century. Lord Lytton wrote in 1853 that On the common some young men were playing at hockey. That old-fashioned game, now very uncommon in England, except at schools ... Hockey's popularity increased with that of other team games. A version of the game played in south-east London was rougher than the modern version, played on a very large field (247m by 64m), and used a cube of black rubber and rough planed sticks. The modern game was developed on the other side of London by Middlesex cricket clubs, especially Teddington Hockey Club. The members of these clubs were looking for winter exercise, but did not particularly care for football. In 1870, members of the Teddington cricket club, who had recently moved to play in Bushy Park, were looking for a winter activity. They experimented with a' stick' game, based loosely on the rules of association football. Teddington played the game on the smooth outfield of their cricket pitch and used a cricket ball, so allowing smooth and predictable motion. By 1874 they had begun to draw up rules for their game, including banning the raising of the stick above shoulder height and stipulating that a shot at goal must take place within the circle in front of it. An association was formed in 1875, which dissolved after seven years, but in 1886 the Hockey Association was formed by seven London clubs and representatives from Trinity College, Cambridge. Blackheath were one of the founder members, but refused to accept the rules drawn up by the other clubs and left to found the National Hockey Union. The Union failed, but the Association grew rapidly.
+
+Answer this question: where is first hockey club set up in world? Let's do a good job answering this.
+--

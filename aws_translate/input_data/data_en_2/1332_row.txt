@@ -1,0 +1,39 @@
+Instructions: In this task, you are given a Reddit post as a text. Your task is to generate a short summary for this text. The summary must include a situation which caused humor. The summary should be one or two sentences long.
+Input: Text: mandatory "this actually happened about a year ago, blah blah." disclaimer.
+
+edit: didn't format the first time i posted oops.
+
+now i used to be able to handle my smoke. i'm a total light weight when it comes to alcohol, but weed i could do no problem...few bowls and all that happens is i pass out in front of rick and morty for the night.
+
+but i never really smoked too often...just every so often when my bf would buy a little from his friend. 
+
+so when my boss goes on a trip to colorado and brings our team back some edibles, i'm all about that shit.
+
+i had never tried edibles before but had heard a ton of horror stories, so i decided to be smart about this: "let's only eat half and wait a couple hours!" i think to myself. "i'm so smart!"
+
+first fuck up: this edible is candy. i now know that candy edibles are the worst to try for your first time, most likely because it's difficult to discern exactly where the thc is most concentrated. 
+
+such was the case with my first edible: it was a lollipop with the thc concentrated in the very center. the freaking packaging neglects to say so, but does mention that the thc dosage is right for a "frequent/habitual user", so being a every-once-in-a-while smoker, i won't need much to lift off.
+
+so my dumb ass sits down on my couch and sucks on the stupid candy for a few minutes until the sucker looks like it's about half the size it was originally. 
+
+shit was caramel apple flavored...fucking delicious.
+
+"brilliant!" i think. "look at me being a responsible drug user, dosing myself out and shit." i start playing the sims and wait for the fun to begin.
+
+two hours go by, and i feel nothing. "well shit," i think, "this sucker must be shit...i barely smoke and this isn't even a buzz. might as well eat the rest of this thing!"
+
+another hour goes by and i'm still feeling pretty normal, just playing my game. 
+
+second fuck up: i stand up to pee. the second my knees lock, i'm in the fucking aether. my legs sort of give out and i'm now sitting back on the couch, helplessly needing to pee as my couch travels through space and time and light at roughly the same speed as a freight train. 
+
+i don't remember much after this, other than me trying to crawl up the stair to the bathroom so i can freaking pee, and feeling like i'm going to spill the contents of my skull if i don't crawl with my head completely still. i found myself in the bathtub a couple hours later, the tub drained and me laughing at my blank phone screen.
+
+after about six hours, i finally got down to a "comfortable" level of high, and was able to fall asleep.
+
+next morning, i wake up still a bit buzzed, go to work, and tell my boss about it ...she calls me a dumb ass and laughs her ass off.
+
+also, at some point i apparently googled "how high is too high", as evidenced by that night's browser history. 
+
+ever since, i can't take a single hit without lapsing into an anxious, paranoid mess. whoops.
+Output:

@@ -1,0 +1,36 @@
+Ans: guitarist Daron Malakian
+Ques: "Lonely Day" is the second single from the 2005 album Hypnotize by Armenian American metal band System of a Down. It was written by guitarist Daron Malakian, who also provides lead vocals on the track. The song received a nomination for Best Hard Rock Performance at the 49th Annual Grammy Awards.
+
+Answer this question: who sings lonely day system of a down?
+CoT: The important part for answering this question is: It was written by guitarist Daron Malakian, who also provides lead vocals on the track.
+
+
+Answer: opposed the American Civil War and wanted an immediate peace settlement with the Confederates. Now, what could be the question and solution-maybe?
+Ques: In the 1860s, the Copperheads were a vocal faction of Democrats in the Northern United States of the Union who opposed the American Civil War and wanted an immediate peace settlement with the Confederates.
+
+Answer this question based on the passage: what was the copperheads position on fighting the war?
+CoT: To answer the above question, the relevant sentence is: In the 1860s, the Copperheads were a vocal faction of Democrats in the Northern United States of the Union who opposed the American Civil War and wanted an immediate peace settlement with the Confederates.
+
+
+Ans: Rachael MacFarlane
+Ques: Chad Coleman as Klyden, Bortus' mate and father of their child. He first appears at the end of the series' second episode. Norm Macdonald as the voice of Yaphit, an amorphous, gelatinous Engineering crew member of the Orville, who in his first few appearances, repeatedly attempts to obtain a date with Dr. Finn, and frequently flirts with other females on the ship. Larry Joe Campbell as Lieutenant Commander Steve Newton, Chief Engineer of the Orville. Rachael MacFarlane as the voice of the Orville computer.
+
+Answer this question: whose voice is the robot on the orville?
+CoT: To answer the above question, the relevant sentence is: Rachael MacFarlane as the voice of the Orville computer.
+
+
+Ans: Holes
+Ques: Passage: Holes is a 1998 young adult mystery comedy novel written by Louis Sachar and first published by Farrar, Straus and Giroux. The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft. The plot explores the history of the area and how the actions of several characters in the past have affected Stanley's life in the present. These interconnecting stories touch on themes such as racism, homelessness, illiteracy, and arranged marriage.
+
+Question: Based on this passage, what children's book was set in camp green lake texas?
+CoT: To answer the above question, the relevant sentence is: The book centers around an unlucky teenage boy named Stanley Yelnats, who is sent to Camp Green Lake, a juvenile corrections facility in a desert in Texas, after being falsely accused of theft.
+
+
+Answer: T - Mobile Arena on the Las Vegas Strip in Paradise , Nevada. Now, what could be the question and solution-maybe?
+Ques: Context: The Vegas Golden Knights are an ice hockey team based in the Las Vegas metropolitan area. The team began play in the 2017 -- 18 NHL season, and is a member of the Pacific Division of the Western Conference of the National Hockey League (NHL). The team is owned by Black Knight Sports & Entertainment, a consortium led by Bill Foley and the Maloof family. The team plays its home games at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada.
+
+Question: where do the golden knights hockey team play?
+CoT: The relevant sentence in the passage is: The team plays its home games at T-Mobile Arena on the Las Vegas Strip in Paradise, Nevada.
+
+
+Ans: Alfonso Lincoln Ribeiro Sr.

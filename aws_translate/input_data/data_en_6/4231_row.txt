@@ -1,0 +1,29 @@
+## question
+Context: Long Walk to Freedom is an autobiographical work written by South African President Nelson Mandela, and first published in 1994 by Little Brown & Co. The book profiles his early life, coming of age, education and 27 years in prison. Under the apartheid government, Mandela was regarded as a terrorist and jailed on the infamous Robben Island for his role as a leader of the then-outlawed ANC. He later achieved international recognition for his leadership as president in rebuilding the country's once segregated society. The last chapters of the book describe his political ascension, and his belief that the struggle still continued against apartheid in South Africa.
+
+Question: whose autobiography has the title a long walk to freedom?
+## answer
+To answer this question, we should know that: Long Walk to Freedom is an autobiographical work written by South African President Nelson Mandela, and first published in 1994 by Little Brown & Co.
+So the answer must be South African President Nelson Mandela
+
+## question
+Context: There are currently 41 active-duty four-star officers in the uniformed services of the United States: 11 in the Army, 4 in the Marine Corps, 9 in the Navy, 14 in the Air Force, 2 in the Coast Guard, and 1 in the Public Health Service Commissioned Corps. Of the seven federal uniformed services, the National Oceanic and Atmospheric Administration Commissioned Officer Corps is the only service that does not have an established four-star position.
+
+Question: how many 4 star generals are there in the us army?
+## answer
+The relevant sentence in the passage is: There are currently 41 active-duty four-star officers in the uniformed services of the United States: 11 in the Army, 4 in the Marine Corps, 9 in the Navy, 14 in the Air Force, 2 in the Coast Guard, and 1 in the Public Health Service Commissioned Corps.
+So the answer must be 11
+
+## question
+Context: The fifth season of Shameless, an American comedy-drama television series based on the award-winning British series of the same name by Paul Abbott, premiered on January 11, 2015 on the Showtime television network. Executive producers are John Wells, Paul Abbott and Andrew Stearn, and producer Michael Hissrich. Like all previous seasons, the season consisted of 12 episodes.
+
+Question: when did season 5 of shameless come out?
+## answer
+The relevant information to answer the above question is: The fifth season of Shameless, an American comedy-drama television series based on the award-winning British series of the same name by Paul Abbott, premiered on January 11, 2015 on the Showtime television network.
+So the answer must be January 11 , 2015
+
+## question
+Passage: The solar wind is a stream of charged particles released from the upper atmosphere of the Sun, called the corona. This plasma consists of mostly electrons, protons and alpha particles with kinetic energy between 0.5 and 10 keV. Embedded within the solar-wind plasma is the interplanetary magnetic field. The solar wind varies in density, temperature and speed over time and over solar latitude and longitude. Its particles can escape the Sun's gravity because of their high energy resulting from the high temperature of the corona, which in turn is a result of the coronal magnetic field.
+
+Question: Based on this passage, what is made up of charged particles that continually escape from the corona?
+## answer

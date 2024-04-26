@@ -1,0 +1,22 @@
+Student A:Passage: Donald Andrew "Don" Novello (born January 1, 1943) is an American writer, film director, producer, actor, singer and comedian. He is best known for his work on NBC's Saturday Night Live from 1979-1980, and again from 1985 -- 86, often as the character Father Guido Sarducci. He appeared as Sarducci in the video of Rodney Dangerfield's "Rappin' Rodney", and on many subsequent television shows, including Married ... with Children, Blossom, It's Garry Shandling's Show, Unhappily Ever After, Square Pegs and The Colbert Report.
+
+Question: Based on this passage, who played guido sarducci on saturday night live?
+Student B:OK... This is the relevant information: He is best known for his work on NBC's Saturday Night Live from 1979-1980, and again from 1985 -- 86, often as the character Father Guido Sarducci.
+Donald Andrew `` Don '' Novello.
+
+Student A:Gremlins was released into North American theaters on June 8, 1984, the same day as Ivan Reitman's Ghostbusters. Gremlins ranked second, with $12.5 million in its first weekend, $1.1 million less than Ghostbusters. By the end of its American screenings on November 29, it had grossed $148,168,459 domestically. This made it the fourth highest-grossing film of the year, behind Beverly Hills Cop, Ghostbusters, and Indiana Jones and the Temple of Doom. In August 1984, it opened in Argentina and Spain, and in October it premiered in West Germany. Screenings began in Mexico, Australia, and much of the rest of Europe in December. Since Gremlins had an international audience, different versions of the film were made to overcome cultural barriers. Mandel learned to speak his few intelligible lines, such as "Bright light!", in various languages, including German. Regional music and humor were also incorporated into foreign-language versions. Dante credited this work as being one of the factors which helped to make Gremlins a worldwide success. However, many critics questioned the summer release date of the film in America, as the film takes place during the Christmas holiday season, causing them to comment that it should have had a Christmas release date instead.
+
+Answer this question: when did the first gremlins movie come out?
+Student B:OK... This is the relevant information: Gremlins was released into North American theaters on June 8, 1984, the same day as Ivan Reitman's Ghostbusters.
+June 8 , 1984.
+
+Student A:Article 66 of the Indian Constitution states the manner of election of the Vice-President. The Vice-President is elected indirectly by members of an electoral college consisting of the members of both Houses of Parliament in accordance with the system of Proportional Representation by means of the Single transferable vote and the voting is by secret ballot conducted by election commission.
+
+Based on this passage, who vote for the election of vice president of india?
+Student B:OK... To answer this question, we should know that: The Vice-President is elected indirectly by members of an electoral college consisting of the members of both Houses of Parliament in accordance with the system of Proportional Representation by means of the Single transferable vote and the voting is by secret ballot conducted by election commission.
+members of an electoral college consisting of the members of both Houses of Parliament.
+
+Student A:The Surface Book 2 is a 2-in-1 PC designed and produced by Microsoft, part of the company's Surface line of personal computing. It was unveiled on October 17, 2017 and released on November 16, 2017. Starting on November 9, one week prior to the release date, consumers were able to place a pre-order through Microsoft's website. It succeeds the Surface Book released in October 2015.
+
+When will microsoft surface book 2 be released?
+Student B:

@@ -1,0 +1,25 @@
+There are 5 x 1 / 2 = 10 halves of burgers made from 5 whole burgers. Era's first and second friends got 1 + 2 = 3 slices together. Her third and fourth friends got 3 + 3 = 6 slices together. Era's four friends got 3 + 6 = 9 slices. So, Era is left with 10 - 9 = 1 slice.
+The answer: 1
+Reverse engineering the question: Era had 5 burgers for her and her 4 friends. She sliced each burger into halves. The first and second friends got 1 and 2 slices, respectively. Then the third and fourth friends got 3 slices each. How many slices of burgers are left for Era?
+
+Reasoning and answer: She needs a set of sheers that cost $40.00 and a set of drapes that cost $60.00 per window so that will cost her 40 + 60 = $100.00. She had 3 windows she needs window treatments for they cost her $100.00 each so 3 * 100 = $300.00.
+The answer: 300
+What was the question?
+Question: Laura needs to buy window treatments for 3 windows in her house. She will need to buy a set of sheers and a set of drapes for each window. The sheers cost $40.00 a pair and the drapes cost $60.00 a pair. How much will the window treatments cost?
+
+On the first day, she walks 200 + 300 = 500 steps. The next day she walks twice the steps, which is 2 * 500 = 1000. The total number of steps after the two days are 1000 + 500 = 1500. On the third day, she walks an additional 100 steps, bringing the three - day total to 1500 + 100 = 1600 steps.
+The answer: 1600
+Reverse engineering the question: Eliana walked 200 steps for her morning exercise, did some press-ups, then added some 300 more steps to her count for the first day. The next day, she walked twice the number of steps she walked on the first day. And on the third day, Eliana walked an additional 100 steps. What's the total number of steps Eliana walked during these three days?
+
+Reasoning and answer: Kevin begins the day with 15 phones and repairs 3 by the afternoon, so Kevin still has to repair 15 - 3 = 12 phones. A client drops off 6 additional phones that require fixing, increasing the total to 12 + 6 = 18 phones. If Kevin's coworker helps Kevin fix half of the phones, then each person needs to fix 18 / 2 = 9 phones.
+The answer: 9
+What was the question?
+Question: Kevin repairs phones at his job. At the beginning of the day, Kevin has 15 phones that need to be repaired. By the afternoon, Kevin has successfully repaired 3 of the 15 phones and a client has dropped off 6 more phones that need fixing. If a coworker of Kevin's offers to help him and fix half of the damaged phones, how many phones will each person need to repair?
+
+First, we need to determine how many hours Jill studied in total. To find this out, we begin by performing 2 * 2 = 4 hours spent on day two, double what she spent on day 1. Next, we perform 4 - 1 = 3 hours to determine the amount she studied on the third day. We then add 2 + 4 + 3 = 9 hours spent in total across 3 days. Since there are 60 minutes in an hour, she studied 9 * 60 = 540 minutes in total.
+The answer: 540
+Reverse engineering the question: Jill has a difficult test to study for. She decides to study one day for 2 hours. The next day she doubles this amount, and the day after that she studies one hour less than the previous day. How many minutes does Jill study over the 3 days?
+
+Let the number of days be x. He saves $50 - $15 = $35 each day. After x days he had saved $35 * x = $35x. His mom doubled his savings to give $35x * 2 = $70x. His dad added $10 to give $70x + $10 = $500. Subtracting 10 from both sides of the equation formed gives $70x = 490. Dividing both sides by $70 give x = 7 days.
+The answer: 7
+Reverse engineering the question:

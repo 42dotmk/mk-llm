@@ -1,0 +1,25 @@
+Jerome has 20 classmates on the list, and has half as many out of school friends on there so he has 20 / 2 = 10 out of school friends on the contact list. He has 2 parents and 1 sister on the contact list, for 2 + 1 = 3 family members on the contact list. Adding the classmates, out of school friends and family members together we get 20 + 10 + 3 = 33 people on his contact list.
+The answer: 33
+Reverse engineering the question: Jerome has 20 classmates on his cell phone contact list. He has half as many out of school friends as classmates on his contact list. He also has his two parents and his sister on his contact list. How many people are on Jerome's contact list?
+
+Reasoning and answer: 40 slices per watermelon and each slice having 20 black seeds means each watermelon has 20 * 40 = 800 black seeds. 40 slices per watermelon and each slice having 20 white seeds means each watermelon has 20 * 40 = 800 white seeds. In total, each watermelon has 800 + 800 = 1600 seeds. What is the total number of seeds in a watermelon?.
+The answer: 1600
+What was the question?
+Question: Val cuts a single watermelon into 40 slices, and each slice has 20 black seeds and 20 white seeds. What is the total number of seeds in a watermelon?
+
+Alfonso has to work for the $340 - $40 = $300. In a week, he earns $6 x 5 = $30. Thus, he needs to work $300 / $30 = 10 weeks to buy the bike.
+The answer: 10
+Reverse engineering the question: Alfonso earns $6 each day walking his aunt’s dog. He is saving to buy a mountain bike helmet for $340. Currently, he already has $40. If he walks his aunt's dog 5 days a week, in how many weeks should Alfonso work to buy his mountain bike?
+
+Reasoning and answer: From the 200 cookies, Javier's wife ate 30 / 100 * 200 = 60. After the wife ate 60 cookies, the number of cookies that remained was 200 - 60 = 140. The daughter also ate 40 cookies leaving 140 - 40 = 100 cookies. If Javier ate half of the remaining cookies, he ate 1 / 2 * 100 = 50. The number of cookies that remained is 100 - 50 = 50.
+The answer: 50
+What was the question?
+Question: Out of the 200 cookies that Javier baked from the recipe he learned online, his wife took 30%, and his daughter took 40 from the remaining cookies. If he ate half of the remaining cookies, how many cookies did they not eat?
+
+Donna can finish a total of 8 x 5 = 40 episodes during the weekdays. Meanwhile, she can finish 8 x 3 = 24 episodes each day during the weekend. The total number of episodes she can watch every weekend is 24 x 2 = 48. Therefore, Donna can watch 40 + 48 = 88 episodes every week.
+The answer: 88
+Reverse engineering the question: Donna can watch 8 episodes each day during weekdays. On each weekend day, she can watch three times the number of episodes she can watch on the weekdays. How many episodes can she watch in a week?
+
+Let C be the number of lion cubs. There are 2C meerkats in the new exhibit. The zoo sent 4 gorillas away, so they had 68 - 6 = 62 animals left. They adopted a hippopotamus, so they had 62 + 1 = 63 animals. They took in 3 rhinos, so they had 63 + 3 = 66 animals. Thus, they had 90 - 66 = 24 new lion cubs and meerkats. Therefore, they had C + 2C = 3C = 24 new lion cubs as meerkats. Hence, there were C = 24 / 3 = 8 lion cubs born.
+The answer: 8
+Reverse engineering the question:

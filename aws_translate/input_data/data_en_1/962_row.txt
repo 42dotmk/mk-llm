@@ -1,0 +1,26 @@
+Answer this question please:
+By the end of 2014, the total installed global power generating capacity is nearly 6.142 TW (million MW) which does not include the DG sets not connected to local electricity grids. In 2014, world energy consumption for electricity generation was coal 40.8 %, natural gas 21.6 %, nuclear 10.6 %, hydro 16.4 %,' others' (solar, wind, geothermal, biomass, etc.) 6.3 % and oil 4.3 %. Coal and natural gas were the most popular energy fuels for generating electricity. The world's electricity consumption was 18,608 TWh in 2012. This figure is about 18 % smaller than the generated electricity, due to grid losses, storage losses, and self-consumption from power plants (gross generation). Cogeneration (CHP) power stations use some of the energy that is otherwise wasted for heating buildings or in industrial processes.
+
+Answer this question: what percentage of the world's electricity is supplied by coal?
+
+Stream of random thoughts: The relevant information is: In 2014, world energy consumption for electricity generation was coal 40.8 %, natural gas 21.6 %, nuclear 10.6 %, hydro 16.4 %,' others' (solar, wind, geothermal, biomass, etc.) 6.3 % and oil 4.3 %.... The answer is 40.8.
+----
+Answer this question please:
+When she was seven years-old, Hall attended Nina Axelrod's open casting call for Robert Zemeckis's Forrest Gump. A few callbacks later, Hall was eventually cast as young Jenny Curran. This was followed by a role as an orphaned child in the 1996 television film Homecoming, co-starring Anne Bancroft.
+
+Based on this passage, actress that played young jenny in forrest gump?
+
+Stream of random thoughts: The relevant sentence in the passage is: A few callbacks later, Hall was eventually cast as young Jenny Curran.... The answer is Hall.
+----
+Answer this question please:
+"As Good as I Once Was" is a song co-written and recorded by American country music singer Toby Keith that reached the top of the Billboard Hot Country Songs chart. This song and his 2003 single "Beer for My Horses" are both his longest-running Number One hits, each having spent six weeks at Number One. "As Good As I Once Was" was released in May 2005 as the second single from Keith's album Honkytonk University. Keith wrote the song with Scotty Emerick.
+
+Based on this passage, who sings i'm not as good as i once was?
+
+Stream of random thoughts: To answer this question, we should know that: "As Good as I Once Was" is a song co-written and recorded by American country music singer Toby Keith that reached the top of the Billboard Hot Country Songs chart.... The answer is Toby Keith.
+----
+Answer this question please:
+Robert De Niro as Jack Byrnes Ben Stiller as Gaylord "Greg" Focker Dustin Hoffman as Bernard "Bernie" Focker Barbra Streisand as Rosalin "Roz" Focker Teri Polo as Pam Byrnes-Focker Blythe Danner as Dina Byrnes Spencer and Bradley Pickren as "Little" Jack Banks Alanna Ubach as Isabel Villalobos Ray Santiago as Jorge Villalobos Tim Blake Nelson as Officer Vern LeFlore Shelley Berman as Judge Ira Owen Wilson as Kevin Rawley
+
+Answer this question based on the passage: who played little jack in meet the fockers?
+

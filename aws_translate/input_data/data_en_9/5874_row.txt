@@ -1,0 +1,25 @@
+q... Context: Alan Cumming as Dr. Dylan Reinhart, an author, psychology professor, and former CIA paramilitary officer, who joins the NYPD to solve bizarre cases. Bojana Novakovic as Elizabeth "Lizzie" Needham, an NYPD detective third grade and Dylan's partner. Her partner and fiancé was killed in the line of duty a year prior, and she had since then refused to have a partner before meeting Dylan. Daniel Ings as Andrew "Andy" Wilson, Dylan's husband, a lawyer-turned-bar owner. Naveen Andrews as Julian Cousins, a contact of Dylan's from his days at the CIA who now works freelance. Sharon Leal as Jasmine Gooden, Lizzie's lieutenant and friend.
+
+Question: who plays the role of julian on instinct?
+a... The relevant information to answer the above question is: Naveen Andrews as Julian Cousins, a contact of Dylan's from his days at the CIA who now works freelance.
+The answer is Naveen Andrews
+
+
+q... The Patriots have appeared in the Super Bowl nine times in franchise history, the most of any team, seven of them since the arrival of head coach Bill Belichick and quarterback Tom Brady in 2000. The Patriots have since become one of the most successful teams in NFL history, winning 14 AFC East titles in 16 seasons since 2001, without a losing season in that period. The franchise has since set numerous notable records, including most wins in a ten-year period (126, in 2003 -- 2012), an undefeated 16-game regular season in 2007, the longest winning streak consisting of regular season and playoff games in NFL history (a 21-game streak from October 2003 to October 2004), and the most consecutive division titles won by a team in NFL history (won eight straight division titles from 2009 to 2016). The team owns the record for most Super Bowls reached (seven) and won (five) by a head coach -- quarterback tandem. The Patriots are tied with the 49ers and Cowboys for the second most Super Bowl wins with five. The Steelers are in front with six.
+
+Answer this question: how many times have patriots been to the superbowl?
+a... The relevant information is: The Patriots have appeared in the Super Bowl nine times in franchise history, the most of any team, seven of them since the arrival of head coach Bill Belichick and quarterback Tom Brady in 2000.
+The answer is nine
+
+
+q... Context: Vinton Gray Cerf ForMemRS, (/ sɜːrf /; born June 23, 1943) is an American Internet pioneer, who is recognized as one of "the fathers of the Internet", sharing this title with TCP / IP co-inventor Bob Kahn. His contributions have been acknowledged and lauded, repeatedly, with honorary degrees and awards that include the National Medal of Technology, the Turing Award, the Presidential Medal of Freedom, the Marconi Prize and membership in the National Academy of Engineering.
+
+Question: who is known as the father of the internet?
+a... To answer this question, we should know that: Vinton Gray Cerf ForMemRS, (/ sɜːrf /; born June 23, 1943) is an American Internet pioneer, who is recognized as one of "the fathers of the Internet", sharing this title with TCP / IP co-inventor Bob Kahn.
+The answer is Vinton Gray Cerf ForMemRS
+
+
+q... The College of William & Mary (also known as William & Mary, or W&M) is a public research university in Williamsburg, Virginia. Founded in 1693 by letters patent issued by King William III and Queen Mary II, it is the second-oldest institution of higher education in the United States, after Harvard University.
+
+Answer this question based on the passage: who was the college of william and mary named after?
+a...

@@ -1,0 +1,27 @@
+Reasoning and answer: In the first year, Lilith collects 3 caps * 12 months = 36 caps. Every year afterwards, she collects 5 caps * 12 months = 60 caps. She does this for a total of 5 – 1 = 4 years. This is a total of 60 caps * 4 years = 240 caps. In total, she collects 36 + 240 = 276 caps by herself. Over the Christmases, she receives 40 caps * 5 years = 200 caps from friends and family. She also loses 15 caps * 5 years = 75 caps over the years. She has therefore collected 276 + 200 – 75 = 401 caps.
+The answer: 401
+What was the question?
+Question: Lilith is trying to break the world record for largest cap collection. She collects 3 caps per month in the first year, and 5 caps per month after the first year. Each Christmas, she also receives 40 caps from friends and family. She estimates that each year, she loses 15 of the caps she has collected. If Lilith has been collecting for 5 years, how many caps has she collected so far?
+
+Cersei gave a total of 5 x 2 = 10 cotton candies to her brother and sister. So, the total cotton candies left were 50 - 10 = 40. And she gave 1 / 4 x 40 = 10 cotton candies to her cousin. So, the total number of cotton candies left was 40 - 10 = 30. Therefore, the total number of cotton candies left after she ate 12 of them is 30 - 12 = 18.
+The answer: 18
+Reverse engineering the question: Cersei bought 50 cotton candies. She gave her brother and sister 5 cotton candies each, then gave the remaining one-fourth of them to her cousin. If she ate 12 cotton candies, how many cotton candies are left?
+
+Reasoning and answer: The first dog walks 14 miles in a week because 7 x 2 = 14. The second dog walks 56 miles in a week because 70 - 14 = 56. The second dog walks an average of 8 miles a day because 56 / 7 = 8.
+The answer: 8
+What was the question?
+Question: Bingo has two dogs. On average, they walk a total of 70 miles a week. The first dog walks an average of 2 miles a day. How many miles a day does the other dog average?
+
+The carpenter made 10 - 3 = 7 tables last month. So, the carpenter made 10 + 7 = 17 tables in all.
+The answer: 17
+Reverse engineering the question: A carpenter made ten tables for this month. Last month, he made three fewer tables than this month. How many tables did the carpenter make in total?
+
+Reasoning and answer: The number of students who scored 100% is 2 / 5 * 80 = 32. Out of the 80 students, 80 - 32 = 48 did not score 100%. If 50% of the students who did not score 100% managed to score over 80%, then 50 / 100 * 48 = 24 students scored over 80%. The number of students who failed is 48 - 24 = 24.
+The answer: 24
+What was the question?
+Question: Out of the 80 students who took the biology exam, only 2/5 of them managed to score 100%. If a score below 80% qualified as failing, and 50 percent of the remaining students who didn't score 100% managed to score over 80%, calculate the number of students who failed the exam.
+
+Reasoning and answer: Maddie watches a total of 8 * 44 = 352 minutes of the TV show during the week. On Friday, she watches 2 * 44 = 88 minutes. On Monday, Thursday, and Friday, she watches 138 + 21 + 88 = 247 minutes. Thus, on the weekend she watches 352 - 247 = 105 minutes of the TV show.
+The answer: 105
+What was the question?
+Question:

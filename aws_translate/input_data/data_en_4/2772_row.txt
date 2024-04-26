@@ -1,0 +1,19 @@
+Question: "The Farm" is the seventeenth episode of the ninth season of the American comedy television series The Office and the 192nd overall. It originally aired on NBC on March 14, 2013. The episode guest stars Matt Jones as Dwight's cousin Zeke, Majandra Delfino as Dwight's sister Fannie, Blake Garrett Rosenthal as his nephew, and Thomas Middleditch as his brother.
+
+Based on this passage, who plays dwight's brother on the office?
+Answer: The relevant sentence in the passage is: The episode guest stars Matt Jones as Dwight's cousin Zeke, Majandra Delfino as Dwight's sister Fannie, Blake Garrett Rosenthal as his nephew, and Thomas Middleditch as his brother. The answer is Thomas Middleditch.
+
+Question: Tuberculosis (TB) vaccines are vaccinations intended for the prevention of tuberculosis. Immunotherapy as a defence against TB was first proposed in 1890 by Robert Koch. Today, the only effective tuberculosis vaccine in common use is bacilli Calmette-Guérin (BCG), first used in 1921. About three out of every 10,000 people who get the vaccine experience side effects, which are usually minor except in severely immuno-depressed individuals. While BCG immunization provides fairly effective protection for infants and young children, (including defence against TB meningitis and miliary TB), its efficacy in adults is variable, ranging from 0 % to 80 %. Several variables have been considered as responsible for the varying outcomes. Demand for TB immunotherapy advancement exists because the disease has become increasingly drug-resistant.
+
+Answer this question based on the passage: what is the name of the vaccine for tuberculosis?
+Answer: To answer the above question, the relevant sentence is: Today, the only effective tuberculosis vaccine in common use is bacilli Calmette-Guérin (BCG), first used in 1921. The answer is Calmette - Guérin ( BCG ).
+
+Question: Passage: "It's Beginning to Look a Lot Like Christmas" is a Christmas song written in 1951 by Meredith Willson. The song was originally titled "It's Beginning to Look Like Christmas". The song has been recorded by many artists, but was a hit for Perry Como and The Fontane Sisters with Mitchell Ayres & His Orchestra on September 18, 1951, and released on RCA Victor as 47-4314 (45 rpm) and 20-4314 (78 rpm). Bing Crosby recorded a version on October 1, 1951, which was also widely played.
+
+Question: Based on this passage, when was it's beginning to look alot like christmas written?
+Answer: To answer the above question, the relevant sentence is: "It's Beginning to Look a Lot Like Christmas" is a Christmas song written in 1951 by Meredith Willson. The answer is 1951.
+
+Question: Wall Drug Store, often called simply "Wall Drug," is a tourist attraction located in the town of Wall, South Dakota. It is a shopping mall consisting of a drug store, gift shop, restaurants and various other stores. Unlike a traditional shopping mall, all the stores at Wall Drug operate under a single entity instead of being individually run stores. The New York Times has described Wall Drug as "a sprawling tourist attraction of international renown (that) draws some two million annual visitors to a remote town."
+
+Answer this question based on the passage: where is wall drug located in south dakota?
+Answer:

@@ -1,0 +1,23 @@
+# QUESTION
+The Federal Reserve System (also known as the Federal Reserve or simply the Fed) is the central banking system of the United States of America. It was created on December 23, 1913, with the enactment of the Federal Reserve Act, after a series of financial panics (particularly the panic of 1907) led to the desire for central control of the monetary system in order to alleviate financial crises. Over the years, events such as the Great Depression in the 1930s and the Great Recession during the 2000s have led to the expansion of the roles and responsibilities of the Federal Reserve System.
+
+Answer this question based on the passage: what was the purpose of establishing the federal reserve bank?
+# ANSWER
+The important part for answering this question is: It was created on December 23, 1913, with the enactment of the Federal Reserve Act, after a series of financial panics (particularly the panic of 1907) led to the desire for central control of the monetary system in order to alleviate financial crises.
+FINAL ANSWER: central control of the monetary system in order to alleviate financial crises
+
+
+# QUESTION
+Pocahontas is the seventh Disney Princess and first appeared in Disney's 33rd animated feature film Pocahontas (1995). Based on the Native American chief's daughter, Pocahontas (c. 1595 -- 1617), and the settlement of Jamestown, Virginia in 1607. Pocahontas is displayed as a noble, independent and highly spiritual young woman. She expresses wisdom beyond her years and offers kindness and guidance to those around her. An adventurer and nature lover, in the film she appears to have shamanic powers since she was able to communicate with nature, spirits, and animals and understand foreign languages. In the sequel, Pocahontas, after hearing of John Smith's assumed death, is heartbroken. Despite this, she keeps her independent spirit and playfulness and is even much more mature and self-assured than she was in the first film. During her stay in England, she nearly loses herself in the hustle and bustle of the new world, consequently falling victim to western culture assimilation. But in the end, she bravely intends to sacrifice herself for her people's safety and returns to her homeland, finding herself, and love, once again. She was voiced by Irene Bedard and animated by Glen Keane while her singing was provided by Judy Kuhn.
+
+Number of pocahontas in the official disney princesses?
+# ANSWER
+The relevant sentence in the passage is: Pocahontas is the seventh Disney Princess and first appeared in Disney's 33rd animated feature film Pocahontas (1995).
+FINAL ANSWER: the seventh
+
+
+# QUESTION
+The song was originally a country music single by singer Wynn Stewart. Although Stewart had previously hit the Top 40 on the Billboard US country chart with songs such as "Wishful Thinking" in 1960, "It's Such a Pretty World Today" was Stewart's highest charting hit, peaking at No. 1 on the country music chart for two weeks in the late spring of 1967. It was released as a single from his album of the same name that year.
+
+Who sang the song it's such a pretty world today?
+# ANSWER

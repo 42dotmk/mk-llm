@@ -1,0 +1,34 @@
+Student A:Passage: Joseph "Kaka" Baptista (17 March 1864 -- 1930) was an Indian politician and activist from Bombay (today known as Mumbai), closely associated with the Lokmanya Tilak and the Home Rule Movement. He is credited with the coining of the popular phrase "Swaraj is my Birthright and I shall have it". He was elected as the Mayor of Bombay in 1925. He was given the title Kaka that means "uncle".
+
+Question: Based on this passage, who coined the term swaraj is my birthright?
+Student B:OK... This is the relevant information: He is credited with the coining of the popular phrase "Swaraj is my Birthright and I shall have it".
+Joseph `` Kaka '' Baptista.
+
+Problem:An isomer (/ ˈaɪsəmər /; from Greek ἰσομερής, isomerès; isos = "equal", méros = "part") is a molecule with the same molecular formula as another molecule, but with a different chemical structure. That is, isomers contain the same number of atoms of each element, but have different arrangements of their atoms. Isomers do not necessarily share similar properties, unless they also have the same functional groups. There are two main forms of isomerism (/ ˈaɪsəmərɪzm / or / aɪ ˈsɒmərɪzm /): structural isomerism (or constitutional isomerism) and stereoisomerism (or spatial isomerism).
+
+Answer this question: explain why isomers have different chemical and physical properties?
+Solution:OK... The relevant information is: That is, isomers contain the same number of atoms of each element, but have different arrangements of their atoms.
+contain the same number of atoms of each element , but have different arrangements of their atoms.
+
+Student A:Passage: Family Channel premiered the series in 2013. Its premiere had the largest audience of any original series on the channel since its launch in 1988, with 574,500 P2+ AMA viewers, and over one million P2+ viewers.
+
+Question: Based on this passage, what channel does the next step play on?
+Student B:OK... The important part for answering this question is: Family Channel premiered the series in 2013.
+Family Channel.
+
+Problem:Seven Pillars of Wisdom is the autobiographical account of the experiences of British soldier T.E. Lawrence ("Lawrence of Arabia"), while serving as a liaison officer with rebel forces during the Arab Revolt against the Ottoman Turks of 1916 to 1918.
+
+What is the 7 pillars of wisdom about?
+Solution:OK... The relevant information to answer the above question is: Seven Pillars of Wisdom is the autobiographical account of the experiences of British soldier T.E. Lawrence ("Lawrence of Arabia"), while serving as a liaison officer with rebel forces during the Arab Revolt against the Ottoman Turks of 1916 to 1918.
+autobiographical account of the experiences of British soldier T.E. Lawrence ( `` Lawrence of Arabia '' ) , while serving as a liaison officer with rebel forces during the Arab Revolt against the Ottoman Turks of 1916 to 1918.
+
+Student A:The speed of sound in an ideal gas depends only on its temperature and composition. The speed has a weak dependence on frequency and pressure in ordinary air, deviating slightly from ideal behavior.
+
+The speed of sound wave in air depends on?
+Student B:OK... The relevant information to answer the above question is: The speed has a weak dependence on frequency and pressure in ordinary air, deviating slightly from ideal behavior.
+frequency and pressure.
+
+Student A:The mass shooting occurred between 10: 05 and 10: 15 p.m. PDT on October 1, 2017, which was the third and final night of the festival. When the shooting began, country music singer Jason Aldean was giving the closing performance.
+
+Based on this passage, who was playing during the las vegas shooting?
+Student B:

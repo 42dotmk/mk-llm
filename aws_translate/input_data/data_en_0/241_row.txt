@@ -1,0 +1,39 @@
+Part #1: Create a pair of sentences each containing a blank (_) and their corresponding answer.
+
+Usage: The two sentences must have a blank space to fill in with an answer. For example, "He bought a _(ObjectX) for his collection." and "She packed her _(ObjectY) for the trip." Both sentences have a blank space to be filled in with the appropriate object or word.
+
+Part #2: The sentence pair should be about two related but different objects.
+
+Usage: "trophy" and "suitcase". These objects are related in the sense that they are both items people often own/carry, but they serve different purposes. 
+
+Part #3: Two sentences must be different in terms of trigger words expressing contrasting properties.
+
+Usage: "The award-winning _ has a shiny surface." (ObjectX: trophy) and "The durable _ can hold numerous items." (ObjectY: suitcase). The trigger words here are "award-winning" and "durable", expressing different properties related to each object.
+
+Part #4: Each sentence should have an agreed-upon answer.
+
+Usage: "Her _(ObjectX) can be rolled easily." (ObjectX: suitcase) and "His _(ObjectY) looks best on the top shelf." (ObjectY: trophy). It is clear that the ObjectX refers to a suitcase and ObjectY refers to a trophy.
+
+Part #5: Avoid potentially explicit, offensive, or adult content.
+
+Usage: All sentences and objects should be neutral and inoffensive. For example, "The colorful _(ObjectX) is great for picnics." (ObjectX: blanket) and "The heavy _(ObjectY) keeps the door open." (ObjectY: doorstop).
+
+Part #6: Do not use animals and proper nouns as objects.
+
+Usage: Objects should not be specific brands, names of people, places, or animals. For example, "The _(ObjectX) is helpful for writing notes." (ObjectX: notepad) and "The _(ObjectY) is ideal for carrying groceries." (ObjectY: basket).
+
+Part #7: Avoid repeating the same style or phrase in twin sentences.
+
+Usage: Variations in sentence structure and trigger words are necessary. For example, "The _(ObjectX) has an astonishing view of the city." (ObjectX: rooftop) and "The _(ObjectY) provides a tranquil escape from the noise." (ObjectY: garden).
+
+Part #8: Twin sentences must have at least 70% overlapping words.
+
+Usage: "The slow _(ObjectX) is preferred by experienced swimmers." (ObjectX: breaststroke) and "The fast _(ObjectY) is popular among competitive swimmers." (ObjectY: freestyle). In this example, the sentences have 9 overlapping words out of 10, ensuring at least 70% overlap.
+
+Part #9: Ensure the objects' count agree with each other (e.g., singular/singular or plural/plural).
+
+Usage: "The _(ObjectX) is known for its wide petals." (ObjectX: sunflower) and "The _(ObjectY) has tiny, delicate petals." (ObjectY: daisy). Both objects are singular.
+
+Part #10: Use the given context word while writing the twin sentences.
+
+Usage: With the context word "swimmers", the sentences can be: "The experienced swimmers prefer the _(ObjectX) for its calm pace." (ObjectX: breaststroke) and "The competitive swimmers often choose the _(ObjectY) for its speed." (ObjectY: freestyle). Both sentences contain the context word "swimmers".

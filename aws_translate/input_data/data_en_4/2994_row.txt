@@ -1,0 +1,25 @@
+He travels 1450 - 100 = 1350 feet vertically. So he travels 1350 * 2 = 2700 feet horizontally.
+The answer: 2700
+Reverse engineering the question: John starts climbing a very steep hill. He travels 1 foot vertically for every two feet horizontally. His elevation increases from 100 feet to 1450 feet. How far does he move horizontally, in feet?
+
+Reasoning and answer: First find the total amount Jack earned from the bottles: $0.10 / bottle * 80 bottles = $8.00. Then subtract that amount from his total earnings to find the amount he earned from cans: $15.00 - $8.00 = $7.00. Then divide his total earnings from cans by his earnings per can to find the number of cans he recycled: $7.00 / $0.05 / can = 140 cans.
+The answer: 140
+What was the question?
+Question: Jack collects all his neighbors' recycling and sorts out the cans and bottles to return for the deposit. He gets 10 cents per bottle and 5 cents per can. If he recycled 80 bottles and made $15, how many cans did he recycle?
+
+The three additional lines at T - Mobile cost $16 x 3 = $48. The total cost of the family plan at T - Mobile is $50 + $48 = $98. The three additional lines at M - Mobile cost $14 x 3 = $42. The total cost of the family plan at M - Mobile is$45 + $ 42 = $87. Therefore, M - Mobile is $98 - 87 = $11 cheaper than T - Mobile.
+The answer: 11
+Reverse engineering the question: Moore's family compared mobile phone plans to get the best deal. At T-Mobile, the family plan costs $50 per month for the first two lines and $16 for each additional line. At M-Mobile, the family plan costs $45 for the first two lines and $14 for each additional line. Moore's family needs to purchase 5 cell phone lines. How much cheaper is the M-Mobile than T-Mobile?
+
+Reasoning and answer: The number of pants Isabella bought is 21 / 3 = 7 pairs of pants. The number of dresses Isabella bought is 18 / 3 = 6 dresses. The total number of pants and dresses Isabella bought is 7 + 6 = 13.
+The answer: 13
+What was the question?
+Question: Isabella and Alexis went to the mall to buy some pants and dresses. Alexis bought 3 times more pants and dresses than Isabella. If Alexis bought 21 pairs of pants and 18 dresses, how many pairs of pants and dresses did Isabella buy in total?
+
+His square paintings take up 36 square feet each because 6 x 6 = 36. His small paintings take 6 square feet each because 2 x 3 = 6. His large painting takes up 150 square feet because 10 x 15 = 150. Combined, his square paintings take up 108 square feet because 3 x 36 = 108. Combined, his small paintings take up 24 square feet because 4 x 6 = 24. In total, his paintings take up 282 square feet because 150 + 108 + 24 = 282.
+The answer: 282
+Reverse engineering the question: Davonte is trying to figure out how much space his art collection takes up. He measures his paintings and finds he has three square 6-foot by 6-foot paintings, four small 2-foot by 3-foot paintings, and one large 10-foot by 15-foot painting. How many square feet does his collection take up?
+
+He needs 500 / 50 = 10 bags of flour. That cost 20 * 10 = $200. He needs 10 * .2 = $2 worth of salt. So everything cost 1000 + 200 + 2 = $1202. He makes 20 * 500 = $10,000 selling tickets. So he makes a profit of 10000 - 1202 = $8798.
+The answer: 8798
+Reverse engineering the question:

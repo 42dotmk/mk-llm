@@ -1,0 +1,27 @@
+Reasoning and answer: After paying off the cost of ingredients, Andrew has $400 - $100 = $300. Since half of the money goes to the homeless shelter, the shelter receives $300 / 2 = $150. After contributing some of his own money, Andrew donates $150 + $10 = $160 to the shelter.
+The answer: 160
+What was the question?
+Question: Andrew holds a bake sale to fundraise for charity. The bake sale earns a total of $400. Andrew keeps $100 to cover the cost of ingredients. He donates half of the remaining total to the local homeless shelter, and the other half to the local food bank. Andrew also decides to donate $10 from his own piggy bank to the local homeless shelter. How much money in total does Andrew donate to the homeless shelter?
+
+If Nataly has 3 times as much money as Raquel, she has 3 * $40 = $120. Tom has 1 / 4 as much money as Nataly, so he has 1 / 4 * $120 = $30. Combined, the three have $30 + $120 + $40 = $190.
+The answer: 190
+Reverse engineering the question: Tom has a quarter as much money as Nataly. Nataly has three times as much money as Raquel. How much money do Tom, Raquel, and Nataly have combined if Raquel has $40?
+
+Reasoning and answer: The cost for 101 Kindergarten shirts x $5.80 = $585.80. The cost for 113 first grade shirts x $5 = $565. The cost for 107 second grade shirts x $5.60 = $599.20. The cost for 108 third grade shirts x $5.25 = $567. The total cost of the shirts was $585.80 + $565 + $599.20 + $567 = $2,317.
+The answer: 2317
+What was the question?
+Question: The P.T.O. decided to provide shirts for the elementary students for track and field day. Each grade was given a different color. 101 Kindergartners wore orange shirts that cost $5.80 each. 113 first graders wore yellow shirts that cost $5 each. 107 second graders wore blue shirts that cost $5.60 each. 108 third graders wore green shirts that cost $5.25 each. How much did the P.T.O. spend on shirts for field day?
+
+In the past four months, not including today, Erica has 80 kg * $20 / kg = $1600 worth of fish. Today, Erica trawled 80 * 2 = 160 kg of fish. Thus today's earnings are 160 kg * $20 / kg = $3200. Her total earnings are $3200 + $1600 = $4800.
+The answer: 4800
+Reverse engineering the question: Erica lives near a lake where most locals sell fish as their main source of income, earning $20 per kg of fish. She goes out fishing today and catches twice as many fish as she caught in total in the past four months. If Erica trawled 80 kg of fish in the past four months, not including today, how much money will she have earned in the past four months including today (assuming she sells all her fish)?
+
+Reasoning and answer: Before his birthday, Estevan has 24 / 3 = 8 polka - dot blankets. After his birthday, Estevan has 8 + 2 = 10 polka - dot blankets.
+The answer: 10
+What was the question?
+Question: Estevan has 24 blankets. One-third of the blankets have polka-dots. For his birthday, his mother gives him 2 more polka-dot print blankets. How many polka-dot blankets does Estevan have in total?
+
+Reasoning and answer: Angie earned 80 and paid 42 for necessities, so she had 80 - 42 = $38 left. Angie had 18 left after paying taxes, so her share of the taxes was 38 - 18 = $20 this month.
+The answer: 20
+What was the question?
+Question:

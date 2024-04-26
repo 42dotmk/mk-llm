@@ -1,0 +1,27 @@
+Reasoning and answer: The sales of the carrot is 57 x 2 = $114. Half the sales of carrot is $114 / 2 = $57. So, the sales of the spinach is $57 + $16 = 73. The total sales of the broccolis, carrots, spinach is $57 + $114 + $73 = $244. They made $380 - $244 = $136 from cauliflower sales.
+The answer: 136
+What was the question?
+Question: Maya's organization hosted a weekly farmers' market to raise money for the church choir. They sold broccolis, carrots, spinach, and cauliflowers. After adding together all of their earnings, Maya found out that they had made $380. The organization made $57 from broccoli and the sales of the carrots are twice as much as the sales of broccoli. Then, their sales for the spinach is $16 more than half of the sales of carrots. How much did they make from cauliflower sales?
+
+There are 20 - 2 = 18 floors that are each 3 meters high. So the first 18 floors is 18 x 3 = 54 meters high. The last two floors are each 3 + 0.5 = 3.5 meters high. So the total height of the last two floors is 3.5 x 2 = 7 meters. Therefore, the building is 54 + 7 = 61 meters high.
+The answer: 61
+Reverse engineering the question: A building has 20 floors. Each floor is 3 meters high, except for the last two floors. The last two floors are each 0.5 meters higher. How tall is the building?
+
+Reasoning and answer: When Joe added 20% more data points to the dataset, the data points in the dataset increased by 20 / 100 * 200 = 40 data points. The total number of data points increased to 200 + 40 = 240. If he reduced the data points by 1 / 4 of the total data points, the data points reduced by 1 / 4 * 240 = 60. The total number of data points left in the dataset after Joe reduced the data points by 1 / 4 of the total data points is 240 - 60 = 180.
+The answer: 180
+What was the question?
+Question: Joe had 200 data points on his dataset. He then added 20% more data points to the dataset. If he reduced the data points by 1/4 of the total data points, calculate the total number of data points the dataset contains.
+
+First find the total number of cloves needed to repel the vampires: 30 vampires * 3 cloves / 2 vampires = 45 cloves. Then find the total number of cloves needed to repel the wights: 12 wights * 3 cloves / 3 wights = 12 cloves. Then find the total number of cloves needed to repel the vampire bats: 40 vampire bats * 3 cloves / 8 vampire bats = 15 cloves. Then add up these three amounts to find the total number of cloves needed: 45 cloves + 12 cloves + 15 cloves = 72 cloves.
+The answer: 72
+Reverse engineering the question: 3 cloves of garlic can repel 2 vampires, 8 vampire bats or 3 wights. How many cloves of garlic are needed to repel 30 vampires, 12 wights and 40 vampire bats?
+
+Reasoning and answer: Cheryl at 7 + 5 = 12 m&m's. She gave 25 - 12 = 13 m&m's to her sister.
+The answer: 13
+What was the question?
+Question: Cheryl ate 7 m&m's after lunch. She ate 5 m&m's after dinner, and she gave some to her sister. If Cheryl had 25 m&m's at the beginning, how many did she give to her sister?
+
+Reasoning and answer: Angel restaurant makes 2 * 200 = 400 fruit salads. The total number of fruit salads made in the two restaurants is 200 + 400 = 600.
+The answer: 600
+What was the question?
+Question:

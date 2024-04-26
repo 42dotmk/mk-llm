@@ -1,0 +1,27 @@
+Reasoning and answer: Randy has 30 - 10 = 20 dollars left after buying lunch. Randy spent 20 / 4 = 5 dollars on the ice cream cone. Randy has 20 - 5 = 15 dollars left.
+The answer: 15
+What was the question?
+Question: Randy has $30. He spent $10 buying his lunch. He spent a quarter of the money he had left on an ice cream cone. What is the amount of money, in dollars, Randy has left?
+
+The first spacecraft flew for 30 minutes, or 30 / 60 = 1 / 2 hour. The second spacecraft flew for 30 + 30 = 60 minutes, or 1 hour. Thus the first spacecraft traveled at a speed of 448 miles in 1 / 2 hour, or 448 / (1 / 2) = 896 miles per hour. The second spacecraft traveled 448 miles in 1 hour, or 448 / 1 = 448 miles per hour. The difference in speed, in miles per hour, between the two spacecraft was 896 - 448 = 448 miles per hour.
+The answer: 448
+Reverse engineering the question: Two alien spacecraft on a sightseeing tour of Earth left New Orleans airport at 3:00 pm to travel the 448-mile distance to Dallas by air. Traveling nonstop, the first spacecraft landed in Dallas at 3:30 pm, while the second spacecraft landed in Dallas thirty minutes later. Assuming both spacecraft traveled at constant speed, what was the difference in speed, in miles per hour, between the two spacecraft?
+
+Reasoning and answer: To make the pizza, Kimber half as many teaspoons of salt as the number of cups of flour, meaning she needs 1 / 2 * 16 = 8 teaspoons of salt. The total number of cups of flour and teaspoons of salt she needs is 8 + 16 = 24. She also needs 10 cups of water, which means the total number of cups of water and flour and teaspoons of salt she needs is 24 + 10 = 34.
+The answer: 34
+What was the question?
+Question: To make pizza, together with other ingredients, Kimber needs 10 cups of water, 16 cups of flour, and 1/2 times as many teaspoons of salt as the number of cups of flour. Calculate the combined total number of cups of water, flour, and teaspoons of salt that she needs to make the pizza.
+
+If Darren bought 4 boxes of crackers, each containing 24 crackers, the total number of crackers that Darren bought is 24 * 4 = 96. Twice as many boxes of crackers as Darren bought is 2 * 4 = 8. If Calvin bought one box less than twice as many boxes of crackers as Darren, then Calvin bought 8 - 1 = 7 boxes of crackers. The total number of crackers that Calvin bought is 7 * 24 = 168. Together, Darren and Clavin bought 168 + 96 = 264 crackers.
+The answer: 264
+Reverse engineering the question: Darren bought 4 boxes of crackers. Each box contained 24 crackers. If Calvin bought one box less than twice as many boxes of crackers as Darren, how many crackers did they buy altogether?
+
+Reasoning and answer: Originally the car parts would be a total of 80 * 7 = 560 dollars. Clark got a discount for 560 - 439 = 121 dollars.
+The answer: 121
+What was the question?
+Question: An auto shop has a part that Clark needs for $80. Clark buys 7 of them and got a discount. If Clark only had to pay $439, how much was the discount?
+
+Reasoning and answer: If the experienced sailors received 1 / 5 times more money than the inexperienced sailors, they were paid 1 / 5 * 10 = $2 more. The total hourly earnings for the experienced sailors each is $10 + $2 = $12. In a 60 - hour workweek, an experienced sailor is paid 60 * $12 = $720. In a month, an experienced sailor is paid 4 * $720 = $2880. If there were five inexperienced sailors, the total number of experienced sailors was 17 - 5 = 12. If each experienced sailor was paid $2280 per month, the total combined monthly earnings for the experienced is 12 * 2880 = $34560.
+The answer: 34560
+What was the question?
+Question:

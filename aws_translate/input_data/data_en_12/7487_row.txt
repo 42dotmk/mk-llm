@@ -1,0 +1,27 @@
+Reasoning and answer: First find the distance Matt climbs in 7 minutes: 6 feet / minute * 7 minutes = 42 feet. Then find the distance Jason climbs in 7 minutes: 12 feet / minute * 7 minutes = 84 feet. Then subtract the distance Matt climbs from the distance Jason climbs to find the difference: 84 feet - 42 feet = 42 feet.
+The answer: 42
+What was the question?
+Question: Jason is climbing a telephone pole next to a tree his friend Matt is climbing. Matt can climb 6 feet/minute and Jason can climb 12 feet per minute. After 7 minutes, how much higher will Jason be than Matt?
+
+First find how many demerits Andy got for showing up late: 2 demerits / time * 6 times = 12 demerits. Then subtract the number of demerits he's gotten so far to find how many more he can get before getting fired: 50 demerits - 12 demerits - 15 demerits = 23 demerits.
+The answer: 23
+Reverse engineering the question: Andy can get 50 demerits in a month before getting fired. If he got 2 demerits per instance for showing up late 6 times and 15 demerits for making an inappropriate joke, how many more demerits can he get this month before getting fired?
+
+Reasoning and answer: The box weighs 120 pounds and she's going to use half of it to make applesauce so she'll use 120 / 2 = 60 pounds for applesauce. The box weighs 120 pounds and she'll use 60 pounds for applesauce so that leaves 120 - 60 = 60 pounds of apples. She has 60 pounds of apples and she needs 4 pounds to make a pie so she can make 60 / 4 = 15 pies.
+The answer: 15
+What was the question?
+Question: Sandra has a box of apples that weighs 120 pounds. She's going to use half the weight in apples to make applesauce. The rest will be used to make apple pies. She needs 4 pounds of apples per pie. How many pies will she be able to make?
+
+If Abel needs to travel 1000 miles going 50 miles per hour, this means it will take him 1000 / 50 = 20 hours to get there. If Alice needs to travel 1000 miles going 40 miles per hour, this means it will take her 1000 / 40 = 25 hours to get there. Since there are 60 minutes in an hour, this means it will take Abel 20 * 60 = 1200 minutes to arrive. Similarly, this means it will take Alice 25 * 60 = 1500 minutes to arrive. This means Abel arrives 1500 - 1200 = 300 minutes before Alice if they both leave simultaneously. However, since Abel had a head start of 1 hour, which is 60 minutes, this means Abel arrives 300 + 60 = 360 minutes ahead of Alice.
+The answer: 360
+Reverse engineering the question: Abel leaves for a vacation destination 1000 miles away driving 50 miles per hour. An hour later Alice leaves from the same point for the same destination, traveling 40 miles per hour. How much earlier does Abel reach the destination in minutes??
+
+Reasoning and answer: The full capacity of the ship is 300 * 4 = 1200 people. One - third of capacity is 1200 / 3 = 400 people. 100 less than one - third capacity is 400 - 100 = 300 people.
+The answer: 300
+What was the question?
+Question: The spacecraft Gibraltar is a mountain-sized intergalactic vehicle for transporting equipment, building materials, and families to establish colonies on far-away planets. At full capacity, the vehicle can carry 300 family units with four people per family. The space flight is expected to take years, and it is expected that the size of families will grow during the space voyage. Therefore, when the spacecraft leaves the earth, it will carry 100 people less than one-third of the ship's capacity. How many people will be on the ship to start the journey?
+
+Reasoning and answer: A quart is 32 ounces so this jar is 32 - 2 = 30 ounces. James uses 3 * .5 = 1.5 ounces a day. So it last 30 / 1.5 = 20 day.
+The answer: 20
+What was the question?
+Question:

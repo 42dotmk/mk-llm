@@ -1,0 +1,25 @@
+q... 1983 marked the final year of the F-100, making the F-150 the lightest pickup available on the market. F-100s and F-150s were virtually identical with the exception of smaller brakes and a 5x4. 5 bolt pattern on the F-100 axles, as opposed to 5x5. 5 on the F-150. F-100s over a certain GVWR and / or without power brakes did use the F-150 axles. Also, the 1980 -- 1983 F-100 was never offered with four-wheel-drive.
+
+Answer this question based on the passage: when did ford switch from f100 to f150?
+a... This is the relevant information: 1983 marked the final year of the F-100, making the F-150 the lightest pickup available on the market.
+The answer is 1983
+
+
+q... Passage: "I Do n't Want to Miss a Thing" is a power ballad performed by American hard rock band Aerosmith for the 1998 film Armageddon which Steven Tyler's daughter Liv Tyler starred in. Written by Diane Warren, the song debuted at number one on the U.S. Billboard Hot 100 (the first # 1 for the band after 28 years together). It is one of three songs performed by the band for the film, the other two being "What Kind of Love Are You On" and "Sweet Emotion". The song stayed at number one for four weeks from September 5 to 26, 1998. The song also stayed at number 1 for several weeks in several other countries. It sold over a million copies in the UK and reached number four on the UK Singles Chart.
+
+Question: Based on this passage, who wrote the song don want to miss a thing?
+a... The relevant information is: Written by Diane Warren, the song debuted at number one on the U.S. Billboard Hot 100 (the first # 1 for the band after 28 years together).
+The answer is Diane Warren
+
+
+q... Passage: The Sea of Galilee, also Kinneret or Kinnereth, Lake of Gennesaret, or Lake Tiberias (Hebrew: יָם כִּנֶּרֶת ‬, Judeo-Aramaic: יַמּא דטבריא; גִּנֵּיסַר Arabic: بحيرة طبريا ‎), is a freshwater lake in Israel. It is approximately 53 km (33 mi) in circumference, about 21 km (13 mi) long, and 13 km (8.1 mi) wide. Its area is 166.7 km (64.4 sq mi) at its fullest, and its maximum depth is approximately 43 m (141 feet). At levels between 215 metres (705 ft) and 209 metres (686 ft) below sea level, it is the lowest freshwater lake on Earth and the second-lowest lake in the world (after the Dead Sea, a saltwater lake). The lake is fed partly by underground springs although its main source is the Jordan River which flows through it from north to south.
+
+Question: Based on this passage, where does the sea of galilee get its water?
+a... The important part for answering this question is: The lake is fed partly by underground springs although its main source is the Jordan River which flows through it from north to south.
+The answer is fed partly by underground springs although its main source is the Jordan River
+
+
+q... A lower pair is an ideal joint that constrains contact between a surface in the moving body to a corresponding surface in the fixed body. A lower pair is one in which there occurs a surface or area contact between two members, e.g. nut and screw, universal joint used to connect two propeller shafts. Cases of lower joints:
+
+Answer this question: universal joint is an example of which pair?
+a...

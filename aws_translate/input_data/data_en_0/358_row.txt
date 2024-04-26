@@ -1,0 +1,29 @@
+## question
+Passage: John Mills-Puncher Roberts Richard Attenborough-Knocker White André Morell-Marshal Bryan Forbes-Professor Evans Michael Hordern-Captain Hugh Ernest Clark-Commander Geoffrey Digby Harry Locke-Chief Petty Officer Blades Michael Howard-Joe Lionel Jeffries-George Clifford Mollison-Sails Thorley Walters-Lieutenant Setley Duncan Lamont-Master-at-Arms Lisa Gastoni-Maria Cyril Raymond-PMO Harold Siddons-Whiskers D.A. Clarke-Smith-The Admiral Kenneth Griffith-Sub-Lieutenant John Le Mesurier-The Marshal's Aide Carlo Giustini-Carlo Vespucci Ferdy Mayne-Interpreter Vincent Barbi-Second Brother Gordon Jackson-Harry Vittorio Vittori-Third Brother Martyn Garrett-The Baby Barry Foster-Sailor at Dance Robert Ayres-American Captain
+
+Question: Based on this passage, who played the baby in the baby and the battleship?
+## answer
+To answer the above question, the relevant sentence is: Martyn Garrett-The Baby
+So the answer must be Martyn Garrett
+
+## question
+Passage: Considered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million (some sources say $310-$330 million), the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country. Each film in the series also had special extended editions released on DVD a year after their respective theatrical releases. While the films follow the book's general storyline, they do omit some of the novel's plot elements and include some additions to and deviations from the source material.
+
+Question: Based on this passage, where did lord of the rings get filmed?
+## answer
+The relevant information is: Considered to be one of the biggest and most ambitious film projects ever undertaken, with an overall budget of $281 million (some sources say $310-$330 million), the entire project took eight years, with the filming for all three films done simultaneously and entirely in New Zealand, Jackson's native country.
+So the answer must be New Zealand
+
+## question
+Three years later in June 1979, the NBA adopted the three-point line for a one-year trial for the 1979 -- 80 season, despite the view of many that it was a gimmick. Chris Ford of the Boston Celtics is widely credited with making the first three-point shot in NBA history on October 12, 1979; the season opener at Boston Garden was more noted for the debut of Larry Bird (and two new head coaches). Rick Barry of the Houston Rockets, in his final season, also made one in the same game, and Kevin Grevey of the Washington Bullets made one that Friday night as well.
+
+Answer this question based on the passage: when did the nba put in the 3 point line?
+## answer
+The relevant information is: Three years later in June 1979, the NBA adopted the three-point line for a one-year trial for the 1979 -- 80 season, despite the view of many that it was a gimmick.
+So the answer must be June 1979
+
+## question
+The fifth season of the series was made available on Blim on September 22, 2017.
+
+Based on this passage, when does el senor de los cielos return?
+## answer

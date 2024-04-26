@@ -1,0 +1,77 @@
+An experimental drug compound is showing promise against the virus that causes AIDS. 
+  
+ Scientists from the Scripps Research Institute in Florida, Harvard Medical School and more than a dozen other institutions developed the novel drug candidate and tested it in rhesus macaques, monkeys which can carry simian HIV, a virus similar to the one that infects humans. 
+  
+ They found that macaques inoculated with the drug compound known as eCD4-lg did not catch the virus, even when they were repeatedly exposed to high levels of it over an 8-month period. 
+  
+ Results of the study were published today in the journal Nature. 
+  
+ In addition to protecting monkeys, the researchers say lab tests indicate the drug candidate blocks every known strain of HIV-1 and HIV-2, the two main types of the virus that infect humans. 
+  
+ "Our compound is the broadest and most potent entry inhibitor described so far," lead researcher Michael Farzan, an immunologist at the Scripps Research Institute, said in a press statement. "Unlike antibodies, which fail to neutralize a large fraction of HIV-1 strains, our protein has been effective against all strains tested, raising the possibility it could offer an effective HIV vaccine alternative." 
+  
+ It was built on previous research by Farzan's lab into a receptor called CCR5, which plays a key role in enabling HIV to latch onto the surface of a cell and begin replicating. The new drug compound binds to two sites on the surface of the virus simultaneously, preventing it from infecting a cell. 
+  
+ "This is the culmination of more than a decade's worth of work on the biochemistry of how HIV enters cells," Farzan said. "When we did our original work on CCR5, people thought it was interesting, but no one saw the therapeutic potential. That potential is starting to be realized." 
+  
+ To work like a vaccine, the researchers attached eCD4-lg to an adeno-associated virus (AAV), a virus harmless to humans that can be used as a vehicle. 
+  
+ Noted AIDS researcher David Baltimore, a Nobel laureate whose firm, Calimmune, is working on a separate gene therapy approach to HIV, told Science he considers these latest findings "impressive." But he sounded a note of caution since it's only been tested in a laboratory and in animals. "It's perhaps a better construct than the antibodies we've been using, but it's a matter of how it plays out in human trials," Baltimore said. "I don't think it's easy to tell how that will happen." ||||| A new study could lead to the first step in new treatments for patients with AIDS and an alternative to a vaccine against HIV. Scripps Institute’s Michael Farzan explains. Photo: AP 
+  
+ Scientists have engineered a molecule they say can block infection with the virus that causes AIDS, a discovery that potentially could lead to a new therapy for patients as well as an alternative to a vaccine. 
+  
+ Researchers have been trying for three decades to develop an effective vaccine against the human immunodeficiency virus, which causes AIDS. They are also searching for a way to cure infected people. But the ever-evolving virus has eluded them. 
+  
+ ... ||||| The author, Michael Farzan, an infectious disease specialist at the Scripps Research Institute in Florida, described the new compound as “the broadest and most potent entry inhibitor described so far.” 
+  
+ It is simpler and works better, he said, than the current method that scientists are experimenting with: giving monkeys cocktails of several different antibodies that each neutralize only one or two strains of H.I.V., sometimes imperfectly. 
+  
+ Blocking H.I.V. A new protein may be able to block H.I.V., the virus that causes AIDS, from entering and infecting human cells. Envelope protein CCR5 binding site New protein blocks both sites H.I.V. CD4 binding site Antibody blocks CD4 site CD4 CCR5 Cell INFECTING A CELL NORMAL ANTIBODIES AN ANTIBODY-LIKE PROTEIN H.I.V. is covered with small spikes that enable it to attach to two receptors, called CD4 and CCR5, on the surface of a target cell. Each spike has a three-lobed structure with two types of binding sites. Antibodies can block one type of site, but not both. A new protein resembling an antibody with a tail seems to block both sites, preventing the virus from binding to and entering the cell. Envelope protein H.I.V. CD4 CCR5 Cell INFECTING A CELL H.I.V. is covered with small spikes that enable it to attach to two receptors, called CD4 and CCR5, on the surface of a target cell. CCR5 binding site CD4 binding site Antibody blocks CD4 site NORMAL ANTIBODIES Each spike has a three-lobed structure with two types of binding sites. Antibodies can block one type of site, but not both. New protein blocks both sites AN ANTIBODY-LIKE PROTEIN A new protein resembling an antibody with a tail seems to block both sites, preventing the virus from binding to and entering the cell. 
+  
+ The study was published online by the journal Nature. 
+  
+ Describing over the telephone the way his new compound worked, Dr. Farzan said he was bending his hand into a claw, with his thumb representing the end blocking one site and two fingers blocking the other. 
+  
+ “One of my colleagues told me it’s the grip for a two-seam cut fastball,” he said. 
+  
+ The work was led by scientists at his institute but involved researchers from Harvard, Princeton, Rockefeller University, the University of Southern California, the Pasteur Institute in France and elsewhere. 
+  
+ The next step, Dr. Farzan said, will be to test the compound in infected monkeys and see if it can stop the virus from replicating further, which is what antiretroviral medicines do. If that proves safe and effective, he said, he hopes to start human trials in three stages. 
+  
+ In the first, humans would be injected every few weeks with just the antibody-like protein, not with the vector that stimulates muscle cells to produce it. If that were successful, the vector would be injected into humans who already have H.I.V. but are not taking antiretroviral pills because they refuse, forget or experience bad side effects. 
+  
+ Finally, the compound would be given to healthy people at high risk — such as gay men who have frequent unprotected sex with strangers — to see if it protects them. 
+  
+ Advertisement Continue reading the main story 
+  
+ The new approach uses cutting-edge techniques that are not widely known, or even entirely understood, by the scientists experimenting with them. 
+  
+ Historically, vaccines have been made by killing or weakening whole viruses and injecting them; that stimulates the immune system to produce antibodies that recognize and attack the real virus when it arrives. 
+  
+ Photo 
+  
+ Newer vaccines splice genes for particular antibodies into other weakened viruses. Generally, the genes are carried into a cell by the virus, incorporated into the cell’s genome, and begin producing the necessary antibodies. 
+  
+ But this new method splices the desired gene into a stretch of DNA so short that it cannot function like a virus at all and does not deserve to be called one, Dr. Farzan said, who refers to it simply as “a gene therapy vector.” It does not integrate itself into the DNA of a cell or replicate itself. (Yet it is sometimes called an A.A.V., short for “adeno-associated virus,” even though that causes confusion, said Dr. Farzan.) 
+  
+ Nonetheless, injecting that vector into muscle stimulates cells to produce the antibody-like protein encoded by the gene. 
+  
+ Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters. 
+  
+ “Why? We’re not really able to answer that question,” Dr. Farzan said. “But it does.” 
+  
+ H.I.V. normally targets CD4 cells, white blood cells that act as the sentinels of the immune system. 
+  
+ The virus invades them by attaching its outer spikes — known as envelope proteins — to two different receptors on the outside of the cell. First it attaches to the CD4 receptor; that exposes the CCR5 receptor. Once attached to both, the virus can inject its RNA into the cell and hijack its inner machinery to produce more virus. 
+  
+ But the protein produced by Dr. Farzan, bent into its claw shape, blocks both the CD4-binding site and the CCR5-binding site. It does so in a very tight “match” difficult for the virus to block by means of “escape mutations” — changes in shape that partly prevent engineered antibodies from attaching. 
+  
+ “It fools the virus into thinking it’s interacting with a cell,” Dr. Farzan said. 
+  
+ Dr. Philip R. Johnson, director of the Children’s Hospital of Philadelphia Research Institute and the inventor of the vector that Dr. Farzan used, called the new approach “good stuff.” 
+  
+ “It appears to be as good as, if not better than, anything else that’s being tried,” he said. 
+  
+ Eventually, he said, he would like to see an approach that combined known antibodies and the new protein “so we could target two or three areas on the virus.” |||||
+
+Write a summary.

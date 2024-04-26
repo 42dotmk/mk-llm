@@ -1,0 +1,27 @@
+Reasoning and answer: Roy is 36 inches tall. Joe is 3 + 36 = 39 inches tall. Sara is 6 + 39 = 45 inches tall.
+The answer: 45
+What was the question?
+Question: Sara is 6 inches taller than her brother Joe. Joe is 3 inches taller than his friend Roy. If Roy is 36 inches tall, how tall is Sara?
+
+Writing out the full year uses 4 numbers so this takes 4 numbers * 6 fireworks per number = 24 fireworks. “HAPPY NEW YEAR” contains 12 letters so this takes 12 letters * 5 fireworks per letter = 60 fireworks. There is therefore a total of 24 + 60 = 84 fireworks lit at the start of the display. From the boxes, they lit another 50 boxes * 8 fireworks per box = 400 fireworks. So in total, the whole display uses 84 + 400 = 484 fireworks.
+The answer: 484
+Reverse engineering the question: A town is holding a fireworks display for New Year’s Eve. They light enough fireworks to show the full year then light enough fireworks to write “HAPPY NEW YEAR” in the sky. They then light another 50 boxes of fireworks as part of the display. Each box of fireworks contains 8 fireworks. If it takes 6 fireworks to display a number and 5 fireworks to display a letter, how many fireworks are lit during the display?
+
+Reasoning and answer: If Mark bought 50 cans of milk, the number of times Jennifer added 6 cans for every 5 that Mark bought is 50 / 5 = 10 times. The total number of additional cans she bought is 10 * 6 = 60 cans. If she initially had 40 cans, she went home with 40 + 60 = 100 cans of milk.
+The answer: 100
+What was the question?
+Question: Jennifer purchased 40 cans of milk at the store before meeting her classmate Mark, who was also buying milk. Jennifer bought 6 additional cans for every 5 cans Mark bought. If Mark purchased 50 cans, how many cans of milk did Jennifer bring home from the store?
+
+On the first day, the soup reduces down to 80 / 2 = 40 kg. On the second day, it reduces down to 40 / 2 = 20 kg. On the third day, it is reduced to 20 / 2 = 10 kg. And on the fourth day, it is finally down to 10 / 2 = 5 kg.
+The answer: 5
+Reverse engineering the question: Bobby made a big batch of soup weighing 80 kg. Each day the batch gets reduced by half. How many kg will it reach on the fourth day after he made the soup?
+
+Reasoning and answer: First, find the price of the sandwiches $5 per sandwich * 18 sandwiches = $90. Now add in the delivery fee $90 + $20 = $110. Now the tip $110 * 0.10 = $11. Add the tip to the price of the sandwiches $110 + $11 = $121 in total.
+The answer: 121
+What was the question?
+Question: Preston has a sandwich shop. He charges $5 for each sandwich. He also charges $20 for a delivery fee. Abra Company orders 18 sandwiches from Preston and also tips him 10%. How much total, in dollars, did Preston receive?
+
+Reasoning and answer: The amount of discount in the first store 950 x 6 / 100 = $57. So, the device costs 950 - 57 = $893 in the first store. The amount of discount in the second store is 920 x 5 / 100 = $46. So, the device costs 920 - 46 = $874 in the second store. The difference in price is 893 - 874 = $19.
+The answer: 19
+What was the question?
+Question:

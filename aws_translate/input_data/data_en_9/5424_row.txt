@@ -1,0 +1,27 @@
+Reasoning and answer: Initially, Louise's cart has toys worth 10 * 28 = 280 dollars. If Louise pays for the toys originally in her cart, her wallet will remain with 580 - 280 = 300 dollars. Dividing the remaining amount by the number of teddy bears gives 300 / 20 = 15 dollars.
+The answer: 15
+What was the question?
+Question: Louise is in a toy store. She already has 28 toys worth $10 each in her cart. On her way to the till she adds 20 teddy bears to the cart. If the $580 in Louise’s wallet is exactly enough to pay for all the toys, how much does each teddy bear cost?
+
+If Tenisha has 40 dogs, the number of female dogs is 60 / 100 * 40 = 24. 3 / 4 of the females give birth, meaning 3 / 4 * 24 = 18 female dogs gives birth to puppies. Since each dog that gave birth had 10 puppies, the number of puppies that were born is 18 * 10 = 180. After donating 130 puppies to the church, Tenisha remained with 180 - 130 = 50 puppies.
+The answer: 50
+Reverse engineering the question: Tenisha had 40 dogs that she kept at home as pets. If 60% of them are female, and 3/4 of the female gives birth to 10 puppies each, calculate the total number of puppies that Tenisha remains with after donating 130 puppies to the church.
+
+Reasoning and answer: The patch is 16 * 20 = 320 square feet. So he needs 320 / 4 = 80 patches. The first 10 patches cost 10 * 10 = $100. He gets a discount on the next 80 - 10 = 70 patches. They each cost 10 / 2 = $5. So in total they cost 70 * 5 = $350. That means in total he paid 100 + 350 = $450.
+The answer: 450
+What was the question?
+Question: James wants to build a 16-foot by 20-foot quilt. He uses patches that are each 4 square feet. The first 10 patches cost $10 each and then each patch after that cost half as much. How much do the patches for the quilt cost?
+
+With 3 times as many gold stripes as brown stripes, this means there are 3 * 4 = 12 gold stripes. With five times as many blue stripes as gold stripes, this means there are 5 * 12 = 60 blue stripes.
+The answer: 60
+Reverse engineering the question: Vaishali wears a beautiful piece of clothing called a Saree, a traditional Indian dress for women. It is mostly tangerine-colored, with blue, brown, and gold-colored decorative stripes. There are three times as many gold stripes as brown stripes, and five times as many blue stripes as gold stripes. If there are 4 brown stripes, how many blue stripes does Vaishali's Saree have?
+
+Reasoning and answer: We don't know Yasmin's number of children yet, but let's represent it as Y. If John has twice the number of children Yasmin has, then John has 2 * Y = 2Y kids. If Gabriel has 6 grandkids between John's and Yasmin's children, then we can represent this as 6 = 2Y + Y. If we solve the latest equation then we learn that 6 = 3Y. Given that Y represents how many kids Yasmin has, then solving for Y we know that Y = 6 / 3 or Y = 2 kids.
+The answer: 2
+What was the question?
+Question: John and Yasmin's dad is named Gabriel. If John has twice the number of children that her sister has and Gabriel has six grandkids, how many children does Yasmin have?
+
+Reasoning and answer: First find how many pearls Jamie collects per dive by multiplying the number of oysters by the chance each oyster has a pearl: .25 pearls / oyster * 16 oysters / dive = 4 pearls / dive. Then divide the number of pearls he wants by the number of pearls per dive to find the number of dives: 56 pearls / 4 pearls / dive = 14 pearls / dive.
+The answer: 14
+What was the question?
+Question:

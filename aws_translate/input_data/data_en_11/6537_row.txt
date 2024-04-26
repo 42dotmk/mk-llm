@@ -1,0 +1,31 @@
+Write a title for this article:
+
+Researchers have combed beaches and ocean floors looking for compounds that can be effective antibiotics, a process that's assumed greater urgency as untreatable superbugs appear more frequently. Now they’re targeting a new location: your nose.
+
+Scientists at the University of Tübingen in Germany have found an antibiotic made by a nasal bacterium that can kill Staphylococcus aureus, the source of many human infections. Existing antibiotics have been unable to kill its various strains, most notably MRSA, which can cause deadly sepsis and pneumonia.
+
+This gives the new antibiotic, which they call lugdunin, the potential to aid new treatments of bacterial infections.
+
+Lugdunin has been shown to fight a range of bacteria and treat skin infections in mice, according to an article published on Wednesday in the scientific journal Nature. Not only does it combat MRSA, it does so while being less likely to cause a patient to develop resistance. Overuse of antibiotics has played an outsized role in making such drugs ineffective for a broad swath of existing treatments.
+
+As part of their discovery, the authors also illustrate a novel method of using human microorganisms to develop antibiotics.
+
+“We’ve come up with a new concept,” said Andreas Peschel, one of the paper's 17 authors. “It was totally unexpected to find a human-associated bacterium to produce a real antibiotic.”
+
+Antibiotic-resistant strains of bacteria such as MRSA, which kills 20,000 Americans each year, are of growing concern for clinicians and microbiologists because of their ability to lead to pandemics.
+
+Superbugs already kill 700,000 people around the world annually, a number that researchers predict (PDF) could reach 10 million by 2050.
+
+“It’s such a huge problem that we expect in 10 years more people to die from these diseases than cancer,” Peschel said of diseases such as those derived from MRSA.
+
+The authors of the new study looked at nasal swabs from 187 hospital patients and found that only 5.9 percent of those with the Staphylococcus lugdunensis bacterium, which produces lugdunin, also had the unwanted Staphylococcus aureus. By comparison, some 34.7 percent of patients who didn't have the lugdunin-producing bacterium had Staphylococcus aureus. Additionally, researchers showed that, within 72 hours of its introduction, lugdunin led to a strong reduction or killed Staphylococcus aureus on the surface and in deeper layers of the skin of most mice.
+
+The authors said they're unsure how Staphylococcus aureus could become resistant to lugdunin. Peschel said, based on their findings, that such resistance “seems very difficult, if not impossible.”
+
+Another advantage of the antibiotic is that it keeps its full activity within the human body, said co-author Bernhard Krismer, potentially making it more effective than compounds derived elsewhere. However, there's a drawback: Since it's the first non-ribosomal peptide antibiotic, meaning that it is not synthesized using DNA or RNA, scientists would have a more difficult time modifying it for research or drug development.
+
+Peschel said that researchers have filed a patent application to begin negotiations with pharmaceutical companies, though they're several years from starting clinical trials.
+
+While a new antibiotic is always welcome in these times of diminishing drug effectiveness, what may be more important is the discovery that the tools to fight fearsome superbugs could lie within our own bodies. “We are sure there will be additional antibiotics that can be discovered from these sources,” Peschel said.
+
+Title:

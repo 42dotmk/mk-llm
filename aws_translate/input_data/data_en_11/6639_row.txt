@@ -1,0 +1,26 @@
+Choose the next sentence for this paragraph.
+
+They're three of the world's biggest superstars -- but few would have expected to see them together taking in a football match in Paris. Beyonce and her husband Jay-Z were the stars of the show in the French capital on Tuesday night after turning out to watch Paris Saint-Germain's stunning 3-2 win over Barcelona in the Champions League. While Lionel Messi and Neymar were busy scoring goals for Barca, in a losing cause, it was the celebrities in the stand which were capturing the attention of the photographers by the field. Most tourists visit the Eiffel Tower or take a stroll down the Champs Elysees, but Beyonce and her husband looked quite at home in the company of Beckham.
+
+
+
+OPTIONS:
+- Barca, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Barcelona, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Bayern Munich, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Beckham, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Beyonce, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- CSKA, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Champions League, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Champs Elysees, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Eiffel Tower, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- French, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Jay-Z, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Lionel Messi, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Manchester City, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Moscow, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Neymar, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- PSG, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Paris, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Paris Saint-Germain, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.
+- Roma, who retired from football following a five-month spell with PSG in 2013, watched on as his former teammates claimed an impressive victory.

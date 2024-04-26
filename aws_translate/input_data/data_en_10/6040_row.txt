@@ -1,0 +1,29 @@
+Article:But four-wheel drive vehicle, Idris, has been programmed to do just that by experts at Aberystwyth University's intelligent robotics group.
+The electric four-wheeler, about the size of an Austin Mini, can pursue people, vehicles or anything it can "see".
+As part of a series looking at robotics, BBC Wales finds out about the software which makes 400kg Idris run and why it could be very useful.
+Dr Frederic Labrosse, who wrote much of the software, has acted as quarry for the all-terrain robot, walking ahead while it follows. He admits it can be "disconcerting".
+"It's scary at some point, but you've got to trust the software. The problem is the faster you go, the faster it goes. So, you cannot escape, basically," he said.
+"The trick is just to jump in front of it and that trips all of the safety devices and that will stop the robot."
+Of course, in reality Idris is not as menacing or sinister as the concept might suggest, in spite of its detachable mechanical arm and gripper.
+It is currently programmed to move no faster than 10 mph and halts whenever its laser scanners detect an obstruction.
+Dr Labrosse said the main application would be for convoying, where a series of automated vehicles are led by a human driver or a smarter robot at the front.
+In this way, the robots could be sent to places where its not desirable to have many people, such as war zones, areas used for mining and anywhere hit by a disaster.
+The Idris platform was bought by the university from a French company for about Â£96,000 (130,000 euros) 10 years ago.
+Using programming developed at the university, the robot was used to laser-scan a disused part of the Vivian quarry, in Llanberis, Gwynedd, for the Royal Commission of Ancient and Historical Monuments of Wales.
+The vehicle has a number of cameras to take in its surroundings.
+But how does Idris "see" what it's tracking and differentiate it from everything else?
+"Idris doesn't really recognise what it's supposed to follow," Dr Labrosse said.
+"We give it an image of the object to follow and it just tries to find the same pixels or similar pixels in the image (it takes in).
+"So, it does not know that what it follows is a person or a car or whatever. It does not recognise in that way we as human beings would do."
+But what about the most important question?
+"Does it work? Sometimes well, sometimes not so well," Dr Labrosse said.
+During a demonstration for the BBC, co-ordinator of the intelligent robotics group Dr Mark Neal was enlisted as the "object" for Idris follow around a small lake while he wore a fluorescent bib.
+Idris sounded "target found" when it detected the hi-visibility bib, which had been programmed in as its leader. It then followed Dr Neal along a rough path.
+At points when the light changed or when Dr Neal left its field of vision, Idris said "target lost... lost... target definitely lost" and halted.
+However, Dr Labrosse said adjustments to its software will improve performance.
+The machine has already been made to follow Dr Neal's car over a considerable distance and has negotiated a cattle grid while driving on its own automated route without a target.
+But Dr Labrosse is not content with the stark image of a robotised vehicle on Land Rover wheels rolling over the Ceredigion countryside, unnerving the sheep on a nearby hill.
+"It could be a flying vehicle, for example," he said. "We're doing applications where we have flying robots that automatically follow a vehicle or a boat on the ground."
+By Michael Burgess and Philip John
+
+A summary of the above article is?

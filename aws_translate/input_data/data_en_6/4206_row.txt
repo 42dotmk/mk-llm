@@ -1,0 +1,19 @@
+Question: Passage: The geology of the Grand Canyon area includes one of the most complete and studied sequences of rock on Earth. The nearly 40 major sedimentary rock layers exposed in the Grand Canyon and in the Grand Canyon National Park area range in age from about 200 million to nearly 2 billion years old. Most were deposited in warm, shallow seas and near ancient, long-gone sea shores in western North America. Both marine and terrestrial sediments are represented, including fossilized sand dunes from an extinct desert. There are at least 14 known unconformities in the geologic record found in the Grand Canyon.
+
+Question: Based on this passage, what type of rock makes up the grand canyon?
+Answer: To answer the above question, the relevant sentence is: The nearly 40 major sedimentary rock layers exposed in the Grand Canyon and in the Grand Canyon National Park area range in age from about 200 million to nearly 2 billion years old. The answer is sedimentary rock.
+
+Question: If a player is claimed and the waiving team exercises its rescission option, the waiving team may not use the option again for that player in that season -- a subsequent waiver would be irrevocable with a claiming team getting the player essentially for nothing. If no team claims a player off waivers after three business days, the player has cleared waivers and may be assigned to a minor league team, traded (to any team), or released outright.
+
+How long is a player on waivers in mlb?
+Answer: The relevant information to answer the above question is: If no team claims a player off waivers after three business days, the player has cleared waivers and may be assigned to a minor league team, traded (to any team), or released outright. The answer is three business days.
+
+Question: Context: The Ed Sullivan Show is especially known to the World War II and baby boomer generations for introducing acts and airing breakthrough performances by popular 1950s and 1960s musicians such as Elvis Presley, The Beatles, The Supremes, The Dave Clark Five, The Animals, The Beach Boys, The Jackson 5, Janis Joplin, The Rolling Stones, The Mamas & the Papas, The Lovin' Spoonful, Herman's Hermits, The Doors, and The Band. The Canadian comedy duo Wayne and Shuster appeared on the program 67 times, a record for any performer.
+
+Question: who made the most appearances on the ed sullivan show?
+Answer: To answer the question, consider the following: The Canadian comedy duo Wayne and Shuster appeared on the program 67 times, a record for any performer. The answer is The Canadian comedy duo Wayne and Shuster.
+
+Question: Leila Seth (20 October 1930 -- 5 May 2017) was the first woman judge on the Delhi High Court and she became the first woman to become Chief Justice of a state High Court on 5 August 1991. She sat on a number of enquiry commissions, including one into the death of' Biscuit Baron' Rajan Pillai, and was also a part of the three-member bench of the Justice Verma Committee that was established to overhaul India's rape laws in the aftermath of the infamous 2012 Delhi gang-rape case. She was a member of the 15th Law Commission of India from 1997 to 2000, and was responsible for the amendments to the Hindu Succession Act that gave equal rights to daughters in joint family property.
+
+Answer this question: who was the first woman judge to be appointed chief justice of a high court?
+Answer:

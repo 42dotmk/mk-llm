@@ -1,0 +1,24 @@
+Find the right ending to this passage.
+
+(CNN) -- In 2003, former newspaper editor Ali Reza Eshraghi made a mistake that cost him his freedom: he published a cartoon. The sketch in question, a drawing from 1937 depicting U.S. President Franklin Roosevelt's pressure on the U.S. Supreme Court, seemed an innocuous choice for the Iranian newspaper, Hayat No. But Iran's Special Court for the Clergy disagreed. According to Reporters Without Borders it ruled that that the cartoon's depiction of Roosevelt looked suspiciously like the Islamic Republic's founder Ayatollah Khomeini and was insulting to his memory. The court shut down Hayat No, and Eshraghi spent nearly two months in prison.
+
+"Over the past ten years I've been working as a journalist both in
+
+OPTIONS:
+- Ali Reza Eshraghi and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Arabic and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Ayatollah Khomeini and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- CNN and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Dean Obeidallah and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Eshraghi and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Franklin Roosevelt and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Hayat No and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Hayat No. and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Iran and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Iranian and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Islamic Republic and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Reporters Without Borders and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Roosevelt and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Special Court for the Clergy and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- Supreme Court and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.
+- U.S. and out of Iran, and I've seen political cartoons have a very strong impact on political discussions and social discussions," he explained.

@@ -1,0 +1,21 @@
+Choose the next sentence for this paragraph.
+
+By Ted Thornhill and Reuters The trial in China of a British corporate investigator and his American wife and business partner arrested a year ago after they did work for GlaxoSmithKline PLC will be closed to the public, two family friends with knowledge of the matter said. The detention of Peter Humphrey and Yu Yingzeng has sent shockwaves through the foreign business community. For years, the community has relied on investigative firms such as the couple's Shanghai-based company ChinaWhys to better understand the Chinese business environment. In April 2013, GSK employed ChinaWhys to investigate an ex-employee suspected of sending anonymous emails, including the circulation of an intimate video of former GSK China head Mark Reilly with his girlfriend, as well as emails containing allegations of widespread bribery at the British drugmaker.
+
+
+
+OPTIONS:
+- American authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- British authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- China authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- ChinaWhys authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Chinese authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- GSK authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- GSK China authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- GlaxoSmithKline PLC authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Mark Reilly authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Peter Humphrey authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Reuters authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Shanghai authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Ted Thornhill authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.
+- Yu Yingzeng authorities last month charged Reilly and other colleagues with corruption, after a government investigation found the firm made billions of yuan from elaborate schemes to bribe doctors.

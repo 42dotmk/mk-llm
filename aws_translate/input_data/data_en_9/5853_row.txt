@@ -1,0 +1,23 @@
+Summarize this article in one sentence.
+
+Bitcoins have almost tripled in value in a month. In late February one bitcoin was worth Â£22 ($33) but now each one sells for about Â£60 ($90).
+Thieves who run networks of hijacked PCs are increasingly using these machines to create or "mine" the coins.
+But bitcoin miners say thieves will struggle to keep up, as coin-generating technology becomes more sophisticated.
+As a virtual currency, bitcoins depend on a wide network of closely connected computers to log who holds the coins and where they are spent.
+That network also shares information about who is "mining" the coins.
+Mining involves solving a hard mathematical problem and miners typically use large numbers of computers to speed up the number crunching involved.
+"Botnet mining is fundamentally theft of private property, illegal and unethical," Jeff Garzik, a bitcoin developer told the BBC, adding that bitcoin miners had battled botnets for years, seeing them as a "cost and a burden" they just had to deal with.
+Many cyber-thieves who control botnets, large networks of home PCs compromised with a virus, were using them as a dedicated mining pool in a bid to generate bitcoins for themselves, said Derek Manky, senior security strategist at Fortinet.
+The operators of one of the biggest current botnets, known as ZeroAccess, had recently ramped up their efforts to use machines they control to mine bitcoins, he said, adding that millions of infected PCs were unwittingly enrolled in the criminal network.
+"ZeroAccess has employed an affiliate model," he said. "They pay other people to install malware for them."
+The operators of ZeroAccess were making so much money that they were paying high prices for each infection. Current rates ran at about $100 (Â£65) for every 1,000 infections, said Mr Manky.
+As well as mining bitcoins, PCs enrolled in ZeroAccess were also being used to poison search results - to cause users to unwittingly click on booby-trapped web pages - or fraudulently click on adverts to generate revenue.
+"ZeroAccess has been extremely profitable," said Mr Manky.
+The wider bitcoin community was aware of the efforts botnet owners were making to produce their own cash, said Mr Manky.
+"They try to detect and remove these transactions but it's a bit of a cat and mouse game," he said. "The operators of ZeroAccess know about that and just change their tactics."
+However, said Mr Garzik, criminal participation in bitcoin mining was likely to get much less profitable as professional miners turned away from using desktop PCs to generate the coins.
+Increasingly, he said, professional miners were using custom-made chips, called Asics (Application-Specific Integrated Circuits), to mine because such processors worked faster.
+"It is theorised that the current shift in bitcoin mining to 'Asic' miners - the fastest and most advanced generation - will simply make it unprofitable for botnet miners," said Mr Garzik.
+Vitalik Buterin, technical editor at Bitcoin Magazine, said the the rise of Asic mining meant cyber-thieves would soon be pushed out.
+Currently, he said, only about one-third of all professional miners were using Asics, but as that proportion grew, the number of bitcoins that could be generated with a botnet would shrink.
+"The fact that botnets are (somewhat) viable now is basically an aberration resulting from the massive price increase that has not yet been matched by increased mining activity," he said. " Once Bitcoin stabilises again the botnets will rapidly crawl back into the shadows."

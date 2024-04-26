@@ -1,0 +1,19 @@
+Question: "The Greatest Love of All" is a song written by songwriters Michael Masser, who composed the music, and Linda Creed, who wrote the lyrics. It was originally recorded in 1977 by American singer and guitarist George Benson, who made the song a substantial hit, peaking at number 2 on the US R&B chart that year, the first R&B chart Top Ten hit for Arista Records. The song was written and recorded to be the main theme of the 1977 film The Greatest, a biopic of the boxer Muhammad Ali. Eight years after Benson's original recording, the song became even more well known for a version by Whitney Houston, whose 1985 cover (with the slightly amended title "Greatest Love of All") eventually topped the charts, peaking at number 1 in Australia, Canada, U.S. and on the US R&B chart in 1986.
+
+Based on this passage, who wrote the song the greatest love of all?
+Answer: The relevant sentence in the passage is: "The Greatest Love of All" is a song written by songwriters Michael Masser, who composed the music, and Linda Creed, who wrote the lyrics. The answer is songwriters Michael Masser , who composed the music , and Linda Creed , who wrote the lyrics.
+
+Question: Stone Mountain is a pluton, a type of igneous intrusion. Primarily composed of quartz monzonite, the dome of Stone Mountain was formed during the formation of the Blue Ridge Mountains around 300 -- 350 million years ago (during the Carboniferous period), part of the Appalachian Mountains. It formed as a result of the upwelling of magma from within the Earth's crust. This magma solidified to form granite within the crust five to ten miles below the surface.
+
+Answer this question based on the passage: what type of geologic feature is stone mountain?
+Answer: To answer the above question, the relevant sentence is: Stone Mountain is a pluton, a type of igneous intrusion. The answer is a pluton , a type of igneous intrusion.
+
+Question: Mucus (/ ˈmjuːkəs / MEW-kəss) is a slippery aqueous secretion produced by, and covering, mucous membranes. It is typically produced from cells found in mucous glands, although it may also originate from mixed glands, which contain both serous and mucous cells. It is a viscous colloid containing inorganic salts, antiseptic enzymes (such as lysozymes), immunoglobulins, and glycoproteins such as lactoferrin and mucins, which are produced by goblet cells in the mucous membranes and submucosal glands. Mucus serves to protect epithelial cells (that line the tubes) in the respiratory, gastrointestinal, urogenital, visual, and auditory systems; the epidermis in amphibians; and the gills in fish, against infectious agents such as fungi, bacteria and viruses. The average human nose produces about a liter of mucus per day. Most of the mucus produced is in the gastrointestinal tract.
+
+Answer this question: what role does mucus play in the respiratory system?
+Answer: To answer the above question, the relevant sentence is: Mucus serves to protect epithelial cells (that line the tubes) in the respiratory, gastrointestinal, urogenital, visual, and auditory systems; the epidermis in amphibians; and the gills in fish, against infectious agents such as fungi, bacteria and viruses. The answer is serves to protect epithelial cells.
+
+Question: Galvanization (or galvanizing as it is most commonly called in that industry) is the process of applying a protective zinc coating to steel or iron, to prevent rusting. The most common method is hot-dip galvanizing, in which parts are submerged in a bath of molten zinc.
+
+Iron nails to be used outdoors are coated with this to prevent the iron from rusting?
+Answer:

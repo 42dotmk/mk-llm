@@ -1,0 +1,19 @@
+Q: The American Paint Horse is a breed of horse that combines both the conformational characteristics of a western stock horse with a pinto spotting pattern of white and dark coat colors. Developed from a base of spotted horses with Quarter Horse and Thoroughbred bloodlines, the American Paint Horse Association (APHA) breed registry is now one of the largest in North America. The registry allows some non-spotted animals to be registered as "Solid Paint Bred" and considers the American Paint Horse to be a horse breed with distinct characteristics, not merely a color breed.
+
+Answer this question based on the passage: where did the american paint horse originate from?
+A: Developed from a base of spotted horses with Quarter Horse and Thoroughbred bloodlines. How to explain the answer? The important part for answering this question is: Developed from a base of spotted horses with Quarter Horse and Thoroughbred bloodlines, the American Paint Horse Association (APHA) breed registry is now one of the largest in North America.
+
+Q: Passage: An oxbow lake is a U-shaped lake that forms when a wide meander from the main stem of a river is cut off, creating a free-standing body of water. This landform is so named for its distinctive curved shape, resembling the bow pin of an oxbow. In Australia, an oxbow lake is known as a billabong, from the indigenous Wiradjuri language. In south Texas, oxbows left by the Rio Grande are called resacas.'
+
+Question: Based on this passage, in which course of the river are oxbow lakes formed?
+A: when a wide meander from the main stem of a river is cut off , creating a free - standing body of water. How to explain the answer? To answer the above question, the relevant sentence is: An oxbow lake is a U-shaped lake that forms when a wide meander from the main stem of a river is cut off, creating a free-standing body of water.
+
+Q: Context: In Greek mythology, the Golden Fleece (Greek: χρυσόμαλλον δέρας chrysómallon déras) is the fleece of the gold-haired winged ram, which was held in Colchis. The fleece is a symbol of authority and kingship. It figures in the tale of the hero Jason and his crew of Argonauts, who set out on a quest for the fleece by order of King Pelias, in order to place Jason rightfully on the throne of Iolcus in Thessaly. Through the help of Medea, they acquire the Golden Fleece. The story is of great antiquity and was current in the time of Homer (eighth century BC). It survives in various forms, among which the details vary.
+
+Question: who led the argonauts in search of the golden fleece?
+A: the hero Jason. How to explain the answer? The relevant sentence in the passage is: It figures in the tale of the hero Jason and his crew of Argonauts, who set out on a quest for the fleece by order of King Pelias, in order to place Jason rightfully on the throne of Iolcus in Thessaly.
+
+Q: "I'm Lovin' It" is a song recorded by American singer-songwriter Justin Timberlake. The song was produced by The Neptunes and is credited as being written by Pharrell Williams, Tom Batoy, Andreas Forberger and Franco Tortora.
+
+Answer this question based on the passage: who has sung the mcdonald's jingle i am loving it?
+A:

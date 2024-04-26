@@ -1,0 +1,27 @@
+Reasoning and answer: There were 50 x 3 = 150 tadpoles. There are 50 - 7 = 43 fish left in the pond. There are 150 / 2 = 75 tadpoles left in the pond. There are 75 - 43 = 32 more tadpoles than fish in the pond now.
+The answer: 32
+What was the question?
+Question: There were 50 fish in a pond and 3 times as many tadpoles. If Curtis catches 7 fish and half the tadpoles develop into frogs, how many more tadpoles than fish are there in the pond now?
+
+Nate had read 400 x 20 / 100 = 80 pages. So, he still needs to read 400 - 80 = 320 pages to finish the book.
+The answer: 320
+Reverse engineering the question: Nate is reading a 400-page book. He finished reading 20% of the book. How many pages does he need to read to finish the book?
+
+Reasoning and answer: Half the number of shows is 10 / 2 = 5 seasons. So the first 5 seasons contributed 5 * 20 = 100 episodes. The second 5 seasons contributed 5 * 25 = 125 episodes. So there were a total of 100 + 125 = 225 episodes.
+The answer: 225
+What was the question?
+Question: The show Magic King was on the air for 10 seasons and 20 episodes per season for the first half of seasons and 25 for the second half of the show. How many total episodes were there?
+
+After 20 new students joined the class at the start of the school year, the number of students increased to 160 + 20 = 180. However, at the end of the year, 1 / 3 * 180 = 60 students had transferred from the school. The total number of students remaining in the school at the end of the year is 180 - 60 = 120.
+The answer: 120
+Reverse engineering the question: When the schools were opened for the new year, Hendrix's class had 20 new students. However, at the end of the school year, 1/3 of the students in Hendrix class had transferred to other schools. If the number of students that were in Hendrix's class before 20 new students joined was 160, calculate the number of students that were in the class at the end of the year.
+
+Reasoning and answer: First find the amount of material needed for one skirt: 12 feet * 4 feet = 48 square feet. Then multiply that number by the number of skirts to find the total material used on the skirts: 48 square feet / skirt * 3 skirts = 144 square feet. Then find the total amount of material she uses for the sleeves: 5 square feet / sleeve * 2 sleeves = 10 square feet. Then add the amount of material she uses for each part of the dress to find the total amount of material: 10 square feet + 144 square feet + 2 square feet = 156 square feet. Then multiply the total amount of material by the cost per square foot to find the total cost: 156 square feet * $3 / square foot = $468.
+The answer: 468
+What was the question?
+Question: Jenna is making a costume for her role in Oliver Twist. She needs to make an overskirt and two petticoats. Each skirt uses a rectangle of material that measures 12 feet by 4 feet. She also needs to make a bodice that uses 2 square feet of material for the shirt and 5 square feet of fabric for each of the sleeves. If the material she uses costs $3 per square foot, how much does she spend on the material in total?
+
+Reasoning and answer: Last week Maya read 5 * 300 = 1500 pages of text. This week she doubled the result, so she read 2 * 1500 = 3000 pages. In total Maya read 1500 + 3000 = 4500 pages of text.
+The answer: 4500
+What was the question?
+Question:

@@ -1,0 +1,29 @@
+## question
+Passage: Kyla Pratt -- Penny Proud Tommy Davidson -- Oscar Proud Paula Jai Parker -- Trudy Proud Jo Marie Payton -- Suga Mama Tara Strong -- Bebe Proud / Cece Proud / Cashew Orlando Brown -- Sticky Webb Jeff Bennett -- Mr. Bufferman Soleil Moon Frye -- Zoey Howser Alisa Reyes -- LaCienega Boulevardez Karen Malina White -- Dijonay Jones Omarion -- 15 Cent LisaRaye McCoy -- Choreographer Arsenio Hall -- Dr. Carver / Bobby Proud Jeremy Suarez -- Wally Carlos Alazraqui -- Puff / Board Member Billy West-Board Member / Cab Driver Carlos Mencia-Felix Boulevardez Maria Canals-Sunset Boulevardez Alvaro Guttierez -- Papi Phil LaMarr -- Dr. Carver in Disguise / Board Member Aries Spears -- Wizard Kelly / Board Member Keith David -- Bebe Proud Clone Kevin Michael Richardson -- Mangler Mania / Bobo the Sea Beast Masi Oka-Japanese Kid / Announcer
+
+Question: Based on this passage, who plays 15 cent in the proud family movie?
+## answer
+This is the relevant information: Omarion -- 15 Cent
+So the answer must be Omarion
+
+## question
+A quorum of justices to hear and decide a case is six. If, through recusals or vacancies, fewer than six justices can participate in a case, and a majority of qualified justices determines that the case can not be heard in the next term, then the decision of the court below is affirmed as if the Court had been equally divided on the case. An exception exists when this situation arises in one of the now-rare cases brought directly to the Supreme Court on appeal from a United States District Court; in this situation, the case is referred to the U.S. Court of Appeals for the corresponding circuit for a final decision there by either the Court of Appeals sitting en banc, or a panel consisting of the three most senior active circuit judges.
+
+A quorum for a decision in the supreme court is?
+## answer
+The relevant information to answer the above question is: A quorum of justices to hear and decide a case is six.
+So the answer must be six
+
+## question
+Ruthenium is a chemical element with symbol Ru and atomic number 44. It is a rare transition metal belonging to the platinum group of the periodic table. Like the other metals of the platinum group, ruthenium is inert to most other chemicals. The Russian-born scientist of Baltic-German ancestry and a member of the Russian Academy of Science Karl Ernst Claus discovered the element in 1844 at Kazan State University in Russia and named it after the Latin name of his homeland, Rus. Ruthenium is usually found as a minor component of platinum ores; the annual production is about 20 tonnes. Most ruthenium produced is used in wear-resistant electrical contacts and thick-film resistors. A minor application for ruthenium is in platinum alloys and as a chemistry catalyst.
+
+Answer this question based on the passage: where is ruthenium found on the periodic table?
+## answer
+To answer the above question, the relevant sentence is: It is a rare transition metal belonging to the platinum group of the periodic table.
+So the answer must be the platinum group
+
+## question
+Context: "What Was I Thinkin"' is a song co-written and recorded by American country music artist Dierks Bentley. It was released in April 2003 as the first single from his self-titled debut album. The song became his first number one hit on the U.S. Billboard Hot Country Songs charts in September 2003.
+
+Question: who sings the song what was i thinking?
+## answer

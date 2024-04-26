@@ -1,0 +1,28 @@
+Student A:The American System was an economic plan that played a prominent role in American policy during the first half of the 19th century. Rooted in the "American School" ideas of Alexander Hamilton, the plan "consisted of three mutually reinforcing parts: a tariff to protect and promote American industry; a national bank to foster commerce; and federal subsidies for roads, canals, and other' internal improvements' to develop profitable markets for agriculture". Congressman Henry Clay was the plan's foremost proponent and the first to refer to it as the "American System".
+
+Based on this passage, what were the major components of clays american system?
+Student B:OK... The relevant sentence in the passage is: Rooted in the "American School" ideas of Alexander Hamilton, the plan "consisted of three mutually reinforcing parts: a tariff to protect and promote American industry; a national bank to foster commerce; and federal subsidies for roads, canals, and other' internal improvements' to develop profitable markets for agriculture".
+a tariff to protect and promote American industry.
+
+Problem:Kuala Lumpur International Airport (KLIA) (Malay: Lapangan Terbang Antarabangsa Kuala Lumpur) (IATA: KUL, ICAO: WMKK) is Malaysia's main international airport and one of the major airports in South East Asia. It is located in Sepang district of Selangor, approximately 45 kilometres (28 mi) south of Kuala Lumpur city centre and serves the Greater Klang Valley conurbation.
+
+Based on this passage, what is the name of kuala lumpur international airport?
+Solution:OK... To answer the question, consider the following: Kuala Lumpur International Airport (KLIA) (Malay: Lapangan Terbang Antarabangsa Kuala Lumpur) (IATA: KUL, ICAO: WMKK) is Malaysia's main international airport and one of the major airports in South East Asia.
+Lapangan Terbang Antarabangsa Kuala Lumpur.
+
+Student A:Passage: "Sweet Dreams (Are Made of This)" is a song written and performed by the British new wave music duo Eurythmics. The song is the title track of their album of the same name and was released as the fourth and final single from the album in early 1983. The song became their breakthrough hit, establishing the duo worldwide. Its music video helped to propel the song to number 2 on the UK Singles Chart and number 1 on the US Billboard Hot 100. It was the first single released by Eurythmics in the US.
+
+Question: Based on this passage, when did sweet dreams are made of this come out?
+Student B:OK... The relevant information is: The song is the title track of their album of the same name and was released as the fourth and final single from the album in early 1983.
+early 1983.
+
+Problem:Context: When unspecified, a pyramid is usually assumed to be a regular square pyramid, like the physical pyramid structures. A triangle-based pyramid is more often called a tetrahedron.
+
+Question: what do you call a pyramid with a triangular base?
+Solution:OK... The relevant sentence in the passage is: A triangle-based pyramid is more often called a tetrahedron.
+a tetrahedron.
+
+Student A:Passage: Established in 1872, the Cape of Good Hope SPCA (Society for the Prevention of Cruelty to Animals) in Cape Town is the founding society of the SPCA movement in South Africa and is the oldest animal welfare organisation in the country. A registered non-profit organisation and Public Benefit Organisation, the society is affiliated to the Royal Society for the Protection of Animals (RSPCA) and are Executive Members of the National Council of SPCAs South Africa (NSPCA), as well as a member of the World Animal Protection organization.
+
+Question: Based on this passage, when was the spca established in south africa?
+Student B:

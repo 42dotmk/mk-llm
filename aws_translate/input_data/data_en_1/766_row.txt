@@ -1,0 +1,25 @@
+q... Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009. The engine is rated at 240 PS (177 kW; 237 hp) and 550 N ⋅ m (410 lb ⋅ ft) of torque. The car was unveiled in 2009 Geneva Motor Show. The diesel can accelerate from 0 -- 60 mph in 9.2 seconds.
+
+Answer this question: what engine is in the porsche cayenne diesel?
+a... To answer the above question, the relevant sentence is: Porsche has sold a diesel version of the Cayenne powered by a 3.0-L V6 TDI engine since February 2009.
+The answer is a 3.0 - L V6 TDI engine
+
+
+q... Marie Van Brittan Brown (October 30, 1922 -- February 2, 1999) was an African-American inventor, becoming the originator of the home security system (U.S. Patent 3,482,037) in 1966, along with her husband Albert Brown, a patent was granted in 1969. Brown was born in Jamaica, Queens, New York; she died there at the age of 76.
+
+Answer this question: when was the first home security system invented?
+a... This is the relevant information: Marie Van Brittan Brown (October 30, 1922 -- February 2, 1999) was an African-American inventor, becoming the originator of the home security system (U.S. Patent 3,482,037) in 1966, along with her husband Albert Brown, a patent was granted in 1969.
+The answer is 1966
+
+
+q... Hurricane Andrew was a Category 5 Atlantic hurricane that struck the Bahamas and Florida in mid-August 1992, the most destructive hurricane to ever hit the state. It was the strongest in decades and the costliest hurricane to make landfall anywhere in the United States until it was surpassed by Katrina in 2005. Andrew caused major damage in the Bahamas and Louisiana, but the greatest impact was felt in South Florida, with sustained wind speeds as high as 165 mph (270 km / h). Passing directly through the city of Homestead in Dade County (now known as Miami-Dade County), it stripped many homes of all but their concrete foundations. In total, it destroyed more than 63,500 houses, damaged more than 124,000 others, caused $26.5 billion in damage, and left 65 people dead.
+
+Answer this question based on the passage: what was the death toll for hurricane andrew?
+a... To answer the above question, the relevant sentence is: In total, it destroyed more than 63,500 houses, damaged more than 124,000 others, caused $26.5 billion in damage, and left 65 people dead.
+The answer is 65
+
+
+q... Context: The Second Continental Congress was a convention of delegates from the Thirteen Colonies that started meeting in the spring of 1775 in Philadelphia, Pennsylvania. It succeeded the First Continental Congress, which met in Philadelphia between September 5, 1774 and October 26, 1774. The Second Congress managed the Colonial war effort and moved incrementally towards independence, adopting the United States Declaration of Independence on July 4, 1776. The Congress acted as the de facto national government of what became the United States by raising armies, directing strategy, appointing diplomats, and making formal treaties such as the Olive Branch Petition.
+
+Question: in which major colonial city did the second continental congress meet?
+a...

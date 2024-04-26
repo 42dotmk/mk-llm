@@ -1,0 +1,16 @@
+Problem:On March 23, 1971, a proposal to lower the voting age to 18 years was adopted by both houses of Congress and sent to the states for ratification. The amendment became part of the Constitution on July 1, 1971, three months and eight days after the amendment was submitted to the states for ratification, making this amendment the quickest to be ratified.
+
+Answer this question based on the passage: when did 18 year olds get the right to vote in the us?
+Solution:OK... The relevant information is: On March 23, 1971, a proposal to lower the voting age to 18 years was adopted by both houses of Congress and sent to the states for ratification.
+March 23 , 1971.
+
+Problem:On November 7, 2016, debt held by the public was $14.3 trillion or about 76 % of the previous 12 months of GDP. Intragovernmental holdings stood at $5.4 trillion, giving a combined total gross national debt of $19.8 trillion or about 106 % of the previous 12 months of GDP; $6.2 trillion or approximately 45 % of the debt held by the public was owned by foreign investors, the largest of which were Japan and China at about $1.09 trillion for Japan and $1.06 trillion for China as of December 2016.
+
+Answer this question: what is the current amount of the us national debt?
+Solution:OK... The important part for answering this question is: Intragovernmental holdings stood at $5.4 trillion, giving a combined total gross national debt of $19.8 trillion or about 106 % of the previous 12 months of GDP; $6.2 trillion or approximately 45 % of the debt held by the public was owned by foreign investors, the largest of which were Japan and China at about $1.09 trillion for Japan and $1.06 trillion for China as of December 2016.
+$19.8 trillion.
+
+Problem:Gothic fiction, which is largely known by the subgenre of Gothic horror, is a genre or mode of literature and film that combines fiction and horror, death, and at times romance. Its origin is attributed to English author Horace Walpole, with his 1764 novel The Castle of Otranto, subtitled (in its second edition) "A Gothic Story". The effect of Gothic fiction feeds on a pleasing sort of terror, an extension of Romantic literary pleasures that were relatively new at the time of Walpole's novel. It originated in England in the second half of the 18th century where, following Walpole, it was further developed by Clara Reeve, Ann Radcliffe, William Thomas Beckford and Matthew Lewis. The genre had much success in the 19th century, as witnessed in prose by Mary Shelley's Frankenstein and the works of Edgar Allan Poe as well as Charles Dickens with his novella, A Christmas Carol, and in poetry in the work of Samuel Taylor Coleridge, Lord Byron and Poe. Another well known novel in this genre, dating from the late Victorian era, is Bram Stoker's Dracula. The name Gothic refers to the (pseudo)-medieval buildings, emulating Gothic architecture, in which many of these stories take place. This extreme form of romanticism was very popular in England and Germany. The English Gothic novel also led to new novel types such as the German Schauerroman and the French Georgia.
+
+During what time in history were gothic stories popular?
+Solution:

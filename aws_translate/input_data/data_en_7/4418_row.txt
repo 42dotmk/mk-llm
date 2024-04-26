@@ -1,0 +1,27 @@
+Reasoning and answer: Jamie needed 12 / 6 = 2 rungs per foot of the tree to save the first cat. To climb a 20 - foot tree, Jamie needs 20 * 2 = 40 rungs.
+The answer: 40
+What was the question?
+Question: Jamie is a firefighter. One day an emergency call comes in from Mrs. Thompson, an elderly woman whose cat can't get down a 20-foot tree. The last time Jamie rescued a cat, he got it down from a 6-foot tree and had to climb 12 rungs of his ladder. How many rungs does he have to climb this time to get the cat down from the tree?
+
+The cypress trees will earn Gloria 20 trees * $100 / tree = $2000. From the sale of the cypress trees, Gloria will also make 600 trees * $200 / tree = $120000. Finally, the maple trees will bring in 24 trees * $300 / tree = $7200. Combining all the amounts will give Gloria a total of $150 + $2000 + $120000 + $7200 = $129350. Subtracting the cost of the mountain cabin from the total will leave Gloria with a balance of $129350 - $129000 = $350.
+The answer: 350
+Reverse engineering the question: Gloria wants to buy the $129,000 mountain cabin that her friend Alfonso is selling. She only has $150 in cash. She intends to raise the remaining amount by selling her mature trees for lumber. She has 20 cypress trees, 600 pine trees, and 24 maple trees. She will get $100 for each cypress tree, $300 for a maple tree, and $200 per pine tree. After paying Alfonso for the cabin, how much money will Gloria have left?
+
+Reasoning and answer: He sold an average of 16 books per month across all 3 months so he must have sold a total of 3 * 16 = 48 books in those 3 months. He sold 15 + 16 = 31 in January and February. He must have sold 48 - 31 = 17 books in March.
+The answer: 17
+What was the question?
+Question: A bookseller sells 15 books in January, 16 in February and a certain number of books in March. If the average number of books he sold per month across all three months is 16, how many books did he sell in March?
+
+Between 2:30 pm and 5:00 pm, there are 2.5 hours. There are 60 minutes in an hour, so 2.5 hours x 60 = 150 minutes. Her family was in the bathroom 45 + 30 + 20 = 95 minutes. Mrs. Parker has 150 minutes – 95 minutes = 55 minutes in the bathroom.
+The answer: 55
+Reverse engineering the question: The Parker family needs to leave the house by 5 pm for a dinner party. Mrs. Parker was waiting to get into the bathroom at 2:30 pm. Her oldest daughter used the bathroom for 45 minutes and her youngest daughter used the bathroom for another 30 minutes. Then her husband used it for 20 minutes. How much time will Mrs. Parker have to use the bathroom to leave on time?
+
+Reasoning and answer: First find the total volume of the smoothie mix: 500 ml + 100 ml = 600 ml. Then divide the total volume by the volume per serving to find the number of servings: 600 ml / 150 ml / serving = 4 servings.
+The answer: 4
+What was the question?
+Question: Carla is making smoothies. If she uses 500 ml of watermelon puree and 100 ml of cream, how many 150 ml servings can she make?
+
+Reasoning and answer: After paying the deposit, Danielle still has to pay a total of $280k purchase price - $40k deposit = $240k via her mortgage. As the mortgage is over 10 years, Danielle’s payments need to total $240k mortgage balance / 10 years = $24k per year. So each month, Danielle has to pay $24k per year / 12 months in a year = $2k per month.
+The answer: 2
+What was the question?
+Question:

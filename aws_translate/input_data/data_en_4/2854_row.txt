@@ -1,0 +1,25 @@
+Ann had 3 dozen oatmeal cookies - 2 dozen = 1 dozen oatmeal cookies left. Ann had 2 dozen sugar cookies - 1.5 dozen = .5 dozen sugar cookies left. Ann had 4 dozen chocolate chip cookies - 2.5 dozen = 1.5 dozen chocolate chip cookies left. Ann has a total of 1 + .5 + 1.5 dozen cookies = 3 dozen cookies. 3 dozen cookies is 3 * 12 cookies = 36 cookies remaining.
+The answer: 36
+Reverse engineering the question: Ann is baking cookies. She bakes three dozen oatmeal raisin cookies, two dozen sugar cookies, and four dozen chocolate chip cookies. Ann gives away two dozen oatmeal raisin cookies, 1.5 dozen sugar cookies, and 2.5 dozen chocolate chip cookies. How many total cookies does she keep?
+
+Reasoning and answer: Ian has 100 / 2 = 50 dollars. Rodney has 50 + 35 = 85 dollars. Jessica has 100 - 85 = 15 more dollars than Rodney.
+The answer: 15
+What was the question?
+Question: Rodney has 35 dollars more than Ian. Ian has half as much money as Jessica has. If Jessica has 100 dollars, how much more money does Jessica have than Rodney?
+
+The rate is $45 / 3 = $15 / hr. She would need to baby - sit for $75 / $15 = 5 hours.
+The answer: 5
+Reverse engineering the question: Alani earned $45 for 3 hours of baby-sitting. At the same rate, for how many hours would she need to baby-sit to earn $75?
+
+Reasoning and answer: First figure out how many miles over the speed limit Mark was going: 75 mph - 30 mph = 45 mph. Now figure out how much the per - mile fine is: $2 / mph * 45 mph = $90. Now add that amount to the base fine: $90 + $50 = $140. Now double that amount for being in a school zone: $140 * 2 = $280. Now figure out how much Mark owes his lawyer: $80 / hour * 3 hours = $240. Now add the court costs, lawyer fees and fine: $240 + $300 + $280 = $820.
+The answer: 820
+What was the question?
+Question: Mark was caught speeding and the judge wants to make an example out of him. The base fine for speeding is $50 but additional penalties apply in this case. The fine is increased by $2 for every mile per hour Mark was going over the speed limit. He was going 75 miles per hour in a 30 mile per hour zone. The fine is also doubled because he was in a school zone. Finally, the judge makes Mark pay $300 in court costs and he also has to pay his lawyer $80/hour for three hours of work. How much does Mark owe for this speeding ticket?
+
+Victor needs 2 * 8 = 16 pieces of chicken for Fried Chicken Dinners. He needs 6 * 2 = 12 pieces of chicken for Chicken Pasta. He needs 3 * 3 = 9 pieces of chicken for Barbecue Chicken orders. Thus, he needs 16 + 12 + 9 = 37 pieces of chicken.
+The answer: 37
+Reverse engineering the question: Victor works at Clucks Delux, a restaurant specializing in chicken. An order of Chicken Pasta uses 2 pieces of chicken, an order of Barbecue Chicken uses 3 pieces of chicken, and a family-size Fried Chicken Dinner uses 8 pieces of chicken. Tonight, Victor has 2 Fried Chicken Dinner orders, 6 Chicken Pasta orders, and 3 Barbecue Chicken orders. How many pieces of chicken does he need for all the orders?
+
+The kingfisher caught 13 + 7 = 20 fish. The pelican and kingfisher caught 13 + 20 = 33 fish. The fisherman caught 3 x 33 = 99 fish. The fisherman caught 99 - 13 = 86 more fish than the pelican.
+The answer: 86
+Reverse engineering the question:

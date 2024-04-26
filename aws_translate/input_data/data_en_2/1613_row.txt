@@ -1,0 +1,19 @@
+Question: "For Your Love" is a rock song written by Graham Gouldman and recorded by English group the Yardbirds. Released in March 1965, it was their first top ten hit in both the UK and the US. The song was a departure from the group's blues roots in favour of a commercial pop rock sound. Guitarist Eric Clapton disapproved of the change and it influenced him to leave the group.
+
+Answer this question: who sang for your love i would do anything?
+Answer: The important part for answering this question is: "For Your Love" is a rock song written by Graham Gouldman and recorded by English group the Yardbirds. The answer is the Yardbirds.
+
+Question: Passage: Family Channel premiered the series in 2013. Its premiere had the largest audience of any original series on the channel since its launch in 1988, with 574,500 P2+ AMA viewers, and over one million P2+ viewers.
+
+Question: Based on this passage, what channel does the next step play on?
+Answer: The important part for answering this question is: Family Channel premiered the series in 2013. The answer is Family Channel.
+
+Question: Being 30-years-old and single, Fotoula "Toula" Portokalos is her family's black sheep. The daughter of staunchly proud Greek immigrants, she was raised to follow her cultural tradition of marriage and motherhood. Her golden-child sister Athena met her family's expectations by marrying young to another Greek and becoming, in Toula's words, "a Greek baby-breeding machine". Toula still lives with her parents and works at Dancing Zorba's, her family's restaurant in Chicago. Toula longs for her own life away from the restaurant and her intrusive family. Frumpy and cynical, she fears her life will never change. One day at the restaurant, Toula notices a handsome young customer -- Ian Miller, a school teacher. She tries to speak to him, only to embarrass herself with her social awkwardness. Ian is bewildered by her behavior, and Toula figures she's lost her chance to get to know him.
+
+Where is my big fat greek wedding set?
+Answer: The relevant sentence in the passage is: Toula still lives with her parents and works at Dancing Zorba's, her family's restaurant in Chicago. The answer is Chicago.
+
+Question: Rondo played two years of college basketball for the Kentucky Wildcats before he was drafted 21st overall by the Phoenix Suns in the 2006 NBA draft. He was subsequently traded to the Celtics where he played a supporting role during his rookie season. He established himself as the starting point guard for the Celtics during the 2007 -- 08 season, helping the franchise record their 17th NBA championship playing alongside All-Stars Ray Allen, Kevin Garnett and Paul Pierce. His breakout performance came during the 2009 NBA Playoffs, where he averaged a near triple-double, and helped his team take the eventual Eastern Conference champion Orlando Magic to seven games in the Conference Semifinals. Rondo is considered to be one of the premier triple-double threats in the NBA. He ranks 12th in NBA history in career regular season triple-doubles (28), and fourth in career playoff triple-doubles (10).
+
+Based on this passage, how many triple doubles does rondo have in his career?
+Answer:

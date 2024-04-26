@@ -1,0 +1,23 @@
+# QUESTION
+The olive branches are a symbol for peace, and the world map represents all the people and the countries of the world.
+
+Answer this question: branches of which tree appear on the un flag?
+# ANSWER
+The important part for answering this question is: The olive branches are a symbol for peace, and the world map represents all the people and the countries of the world.
+FINAL ANSWER: olive
+
+
+# QUESTION
+"Barely seven years after Edwin L. Drake drilled the world's first oil well in 1859 at Titusville, Pennsylvania, USA, history registered another exploration of the black liquid gold, in the largest continent. More than a century ago, history was made in a remote corner of Assam in the midst of the dense and malaria infested jungles, by a band of intrepid pioneers searching for black gold. In 1867 Italian Engineers, commissioned by the Assam Railways and Trading Company, to build a railway line from Dibrugarh to Margherita (Headquarters of Assam Railways and Trading Company) accidentally discovered oil at Digboi around 10 miles from Margherita.' Dig boy, dig', shouted the English engineer, Mr WL Lake, elephants emerging out of the dense forest with oil stains on their feet". This is possibly the most distilled -- though fanciful -- version of the legend explaining the siting and naming of Digboi. Two events separated by seven years have become fused, but although neither is likely to be provable, such evidence that does exist appears sufficiently detailed to be credible. Various web sites offer variations on the elephant's foot story, a consensus of which would be that engineers extending the Dibru-Sadiya railway line to Ledo for the Assam Railways and Trading Company (AR&TC) in 1882 were using elephants for haulage and noticed that the mud on one pachyderm's feet smelled of oil. Retracing the trail of footprints, they found oil seeping to the surface. One of the engineers, the Englishman Willie Leova Lake, was an' oil enthusiast' and persuaded the company to drill a well. Oil India Ltd makes no reference to elephants' feet in its company history, although on its previous web site the company noted that Lake had noticed "the oil seepages around Borbhil". Once the project had been approved, Lake assembled equipment, boilers, and local labour, and engaged elephants to haul the machinery to the site. The first well was started in September 1889, but an encouraging first strike at 178 feet (54 m) turned out to be a small pocket, and drilling recommenced. This continued until November 1890 when the well was completed at a total depth of 662 feet (202 m), and it was during this extended period of drilling that Oil India's old web site placed the legend of Lake exhorting one or more of his labourers to "Dig, boy!"
+
+Who discovers the occurance of oil in assam?
+# ANSWER
+The relevant sentence in the passage is: In 1867 Italian Engineers, commissioned by the Assam Railways and Trading Company, to build a railway line from Dibrugarh to Margherita (Headquarters of Assam Railways and Trading Company) accidentally discovered oil at Digboi around 10 miles from Margherita.
+FINAL ANSWER: Italian Engineers , commissioned by the Assam Railways and Trading Company , to build a railway line from Dibrugarh to Margherita ( Headquarters of Assam Railways and Trading Company )
+
+
+# QUESTION
+Passage: Pale Rider is a 1985 American western film produced and directed by Clint Eastwood, who also stars in the lead role. The title is a reference to the Four Horsemen of the Apocalypse, as the rider of a pale horse is Death. The film, which took in nearly $41 million at the box office, became the highest grossing Western of the 1980s.
+
+Question: Based on this passage, who was the pale rider supposed to be?
+# ANSWER

@@ -1,0 +1,27 @@
+Reasoning and answer: The second year, she quadrupled the number of statues in her front lawn, adding to the original 4 and bringing the total number to 4 * 4 = 16 statues. In the third year, she added another 12 statues, bringing the total number to 16 + 12 = 28 statues. But a hail storm broke 3, reducing the number to 28 - 3 = 25 statues. In the fourth year, she added twice as many new statues as had been broken the year before, adding 2 * 3 = 6 statues. Thus, the addition of these 6 statues brought the total number of statues to 25 + 6 = 31 statues.
+The answer: 31
+What was the question?
+Question: Grandma Molly created statues of turtles for her front lawn. The first year, she created 4 statues and placed them on her lawn. The second year, she quadrupled the number of statues on her front lawn. In the third year, she added another 12 statues to the front lawn, but a hail storm broke 3 of the statues, which she threw away. In the fourth year, she added twice as many new statues as had been broken the year before. At the end of the four years, how many turtle statues were on her front lawn?
+
+He spends $10 / snake * 4 snakes = $40 to feed his snakes every month. He spends $5 / iguana * 2 iguanas = $10 to feed his iguanas every month. He spends $15 / gecko * 3 geckos = $45 to feed his geckos every month. So overall he spends $40 + $10 + $45 = $95 to feed all his pets every month. Therefore every year pet food costs him $95 / month * 12 months = $1140.
+The answer: 1140
+Reverse engineering the question: Harry owns 3 geckos, 2 iguanas, and 4 snakes. If he spends $10 to feed each snake, $5 to feed each iguana, and $15 to feed each gecko every month, how much does he spend every year to feed all his pets?
+
+Reasoning and answer: There are a total of 1000 spaces - 320 spaces = 680 spaces in both sections 2 and 3. Let the number of spaces in section 3 be x. The number of spaces in section 2 = x + 200. We know that 320 + x + 200 + x = 1000. Combining like terms, we get 2x = 480. Dividing both sides by 2 produces x = 240. The number of spaces in section 2 is 240 + 200 = 440.
+The answer: 440
+What was the question?
+Question: A 1000 car parking lot is divided into 3 sections. There are 320 spaces in section 1, and 200 more in section 2 than in section 3. How many spaces are made available in section 2 of the parking lot?
+
+Let x = the number of raisins in each of the other 3 boxes. Then 72 + 74 + 3x = 437 raisins. Combining like terms we get 146 + 3x = 437 raisins. Subtracting 146 from both sides we get 3x = 291 raisins. Dividing both sides by 3, we get x = 291 / 3 = 97 raisins.
+The answer: 97
+Reverse engineering the question: Balki is counting the number of raisins in boxes of cereal. He counted 437 total raisins in 5 boxes. In one box he counted 72 raisins. In a second box he counted 74 raisins. The other three boxes had the same number each. How many were in each of the other three boxes?
+
+Reasoning and answer: Day 1:4. Day 2:2(4) = 8. Day 3:8(3) = 24. Total:4 + 8 + 24 = 36 miles.
+The answer: 36
+What was the question?
+Question: In order to train for his fights Rocky would run 4 miles on day one of training. Rocky would double the miles for day 2, and triple the miles from day 2 for day 3. How many miles did Rocky run in the first three days of training?
+
+Reasoning and answer: He has 3 apples and 4 bananas, so he has 3 + 4 = 7 pieces of fruit. He needs to buy 12 fruit - 7 fruit = 5 oranges.
+The answer: 5
+What was the question?
+Question:

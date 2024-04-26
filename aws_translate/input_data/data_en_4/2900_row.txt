@@ -1,0 +1,26 @@
+Answer this question please:
+In chemistry, the empirical formula of a chemical compound is the simplest positive integer ratio of atoms present in a compound. A simple example of this concept is that the empirical formula of sulfur monoxide, or SO, would simply be SO, as is the empirical formula of disulfur dioxide, S O. This means that sulfur monoxide and disulfur dioxide, both compounds of sulfur and oxygen, will have the same empirical formula. However, their chemical formulas, which express the number of atoms in each molecule of a chemical compound, may not be the same.
+
+Answer this question based on the passage: what is the empirical formula of a compound?
+
+Stream of random thoughts: This is the relevant information: In chemistry, the empirical formula of a chemical compound is the simplest positive integer ratio of atoms present in a compound.... The answer is the simplest positive integer ratio of atoms present in a compound.
+----
+Answer this question please:
+Passage: The show usually opens with the theme song, "In the Street", written by Alex Chilton and Chris Bell of the band Big Star. The original version of the song appeared on Big Star's 1972 debut album # 1 Record. In 2000, Chilton confirmed that he was paid $70 in royalties each time the show aired, an amount he thought ironic, given the show's title.
+
+Question: Based on this passage, who wrote the theme song for that 70's show?
+
+Stream of random thoughts: The relevant information is: The show usually opens with the theme song, "In the Street", written by Alex Chilton and Chris Bell of the band Big Star.... The answer is Alex Chilton and Chris Bell of the band Big Star.
+----
+Answer this question please:
+Zhu Wen, originally a salt smuggler who had served under the rebel Huang, surrendered to Tang forces. By helping to defeat Huang, he was granted a series of rapid military promotions. In 907 the Tang dynasty was ended when Zhu Wen, now a military governor, deposed the last emperor of Tang, Emperor Ai of Tang, and took the throne for himself (known posthumously as Emperor Taizu of Later Liang). He established the Later Liang, which inaugurated the Five Dynasties and Ten Kingdoms period. A year later Zhu Wen had the deposed Emperor Ai poisoned to death.
+
+Answer this question based on the passage: who was the last ruler of the tang dynasty?
+
+Stream of random thoughts: The important part for answering this question is: In 907 the Tang dynasty was ended when Zhu Wen, now a military governor, deposed the last emperor of Tang, Emperor Ai of Tang, and took the throne for himself (known posthumously as Emperor Taizu of Later Liang).... The answer is Emperor Ai of Tang.
+----
+Answer this question please:
+The North Star was a nineteenth-century anti-slavery newspaper published from the Talman Building in Rochester, New York by abolitionist Frederick Douglass. The paper commenced publication on December 3, 1847 and ceased as The North Star in June 1851 when it merged with Gerrit Smith's Liberty Party Paper (based in Syracuse, New York) to form Frederick Douglass' Paper. The North Star's slogan was "Right is of no Sex -- Truth is of no Color -- God is the Father of us all, and we are all Brethren."
+
+Based on this passage, when did frederick douglass published the north star?
+

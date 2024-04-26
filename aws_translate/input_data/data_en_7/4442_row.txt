@@ -1,0 +1,22 @@
+Student A:Alfred E. Neuman is the fictitious mascot and cover boy of the American humor magazine Mad. The character's face had drifted through U.S. iconography for decades before being claimed by Mad editor Harvey Kurtzman in 1954 and later named by the magazine's second editor Al Feldstein in 1956. Since his debut in Mad, Neuman's likeness has appeared on the cover of all but a handful of the magazine's 550 + issues, distinguished by jug ears, a missing front tooth, and one eye lower than the other. His face is rarely seen in profile; he has virtually always been shown in front view, directly from behind, or in silhouette.
+
+What is the name of the mad magazine character?
+Student B:OK... To answer the question, consider the following: Alfred E. Neuman is the fictitious mascot and cover boy of the American humor magazine Mad.
+Alfred E. Neuman.
+
+Student A:The history of the United States public debt started with federal government debt incurred during the American Revolutionary War by the first U.S treasurer, Michael Hillegas, after its formation in 1789. The United States has continuously had a fluctuating public debt since then, except for about a year during 1835 -- 1836. To allow comparisons over the years, public debt is often expressed as a ratio to gross domestic product (GDP). Historically, the United States public debt as a share of GDP has increased during wars and recessions, and subsequently declined.
+
+Based on this passage, when did the united states national debt start?
+Student B:OK... To answer this question, we should know that: The history of the United States public debt started with federal government debt incurred during the American Revolutionary War by the first U.S treasurer, Michael Hillegas, after its formation in 1789.
+1789.
+
+Student A:Passage: William Garson Paszamant (born February 20, 1964) is an American actor. He has appeared in over 75 films, and more than 300 TV episodes. He is known for playing Stanford Blatch on the HBO series Sex and the City and in the related films Sex and the City and Sex and the City 2, and for his role as Mozzie, in the USA Network series White Collar from 2009 to 2014. He appears on Hawaii Five-0 as Gerard Hirsch.
+
+Question: Based on this passage, who plays stanford in sex and the city?
+Student B:OK... The relevant information is: He is known for playing Stanford Blatch on the HBO series Sex and the City and in the related films Sex and the City and Sex and the City 2, and for his role as Mozzie, in the USA Network series White Collar from 2009 to 2014.
+William Garson Paszamant.
+
+Student A:The Organisation for Economic Co-operation and Development (OECD; French: Organisation de coopération et de développement économiques, OCDE) is an intergovernmental economic organisation with 35 member countries, founded in 1960 to stimulate economic progress and world trade. It is a forum of countries describing themselves as committed to democracy and the market economy, providing a platform to compare policy experiences, seeking answers to common problems, identify good practices and coordinate domestic and international policies of its members. Most OECD members are high-income economies with a very high Human Development Index (HDI) and are regarded as developed countries. OECD is an official United Nations Observer.
+
+Answer this question: oecd stands for organization for economic cooperation and?
+Student B:

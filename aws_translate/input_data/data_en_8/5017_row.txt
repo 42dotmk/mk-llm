@@ -1,0 +1,21 @@
+The process that involves solvent separation on a solid medium is chromatography. Chromatography is an analytical technique widely used in scientific research, forensics, biotechnology, and other industries to separate mixtures of substances based on their different properties, such as polarity or molecular weight. The term "chromatography" derives from the Greek words "chroma" (meaning "color") and "graphein" (meaning "to write"), as the first chromatographic separations were based on color bands formed by colored compounds on solid support.
+
+In chromatography, the mixture to be separated is dissolved in a suitable solvent, called the mobile phase, while a stationary phase made of a solid or viscous liquid immobilized on a solid medium is used for the separation itself. The separation occurs when there are differences in the affinity between different components in the mixture for the stationary phase and the mobile phase. Compounds with greater affinity for the stationary phase will be retained longer, and thus move more slowly through the medium. In contrast, compounds with a higher affinity for the mobile phase will travel more quickly and thus separate from other components.
+
+There are various types of chromatographic techniques, each employing different stationary and mobile phases, as well as separation methods:
+
+1. Thin-layer chromatography (TLC): Involves the use of a solid stationary phase (usually a thin layer of silica gel, alumina, or cellulose) coated on a glass, plastic, or aluminum plate, and a liquid mobile phase.
+
+2. Column chromatography: The stationary phase is typically a solid support (e.g., silica or alumina) packed within a glass or plastic column, and the mobile phase is a liquid that flows through the column.
+
+3. Gas chromatography (GC): The stationary phase is a polymer or a solid that is coated on the inner walls of a narrow-capillary column or supported on a solid-support material, and the mobile phase is a carrier gas (such as helium or nitrogen) that flows through the column.
+
+4. High-performance liquid chromatography (HPLC): Similar to column chromatography but with the use of high pressure to force the mobile phase (a liquid) through a column packed with small particles of the stationary phase, which allows the separation of compounds with higher resolution and speed.
+
+5. Ion-exchange chromatography: A type of column chromatography that separates ions based on their charge and affinity for the ion-exchange resin (stationary phase) that has charged functional groups.
+
+6. Size-exclusion chromatography (SEC): Also known as gel filtration, this type of column chromatography separates molecules based on their size and shape, using a porous stationary phase that allows smaller molecules to enter pores and larger molecules to be excluded from the pores.
+
+7. Affinity chromatography: A selective type of column chromatography that exploits the specific interactions between molecules and a ligand immobilized on the stationary phase (e.g., antibody-antigen, enzyme-substrate, or receptor-ligand interactions) for the separation and purification of target molecules.
+
+In summary, the process involving solvent separation on a solid medium is chromatography, an analytical technique employed in various scientific fields to separate and analyze different components in complex mixtures. Several chromatographic methods exist, each tailored to specific types of compounds and separation needs.

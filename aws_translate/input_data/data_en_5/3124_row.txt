@@ -1,0 +1,29 @@
+## question
+Passage: In 1893, the Chicago's World's Columbian Exposition (also called the Chicago World's Fair) was the catalyst for the development of the traveling carnival. The Chicago World's Fair had an area that included rides, games of chance, freak shows, and burlesque. After the Chicago World's Fair, traveling carnival companies began touring the United States. Due to the type of acts featured along with sometimes using dishonest business practices, the traveling carnivals were often looked down upon.
+
+Question: Based on this passage, when did the traveling carnival begin in america?
+## answer
+The relevant information is: In 1893, the Chicago's World's Columbian Exposition (also called the Chicago World's Fair) was the catalyst for the development of the traveling carnival.
+So the answer must be 1893
+
+## question
+Context: Chris's character was initially portrayed as being very into pills and as being something of a hedonist, but at the same time had other layers to his personality. According to the official Skins website, he will "smoke / screw / rob / snort anything". He is very keen on going to his psychology lessons as he has feelings for his teacher, Angie, who is described as being "out of this world" in Chris's eyes. He later enters a relationship and falls in love with Jal. Jal gets pregnant late in the second series but does not keep the baby. He is also shown as having possessed a great admiration of his late older brother and feels like he can not compare to him. In his profile on E4's website, he says that he enjoys listening 1970s emo music and the pop of the 1980s, and that he does n't like TV at all; he considers it as "(...) a box with images in ...". Chris died in Season 2 Episode 9, of a brain haemorrhage like his brother. The gang celebrates their A-Level results and go to Chris's funeral in the last episode.
+
+Question: how did chris's brother die in skins?
+## answer
+To answer this question, we should know that: Chris died in Season 2 Episode 9, of a brain haemorrhage like his brother.
+So the answer must be a brain haemorrhage
+
+## question
+Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released in September 2013 for PlayStation 3 and Xbox 360, in November 2014 for PlayStation 4 and Xbox One, and in April 2015 for Microsoft Windows. It is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas' open countryside and the fictional city of Los Santos, based on Los Angeles.
+
+Answer this question: when did gta 5 come out on ps4?
+## answer
+To answer the above question, the relevant sentence is: It was released in September 2013 for PlayStation 3 and Xbox 360, in November 2014 for PlayStation 4 and Xbox One, and in April 2015 for Microsoft Windows.
+So the answer must be November 2014
+
+## question
+The earliest known version was published in Samuel Arnold's Juvenile Amusements in 1797 with the lyrics:
+
+Where did the nursery rhyme humpty dumpty come from?
+## answer

@@ -1,0 +1,22 @@
+Complete the passage: pick from possible candidates.
+
+West Ham could be denied European football in their final season at Upton Park by the ill-discipline of their Premier League rivals in the knockout rounds of this year’s continental competitions. The top three nations in UEFA’s Respect and Fair Play rankings qualify for a Europa League place ahead of next term. England were third behind Republic of Ireland and Holland before the latter stages of the Champions League and Europa League resumed this month. Sam Allardyce's West Ham are currently top of the Fair Play table but could miss out on the Europa League West Ham are two points ahead of Burnley and Liverpool in the Premier League Fair Play rankings
+
+Burnley currently trail the
+
+OPTIONS:
+- Burnley by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Champions League by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- England by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Europa League by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- European by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Fair Play by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Holland by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Liverpool by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Premier League by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Republic of Ireland by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Respect by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Sam Allardyce by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- UEFA by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- Upton Park by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.
+- West Ham by 2.25 points, which are awarded for disciplinary record, positive play, respect towards opponents and referees and the behaviour of team officials.

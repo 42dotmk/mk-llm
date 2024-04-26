@@ -1,0 +1,34 @@
+Student A:Sam Roland Heughan (born 30 April 1980) is a Scottish actor, known for his role as Jamie Fraser in the Starz series Outlander, for which he received two nominations for the Saturn Awards. He was nominated for a Laurence Olivier Award for Most Promising Performer in 2003, for his performance in the play Outlying Islands, performed at the Royal Court Theatre Upstairs.
+
+Who is the actor who plays jamie fraser in outlander?
+Student B:OK... To answer this question, we should know that: Sam Roland Heughan (born 30 April 1980) is a Scottish actor, known for his role as Jamie Fraser in the Starz series Outlander, for which he received two nominations for the Saturn Awards.
+Sam Roland Heughan.
+
+Problem:The winner of the first season of RuPaul's Drag Race was BeBe Zahara Benet, with Nina Flowers being the runner-up.
+
+Who won season 1 of rupaul's drag race?
+Solution:OK... The relevant sentence in the passage is: The winner of the first season of RuPaul's Drag Race was BeBe Zahara Benet, with Nina Flowers being the runner-up.
+BeBe Zahara Benet.
+
+Student A:The number π (/ paɪ /) is a mathematical constant. Originally defined as the ratio of a circle's circumference to its diameter, it now has various equivalent definitions and appears in many formulas in all areas of mathematics and physics. It is approximately equal to 3.14159. It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi".
+
+When was pi first used in its present form?
+Student B:OK... To answer this question, we should know that: It has been represented by the Greek letter "π" since the mid-18th century, though it is also sometimes spelled out as "pi".
+the mid-18th century.
+
+Problem:Passage: King Arthur and His Knights of the Round Table is a novel for children written by Roger Lancelyn Green. It was first published by Puffin Books in 1953 and has since been reprinted. In 2008 it was reissued in the Puffin Classics series with an introduction by David Almond (the award-winning author of Clay, Skellig, Kit's Wilderness and The Fire-Eaters), and the original illustrations by Lotte Reiniger.
+
+Question: Based on this passage, who wrote king arthur and the round table?
+Solution:OK... The relevant information is: King Arthur and His Knights of the Round Table is a novel for children written by Roger Lancelyn Green.
+Roger Lancelyn Green.
+
+Student A:Passage: Valley Forge functioned as the third of eight military encampments for the Continental Army's main body, commanded by General George Washington. In September 1777, British forces had captured the American capital of Philadelphia. After failing to retake the city, Washington led his 12,000-person army into winter quarters at Valley Forge, located approximately 18 miles (29 km) northwest of Philadelphia. They remained there for six months, from December 19, 1777 to June 19, 1778. At Valley Forge, the Continentals struggled to manage a disastrous supply crisis while retraining and reorganizing their units. About 1,700 to 2,000 soldiers died due to disease, possibly exacerbated by malnutrition.
+
+Question: Based on this passage, when did the winter at valley forge happen?
+Student B:OK... This is the relevant information: They remained there for six months, from December 19, 1777 to June 19, 1778.
+from December 19 , 1777 to June 19 , 1778.
+
+Student A:Daddy's Home 2 was released on Digital HD on February 6, 2018, and was released on Blu-ray and DVD on February 20, 2018.
+
+Based on this passage, when does daddies home 2 come out on dvd?
+Student B:

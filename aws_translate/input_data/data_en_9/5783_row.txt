@@ -1,0 +1,19 @@
+Question: Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC. Howie Mandel, Mel B, Heidi Klum and Simon Cowell returned as judges for their respective ninth, sixth, sixth, and third seasons. Meanwhile, Tyra Banks returned for her second season as host.
+
+Answer this question: when does america's got talent season 13 start?
+Answer: To answer the above question, the relevant sentence is: Season thirteen of the reality competition series America's Got Talent premiered on May 29, 2018, on NBC. The answer is May 29 , 2018.
+
+Question: When a motor neuron generates an action potential, it travels rapidly along the nerve until it reaches the neuromuscular junction, where it initiates an electrochemical process that causes acetylcholine to be released into the space between the presynaptic terminal and the muscle fiber. The acetylcholine molecules then bind to nicotinic ion-channel receptors on the muscle cell membrane, causing the ion channels to open. Calcium ions then flow into the muscle cell, initiating a sequence of steps that finally produce muscle contraction.
+
+Answer this question: where is acetylcholine released from to stimulate muscle contraction?
+Answer: The relevant information is: When a motor neuron generates an action potential, it travels rapidly along the nerve until it reaches the neuromuscular junction, where it initiates an electrochemical process that causes acetylcholine to be released into the space between the presynaptic terminal and the muscle fiber. The answer is the neuromuscular junction.
+
+Question: Taste buds contain the taste receptor cells, which are also known as gustatory cells. The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis. These structures are involved in detecting the five elements of taste perception: salty, sour, bitter, sweet and umami; through the combination of these elements we detect "flavors." A popular myth assigns these different tastes to different regions of the tongue; in reality these tastes can be detected by any area of the tongue. Via small openings in the tongue epithelium, called taste pores, parts of the food dissolved in saliva come into contact with the taste receptors. These are located on top of the taste receptor cells that constitute the taste buds. The taste receptor cells send information detected by clusters of various receptors and ion channels to the gustatory areas of the brain via the seventh, ninth and tenth cranial nerves.
+
+Answer this question based on the passage: where are taste buds located in your mouth?
+Answer: To answer the above question, the relevant sentence is: The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis. The answer is around the small structures known as papillae found on the upper surface of the tongue , soft palate , upper esophagus , the cheek and epiglottis.
+
+Question: Charlene Amoia is an American actress best known for her role as Wendy the waitress in the TV sitcom How I Met Your Mother. Some of her other television credits include Glee and Diana Coto on Switched at Birth, and her film credits include Kevin's (Thomas Ian Nicholas) wife Elllie in American Reunion (2012) from the American Pie series.
+
+Answer this question: who plays wendy the waitress in how i met your mother?
+Answer:

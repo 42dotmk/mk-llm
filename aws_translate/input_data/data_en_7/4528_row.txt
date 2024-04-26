@@ -1,0 +1,27 @@
+Reasoning and answer: The cost of the ice cream is 10 × $4 = $40. The cost of the frozen yoghurt is 4 × $1 = $4. Caleb spent $40 − $4 = $36 more on ice cream than on frozen yogurt.
+The answer: 36
+What was the question?
+Question: Caleb bought 10 cartons of ice cream and 4 cartons of frozen yoghurt. Each carton of ice cream cost $4 and each carton of frozen yoghurt cost $1. How much more did Caleb spend on ice cream than on frozen yoghurt?
+
+First find the total number of items in the attic by dividing the number of useful items by the percentage of useful items: 8 items / .2 = 40 items. Then multiply the total number of items by the percentage that are junk to find the number of junk items: 40 items * .7 = 28 items.
+The answer: 28
+Reverse engineering the question: Mason is cleaning out all the junk in his attic. 20% of the items are useful, 10% are valuable heirlooms, and 70% are junk. If Marcus's attic has 8 useful items in it, how many junk items does it have?
+
+Reasoning and answer: First find the number of pups in the first generation: 8 mice * 6 pups / mouse = 48 pups. Then add the number of adult mice to find the total number of mice: 48 pups + 8 mice = 56 mice. Then find the number of pups per mouse that survive from the second generation: 6 pups / mouse - 2 pups / mouse = 4 pups / mouse. Then multiply that number by the number of adult mice to find the number of pups in the second generation: 56 mice * 4 pups / mouse = 224 mice. Then add the number of adult mice to the number of second - generation pups to find the total number of mice: 224 mice + 56 mice = 280 mice.
+The answer: 280
+What was the question?
+Question: Billy is breeding mice for an experiment. He starts with 8 mice, who each have 6 pups. When the pups grow up, all the mice have another 6 pups. Then each adult mouse eats 2 of their pups due to the stress of overcrowding. How many mice are left?
+
+There are 1000 x 30 / 100 = 300 people who are married. There are 1000 x 50 / 100 = 500 people who are single. So, there are a total of 300 + 500 = 800 that are either married or single. This means, 1000 - 800 = 200 are children. Therefore, there are 300 - 200 = 100 more married people than children.
+The answer: 100
+Reverse engineering the question: At a birthday party, 30% of the guests are married, 50% are single, and the rest are children. If there are 1000 guests, how many more married people are there than children?
+
+Reasoning and answer: The dinner cost $144 dollars because 4 x 36 = 144. The kids earned $288 in total because 144 x 2 = 288. They planted 192 rows of corn because 288 / 1.5 = 192. They planted 13,440 ears of corn in total because 192 x 70 = 13,440. They each planted 3,360 ears of corn because 13,440 / 4 = 3,360. They each planted 6,720 seeds because 3,360 x 2 = 6,720. They each used 140 bags of seeds because 6,720 / 48 = 140.
+The answer: 140
+What was the question?
+Question: A local farmer is paying 4 kids to help plant rows of corn. Every row of corn contains 70 ears. A bag of corn seeds contains 48 seeds and you need 2 seeds per ear of corn. He pays the kids $1.5 per row. Afterward, the kids are so hungry that they end up spending half their money on dinner. The dinner cost $36 per kid. How many bags of corn seeds did each kid use?
+
+Reasoning and answer: Kenny ran for 10 * 2 = 20 hours. Kenny practiced the trumpet for 20 * 2 = 40 hours.
+The answer: 40
+What was the question?
+Question:

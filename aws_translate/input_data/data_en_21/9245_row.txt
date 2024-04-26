@@ -1,0 +1,182 @@
+A major U.S. government study on rats has found a link between cellphones and cancer, an explosive finding in the long-running debate about whether mobile phones cause health effects. 
+  
+ The multiyear, peer-reviewed study, by the National Toxicology Program, found “low incidences” of two types of tumors in male rats that were exposed to the type of radio frequencies that are commonly emitted by cellphones. The tumors were gliomas, which are in the glial cells of the brain, and schwannomas of the heart. 
+  
+ ... ||||| A study by the Department of Health and Human Services's National Toxicology Program discovered a link between cellphone radiation and two types of cancer. Reporting on its partial results so far, researchers found low incidences of heart and brain tumors in male rats. (Reuters) 
+  
+ First things first: No one has proven that cellphones cause cancer. No one has proven that cellphones cause cancer. In fact, most research suggests otherwise! But you might not realize that, based on some news circulating Friday morning. Many publications, including the Wall Street Journal and Mother Jones, are trumpeting the results of a U.S. government study that links cellphones to tumor growth. 
+  
+ But while the WSJ ran with the scary "Cellphone-Cancer Link Found in Government Study," something like "Research That Hasn't Been Vetted Yet Shows Possible Link Between Cellphones and Cancer in Male Rats" might have been more appropriate. 
+  
+ Less sexy! But also a lot less misleading. 
+  
+ The study, released on Thursday after the results leaked online, is the result of a $25 million, multi-year effort from the National Toxicology Program (NTP). But it hasn't been peer reviewed — despite implications to the contrary by the WSJ — because it hasn't been formally submitted to a scientific journal and accepted for publication, during which time outside experts would have had the opportunity to pinpoint possible errors or exaggerations in the data and analysis. Several experts reportedly reviewed the work before it was announced, but the researchers have not yet made all of their data public. 
+  
+ [Why it’s too early to get excited about this ‘unprecedented’ new cancer treatment] 
+  
+ Ron Melnick, who was the lead investigator on the study until he retired in 2009, told STAT News that he was asked to review the data and found that they “indicated that there were increased tumor responses in the brain and the heart." 
+  
+ “Where people were saying there’s no risk, I think this ends that kind of statement,” he told the WSJ. 
+  
+ The researchers exposed mice and rats to radio-frequencies commonly used by wireless electronics, at doses comparable to a human's typical exposure. Of the male rats dosed with radiation, the study authors report, 2 to 3 percent contracted gliomas, or tumors of the glial cells of the brain, and 6 to 7 percent percent developed schwannoma tumors in their hearts. None of the non-dosed rats developed any tumors. But STAT points out that it's unusual that none of these non-dosed rats randomly developed tumors on their own, and that the cancer rates in the dosed rats might actually be pretty similar to what you'd usually expect in a random rat population. 
+  
+ [Addicted to your cellphone? These photos may make you uncomfortable.] 
+  
+ There was no significant cancer uptick in the female rats dosed with radiation, and the researchers have not released their data on male or female mice. 
+  
+ All of this is to say that it's way too soon to take these findings as a reason to toss your phone out the window. We've explained before that single studies are basically useless on their own (here's why) and that's still the case. This research will almost certainly inspire new projects that try to replicate the troubling results, and that's great. But when publications blast every contrarian new finding as a groundbreaking absolute truth, it makes the public less able to develop informed opinions. 
+  
+ "There are arguments in the literature now that we are at the beginning of an epidemic of cancers," Chris Portier, former associate director of the NTP, told Mother Jones. "There are arguments against that. It is not clear who is right. I have looked through it. It's a mixed bag." 
+  
+ Indeed, most studies examining the human population over time have concluded no association between cellphone use and increased rates of cancer. Some have argued that we just haven't been using cellphones long enough to see the ill-effects borne out, but the University of Sidney's Simon Chapman recently argued against this line of thinking. 
+  
+ "That is not what we see with cancer," he wrote in an op-ed for Quartz. "We see gradual rises moving toward peak incidence, which can be as late as 30 to 40 years (as with lung cancer and smoking)." And his research — and that produced by other scientists — has failed to show the start of such a trend. 
+  
+ Maybe this study really is a major turning point in understanding of the risk of cell phone usage. But it's way too soon to tell. 
+  
+ Read More: 
+  
+ Got a question you think science can solve? Ask it here. 
+  
+ Why so much ‘science’ you read about is bogus 
+  
+ This gene helps prevent cancer. Did it also give rise to all complex life? 
+  
+ That study critiquing NASA’s ‘bad science’ on asteroids is pretty bad science 
+  
+ Calm down: Herpes probably isn’t going to give you Alzheimer’s ||||| A major new study provides evidence of a possible link between cellphone exposure and cancer, at least in rats — findings that are likely to spark a fierce new debate about the 21st century’s most ubiquitous tech gadget. 
+  
+ When researchers exposed rats to the radiofrequency radiation emitted by cellphones, they saw higher incidence of two types of cancer: malignant gliomas in the brain and schwannomas in the heart. The increased risk was relatively small, but if the findings translate to humans — still an unknown — it could have a large public health impact, given the widespread use of cellphones worldwide. 
+  
+ The highly anticipated, $25 million study was conducted by the US National Toxicology Program. Partial results were released late Thursday, before full results were available, because of intense public interest, according to John Bucher, associate director of the NTP. 
+  
+ advertisement 
+  
+ “We feel that these findings are potentially of interest to the discussion over the cellphone safety issues,” Bucher said. “We felt it was important to get the word out.” 
+  
+ However, “the results from our studies are far from definitive at this point,” he said. For human health, “this may have relevance. This may have no relevance.” 
+  
+ The study had some head-scratching findings. For instance, it found that despite developing more tumors, male rats exposed to radiation for about nine hours every day also lived longer than a control group not exposed to radiation. In addition, it was unusual that no cancers occurred in the control group in this study. The incidence of malignant gliomas in male rats exposed to radiation — 2.2 to 3.3 percent — was within the range seen in nonexposed rats in previous studies, the authors said. 
+  
+ Still, the authors said that the brain and heart tumors observed in rats exposed to the radiofrequency radiation are similar to malignancies seen in some epidemiological studies of cellphone use. They say their findings “appear to support” the World Health Organization’s classification of cellphones as a possible carcinogen. (That’s the same classification given to coffee and talcum powder.) 
+  
+ Elisabeth Cardis, the lead investigator on the study that spurred that classification, said the NTP report provided “really quite novel findings.” 
+  
+ “A lot of people felt that the issue was closed; there’s nothing there and you can just move on. The release of these results now … really raises the question about whether, in fact, there is a real effect,” she said. 
+  
+ Population implications 
+  
+ But other population-level studies in humans have found no increased risk, and the incidence of brain cancer has not risen in recent decades as cellphone use has exploded. 
+  
+ “These data will probably raise the level of suspicion that there might be a problem. I didn’t see them as strong enough to say that there’s really a problem,” said Kenneth Foster, a bioengineering professor at the University of Pennsylvania who has studied radiation and health. “It’s really hard to know just how to interpret these results.” 
+  
+ He noted in particular the finding that male rats exposed to radiation lived longer than those not exposed to radiation. 
+  
+ Michael Lauer, deputy director of extramural research for the NIH, who provided comment to the NTP on the study, said that because of the small sample size, the study’s findings are suspect. “It is much more likely than not that this is not a true finding,” he said. 
+  
+ As recently as Wednesday, the NIH said the study was still under review by unnamed additional experts. 
+  
+ “It is important to note that previous human, observational data collected in earlier, large-scale population-based studies have found limited evidence of an increased risk for developing cancer from cellphone use,” the NIH said in a statement. 
+  
+ The agency did not immediately respond to a request for comment on the report’s release, which followed a Wednesday report by the website Microwave News that disclosed what the researchers had found. 
+  
+ The researchers have more data stockpiled that they haven’t reported. They say the rest of the results from the study will likely trickle out starting in late 2017. 
+  
+ Potential firestorm 
+  
+ The new study has the potential to start a firestorm. Until now, there have been conflicting results from other research about whether cellphones cause cancer, but the general takeaway from official authorities was that there is no definitive link — as the NIH statement reiterates. 
+  
+ Dr. Jonathan Samet, director of the University of Southern California’s Institute for Global Health, said one of the big takeaways is “we really need a more serious research agenda.” 
+  
+ “I think the public needs to know if there’s any risk,” he said. “I think this is something that needs to be taken as a need for further research and investigation. … We should not say there is no risk.” 
+  
+ The findings could jeopardize the conventional wisdom at a time when the number of Americans who own a cellphone has exceeded 90 percent in recent years. 
+  
+ “None of us expected them to find anything in this study. I’ve been quoted as saying it’s a total waste of money,” said David Carpenter, director of the Institute for Health and the Environment at the University of Albany. 
+  
+ The results have been long anticipated. An NIH official told Congress in 2009 that the results would likely be released in 2014, but their release appeared to be prompted only by this week’s leak. 
+  
+ “We’ve been waiting a long time for this study, far too long for this study,” said Joel Moskowitz, director and principal investigator at the Center for Family and Community Health at the University of California, Berkeley. 
+  
+ Still, he added: “The debate will keep going on, I’m sure. This is not going to be the definitive study.” 
+  
+ This story has been updated with new details about the study and previous research on cellphones. ||||| Federal scientists released partial findings Friday from a $25-million animal study that tested the possibility of links between cancer and chronic exposure to the type of radiation emitted from cell phones and wireless devices. The findings, which chronicle an unprecedented number of rodents subjected to a lifetime of electromagnetic radiation starting in utero, present some of the strongest evidence to date that such exposure is associated with the formation of rare cancers in at least two cell types in the brains and hearts of rats. The results, which were posted on a prepublication Web site run by Cold Spring Harbor Laboratory, are poised to reignite controversy about how such everyday exposure might affect human health. 
+  
+ Researchers at the National Toxicology Program (NTP), a federal interagency group under the National Institutes of Health, led the study. They chronically exposed rodents to carefully calibrated radio-frequency (RF) radiation levels designed to roughly emulate what humans with heavy cell phone use or exposure could theoretically experience in their daily lives. The animals were placed in specially built chambers that dosed their whole bodies with varying amounts and types of this radiation for approximately nine hours per day throughout their two-year life spans. “This is by far—far and away—the most carefully done cell phone bioassay, a biological assessment. This is a classic study that is done for trying to understand cancers in humans,” says Christopher Portier, a retired head of the NTP who helped launch the study and still sometimes works for the federal government as a consultant scientist. “There will have to be a lot of work after this to assess if it causes problems in humans, but the fact that you can do it in rats will be a big issue. It actually has me concerned, and I’m an expert.” 
+  
+ More than 90 percent of American adults use cell phones. Relatively little is known about their safety, however, because current exposure guidelines are based largely on knowledge about acute injury from thermal effects, not long-term, low-level exposure. The International Agency for Research on Cancer in 2011 classified RF radiation as a possible human carcinogen. But data from human studies has been “inconsistent,” the NTP has said on its website. Such studies are also hampered by the realities of testing in humans, such as recall bias—meaning cancer patients have to try to remember their cell phone use from years before, and how they held their handsets. Those data gaps prompted the NTP to engage in planning these new animal studies back in 2009. 
+  
+ The researchers found that as the thousands of rats in the new study were exposed to greater intensities of RF radiation, more of them developed rare forms of brain and heart cancer that could not be easily explained away, exhibiting a direct dose–response relationship. Overall, the incidence of these rare tumors was still relatively low, which would be expected with rare tumors in general, but the incidence grew with greater levels of exposure to the radiation. Some of the rats had glioma—a tumor of the glial cells in the brain—or schwannoma of the heart. Furthering concern about the findings: In prior epidemiological studies of humans and cell phone exposure, both types of tumors have also cropped up as associations. 
+  
+ In contrast, none of the control rats—those not exposed to the radiation—developed such tumors. But complicating matters was the fact that the findings were mixed across sexes: More such lesions were found in male rats than in female rats. The tumors in the male rats “are considered likely the result of whole-body exposure” to this radiation, the study authors wrote. And the data suggests the relationship was strongest between the RF exposure and the lesions in the heart, rather than the brain: Cardiac schwannomas were observed in male rats at all exposed groups, the authors note. But no “biologically significant effects were observed in the brain or heart of female rats regardless of modulation.” Based on these findings, Portier said that this is not just an associated finding—but that the relationship between radiation exposure and cancer is clear. “I would call it a causative study, absolutely. They controlled everything in the study. It’s [the cancer] because of the exposure.” 
+  
+ Earlier studies had never found that this type of radiation was associated with the formation of these cancers in animals at all. But none of those studies followed as many animals, for as long or with the same larger intensity exposures, says Ron Melnick, a scientist who helped design the study and is now retired from the NTP. 
+  
+ The new results, published on Web site bioRXiv, involved experiments on multiple groups of 90 rats. The study was designed to give scientists a better sense of the magnitude of exposure that would be associated with cancer in rodents. In the study rats were exposed to RF at 900 megahertz. There were three test groups with each species of each sex, tested at different radiation intensities (1.5, three and six watts per kilogram, or W/kg), and one control group. (The lowest-intensity level roughly approximates the levels allowed by U.S. cell phone companies, which is 1.6 W/kg.) “There are only 90 animals per group, so because there is a trend—and this is the purpose of these assays where you do multiple doses you extrapolate downward and calculate a risk for humans from those trends—so that information is useful. Probably what caused cancer at the high doses will cause cancer at lower doses but to a lesser degree,” Portier says. 
+  
+ Rodents across all the test groups were chronically exposed to RF for approximately nine hours spread out over the course of the day. (Their entire bodies were exposed because people are exposed to such radiation beyond their heads, especially when they carry them or store them in their bras, says John Bucher, the associate director of the NTP.) During the study the rats were able to run around in their cages, and to eat and sleep as usual. The experiments also included both types of modulations emitted from today’s cell phones: Code Division Multiple Access and Global System for Mobile. (Modulations are the way the information is carried, so although the total radiation levels were roughly the same across both types, there were differences in how radiation is emitted from the antenna—either a higher exposure for a relatively short time or a lower exposure for a longer time.) Overall, there was no statistically significant difference between the number of tumors that developed in the animals exposed to CDMA versus GSM modulations. With both modulations and tumor types, there was also a statistically significant trend upward—meaning the incidence increased with more radiation exposure. Yet, drilling down into the data, in the male rats exposed to GSM-modulated RF radiation the number of brain tumors at all levels of exposure was not statistically different than in control males—those who had no exposure at all. “The trend here is important. The question is, ‘Should one be concerned?’ The answer is clearly ‘Yes.’ But it raises a number of questions that couldn’t be fully answered, ” says David Carpenter, a public health clinician and the director of the Institute for Health and the Environment at the University at Albany, S.U.N.Y. 
+  
+ The findings are not definitive, and there were other confusing findings that scientists cannot explain—including that male rats exposed to the radiation seemed to live longer than those in the control group. “Overall we feel that the tumors are likely related to the exposures,” says Bucher, but such unanswered questions “have been the subject of very intense discussions here.” 
+  
+ The NTP released the partial findings on Friday after an online publication called Microwave News reported them earlier this week. The program will still be putting out other results about the work in rats and additional findings about similar testing conducted in mice. The NIH told Scientific American in a statement, “This study in mice and rats is under review by additional experts. It is important to note that previous human, observational data collected in earlier, large-scale population-based studies have found limited evidence of an increased risk for developing cancer from cell phone use.” Still, the NTP was clearly expecting these findings to carry some serious weight: Ahead of Friday’s publication the NTP said on its Web site that the study (and prior work leading to these experiments) would “provide critical information regarding the safety of exposure to radio-frequency radiation and strengthen the science base for determining any potential health effects in humans.” 
+  
+ In response to media queries, cell phone industry group CTIA–The Wireless Association issued a statement Friday saying that it and the wireless industry are still reviewing the study’s findings. “Numerous international and U.S. organizations including the U.S. Food and Drug Administration, World Health Organization and American Cancer Society have determined that the already existing body of peer-reviewed and published studies shows that there are no established health effects from radio frequency signals used in cellphones,” the CTIA statement said. 
+  
+ The Federal Communications Commission, which had been briefed by NIH officials, told Scientific American in a statement, “We are aware that the National Toxicology Program is studying this important issue. Scientific evidence always informs FCC rules on this matter. We will continue to follow all recommendations from federal health and safety experts including whether the FCC should modify its current policies and RF exposure limits.” 
+  
+ This animal study was designed primarily to answer questions about cancer risks humans might experience when they use phones themselves, as opposed to smaller levels of exposure from wireless devices in the workplace or from living or working near cell phone towers. But it may have implications for those smaller levels as well, Portier says. 
+  
+ The findings shocked some scientists who had been closely tracking the study. “I was surprised because I had thought it was a waste of money to continue to do animal research in this area. There had been so many studies before that had pretty consistently not shown elevations in cancer. In retrospect the reason for that is that nobody maintained a sufficient number of animals for a sufficient period of time to get results like this,” Carpenter says. 
+  
+ Exposing rodents to radiation for this type of experiment is a tricky business. First, scientists need to be able to calculate exactly how much the rats should be exposed to relative to humans. Too much exposure would not be a good proxy for human use. And with finely calculated low-level exposure rates, scientists still need to be sure they are not going to heat the animals enough to kill them or to cause other health problems. (Subsequent work will be published on the animals’ temperatures.) 
+  
+ The fact that scientists were able to expose animals to nonionizing radiation (like that emitted by cell phones) and those animals went on to develop tumors but that exposure did not significantly raise the animals' body temperatures was “important” to release, Bucher says. 
+  
+ There are safety steps individuals can take, Carpenter says. Using the speakerphone, keeping the phone on the desk instead of on the body and using a wired headset whenever possible would help limit RF exposure. “We are certainly not going to go back to a pre-wireless age,” he says. But there are a number of ways to reduce exposure, particularly among sensitive populations.” 
+  
+ Editor's Note (5/27/16, 2:10 P.M.): This story was updated to reflect information provided during an NTP press conference and a statement from an industry group. ||||| A giant U.S. study meant to help decide whether cellphones cause cancer is coming back with confusing results. 
+  
+ A report on the study, conducted in rats and mice, is not finished yet. But advocates pushing for more research got wind of the partial findings and the U.S. National Toxicology Program has released them early. 
+  
+ The findings are giving new life to the longstanding debate over whether cellphone use might cause cancer. 
+  
+ They suggest that male rats exposed to constant, heavy doses of certain types of cellphone radiation develop brain and heart tumors. 
+  
+ But female rats didn’t, and even the rats that developed tumors lived longer than rats not exposed to the radiation. 
+  
+ The National Toxicology Program, part of the National Institutes of Health, is still analyzing the findings. But John Bucher, associate director of the program, said the initial findings were so significant that the agency decided to release them. "We felt it was important to get that word out," Bucher told reporters on a telephone briefing. 
+  
+ "Overall, we feel that the tumors are likely to be related to the exposures." 
+  
+ What they do not show is whether humans are at any risk from using cellphones, or whether using a headset or keeping them away from the head and body might make a difference. 
+  
+ "It may well be that current cellphone use is safe." "It may well be that current cellphone use is safe." 
+  
+ Dr.Otis Brawley, chief medical officer for the American Cancer Society, says it's good science and will change the way people think about cellphones and cancer risk. 
+  
+ "The findings are unexpected; we wouldn’t reasonably expect non-ionizing radiation to cause these tumors," he said. 
+  
+ "This is a striking example of why serious study is so important in evaluating cancer risk. It’s interesting to note that early studies on the link between lung cancer and smoking had similar resistance, since theoretical arguments at the time suggested that there could not be a link." 
+  
+ Brain tumors are rare. About 23,770 malignant tumors of the brain or spinal cord will be diagnosed this year, according to the American Cancer Society, and 16,000 people will die from them. And there has not been an increase in rates since the 1990s, when cellphones started to be used. 
+  
+ "It is very reassuring in fact that there has been no dramatic increase. It may well be that current cellphone use is safe," Bucher said. Bucher said he has not changed his own cellphone habits because of the findings. 
+  
+ The partial report covers what the researchers considered the most worrying findings. 
+  
+ “The occurrences of two tumor types in male Harlan Sprague Dawley rats exposed to RFR (radiofrequency radiation), malignant gliomas in the brain and schwannomas of the heart, were considered of particular interest, and are the subject of this report,” the team writes in its report. Sprague Dawley rats are a common type of lab rat. 
+  
+ “These findings appear to support the International Agency for Research on Cancer (IARC) conclusions regarding the possible carcinogenic potential of RFR.” IARC, the cancer arm of the World Health Organization, said in 2011 it was possible the devices might cause cancer and recommended further study. 
+  
+ Related: Questions About Cellphone Use and Cancer 
+  
+ Cellphones are used by billions of people around the world — 92 percent of American adults own a cellphone, according to Pew Research Center. Children as young as toddlers carry and use the devices for hours on end, so any hint that they might somehow cause cancer would be of enormous concern. 
+  
+ Previous studies have had very mixed results. One study found that holding a mobile phone next to the head might warm up brain cells, but there was not any clear consequence of that. Studies on rats are considered of only partial reliability, because lab rats have their own unpredictable vulnerabilities to cancer. 
+  
+ For the experiment, a contract lab in Chicago generated cellphone signals, both in the GSM and CDMA radio systems — two major systems used by cellphone providers. They directed the signals into cages with pregnant rats, and then kept the signals focused on the rat pups for 10 minutes on, 10 minutes off, nine hours a day, as they grew for two years. 
+  
+ So called control rats were raised nearby without radiation exposure. 
+  
+ There was little effect on the newborn rats, except the pups appeared to be very slightly lighter when the mothers were exposed to the signals. |||||
+What is a one-paragraph summary of the above article?

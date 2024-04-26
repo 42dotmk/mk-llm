@@ -1,0 +1,19 @@
+Q: Titanic is a 1997 American epic romance-disaster film directed, written, co-produced and co-edited by James Cameron. A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage.
+
+What was the name of the boat in the movie titanic?
+A: the RMS Titanic. How to explain the answer? To answer this question, we should know that: A fictionalized account of the sinking of the RMS Titanic, it stars Leonardo DiCaprio and Kate Winslet as members of different social classes who fall in love aboard the ship during its ill-fated maiden voyage.
+
+Q: Context: Tamil is the most spoken Indian language in Singapore and the only Indian language among Singapore's four official languages, alongside Mandarin, (the language of trade) Malay (the national language) and English (the language of administration), and 3.1 % of Singapore residents speak Tamil at home. Singapore is one of the three countries in the world to make Tamil an official language, the others being India and Sri Lanka.
+
+Question: which indian language has official status in singapore?
+A: Tamil. How to explain the answer? To answer the question, consider the following: Tamil is the most spoken Indian language in Singapore and the only Indian language among Singapore's four official languages, alongside Mandarin, (the language of trade) Malay (the national language) and English (the language of administration), and 3.1 % of Singapore residents speak Tamil at home.
+
+Q: Since 1947, India has had fourteen Prime Ministers, fifteen including Gulzarilal Nanda who twice acted in the role. The first was Jawaharlal Nehru of the Indian National Congress party, who was sworn-in on 15 August 1947, when India gained independence from the British. Serving until his death in May 1964, Nehru remains India's longest-serving prime minister. He was succeeded by fellow Congressman Lal Bahadur Shastri, whose 19-month term also ended in death. Indira Gandhi, Nehru's daughter, succeeded Shastri in 1966 to become the country's first woman premier. Eleven years later, she was voted out of power in favour of the Janata Party, whose leader Morarji Desai became the first non-Congress prime minister. After he resigned in 1979, his former deputy Charan Singh briefly held office until Indira Gandhi was voted back six months later. Indira Gandhi's second stint as Prime Minister ended five years later on the morning of 31 October 1984, when she was gunned down by her own bodyguards. That evening, her son Rajiv Gandhi was sworn-in as India's youngest premier, and the third from his family. Thus far, members of Nehru -- Gandhi dynasty have been Prime Minister for a total of 37 years and 303 days.
+
+Based on this passage, who was longest serving prime minister of india?
+A: Jawaharlal Nehru. How to explain the answer? The relevant sentence in the passage is: Serving until his death in May 1964, Nehru remains India's longest-serving prime minister.
+
+Q: Malchus / ˈmælkəs / is the servant of the Jewish High Priest Caiaphas who participated in the arrest of Jesus as written in the four gospels. According to the Bible, one of the disciples, Simon Peter, being armed with a sword, cut off the servant's ear in an attempt to prevent the arrest of Jesus.
+
+Based on this passage, who cut the ear of the high priest's servant?
+A:

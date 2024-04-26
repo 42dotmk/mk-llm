@@ -1,0 +1,36 @@
+Ans: tells how the world was devastated by a series of massive solar flares and coronal mass ejections
+Ques: The series, revealing details in non-chronological order, tells how the world was devastated by a series of massive solar flares and coronal mass ejections.
+
+What is the maze runner book series about?
+CoT: The relevant sentence in the passage is: The series, revealing details in non-chronological order, tells how the world was devastated by a series of massive solar flares and coronal mass ejections.
+
+
+Ans: Leo Varadkar , TD
+Ques: The Minister for Defence (Irish: An tAire Cosanta) is the senior minister at the Department of Defence in the Government of Ireland. The current Minister for Defence is Leo Varadkar, TD.
+
+Based on this passage, who is the minister for defence in ireland?
+CoT: To answer the question, consider the following: The current Minister for Defence is Leo Varadkar, TD.
+
+
+Answer: November 17. Now, what could be the question and solution-maybe?
+Ques: The Punisher premiered in New York City on November 6, 2017, with the full season of thirteen episodes released on November 17 on Netflix. In December 2017, the series was renewed for a second season.
+
+Answer this question based on the passage: what's the release date for the punisher on netflix?
+CoT: This is the relevant information: The Punisher premiered in New York City on November 6, 2017, with the full season of thirteen episodes released on November 17 on Netflix.
+
+
+Ans: Levi 's Stadium
+Ques: After three years of the home-hosting model, the Pac-12 announced a three-year deal to host the game at the neutral site of Levi's Stadium in Santa Clara, California. In 2017, the Pac-12 announced it would keep the game at Levi's Stadium through 2019 with an option for 2020.
+
+Based on this passage, where is the pac 12 football championship played?
+CoT: The relevant information to answer the above question is: In 2017, the Pac-12 announced it would keep the game at Levi's Stadium through 2019 with an option for 2020.
+
+
+Ans: the neuromuscular junction
+Ques: When a motor neuron generates an action potential, it travels rapidly along the nerve until it reaches the neuromuscular junction, where it initiates an electrochemical process that causes acetylcholine to be released into the space between the presynaptic terminal and the muscle fiber. The acetylcholine molecules then bind to nicotinic ion-channel receptors on the muscle cell membrane, causing the ion channels to open. Calcium ions then flow into the muscle cell, initiating a sequence of steps that finally produce muscle contraction.
+
+Answer this question: where is acetylcholine released from to stimulate muscle contraction?
+CoT: The relevant information is: When a motor neuron generates an action potential, it travels rapidly along the nerve until it reaches the neuromuscular junction, where it initiates an electrochemical process that causes acetylcholine to be released into the space between the presynaptic terminal and the muscle fiber.
+
+
+Answer: Alicia Gräfin ( Countess ) von Rittberg. Now, what could be the question and solution-maybe?

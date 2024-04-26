@@ -1,0 +1,19 @@
+Question: Passage: Samuel Francis Smith wrote the lyrics to "My Country' Tis of Thee" in 1831, while he was a student at the Andover Theological Seminary in Andover, Massachusetts. His friend Lowell Mason had asked him to translate the lyrics in some German school songbooks or to write new lyrics. A melody in Muzio Clementi's Symphony No. 3 (also called' The Great National' and contains the melody of' God Save the Queen' as a tribute to Clementi's adopted country) caught his attention. Rather than translating the lyrics from German, Smith wrote his own American patriotic hymn to the melody, completing the lyrics in thirty minutes.
+
+Question: Based on this passage, when was the song my country tis of thee written?
+Answer: The relevant information is: Samuel Francis Smith wrote the lyrics to "My Country' Tis of Thee" in 1831, while he was a student at the Andover Theological Seminary in Andover, Massachusetts. The answer is 1831.
+
+Question: Passage: Since the genre began, many shows have offered prizes of large sums of money to contestants; Teddy Nadler set the original monetary winnings record of $264,000 during his appearance on The $64,000 Challenge in 1957. Nadler was not surpassed until 1980, when Thom McKee won $312,700 on Tic-Tac-Dough. In 1999, John Carpenter won $1,000,000 on Who Wants to Be a Millionaire, becoming the first person to win a seven-figure prize on an American game show. Since then, many players have gone on to win that amount and even surpassed it. As of 2015, Brad Rutter is the highest-earning American game show contestant of all time, having accumulated a total of $4,555,102. He succeeded Ken Jennings as the highest-earning contestant by virtue of his victory on May 16, 2014, in the Jeopardy! Battle of the Decades tournament.
+
+Question: Based on this passage, who won the most money on a game show?
+Answer: To answer the above question, the relevant sentence is: As of 2015, Brad Rutter is the highest-earning American game show contestant of all time, having accumulated a total of $4,555,102. The answer is Brad Rutter.
+
+Question: Passage: The 2018 Money in the Bank pay-per-view took place on June 17, 2018, at the Allstate Arena in the Chicago suburb of Rosemont, Illinois. For the first time since 2011, the event was dual-branded, involving both the Raw and SmackDown brands. The event included one male match and one female match. The contracts granted the winners a match for the world championship of their respective brand. The men's contract granted the winner a match for either Raw's Universal Championship or SmackDown's WWE Championship, while the women's contract granted the winner a Raw Women's Championship or SmackDown Women's Championship match.
+
+Question: Based on this passage, when does the money in the bank start?
+Answer: To answer the above question, the relevant sentence is: The 2018 Money in the Bank pay-per-view took place on June 17, 2018, at the Allstate Arena in the Chicago suburb of Rosemont, Illinois. The answer is June 17 , 2018.
+
+Question: Context: Die Brücke was one of two groups of German painters fundamental to Expressionism, the other being Der Blaue Reiter group ("The Blue Rider"), formed in Munich in 1911.
+
+Question: with what are the german die brücke artists associated?
+Answer:

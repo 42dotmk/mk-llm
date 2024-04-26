@@ -1,0 +1,67 @@
+q: A train running at the speed of 60 km/hr crosses a pole in 18 sec. What is the length of the train?
+Options:
+(A) 356
+(B) 278
+(C) 300
+(D) 279
+(E) 150
+a: Stream of consciousness: Speed = 60 * 5/18 = 50/3 m/sec
+Length of the train = speed * time = 50/3 * 18 = 300 m The answer is (C).
+
+
+question: There are seven thieves. They stole diamonds from a diamond merchant and ran away. While running, night sets in and they decide to rest in the jungle.
+When everybody was sleeping, two of them woke up and decided to divide the diamonds equally among themselves. But when they divided the diamonds equally, one diamond is left.
+So they woke up the 3rd thief and tried to divide the diamonds equally again but still one diamond was left. Then they woke up the 4th thief to divide the diamonds equally again, and again one diamond was left. This happened with the 5th and 6th thief – one diamond was still left.
+Finally, they woke up the 7th thief and this time the diamonds were divided equally.
+How many diamonds did they steal in total?
+Options:
+(A) 2397
+(B) 2401
+(C) 2411
+(D) 2423
+(E) None of the above
+answer: Stream of consciousness: We need a number that is a multiple of 7 that will give a remainder of 1 when divided by 2, 3, 4, 5, and 6. The least common multiple of these numbers is 60. So, we need a multiple of 7 that is 1 greater than a multiple of 60. The answer is (B).
+
+
+q: Resident of town X participated in a survey to determine the number of hours per week each resident spent watching television. The distribution of the results of the survey had a mean of 21 hours and std deviation of 5 hrs. The number of hours that pat, a resident of town X, watched television last week was between 1 and 2 standard deviation below the mean. Which of the following could be the number of hours that Pat watched television last week?
+Options:
+(A) 30
+(B) 20
+(C) 18
+(D) 12
+(E) 6
+a: Stream of consciousness: 21-12 < no of hrs < 21-5
+9< no of hrs < 16. The answer is (D).
+
+
+question: A train 175 m long, running with a speed of 63 km/hr will pass a tree in?
+Options:
+(A) 22 sec
+(B) 16 sec
+(C) 17 sec
+(D) 88 sec
+(E) 10 sec
+answer: Stream of consciousness: Speed = 63 * 5/18 = 35/2 m/sec
+Time taken = 175 * 2/35 = 10 sec The answer is (E).
+
+
+q: The average age of applicants for a new job is 30, with a standard deviation of 8. The hiring manager is only willing to accept applicants whose age is within one standard deviation of the average age. Assuming that all applicants' ages are integers and that the endpoints of the range are included, what is the maximum number of different ages of the applicants?
+Options:
+(A) 8
+(B) 16
+(C) 17
+(D) 18
+(E) 34
+a: Stream of consciousness: Minimum age = Average - 1 Standard deviation = 30 - 8 = 22
+Maximum age = average + 1 Standard deviation = 30+ 8 = 38
+Maximum number of different ages of the applicants = 38 - 22 + 1 = 17 The answer is (C).
+
+
+q: Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is?
+Options:
+(A) 820 gallons
+(B) 128 gallons
+(C) 120 gallons
+(D) 129 gallons
+(E) 220 gallons
+a:

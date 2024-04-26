@@ -1,0 +1,22 @@
+Student A:"This Is Me" is a song performed by Keala Settle for the film The Greatest Showman. It was released on October 26, 2017, by Atlantic Records as a promotional single from The Greatest Showman: Original Motion Picture Soundtrack and the official lead single on December 8, 2017. It won a Golden Globe Award for Best Original Song at the 75th Golden Globe Awards and was nominated for an Academy Award for Best Original Song at the 90th Academy Awards. A second version, performed by American singer Kesha, was released on December 22, 2017.
+
+Based on this passage, who sings the greatest showman this is me?
+Student B:OK... The relevant information to answer the above question is: "This Is Me" is a song performed by Keala Settle for the film The Greatest Showman.
+Keala Settle.
+
+Student A:Radio broadcasting in the United States is a major mass medium. Unlike radio in most other countries, American radio has historically relied primarily on commercial advertising sponsorship on for-profit stations. The U.S. does not have a national broadcaster that aims its programs at the general public. Nonprofit broadcasting typically comes in three forms: radio evangelism, community radio, and government-subsidized public radio, all of which rely at least to some extent on listener donations. Shortwave broadcasting in the United States includes federal government programs, as well as a limited number of privately managed broadcasts, for overseas audiences. Radio broadcasting became popular in the 1920s, alongside the new film industry. The arrival of television in the 1950s forced radio into a niche role, as leading participants moved into the much larger field of television. In the 21st century, radio has been adjusting to the arrival of the Internet and Internet radio.
+
+Answer this question based on the passage: when did radio become popular in the us?
+Student B:OK... The relevant information is: Radio broadcasting became popular in the 1920s, alongside the new film industry.
+the 1920s.
+
+Student A:Wonder Woman refers to both a 1974 television film and a 1975-1979 television series based on the DC Comics character of the same name. The 1974 television film called Wonder Woman directed by Vincent McEveety and starring Cathy Lee Crosby, was a pilot for an intended television series being considered by ABC. Ratings were described as "respectable but not exactly wondrous," and ABC did not pick up the pilot. Instead, Warner Bros. and ABC developed the 1975 television series, Wonder Woman, that fit the more traditional presentation of the character as created by William Moulton Marston, turning away from the 1968 -- 72 era that had influenced the pilot. Wonder Woman, which premiered in 1975, starred Lynda Carter and eventually led to the full series. Crosby would later claim that she was offered the chance to reprise the role in that series.
+
+Answer this question: when did the original wonder woman come out?
+Student B:OK... To answer the above question, the relevant sentence is: Wonder Woman refers to both a 1974 television film and a 1975-1979 television series based on the DC Comics character of the same name.
+1974.
+
+Student A:Passage: Albertsons Stadium is widely known for its unusual blue playing surface, installed in 1986, while Boise State was in the Big Sky Conference. It was the first non-green playing surface (outside of painted end zones) in football history and remained the only one among NCAA Division I FBS schools for almost 20 years.
+
+Question: Based on this passage, when did boise state get the blue turf?
+Student B:

@@ -1,0 +1,27 @@
+Reasoning and answer: He gets 3 * $400 = $1200 per month. So he gets 1200 * 12 = $14,400 per year. So he pays 12 * 900 = $10800 a year. That means his profit is 14400 - 10800 = $3600 per year.
+The answer: 3600
+What was the question?
+Question: John sublets his apartment to 3 people who each pay $400 per month. He rents the apartment for $900 a month. How much profit does he make in a year?
+
+After half an hour, the number of balloons that had blown up is 1 / 5 * 200 = 40. The number of balloons that haven't blown up so far is 200 - 40 = 160. In the next hour, 2 * 40 = 80 balloons blow up. The number of balloons that haven't blown up now is 160 - 80 = 80.
+The answer: 80
+Reverse engineering the question: A hot air balloon with 200 balloons is blowing up. After about half an hour, 1/5 of the total number of balloons in the hot air balloon have blown up. After another hour, twice the number of balloons that had already blown up also blow up. How many balloons in the hot air balloon remain intact?
+
+Reasoning and answer: First, add the number of kosher meals to the number of vegan meals: 7 meals + 8 meals = 15 meals. Then subtract the three meals that are both kosher and vegan since they got counted twice: 15 meals - 3 meals = 12 meals. Finally, subtract that number from the total number of meals to find the number of meals that are neither kosher nor vegan: 30 meals - 12 meals = 18 meals.
+The answer: 18
+What was the question?
+Question: Megan is delivering meals on wheels. Out of her 30 clients, 7 need vegan meals, 8 need kosher meals, and three people need meals that are both vegan and kosher. How many meals does Megan deliver that are neither kosher nor vegan?
+
+His favorite player scored 150 total points that week because 30 plus 28 plus 32 plus 34 plus 26 equals 150. He averaged 30 points a game because 150 divided by 5 equals 30. He gets paid $10,000 because that's how much he gets if he averages 30 or more points that week.
+The answer: 10000
+Reverse engineering the question: James's favorite basketball player got paid based on how many points he averaged each week. He gets $10,000 if he averages 30 or more points a game and $8,000 if he averages under 30 points a game. For his last week, in the first game he scored 30 points and in the second game he scored 28 points. In the third game he scored 32 points. In the fourth game he scored 34 points and in the fifth game he scored 26 points. How much does he get paid for the week?
+
+Reasoning and answer: Ludwig earns a total of $10 x 4 = $40 from Monday to Thursday. He earns $10 / 2 = $5 per day on Friday, Saturday, and Sunday. So, his total salary for Friday, Saturday, Sunday is $5 x 3 = $15. Therefore, his total weekly salary is $40 + $15 = $55.
+The answer: 55
+What was the question?
+Question: Ludwig works 7 days a week and he usually works half of the day during Friday, Saturday, and Sunday. If his daily salary is $10, how much does he earn every week?
+
+Reasoning and answer: To finish an audiobook 30 hours long, listening to 2 hours of each audiobook a day, Fernanda took 30 hours / 2 hours / day = 15 days to finish one audiobook. If she purchased 6 audiobooks, the total number of days she will take to finish all the audiobooks is 6 audiobooks * 15 days / audiobook = 90 days.
+The answer: 90
+What was the question?
+Question:

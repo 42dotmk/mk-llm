@@ -1,0 +1,27 @@
+Reasoning and answer: Keith's dog ate half of his collection so he had 2 * 46 cards = 92 cards before his dog ate them. Keith had added 8 new cards to his collection so he had 92 cards - 8 = 84 cards to start with.
+The answer: 84
+What was the question?
+Question: Keith bought 8 new baseball trading cards to add to his collection. The next day his dog ate half of his collection. There are now only 46 cards left. How many cards did Keith start with?
+
+First find the total number of monthly commutes: 5 days / week * 4 weeks / month = 20 days / month. Then multiply the distance of the commute one way by the two ways: 21 miles * 2 = 42 miles. Then multiply the number of commutes by the number of miles per commute: 42 miles / commute * 20 commutes = 840 miles. Then divide the number of miles by the car's gas mileage: 840 miles / 30 miles / gallon = 28 gallons. Then multiply that number by the cost of each gallon to find the total cost: 28 gallons * $2.50 / gallon = $70. Then divide the total cost by the number of friends to find the cost per person: $70 / 5 people = $14 / person.
+The answer: 14
+Reverse engineering the question: Carson runs a carpool for five of his friends. The five of them cover all the gas expenses to compensate Carson for his time. Their total commute is 21 miles one way, gas costs $2.50/gallon, Carson's car gets 30 miles/gallon, and they commute to work 5 days a week, 4 weeks a month. How much does each person pay toward gas monthly?
+
+Reasoning and answer: When 3 / 4 full of water, Wallace's water heater has 3 / 4 * 40 = 30 gallons of water. Catherine's water heater capacity is 40 / 2 = 20 gallons. When 3 / 4 full, Catherine's water heater has 3 / 4 * 20 = 15 gallons of water. Together, when 3 / 4 full with water, Wallace's and Catherine's water heaters hold 15 + 30 = 45 gallons of water.
+The answer: 45
+What was the question?
+Question: Wallace's water heater is twice the size of Catherine's water heater. If the capacity of Wallace's water heater is 40 gallons and it's 3/4 full, calculate the total number of gallons of water they both have if Catherine's water heater is also full with water to 3/4 of its capacity.
+
+The number of students accepted to the university is 20,000 * 0.05 = 1,000 students. The number of students who choose to attend the university is 1,000 * 0.9 = 900 students.
+The answer: 900
+Reverse engineering the question: In the fall, 20,000 high school students apply to Harvard University for college. In the spring, 5% of those 20,000 students are accepted to the university. Of the students who are accepted, 90% choose to attend the university, and the other 10% choose to go to other schools. How many students choose to attend Harvard University?
+
+Reasoning and answer: In 2 years there are 365 * 2 = 730 days. So he has learned 730 * 10 = 7300 words. He knew 1 / .5 = 2 times that number of words before the book. So he knew 7300 * 2 = 14600 words before.
+The answer: 14600
+What was the question?
+Question: Tim buys a book of esoteric words. He learns 10 words from it a day. In 2 years the book has increased the number of words he knows by 50%. How many words did he know originally?
+
+Reasoning and answer: At a rate of 10 acres per day, he can plow his 55 acres of farmland in 55 / 10 = 5.5 days. At a rate of 12 acres per day, he can mow his 30 acres of grassland in 30 / 12 = 2.5 days. Altogether, it would take him 5.5 + 2.5 = 8 days to completely mow and plow his land.
+The answer: 8
+What was the question?
+Question:

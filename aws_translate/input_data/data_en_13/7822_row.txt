@@ -1,0 +1,26 @@
+Answer this question please:
+Passage: The Mekong Delta (Vietnamese: Đồng bằng Sông Cửu Long, "Nine Dragon river delta" or simply Vietnamese: Đồng Bằng Sông Mê Kông, "Mekong river delta"), also known as the Western Region (Vietnamese: Miền Tây) or the South-western region (Vietnamese: Tây Nam Bộ) is the region in southwestern Vietnam where the Mekong River approaches and empties into the sea through a network of distributaries. The Mekong delta region encompasses a large portion of southwestern Vietnam of over 40,500 square kilometres (15,600 sq mi). The size of the area covered by water depends on the season. The region comprises 12 provinces: Long An, Đồng Tháp, Tiền Giang, An Giang, Bến Tre, Vĩnh Long, Trà Vinh, Hậu Giang, Kiên Giang, Sóc Trăng, Bạc Liêu, and Cà Mau, along with the province-level municipality of Cần Thơ.
+
+Question: Based on this passage, where is the mekong delta located on a map?
+
+Stream of random thoughts: The important part for answering this question is: The Mekong Delta (Vietnamese: Đồng bằng Sông Cửu Long, "Nine Dragon river delta" or simply Vietnamese: Đồng Bằng Sông Mê Kông, "Mekong river delta"), also known as the Western Region (Vietnamese: Miền Tây) or the South-western region (Vietnamese: Tây Nam Bộ) is the region in southwestern Vietnam where the Mekong River approaches and empties into the sea through a network of distributaries.... The answer is southwestern Vietnam.
+----
+Answer this question please:
+"A Groovy Kind of Love" is a pop song written by Toni Wine and Carole Bayer Sager and published by the Screen Gems music publishing company. It is heavily based on the Rondo movement of Sonatina in G major, op. 36 no. 5, by Muzio Clementi. The song was released first by Diane & Annita in 1965, and several covers have since appeared on worldwide music charts.
+
+Answer this question based on the passage: who sang the original groovy kind of love?
+
+Stream of random thoughts: The important part for answering this question is: The song was released first by Diane & Annita in 1965, and several covers have since appeared on worldwide music charts.... The answer is Diane & Annita.
+----
+Answer this question please:
+The Galactic Center is the rotational center of the Milky Way. The estimates for its location range from 24 -- 28.4 kilolight-years (7.4 -- 8.7 kiloparsecs) from Earth in the direction of the constellations Sagittarius, Ophiuchus, and Scorpius where the Milky Way appears brightest. It coincides with the compact radio source Sagittarius A *.
+
+Answer this question: where is the galactic center in the sky?
+
+Stream of random thoughts: This is the relevant information: The estimates for its location range from 24 -- 28.4 kilolight-years (7.4 -- 8.7 kiloparsecs) from Earth in the direction of the constellations Sagittarius, Ophiuchus, and Scorpius where the Milky Way appears brightest.... The answer is 24 -- 28.4 kilolight - years ( 7.4 -- 8.7 kiloparsecs ) from Earth in the direction of the constellations Sagittarius , Ophiuchus , and Scorpius where the Milky Way appears brightest.
+----
+Answer this question please:
+The only extended period of failure the Cardinals have experienced began when they joined the National League in 1892. The Cardinals played only five winning seasons in 30 years while finishing last seven times from their entrance to the NL until 1921. However, the Cardinals have remarkably avoided such failure since then as they have not finished in last place in the National League since 1918, by far the longest streak in the NL. The Cardinals failed to reach the World Series in the 1950s, 1970s, and 1990s, but were regularly a competitive team in each of these decades.
+
+Based on this passage, when was the last time the st louis cardinals finished in last place?
+

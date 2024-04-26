@@ -1,0 +1,171 @@
+In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Q: SECTION 1. FINDINGS.
+
+    The Congress finds that--
+            (1) increased parental involvement in the education of 
+        their children appears to be the key to long-term gains for 
+        youngsters;
+            (2) providing seed money is an appropriate role for the 
+        Federal Government to play in education;
+            (3) children participating in the parents as teachers 
+        program in Missouri are found to have increased cognitive or 
+        intellectual skills, language ability, social skills and other 
+        predictors of school success;
+            (4) most early childhood programs begin at age 3 or 4 when 
+        remediation may already be necessary; and
+            (5) many children receive no health screening between birth 
+        and the time they enter school, thus such children miss the 
+        opportunity of having developmental delays detected early.
+
+SEC. 2. STATEMENT OF PURPOSE.
+
+    It is the purpose of this Act to encourage States and eligible 
+entities to develop and expand parent and early childhood education 
+programs in an effort to--
+            (1) increase parents' knowledge of and confidence in child-
+        rearing activities, such as teaching and nurturing their young 
+        children;
+            (2) strengthen partnerships between parents and schools; 
+        and
+            (3) enhance the developmental progress of participating 
+        children.
+
+SEC. 3. DEFINITIONS.
+
+    For the purposes of this Act--
+            (1) the term ``developmental screening'' means the process 
+        of measuring the progress of children to determine if there are 
+        problems or potential problems or advanced abilities in the 
+        areas of understanding and use of language, perception through 
+        sight, perception through hearing, motor development and hand-
+        eye coordination, health, and physical development;
+            (2) the term ``eligible entity'' means an entity in a State 
+        operating a parents as teachers program on the date of 
+        enactment of this Act;
+            (3) the term ``eligible family'' means any parent with one 
+        or more children between birth and 3 years of age;
+            (4) the term ``lead agency'' means--
+                    (A) except as provided in subparagraph (B), the 
+                office, agency, or other entity in a State designated 
+                by the Governor to administer the parents as teachers 
+                program authorized by this Act; or
+                    (B) in the case of a grant awarded under this Act 
+                to an eligible entity, such eligible entity;
+            (5) the term ``parent education'' includes parent support 
+        activities, the provision of resource materials on child 
+        development and parent-child learning activities, private and 
+        group educational guidance, individual and group learning 
+        experiences for the parent and child, and other activities that 
+        enable the parent to improve learning in the home; and
+            (6) the term ``parent educator'' means a person hired by 
+        the lead agency of a State or designated by local entities who 
+        administers group meetings, home visits and developmental 
+        screening for eligible families, and is trained by the Parents 
+        As Teachers National Center established under section 7.
+
+SEC. 4. PROGRAM ESTABLISHED.
+
+    (a) Authority.--
+            (1) In general.--The Secretary is authorized to make grants 
+        in order to pay the Federal share of the cost of establishing, 
+        expanding, or operating parents as teachers programs in a 
+        State.
+            (2) Eligible recipients.--The Secretary may make a grant 
+        under paragraph (1) to a State, except that, in the case of a 
+        State having an eligible entity, the Secretary shall make the 
+        grant directly to the eligible entity.
+    (b) Funding Rule.--Grant funds awarded under this section shall be 
+used so as to supplement, and to the extent practicable, increase the 
+level of funds that would, in the absence of such funds, be made 
+available from non-Federal sources, and in no case may such funds be 
+used so as to supplant funds from non-Federal sources.
+
+SEC. 5. PROGRAM REQUIREMENTS.
+
+    (a) Requirements.--Each State or eligible entity receiving a grant 
+pursuant to section 4 shall conduct a parents as teachers program 
+which--
+            (1) establishes and operates parent education programs, 
+        including programs of developmental screening of children; and
+            (2) designates a lead State agency which--
+                    (A) shall hire parent educators who have had 
+                supervised experience in the care and education of 
+                children;
+                    (B) shall establish the number of group meetings 
+                and home visits required to be provided each year for 
+                each participating family, with a minimum of 2 group 
+                meetings and 10 home visits for each participating 
+                family;
+                    (C) shall be responsible for administering the 
+                periodic screening of participating children's 
+                educational, hearing and visual development, using the 
+                Denver Developmental Test, Zimmerman Preschool Language 
+                Scale, or other approved screening instruments; and
+                    (D) shall develop recruitment and retention 
+                programs for hard-to-reach populations.
+    (b) Limitation.--Grant funds awarded under this Act shall only be 
+used for parents as teachers programs which serve families during the 
+period beginning with the birth of a child and ending when the child 
+attains the age of 3.
+
+SEC. 6. SPECIAL RULES.
+
+    Notwithstanding any other provision of this section--
+            (1) no person, including home school parents, public school 
+        parents, or private school parents, shall be required to 
+        participate in any program of parent education or developmental 
+        screening pursuant to the provisions of this Act;
+            (2) no parents as teachers program assisted under this Act 
+        shall take any action that infringes in any manner on the right 
+        of parents to direct the education of their children; and
+            (3) the provisions of section 438(c) of the General 
+        Education Provisions Act shall apply to States and eligible 
+        entities awarded grants under this Act.
+
+SEC. 7. PARENTS AS TEACHERS NATIONAL CENTER.
+
+    The Secretary shall establish a Parents As Teachers National Center 
+to disseminate information to, and provide technical and training 
+assistance to, States and eligible entities establishing and operating 
+parents as teachers programs.
+
+SEC. 8. EVALUATIONS.
+
+    The Secretary shall complete an evaluation of the parents as 
+teachers programs assisted under this Act within 4 years from the date 
+of enactment of this Act, including an assessment of such programs' 
+impact on at-risk children.
+
+SEC. 9. APPLICATION.
+
+    Each State or eligible entity desiring a grant under this Act shall 
+submit an application to the Secretary at such time, in such manner and 
+accompanied by such information as the Secretary may reasonably 
+require. Each such application shall describe the activities and 
+services for which assistance is sought.
+
+SEC. 10. PAYMENTS AND FEDERAL SHARE.
+
+    (a) Payments.--The Secretary shall pay to each State or eligible 
+entity having an application approved under section 9 the Federal share 
+of the cost of the activities described in the application.
+    (b) Federal Share.--
+            (1) In general.--The Federal share--
+                    (A) for the first year for which a State or 
+                eligible entity receives assistance under this Act 
+                shall be 100 percent;
+                    (B) for the second such year shall be 100 percent;
+                    (C) for the third such year shall be 75 percent;
+                    (D) for the fourth such year shall be 50 percent; 
+                and
+                    (E) for the fifth such year shall be 25 percent.
+            (2) Non-federal share.--The non-Federal share of payments 
+        under this Act may be in cash or in kind, fairly evaluated, 
+        including planned equipment or services.
+
+SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated $20,000,000 for fiscal year 
+1993, and such sums as may be necessary for each of the fiscal years 
+1994 through 1997, to carry out this Act.
+A:

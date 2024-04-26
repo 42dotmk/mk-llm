@@ -1,0 +1,36 @@
+No, these two questions are not inquiring about the same information. They are addressing two completely different topics - one is related to the Python programming language, specifically mathematical operations, and the other question is about the hiring practices of startup companies. Let's break down each question and provide detailed information on both topics.
+
+Question 1:
+To calculate 2+3 in Python, we don't need to import math. Why in case of square root?
+
+In Python, basic arithmetic operations such as addition, subtraction, multiplication, and division can be performed directly with the built-in operators. In the case of calculating the sum of 2 + 3, it's as simple as using the "+" operator, like this:
+
+result = 2 + 3
+
+However, when you want to calculate the square root of a number, it requires a different approach. Python does not provide a built-in operator specifically for finding the square root. That's why you need to use a math library function like sqrt(), which is available in the math module to perform this calculation.
+
+The math module provides a range of mathematical functions, including trigonometric, logarithmic, and other useful functions that go beyond the basic arithmetic operations. To use sqrt() from the math module, you'll need to import the module and then call the function like this:
+
+import math
+
+number = 9
+square_root = math.sqrt(number)
+
+In this example, you first import the Python 'math' module, then you call its sqrt() function by passing the number whose square root you want to calculate. The result is stored in the variable 'square_root.'
+
+Question 2:
+Startup companies hire freshers?
+
+Startup companies are newly established businesses that are usually in the early stages of their development. They often hire freshers, which are recent graduates or entry-level professionals, for a variety of reasons:
+
+1. Cost-effective: Hiring freshers can be more cost-effective compared to experienced professionals, as they usually demand lower salaries. Startups often have limited financial resources, and hiring freshers can help them manage their budget effectively.
+
+2. Enthusiasm and energy: Freshers typically bring enthusiasm, energy, and a willingness to learn and adapt to new environments. Startups need employees who can contribute positively to the growth and development of the company.
+
+3. Adaptability: Since freshers do not have prior experience in a specific domain or industry, they are more likely to be open to learning new things and adapting to the startup's culture and work environment. This adaptability can be valuable in the rapidly changing marketplace.
+
+4. Growth opportunities: Startups offer excellent growth opportunities for freshers, including hands-on experience, the chance to work on a wide variety of projects, and the opportunity to quickly take up significant responsibilities. This can be an attractive proposition for fresh graduates looking to fast-track their careers.
+
+5. Updated knowledge: Freshers often come straight from an educational institution and have the most recent knowledge in their field. They can bring new insights, ideas, and up-to-date technical skills to a startup company.
+
+In conclusion, these two questions address different topics: one discusses specific functions in the Python programming language, while the other focuses on the hiring practices of startup companies. Each question demands separate and detailed information to provide a thorough understanding.

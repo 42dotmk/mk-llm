@@ -1,0 +1,142 @@
+Here is a news article: Image copyright ESA/ROSETTA/NAVCAM Image caption The new report answers one of the big questions of the Rosetta mission 
+  
+ The rubber duck-shaped comet being followed by Europe's Rosetta probe used to be two separate objects. 
+  
+ Scientists say pictures of 67P show its two lobes to have "onion skin" layers that intersect in a way that can only be the result of two different bodies having collided and stuck together. 
+  
+ Ever since Rosetta arrived at the comet, the origin of its bizarre form has been one of the major puzzles. 
+  
+ The solution is now due to be published in the journal Nature. 
+  
+ Mission team members have also held a media conference to give further details, at the European Planetary Science Congress in Nantes, France. 
+  
+ Rosetta first spied the duck shape on approach to 67P/Churyumov-Gerasimenko in July 2014. 
+  
+ The idea that it was a "contact binary" - two conjoined comets - was a popular explanation from the word go. 
+  
+ But proving it has not been straightforward. An alternative possibility is simply that the icy dirt ball has been sculpted this way. 
+  
+ Every time it comes around the Sun, 67P's ices warm and it throws off gas and dust, and it could have been that this process has dominated in just one region to produce the distinctive appearance. 
+  
+ The Osiris camera on Rosetta can now settle the debate. 
+  
+ It reveals layers up to 650m thick in the body of the duck that are independent of similar strata detected in its head. 
+  
+ Image copyright ESA/ROSETTA/MPS FOR OSIRIS TEAM Image caption The deep pit at bottom-right shows the internal layering on the duck's body 
+  
+ Additional measurements taken by Rosetta of variations in the local tug of gravity across the lobes also support this two-body origin. 
+  
+ The direction of the tugging is more closely aligned with the independent layering than with a centre of mass associated with a single object. 
+  
+ Union of onions 
+  
+ Scientists say that to collide and stick together, the impact must have been a very low velocity one - perhaps just a few metres per second. Any faster and the primary objects would have done enormous damage to each other. 
+  
+ "I would say it's a quite beautiful love story," Matteo Massironi, from the Osiris team, said at Monday's press briefing. 
+  
+ He added that a key piece of evidence was a series of cross-sections of the comet, which the team were able to construct by extending the layers glimpsed on the surface into a 3D model of 67P's interior. These cross-sections painted a clear picture of two distinct sets of layers, reminiscent of a pair of onions. 
+  
+ "You don't know the structure of an onion until you cut across it," Dr Massironi said. "What we have seen is that this stratification is really continuous - and that [the one in the tail] doesn't match that of the head." 
+  
+ The discovery's consequences for what we understand about comet formation could be quite profound, says team member Stephen Lowry from Kent University, UK. 
+  
+ "It shows that comets were forming into large sizes and that they were then still colliding in this grown form to make even larger comets. So, it's not simply a case of independent comets completely forming out of centimetre- or metre-sized planetesimals, to make the comets we see today. And that's really quite fascinating, because it could be quite a ubiquitous process." 
+  
+ Image copyright ESA/ROSETTA/MPS FOR OSIRIS TEAM Image caption The local gravity field supports the idea that 67P was once two separate objects rather than a single formation 
+  
+ Other comets seen at relatively close quarters also display lobed shapes, including comets Halley, Borrelly and Hartley-2. Could they also be the result of low-velocity bump-and-stick events? 
+  
+ The tantalising prospect now is whether what was once two objects could split into two again. Could the constant erosion of gas and dust result in the duck losing its head? And will Rosetta be on hand to witness it? 
+  
+ The European Space Agency (Esa) probe has pictured a crack in the neck region of 67P, says Dr Lowry. 
+  
+ "If a comet is going to split, it's most likely to break along the interface between the two lobes. But I haven't seen any evidence yet that the crack is getting longer or wider. That's a strong indicator to me that perhaps 67P won't split on this orbit of the Sun." 
+  
+ Image copyright NASA Image caption Comets Borrelly and Hartley-2 have lobed shapes. Were they also made in low velocity collisions between objects 
+  
+ The comet takes just over six years to orbit the Sun and the Rosetta mission, after receiving a 10-month extension, will nonetheless end in September 2016. 
+  
+ At that point the spacecraft will spiral gradually closer and land yet again on 67P, said Esa project scientist Matt Taylor at the press conference - making a reference to the Philae lander's bumpy touchdown in November 2014. 
+  
+ He added that although the comet had passed its "perihelion" (its closest approach to the Sun), the mission was really only just beginning. "The papers are starting to flow." 
+  
+ Comet 67P - "Space duck" in numbers 
+  
+ A full rotation of the body takes just over 12.4 hours 
+  
+ The axis of rotation runs through the "neck" region 
+  
+ Its larger lobe ("body") is about 4.1 × 3.3 × 1.8 km 
+  
+ The smaller lobe ("head") is about 2.6 × 2.3 × 1.8 km 
+  
+ Gravity measurements give a mass of 10 billion tonnes 
+  
+ Mapping estimates the volume to be about 21.4 cubic km 
+  
+ The density works out at about 470kg per cubic metre 
+  
+ This would imply that Comet 67P is highly porous 
+  
+ It is 70-80% empty space, but are there big voids inside? 
+  
+ Daytime surface temperatures range from -93C to -43C 
+  
+ Amount of incident light reflected (albedo) is just 6% 
+  
+ Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos ||||| How did Rosetta's rubber-duck-shaped comet get its funky, two-lobed look? 
+  
+ In a paper published in Nature, researchers say that the nucleus of comet 67P/Churyumov-Gerasimenko is made of two formerly distinct bodies that likely came together in a gentle collision in the early stages of the solar system. 
+  
+ It's a cometary partnership that has lasted billions of years. 
+  
+ The European Space Agency's Rosetta orbiter began sending back the earliest images of comet 67P's strange, bi-lobed shape in July 2014, and scientists have been wondering about the origins of its unusual morphology ever since. 
+  
+ The comet has three distinct regions -- a major lobe (the main body of the "duck"), a minor lobe (the head) and a thin, neck-like region that connects the two. 
+  
+ "Since we resolved the comet, the question of whether it was two objects that joined together or one comet that has been eaten away has been dangling," said Matt Taylor of the European Space Agency, project scientist for the Rosetta mission. "Now we have answered it -- it's a contact binary." 
+  
+ To come to this conclusion, an international research team analyzed images of the comet collected by cameras aboard the Rosetta orbiter. 
+  
+ The scientists were particularly interested in the distinct layers of material called strata that were visible along the comet's many steep cliffs, and which continue at least 2,000 feet into the center of its nucleus. These concentric strata suggest that the structure of the comet is similar to that of an onion. 
+  
+ If the comet had always been just one body with what looks like a bite taken out of it, the scientists would expect to see the layers on both lobes arranged around a center point of gravity close to the neck. Instead, the researchers observed that the layers were generally well-ordered around the local gravity of each lobe. This suggests the lobes formed individually, each around their own center of mass. 
+  
+ European Space Agency / Rosetta / MPS for OSIRIS Team This image of a wide terrace with a 600-foot-deep pit shows the inner, layered skeleton of comet 67P's nucleus. This image of a wide terrace with a 600-foot-deep pit shows the inner, layered skeleton of comet 67P's nucleus. (European Space Agency / Rosetta / MPS for OSIRIS Team) (European Space Agency / Rosetta / MPS for OSIRIS Team) 
+  
+ The scientists were also able to show that the strata across the neck region do not match up with the strata on either the body or the head of the comet. 
+  
+ Finally, the team looked at gravity vectors that run perpendicular to the strata and found that they matched computer models of two separate objects, rather than a single object. 
+  
+ See the most-read Science stories this hour >> 
+  
+ "All together, these three lines of evidence leave a very narrow space for doubt," said Matteo Massironi of the University of Padua in Italy, who led the investigation. 
+  
+ Joseph Masiero, a scientist at NASA's Jet Propulsion Laboratory who specializes in asteroids and comets, said the argument is convincing. 
+  
+ "If you put it together, it looks like you have two onions sitting next to each other, not a single onion with a piece taken out," said Masiero, who wasn't involved in the study. 
+  
+ The authors note that the two lobes of comet 67P are strikingly similar in terms of their structure, which suggests that both lobes may have come from the same region of the solar system, or at least formed through similar processes, Taylor said. 
+  
+ However, questions remain. The paper does not address what processes helped these two bodies become one. Most impacts cause objects to break apart, not stick together. Could these two objects simply have nudged each other and then became stuck? 
+  
+ Possibly. In a paper published earlier this year in Science, a different set of researchers used 3-D computer simulations to show how two bodies moving at bicycle speed might gently collide and then merge together. They also found that a very low-velocity impact would displace some but not all of the material on the two bodies involved. 
+  
+ Massironi said the two objects that make up comet 67P are not necessarily being held together by gravity alone. 
+  
+ "There could have been some processes of cementation during the collision itself and in the following evolution of the comet," he said. 
+  
+ It seems more work will need to be done on that line of inquiry as well. 
+  
+ "They convinced me that these are two things stuck together," Masiero said. "But how do you stick them together? That's clearly the next question." 
+  
+ Science rules! Follow me @DeborahNetburn and "like" Los Angeles Times Science & Health on Facebook. 
+  
+ ALSO: 
+  
+ Water still flows on Mars -- but it's not for drinking, scientists say 
+  
+ Why were some ancient galaxies so bright? Supercomputer probes mystery 
+  
+ Dark, star-filled skies draw visitors to national parks, survey finds |||||
+A summary of this is?

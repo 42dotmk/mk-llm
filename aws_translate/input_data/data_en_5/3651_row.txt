@@ -1,0 +1,36 @@
+Ans: John Carpenter
+Ques: Passage: John Carpenter (born c. 1968) is an American game show contestant and IRS agent. He is best known for becoming the first top prize winner on the United States version of Who Wants to Be a Millionaire. He held the record for the largest single win in United States game show history, until it was broken by Rahim Oberholtzer who won $1.12 million on another U.S. quiz show, Twenty One. Carpenter was also the first top prize winner among all international versions of the Who Wants to Be a Millionaire? series.
+
+Question: Based on this passage, who want to be a millionaire first winner?
+CoT: This is the relevant information: He is best known for becoming the first top prize winner on the United States version of Who Wants to Be a Millionaire.
+
+
+Ans: The Star - Spangled Banner
+Ques: Context: "The Star-Spangled Banner" is the national anthem of the United States. The lyrics come from Defence of Fort M'Henry, a poem written on September 14, 1814, by the then 35-year-old lawyer and amateur poet Francis Scott Key after witnessing the bombardment of Fort McHenry by British ships of the Royal Navy in Baltimore Harbor during the Battle of Baltimore in the War of 1812. Key was inspired by the large U.S. flag, with 15 stars and 15 stripes, known as the Star-Spangled Banner, flying triumphantly above the fort during the U.S. victory.
+
+Question: what is the name of our national anthem?
+CoT: The relevant information to answer the above question is: "The Star-Spangled Banner" is the national anthem of the United States.
+
+
+Answer: upheld the requirement that the Miranda warning be read to criminal suspects. Now, what could be the question and solution-maybe?
+Ques: Dickerson v. United States, 530 U.S. 428 (2000), upheld the requirement that the Miranda warning be read to criminal suspects and struck down a federal statute that purported to overrule Miranda v. Arizona (1966).
+
+What is the importance of dickerson v. united states?
+CoT: The relevant sentence in the passage is: Dickerson v. United States, 530 U.S. 428 (2000), upheld the requirement that the Miranda warning be read to criminal suspects and struck down a federal statute that purported to overrule Miranda v. Arizona (1966).
+
+
+Ans: to set the peace terms for the defeated Central Powers
+Ques: The Paris Peace Conference, also known as Versailles Peace Conference, was the meeting of the victorious Allied Powers following the end of World War I to set the peace terms for the defeated Central Powers.
+
+Answer this question based on the passage: what was the intent of the paris peace talks?
+CoT: The relevant information is: The Paris Peace Conference, also known as Versailles Peace Conference, was the meeting of the victorious Allied Powers following the end of World War I to set the peace terms for the defeated Central Powers.
+
+
+Ans: May 30 , 2017
+Ques: The fifth season of the American web television drama series House of Cards was announced by Netflix on January 28, 2016, and released on May 30, 2017.
+
+House of cards season 5 time release date?
+CoT: To answer the question, consider the following: The fifth season of the American web television drama series House of Cards was announced by Netflix on January 28, 2016, and released on May 30, 2017.
+
+
+Answer: Article Five. Now, what could be the question and solution-maybe?

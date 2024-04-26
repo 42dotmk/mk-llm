@@ -1,0 +1,164 @@
+Definition: In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+Input: SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``J. Dennis Hastert Scholar Athlete 
+Act of 2002''.
+
+SEC. 2. ESTABLISHMENT OF PROGRAM.
+
+    Part A of title IV of the Higher Education Act of 1965 is amended 
+by inserting after subpart 8 (20 U.S.C. 1070f) the following new 
+subpart:
+
+   ``Subpart 9--J. Dennis Hastert Scholar Athlete Scholarship Program
+
+``SEC. 420M. STATEMENT OF PURPOSE; DEFINITIONS.
+
+    ``(a) Purpose.--It is the purpose of this subpart to establish a J. 
+Dennis Hastert Scholar Athlete Scholarship Program--
+            ``(1) to recognize and encourage scholar athletes; and
+            ``(2) to promote the importance of participation in 
+        intercollegiate athletics for the development of character, 
+        initiative, and leadership as part of the educational 
+        experience.
+    ``(b) Definitions.--For purposes of this part--
+            ``(1) the term `institution of higher education', 
+        notwithstanding section 102, has the meaning provided in 
+        section 101; and
+            ``(2) the term `State' has the meaning provided in section 
+        103(16).
+
+``SEC. 420N. SCHOLARSHIPS AUTHORIZED.
+
+    ``(a) Program Authority.--The Secretary is authorized, in 
+accordance with the provisions of this subpart, to make grants to 
+States to enable the States to award scholarships to individuals who 
+have demonstrated outstanding academic and athletic achievement and who 
+show promise of continuing that achievement.
+    ``(b) Period of Award.--Scholarships under this section shall be 
+awarded for a period of not less than 1 or more than 4 years during the 
+first 4 years of study at any institution of higher education eligible 
+to participate in any programs assisted under this title. The State 
+educational agency administering the program in a State shall have 
+discretion to determine the period of the award (within the limits 
+specified in the preceding sentence).
+    ``(c) Use at any Institution Permitted.--A student awarded a 
+scholarship under this subpart may attend any institution of higher 
+education.
+    ``(d) Hastert Scholar Athletes.--Individuals awarded scholarships 
+under this subpart shall be known as `Hastert Scholar Athletes'.
+
+``SEC. 420O. ALLOCATION AMONG STATES.
+
+    ``(a) Allocation Formula.--From the sums appropriated pursuant to 
+section 420V for any fiscal year, the Secretary shall allocate to each 
+State that has an agreement under section 420P an amount that bears the 
+same ratio to the amount appropriated pursuant to section 420V as the 
+population of such State bears to the population of all the States that 
+have such an agreement, except that not less than $20,000 shall be made 
+available to any State for any such fiscal year.
+    ``(b) Use of Census Data.--For the purpose of this section, the 
+population of a State and all the States shall be determined by the 
+most recently available data, satisfactory to the Secretary, from the 
+Bureau of the Census.
+    ``(c) Consolidation by Insular Areas Prohibited.--Notwithstanding 
+section 501 of Public Law 95-134 (48 U.S.C. 1469a), funds allocated 
+under this part to an Insular Area described in that section shall be 
+deemed to be direct payments to classes of individuals, and the Insular 
+Area may not consolidate such funds with other funds received by the 
+Insular Area from any department or agency of the United States 
+Government.
+
+``SEC. 420P. AGREEMENTS.
+
+    ``The Secretary shall enter into an agreement with each State 
+desiring to participate in the scholarship program authorized by this 
+subpart. Each such agreement shall include provisions designed to 
+assure that--
+            ``(1) the State educational agency will administer the 
+        scholarship program authorized by this subpart in the State;
+            ``(2) the State educational agency will comply with the 
+        eligibility and selection provisions of this subpart;
+            ``(3) the State educational agency will develop guidelines 
+        to ensure that the scholarship funds in the aggregate will be 
+        divided evenly between men and women;
+            ``(4) from such divided scholarship funds, the State 
+        educational agency will pay to each individual in the State who 
+        is awarded a scholarship under this subpart $10,000, subject to 
+        section 420S(a); and
+            ``(5) the State educational agency will conduct outreach 
+        activities to publicize the availability of scholarships under 
+        this subpart to all eligible students in the State, with 
+        particular emphasis on activities designed to assure that 
+        students from low-income and moderate-income families have 
+        access to the information on the opportunity for full 
+        participation in the scholarship program authorized by this 
+        subpart.
+
+``SEC. 420Q. ELIGIBILITY OF SCHOLARS.
+
+    ``(a) High School Graduation or Equivalent and Admission to 
+Institution Required.--Each student awarded a scholarship under this 
+subpart shall be a graduate of a public or private secondary school or 
+have the equivalent of a certificate of graduation as recognized by the 
+State in which the student resides and must have been admitted for 
+enrollment at an institution of higher education.
+    ``(b) Selection Based on Promise of Academic and Athletic 
+Achievement.--Each student awarded a scholarship under this subpart--
+            ``(1) must demonstrate quality academic and athletic 
+        achievement and show promise of continued academic and athletic 
+        achievement;
+            ``(2) must indicate an intent to participate in 
+        intercollegiate athletics; and
+            ``(3) must be a member in good standing of a school-
+        recognized team to be eligible for any subsequent year 
+        scholarship assistance, unless lack of participation is injury 
+        related.
+
+``SEC. 420R. SELECTION OF SCHOLARS.
+
+    ``(a) Establishment of Criteria.--The State educational agency is 
+authorized to establish the criteria for the selection of scholars 
+under this subpart. Such criteria shall include an emphasis on sports 
+that are part of the Olympic Games or are not significant revenue 
+generators at particular institutions.
+    ``(b) Adoption of Procedures.--The State educational agency shall 
+adopt selection procedures designed to ensure an equitable geographic 
+distribution of awards within the State.
+    ``(c) Consultation Requirement.--In carrying out its 
+responsibilities under subsections (a) and (b), the State educational 
+agency shall consult with school administrators, school boards, 
+teachers, counselors, and parents.
+    ``(d) Timing of Selection.--The selection process shall be 
+completed, and the awards made, prior to the end of each secondary 
+school academic year.
+
+``SEC. 420S. STIPENDS AND SCHOLARSHIP CONDITIONS.
+
+    ``(a) Amount of Award.--Each student awarded a scholarship under 
+this subpart shall receive a stipend of $10,000 for the academic year 
+of study for which the scholarship is awarded, except that in no case 
+shall the total amount of financial aid awarded to such student exceed 
+such student's total cost-of-attendance.
+    ``(b) Use of Award.--The State educational agency shall establish 
+procedures to assure that a scholar athlete awarded a scholarship under 
+this subpart pursues a course of study at an institution of higher 
+education and continues to engage in athletic competition.
+
+``SEC. 420U. CONSTRUCTION OF NEEDS PROVISIONS.
+
+    ``Except as provided in section 471, nothing in this subpart, or 
+any other Act, shall be construed to permit the receipt of a 
+scholarship under this subpart to be counted for any needs test in 
+connection with the awarding of any grant or the making of any loan 
+under this Act or any other provision of Federal law relating to 
+educational assistance.
+
+``SEC. 420V. AUTHORIZATION OF APPROPRIATIONS.
+
+    ``There are authorized to be appropriated for this subpart--
+            ``(1) $50,000,000 for fiscal year 2003;
+            ``(2) $100,000,000 for fiscal year 2004;
+            ``(3) $150,000,000 for fiscal year 2005; and
+            ``(4) $200,000,000 for fiscal year 2006.''.
+Output:

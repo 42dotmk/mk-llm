@@ -1,0 +1,25 @@
+Chad uses 2 crackers for each "sandwich" and has 5 sandwiches a night so he eats 2 * 5 = 10 crackers a night. The box has 4 sleeves of crackers and each sleeve has 28 crackers for a total of 4 * 28 = 112 crackers. 1 box has 112 crackers so 5 boxes will have 112 * 5 = 560 crackers. He eats 10 crackers a night and 5 boxes have 560 crackers so they will last him 560 / / 10 = 56 nights.
+The answer: 56
+Reverse engineering the question: Chad sandwiches 2 crackers with a scoop of peanut butter. He has 5 of these crackers a night before bed. A box of crackers has 4 sleeves with each sleeve holding 28 crackers. How many nights will 5 boxes of crackers last him?
+
+Reasoning and answer: John starts with 100ft of rope that he cuts in half, meaning he has 100 / 2 = 50 - foot sections of rope. He then takes one of these sections and cuts it in half again, leaving him with two 50 / 2 = 25 - foot sections of rope. He then takes one of these sections and cuts it into fifths, leaving him with 25 / 5 = 5 foot sections of rope, one of which he is now holding.
+The answer: 5
+What was the question?
+Question: Josh has 100 feet of rope. He cuts the rope in half, and then takes one of the halves and cuts it in half again. He grabs one of the remaining pieces and cuts it into fifths. He's stuck holding one length of the rope he's most recently cut. How long is it?
+
+The total amount of money Mr. Haj used to pay for employee salary is 2 / 5 * $4000 = $1600. After paying the employee salaries, Mr. Haj remains with $4000 - $1600 = $2400. He also uses 1 / 4 * $2400 = $600 on delivery costs. The remaining amount of money that he uses to pay for orders is $2400 - $600 = $1800.
+The answer: 1800
+Reverse engineering the question: To run his grocery store, Mr. Haj needs $4000 a day. This money is used to pay for orders done, delivery costs and employees' salaries. If he spends 2/5 of the total operation costs on employees' salary and 1/4 of the remaining amount on delivery costs, how much money does he pay for the orders done?
+
+Reasoning and answer: He spend $1.5 on soda because 2 - .5 = 1.5. He bought 6 ounces of soda because 1.5 / .25 = 6.
+The answer: 6
+What was the question?
+Question: Peter goes to the store to buy a soda. The soda costs $.25 an ounce. He brought $2 with him and leaves with $.50. How many ounces of soda did he buy?
+
+He has to work off $100 - $40 = $60. So he has to work $60 / 15 = 4 hours.
+The answer: 4
+Reverse engineering the question: Jake agrees to work part of his debt off. He owed someone $100 but paid them $40 before agreeing to work off the rest.  He worked for $15 an hour. How many hours did he have to work?
+
+First find how many minute Andy had to get to school when he left his house: 8:00 AM - 7:15 AM = 45 minutes. Then find the total time he spent waiting at red lights: 3 minutes / light * 4 lights = 12 minutes. Now add the normal travel time, red light time, and construction wait time to find Andy's total travel time: 30 minutes + 12 minutes + 10 minutes = 52 minutes. Now subtract the amount of time Andy had when he left his house from that number to find how many minute late he is: 52 minutes - 45 minutes = 7 minutes.
+The answer: 7
+Reverse engineering the question:

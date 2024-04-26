@@ -1,0 +1,27 @@
+Reasoning and answer: Pre - bought: 20 people * $155 = $3100. Gate bought: 30 people * $200 = $6000. $6000 - $3100 = $2900. The passengers that paid at the gate paid $2900 more dollars than those who pre - bought their tickets.
+The answer: 2900
+What was the question?
+Question: Twenty people pre-bought plane tickets at a price of $155 per ticket. Thirty people bought their plane tickets at the gate and they each paid $200 for their ticket. How many more dollars did the people at the gate pay for their tickets than those passengers that pre-bought their tickets?
+
+First find how many eggs per minute the owner can clean up: 60 seconds / minute / 15 seconds / egg = 4 eggs / minute. Then divide the total number of eggs by the number of eggs cleaned per minute to find how long the owner spends cleaning them up: 60 eggs / 4 eggs / minute = 15 minutes. Then find the total time the owner spends cleaning up toilet paper: 7 rolls * 30 minutes / roll = 210 minutes. Finally, add that amount to the egg cleaning time to find the total cleaning time: 210 minutes + 15 minutes = 225 minutes.
+The answer: 225
+Reverse engineering the question: Every Halloween one house in the neighborhood gives out toothbrushes instead of candy, so it always gets egged and covered in toilet paper. If the owner spends 15 seconds cleaning up each egg and 30 minutes cleaning up each roll of toilet paper, how long (in minutes) will they have to spend cleaning up 60 eggs and 7 rolls of toilet paper?
+
+Reasoning and answer: If Mr. Maximilian has 140 cows and 40% of them have red spots, then 40 / 100 * 140 = 56 cows have red spots. The number of cows with no red spot is 140 - 56 = 84 cows. Out of the 84 cows without a red spot, 25% of them have a blue spot, a total of 25 / 100 * 84 = 21 cows. The number of cows without any spot is 84 - 21 = 63 animals.
+The answer: 63
+What was the question?
+Question: Mr. Maximilian is a dairy animal farmer and has 140 cows on his farm. Forty percent of the cows on his farm have a red spot, 25 percent of the cows without a red spot have a blue spot and the remaining cows do not have any spot. How many cows on the farm have no spot?
+
+To find the number of total bike rides, we must first determine how many times John rode his bike. We do this by performing 17 * 2 = 34 times for John. Since John's mother rode 10 times more than John did, we find her total by performing 34 + 10 = 44 times. For all three people put together then, we perform 44 + 34 + 17 = 95 times in total.
+The answer: 95
+Reverse engineering the question: If Billy rode his bike 17 times, John rode his bike twice as many times, and their mother rode her bike 10 times more than John, how many times did they ride their bikes in total?
+
+Reasoning and answer: Aziz was born in the year 2021 - 36 years = 1985. Therefore, Aziz's parents had been living in America for 1985 - 1982 = 3 years.
+The answer: 3
+What was the question?
+Question: Aziz's parents moved to America in 1982. The year is 2021 and Aziz just celebrated his 36th birthday. How many years had his parents been living in America before Aziz was born?
+
+Reasoning and answer: One less than 5 is 5 - 1 = 4. If one tarantula egg sac can contain 1000 tarantulas, then four egg sacs can hold 4 * 1000 = 4000 tarantula babies. If each tarantula baby has eight legs, the 4 egg sacs can contain 4000 * 8 = 32,000 baby tarantula legs.
+The answer: 32000
+What was the question?
+Question:

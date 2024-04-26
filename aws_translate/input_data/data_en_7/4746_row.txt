@@ -1,0 +1,21 @@
+I would like to hear the Commission's position on the processing of hazardous bovine organs into gelatine and tallow.
+
+The European Commission takes the issue of food safety very seriously, and this concern extends to the production of by-products such as gelatine and tallow from bovine organs. To address the risk of bovine spongiform encephalopathy (BSE) and other related diseases, the European Union has implemented comprehensive legislation governing the production of these substances from animal tissues.
+
+Specifically, the production of gelatine and tallow from hazardous bovine organs is strictly regulated to minimize the risk of contamination by prions, which cause BSE in cattle and its human form, Creutzfeldt-Jakob disease (CJD). European regulations aim to prevent the use of potentially contaminated animal tissues in the production of substances that may pose a risk to human or animal health.
+
+The primary legislation governing the production of these substances is Regulation (EC) No 999/2001, which lays down rules for the prevention, control, and eradication of certain transmissible spongiform encephalopathies like BSE. This regulation is further supported by Regulation (EC) No 1069/2009, which provides rules on animal by-products and derived products not intended for human consumption.
+
+Regarding the production of gelatine and tallow, there are several key rules and safety measures in place:
+
+1. Sourcing of raw materials: Only tissues from animals that have undergone required veterinary checks and have been declared fit for human consumption may be used in the production of gelatine and tallow. The use of specified risk material (SRM), which is the tissue most likely to be contaminated with prions, is prohibited for both human and animal consumption and must be removed and disposed of safely.
+
+2. Traceability: A traceability system is in place to ensure that all animal by-products and derived products can be traced back to their origin. This allows for faster identification and removal of potentially contaminated materials from the production chain.
+
+3. Processing methods: Both gelatine and tallow production are subject to rigorous processing methods that effectively remove or inactivate prions, minimizing the risk of contamination. The processing methods for gelatine include acid or alkaline treatment, followed by extensive rinsing, and filtration. Tallow production requires heating at high temperatures and subsequent separation of the fat from the protein material.
+
+4. Monitoring and inspection: Authorities are responsible for monitoring compliance with these regulations and carry out regular inspections of production facilities, ensuring that companies follow the required safety measures and procedures.
+
+5. Disposal of waste materials: Any waste material, including those classified as SRM, must be disposed of in accordance with Regulation (EC) No 1069/2009 to prevent the spread of BSE and other transmissible spongiform encephalopathies.
+
+In conclusion, the European Commission is deeply committed to ensuring the safety of both human and animal health. Strict regulations and safety measures govern the production of gelatine and tallow from bovine organs, and these measures aim to minimize the risk of contamination by BSE-causing prions. By adhering to these guidelines, the European Union can continue to maintain the highest level of food safety and protect public health.

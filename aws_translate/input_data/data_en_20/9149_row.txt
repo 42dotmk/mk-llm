@@ -1,0 +1,320 @@
+Given the task definition and input, reply with output. In this task, you are given text for US Congressional and California state bills, your task is to generate a summary for this bill.
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``United States Commission on 
+Rebuilding America for the 21st Century Act''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) In 1808, Albert Gallatin, while serving as President 
+        Thomas Jefferson's Secretary of the Treasury, reported to 
+        Congress on the infrastructure investments needed by the young 
+        Nation.
+            (2) Gallatin's plan built on President George Washington's 
+        vision of connecting the interior settlements of the Nation 
+        with the markets and ports of the East Coast through a network 
+        of roads and canals, and provided a roadmap for infrastructure 
+        development in the 19th century.
+            (3) In 1908, President Theodore Roosevelt convened a 
+        conference of State and territorial governors, members of his 
+        Cabinet and Congress, professional organizations, private 
+        citizens, and government agencies to plan for the United States 
+        conservation and infrastructure needs in the 20th century.
+            (4) The resulting plan laid the groundwork for many of the 
+        critical investments initiated by President Franklin D. 
+        Roosevelt to jumpstart the Nation's recovery from the Great 
+        Depression.
+            (5) Today, as in 1808 and 1908, the United States is faced 
+        with significant economic, environmental, and demographic 
+        challenges.
+            (6) To stave off the worst effects of global warming, the 
+        United States will need to reduce greenhouse gas emissions 
+        significantly.
+            (7) The Nation's population is projected to increase to 420 
+        million by 2050, which is nearly a 50 percent increase from the 
+        Nation's population size in 2000.
+            (8) By 2050, more than 70 percent of the Nation's 
+        population growth and economic growth is expected to take place 
+        in extended networks of metropolitan regions linked by 
+        environmental systems, transportation networks, economies, and 
+        culture.
+            (9) The National Surface Transportation Policy and Revenue 
+        Study Commission recently calculated that maintaining the 
+        Nation's existing transportation system over the next 50 years 
+        will require $225 billion annually. The latest transportation 
+        authorization, SAFETEA-LU, provided only $244 billion total for 
+        the 5 years ending with fiscal year 2009.
+            (10) The American Society of Civil Engineers has given the 
+        Nation's public infrastructure, consisting of water, sewer, and 
+        transportation systems, a grade of D-minus, estimating that it 
+        will cost $1.6 trillion over the next 5 years merely to repair 
+        the Nation's existing infrastructure.
+            (11) The Nation's decaying water infrastructure and a lack 
+        of available funding to maintain and upgrade the Nation's 
+        wastewater infrastructure pose a serious threat to water 
+        quality. More than 72,000 miles of municipal water and sewer 
+        pipe are more than 80 years old, threatening the health, 
+        environment, and economy of communities large and small.
+            (12) Population growth and associated development will 
+        place the Nation's water resources under increasing stress, 
+        including increased pollutant loads, increased potential for 
+        flooding, diminished drinking water supplies, loss of aquatic 
+        habitat, and stream scouring and erosion. Global warming will 
+        exacerbate existing water challenges and make other changes to 
+        the natural hydrology, including more extreme storm events, 
+        more frequent droughts, higher air and water temperatures, 
+        changes in timing of stream flows, and sea level rise. New 
+        technologies and a comprehensive strategy will be needed to 
+        overcome these challenges and ensure a safe, adequate, 
+        reliable, and sustainable water supply.
+            (13) The Environmental Protection Agency, the Congressional 
+        Budget Office, and other stakeholders have identified a funding 
+        gap of between $300 billion and $400 billion over the next 20 
+        years for the restoration and replacement of wastewater 
+        infrastructure, and an additional $250 billion over the next 30 
+        years will be needed to replace worn-out drinking water pipes 
+        and associated structures.
+            (14) From 1999 to 2009, the Nation's electricity demand 
+        rose by nearly 20 percent while transmission capacity grew by 
+        only 3.5 percent. To accommodate increased demand, and to 
+        accommodate increased electrical supply from renewable sources 
+        by 2050, electrical transmission infrastructure requires 
+        significant investment.
+            (15) The Nation's rural economy is dependant on 
+        transportation and communications networks to grow and compete 
+        in an increasingly globalized market.
+            (16) Significant under-investment in public lands 
+        infrastructure jeopardizes the tremendous conservation, 
+        environmental, and mixed use benefits that these lands provide 
+        the public.
+            (17) Much of the Nation's infrastructure was built in the 
+        last half of the 20th century and will reach its capacity 
+        limits early in the 21st century. Unless new capacity is 
+        created in roads, rails, airports, seaports, and other systems, 
+        the Nation's economic potential will be artificially limited.
+            (18) Since 1980, the number of miles people in the United 
+        States drive has grown 3 times faster than the Nation's 
+        population. Residents of walkable cities, however, drive 26 
+        percent fewer miles per day than those living in the most 
+        sprawling areas.
+            (19) By 2050, 89 million new or replaced homes as well as 
+        190 billion square feet of new offices, stores, and other 
+        nonresidential buildings will be constructed.
+            (20) By 2050, smart growth building policies could reduce 
+        total transportation-related CO&lt;INF&gt;2&lt;/INF&gt; emissions by 7 to 
+        10 percent.
+            (21) Development of a bold national plan to overcome these 
+        challenges by 2050 will allow the United States to respond in 
+        the most economically and environmentally sustainable way.
+
+SEC. 3. ESTABLISHMENT.
+
+    There is established a commission to be known as the ``United 
+States Commission on Rebuilding America for the 21st Century'' (in this 
+Act referred to as the ``Commission'').
+
+SEC. 4. MEMBERSHIP.
+
+    (a) Appointment of Members.--The Commission shall be composed of 17 
+members as follows:
+            (1) Two members, including the chairman of the Commission, 
+        to be appointed by the Speaker of the House of Representatives.
+            (2) Two members to be appointed by the majority leader of 
+        the Senate.
+            (3) Three members to be appointed jointly by the minority 
+        leader of the House of Representatives and the minority leader 
+        of the Senate.
+            (4) One member to be appointed by the Administrator of the 
+        Environmental Protection Agency.
+            (5) One member to be appointed by the Secretary of 
+        Transportation.
+            (6) One member to be appointed by the Secretary of Housing 
+        and Urban Development.
+            (7) One member to be appointed by the Secretary of the 
+        Interior.
+            (8) One member to be appointed by the Secretary of Energy.
+            (9) One member to be appointed by the President of the 
+        Executive Committee of the Board of Directors of the National 
+        Association of Counties, in consultation with the other members 
+        of the Board.
+            (10) One member to be appointed by the Chair of the 
+        National Governors Association.
+            (11) One member to be appointed by the Executive Director 
+        of the National Conference of State Legislatures, in 
+        consultation with the members of the Conference's executive 
+        committee.
+            (12) One member to be appointed by the President of the 
+        Board of Directors of the National Association of Regional 
+        Councils, in consultation with the other members of the Board.
+            (13) One member to be appointed by the President of the 
+        United States Conference of Mayors, in consultation with the 
+        members of the Conference's executive board.
+    (b) Dates of Appointments.--The initial member appointed to the 
+Commission shall be the Chairman, as designated by the Speaker of the 
+House of Representatives under subsection (a)(1). The remainder of the 
+members of the Commission shall be appointed in the 30-day period 
+beginning on the 30th day following the date of the appointment of the 
+Chairman.
+    (c) Qualifications.--
+            (1) In general.--Each member of the Commission shall be 
+        knowledgeable in--
+                    (A) the fields of transportation finance, highway 
+                and transit programs, and transportation policy;
+                    (B) the fields of land use and housing policy, 
+                including community planning and design;
+                    (C) the fields of water supply, water 
+                infrastructure, and water conservation policy; or
+                    (D) the fields of energy supply, energy 
+                infrastructure, and energy conservation policy.
+            (2) Eligibility of certain representatives.--The members of 
+        the Commission--
+                    (A) may include representatives of State and local 
+                governments, public transportation authorities, and 
+                other appropriate governmental units; but
+                    (B) may not include any member of the House of 
+                Representatives, the Senate, or the President's 
+                Cabinet.
+    (d) Terms.--The members of the Commission shall be appointed for 
+the life of the Commission.
+    (e) Vacancies.--A vacancy on the Commission shall be filled 
+promptly and in the manner in which the original appointment was made.
+    (f) Meetings.--
+            (1) Initial meeting.--Not later than 60 days after the last 
+        day of the appointment period described in section 4(b), the 
+        Commission shall hold the initial meeting of the Commission.
+            (2) Meetings.--The Commission shall meet at the call of the 
+        chairman of the Commission or a majority of its members.
+            (3) Quorum.--A majority of the members of the Commission 
+        shall constitute a quorum, but a lesser number of members may 
+        hold hearings.
+    (g) Pay.--Members of the Commission shall serve without pay.
+    (h) Travel Expenses.--Each member of the Commission shall receive 
+travel expenses, including per diem in lieu of subsistence, in 
+accordance with applicable provisions under subchapter I of chapter 57 
+of title 5, United States Code.
+
+SEC. 5. DUTIES.
+
+    (a) Review of Published Materials.--
+            (1) In general.--The Commission shall review published 
+        materials on the Nation's transportation, water, energy, public 
+        lands, and housing infrastructure and, based on the review, 
+        assess the challenges of meeting the Nation's infrastructure 
+        needs in the 21st century.
+            (2) Report to congress.--Not later than 120 days after the 
+        last day of the appointment period described in section 4(b), 
+        the Commission shall submit to Congress a report on the review 
+        and assessment conducted under paragraph (1) and make the 
+        report available to the public.
+    (b) Public Hearings.--In order to facilitate a national dialogue on 
+the Nation's infrastructure needs, the Commission shall hold public 
+hearings in at least 50 congressional districts representing a cross-
+section of the geographical regions of the United States, and consult 
+with other interested persons, before submitting a final report under 
+subsection (c)
+    (c) Final Report.--
+            (1) National vision of infrastructure investments.--Not 
+        later than one year after the last day of the appointment 
+        period described in section 4(b), the Commission shall prepare 
+        and submit to Congress a report that--
+                    (A) documents the challenges of meeting the 
+                Nation's transportation, water, energy, public lands, 
+                and housing infrastructure needs in the 21st century; 
+                and
+                    (B) articulates a national vision of infrastructure 
+                investments to overcome the challenges.
+            (2) Specific recommendations.--The report to be submitted 
+        under paragraph (1) shall contain specific recommendations on 
+        appropriate policies and investments, including integration of 
+        existing programs, to provide the people of the United States 
+        with--
+                    (A) improved transportation mobility, choice, and 
+                access to economic opportunities;
+                    (B) streamlined investment processes to facilitate 
+                State and local transportation investments;
+                    (C) improved community health outcomes and social 
+                equity;
+                    (D) improved water conservation, quality, and 
+                quantity;
+                    (E) an efficient, vibrant, and flexible electric 
+                grid that delivers clean, safe, and affordable energy;
+                    (F) reductions in greenhouse gas emissions; and
+                    (G) improved public lands infrastructure sufficient 
+                to accommodate the growth in users without degrading 
+                the environmental and conservation values of the public 
+                lands.
+            (3) Model principles.--The report to be submitted under 
+        paragraph (1) shall contain a set of model principles to ensure 
+        that future investments in the Nation's transportation, water, 
+        energy, public lands, and housing infrastructure incorporate 
+        the findings and recommendations contained in the report.
+
+SEC. 6. POWERS.
+
+    (a) Hearings and Sessions.--For the purpose of carrying out this 
+Act, the Commission may hold such hearings, meet and act at such times 
+and places, take such testimony, administer such oaths, and receive 
+such evidence as the Commission considers appropriate.
+    (b) Other Evidence.--The Commission shall gather evidence through 
+such means as the Commission considers appropriate, including--
+            (1) by soliciting comments through Federal Register 
+        notices; and
+            (2) by receiving testimony at public hearings conducted by 
+        members of the Commission, at the direction of the chairman of 
+        the Commission, subject to appropriate rules governing the 
+        receiving of evidence.
+    (c) Obtaining Official Data.--The Commission may secure directly 
+from any department or agency of the United States information (other 
+than information required by any law to be kept confidential by such 
+department or agency) necessary for the Commission to carry out its 
+duties under this Act. Upon request of the Commission, the head of that 
+department or agency shall furnish such nonconfidential information to 
+the Commission.
+    (d) Contracts.--The Commission may enter into contracts with other 
+entities in carrying out the duties of the Commission.
+    (e) Gifts, Bequests, and Devises.--To the extent or in the amounts 
+provided in advance in appropriations Acts, the Commission may accept, 
+use, and dispose of gifts, bequests, or devises of services or 
+property, both real and personal, for the purpose of aiding or 
+facilitating the work of the Commission. Gifts, bequests, or devises of 
+money and proceeds from sales of other property received as gifts, 
+bequests, or devises shall be deposited in the Treasury and shall be 
+available for disbursement upon order of the Chairperson.
+    (f) Mails.--The Commission may use the United States mails in the 
+same manner and under the same conditions as other departments and 
+agencies of the United States.
+    (g) Administrative Support Services.--Upon the request of the 
+Commission, the Administrator of General Services shall provide to the 
+Commission, on a reimbursable basis, the administrative support 
+services necessary for the Commission to carry out its responsibilities 
+under this Act.
+
+SEC. 7. STAFF.
+
+    (a) Staff.--The Commission may appoint and fix the pay of such 
+personnel as the Commission considers appropriate.
+    (b) Staff of Federal Agencies.--Upon request of the Commission, the 
+head of any Federal department or agency may detail, on a reimbursable 
+basis, any of the personnel of that department or agency to the 
+Commission to assist the Commission in carrying out its duties under 
+this Act.
+    (c) Experts and Consultants.--The Commission may procure temporary 
+and intermittent services under section 3109(b) of title 5, United 
+States Code, but at rates for individuals not to exceed the daily 
+equivalent of the maximum annual rate of basic pay for GS-15 of the 
+General Schedule.
+
+SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+    There is authorized to be appropriated to carry out this Act 
+$2,500,000.
+
+SEC. 9. TERMINATION.
+
+    The Commission shall terminate on the 180th day following the date 
+of transmittal of the final report required under section 5(c). All 
+records and papers of the Commission shall thereupon be delivered to 
+the Administrator of General Services for deposit in the National 
+Archives.

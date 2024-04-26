@@ -1,0 +1,22 @@
+Student A:"Heaven Is a Place on Earth" is a song by American singer Belinda Carlisle, featured on her second studio album, Heaven on Earth (1987). Written by Rick Nowels and Ellen Shipley, the power ballad was released as the album's lead single in September 1987, and it hit number one on the Billboard Hot 100 on December 5, 1987, becoming Carlisle's only US chart-topper. A month later it hit number one in the United Kingdom, where it held the top spot of the UK Singles Chart for two weeks.
+
+Answer this question based on the passage: when was heaven is a place on earth made?
+Student B:OK... To answer the above question, the relevant sentence is: "Heaven Is a Place on Earth" is a song by American singer Belinda Carlisle, featured on her second studio album, Heaven on Earth (1987).
+1987.
+
+Student A:Context: Stranger Things is set in the fictional rural town of Hawkins, Indiana, during the early 1980s. The nearby Hawkins National Laboratory ostensibly performs scientific research for the United States Department of Energy, but secretly does experiments into the paranormal and supernatural, including those that involve human test subjects. These start to affect the unknowing residents of Hawkins in calamitous ways.
+
+Question: when does stranger things season 1 take place?
+Student B:OK... The relevant information to answer the above question is: Stranger Things is set in the fictional rural town of Hawkins, Indiana, during the early 1980s.
+the early 1980s.
+
+Student A:Pandas have become important diplomatic symbols, not only to China. In a visit by Hu Jintao to Japan in May 2008, China announced the loan of two pandas to Japan. The President was quoted as saying "Giant pandas are very popular among the Japanese, and they are a symbol of the friendly ties between Japan and China." Actions that other countries take with pandas are often seen as laden with meaning. For example, British diplomats worried that a 1964 transfer of a panda from a London zoo to Moscow would worsen Sino-Soviet relations. In January 2006, U.S. Deputy Secretary of State Robert Zoellick was photographed hugging a 5-month-old panda cub during his visit to Sichuan Province. The image was widely broadcast by the Chinese media and was purportedly interpreted as a sign that Zoellick supported better relations between China and the United States.
+
+Answer this question: what is the panda a symbol of in china?
+Student B:OK... The important part for answering this question is: Pandas have become important diplomatic symbols, not only to China.
+diplomatic symbols.
+
+Student A:Totem poles are monumental carvings, a type of Northwest Coast art, consisting of poles, posts or pillars, carved with symbols or figures. They are usually made from large trees, mostly western red cedar, by indigenous peoples of the Pacific Northwest coast of North America (Washington, Oregon, and Canada's western province, British Columbia). The word totem derives from the Algonquian (most likely Ojibwe) word o doodem (oˈtuːtɛm), "(his) kinship group". The carvings may symbolize or commemorate cultural beliefs that recount familiar legends, clan lineages, or notable events. The poles may also serve as functional architectural features, welcome signs for village visitors, mortuary vessels for the remains of deceased ancestors, or as a means to publicly ridicule someone. They may embody a historical narrative of significance to the people carving and installing the pole. Given the complexity and symbolic meanings of totem pole carvings, their placement and importance lies in the observer's knowledge and connection to the meanings of the figures and the culture in which they are embedded.
+
+In what region of the united states were totem poles common forms of native american art?
+Student B:

@@ -1,0 +1,19 @@
+Q: The Dodge Charger is a brand of automobile marketed by Dodge. The first Charger was a show car in 1964. There have been several different production Chargers, built on three different platforms and sizes. In the U.S., the Charger nameplate has been used on subcompact hatchbacks, full-sized sedans, and personal luxury coupes. The current version is a four-door sedan.
+
+When did the first dodge charger come out?
+A: 1964. How to explain the answer? The relevant sentence in the passage is: The first Charger was a show car in 1964.
+
+Q: Passage: The Staten Island Ferry is a passenger ferry route operated by the New York City Department of Transportation. The ferry's single route runs 5.2 miles (8.4 km) through New York Harbor between the New York City boroughs of Manhattan and Staten Island, with ferry boats making the trip in approximately 25 minutes. The ferry operates 24 hours a day, 7 days a week, with boats leaving every 15 to 20 minutes during peak hours and every 30 minutes at other times. It is the only direct mass-transit connection between the two boroughs. Historically, the Staten Island Ferry has charged a relatively low fare compared to other modes of transit in the area; and since 1997, the route has been fare-free. The Staten Island Ferry is one of several ferry systems in the New York City area, and is operated separately from other systems such as NYC Ferry and NY Waterway.
+
+Question: Based on this passage, how far is it from staten island to manhattan?
+A: 5.2 miles ( 8.4 km ). How to explain the answer? This is the relevant information: The ferry's single route runs 5.2 miles (8.4 km) through New York Harbor between the New York City boroughs of Manhattan and Staten Island, with ferry boats making the trip in approximately 25 minutes.
+
+Q: In 2013, Madison began playing Hillary on the TV sitcom Trophy Wife, replacing Gianna LePera who played the character in the pilot. In 2014, she began playing the recurring role of Sophia Quinn in the ABC Family drama The Fosters. In 2015, she began playing Grace Russell, the daughter of Cassie Nightingale, in the Hallmark series Good Witch.
+
+Answer this question: what role does bailee madison play in the fosters?
+A: Sophia Quinn. How to explain the answer? The relevant information is: In 2014, she began playing the recurring role of Sophia Quinn in the ABC Family drama The Fosters.
+
+Q: "The Greatest Love of All" is a song written by songwriters Michael Masser, who composed the music, and Linda Creed, who wrote the lyrics. It was originally recorded in 1977 by American singer and guitarist George Benson, who made the song a substantial hit, peaking at number 2 on the US R&B chart that year, the first R&B chart Top Ten hit for Arista Records. The song was written and recorded to be the main theme of the 1977 film The Greatest, a biopic of the boxer Muhammad Ali. Eight years after Benson's original recording, the song became even more well known for a version by Whitney Houston, whose 1985 cover (with the slightly amended title "Greatest Love of All") eventually topped the charts, peaking at number 1 in Australia, Canada, U.S. and on the US R&B chart in 1986.
+
+Based on this passage, who wrote the song the greatest love of all?
+A:

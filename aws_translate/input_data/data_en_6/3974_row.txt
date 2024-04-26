@@ -1,0 +1,27 @@
+Reasoning and answer: First quadruple the price of the wallet: $22 * 4 = $88. Then subtract $3 to find the cost of the purse: $88 - $3 = $85. Then add the price of the wallet and purse to find the total cost: $85 + $22 = $107.
+The answer: 107
+What was the question?
+Question: Carly is thinking about buying a wallet that costs $22 and a purse that costs $3 less than four times the cost of the wallet. What is the combined cost of both items?
+
+First find how much longer the second generation's tails are: 25% * 16 cm = 4 cm. Then add that length to the first generation's tail length to find the second generation's tail length: 4 cm + 16 cm = 20 cm. Then find how much longer the third generation's tails are: 25% * 20 cm = 5 cm. Then add that length to the second generation's tail length to find the third generation's tail length: 5 cm + 20 cm = 25 cm.
+The answer: 25
+Reverse engineering the question: James is trying to create a new breed of kittens with extra-long tails. Each generation of kittens he breeds has a tail 25% longer than the last generation. If the first generation has tails 16 cm long, how long are the third generation's tails?
+
+Reasoning and answer: The magician works for 2 * 7 = 14 days. So the magician works 14 * 3 = 42 hours. So that means he pays 42 * 60 = $2520.
+The answer: 2520
+What was the question?
+Question: Stan hires a magician for $60 an hour. He works 3 hours every day for 2 weeks. How much money does he pay the magician?
+
+A vendor bought each apple for $3 / 2 = $1.50. He will sell each apple at $10 / 5 = $2 each. His profit for each apple is $2 - $1.50 = $0.50. His total profit for 5 apples is $0.50 x 5 = $2.50. He bought each orange for $2.70 / 3 = $0.90. His profit for each orange is $1 - $0.90 = $0.10. His total profit for 5 oranges is $0.10 x 5 = $0.50. Therefore, his total profit for selling 5 apples and 5 oranges is $2.50 + $0.50 = $3.
+The answer: 3
+Reverse engineering the question: A vendor bought apples at 2 for $3 and plans to sell them at 5 for $10. He also bought 3 oranges for $2.70 and plans to sell them at $1 each. How much is his profit if he sells 5 apples and 5 oranges?
+
+Reasoning and answer: She has 8 points from red buckets because 4 x 2 = 8. She has 15 points from green buckets because 5 x 3 = 15. She has spent $2 on games because 2 x 1 = 2. She has $1 left to spend because 3 - 2 = 1. She can play one more game because 1 / 1 = 1. The best bucket gives three points because 3 > 2. The most she can earn in the final game is 15 because 5 x 3 = 15. The most she can score overall is 38 because 8 + 15 + 15 = 38.
+The answer: 38
+What was the question?
+Question: Tiffany attends the carnival and her mother gives her $3 to play on a ring toss game. For every red bucket she tosses a ring into she gets 2 points. For every green bucket she gets three points. She gets zero points for a miss. Every play costs her $1 and she gets 5 rings per play. She's played two games and already gotten 4 red buckets and 5 green buckets. If she plays until her money runs out, what is the most total points she can get for all three games?
+
+Reasoning and answer: The number of Greek yogurt packs that had expired is 40 / 100 * 80 = 32. If each pack of Greek yogurt was sold at $12, for the 32 packs of greek yogurt that he returned, Bob was refunded $12 * 32 = $384.
+The answer: 384
+What was the question?
+Question:

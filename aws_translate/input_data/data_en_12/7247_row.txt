@@ -1,0 +1,19 @@
+Question: Context: The figures, dating from approximately the late third century BCE, were discovered in 1974 by local farmers in Lintong District, Xi'an, Shaanxi province. The figures vary in height according to their roles, with the tallest being the generals. The figures include warriors, chariots and horses. Estimates from 2007 were that the three pits containing the Terracotta Army held more than 8,000 soldiers, 130 chariots with 520 horses and 150 cavalry horses, the majority of which remained buried in the pits nearby Qin Shi Huang's mausoleum. Other terracotta non-military figures were found in other pits, including officials, acrobats, strongmen and musicians.
+
+Question: where is the terracotta army located in china?
+Answer: To answer the question, consider the following: The figures, dating from approximately the late third century BCE, were discovered in 1974 by local farmers in Lintong District, Xi'an, Shaanxi province. The answer is Lintong District , Xi'an , Shaanxi province.
+
+Question: The Voice is an American reality television singing competition broadcast on NBC. Based on the original The Voice of Holland, the concept of the series is to find currently unsigned singing talent (solo or duets, professional and amateur) contested by aspiring singers, age 15 or over (reduced to 13 since season 12), drawn from public auditions. The winner is determined by television viewers voting by telephone, internet, SMS text, and iTunes Store purchases of the audio-recorded artists' vocal performances. They receive US $100,000 and a record deal with Universal Music Group for winning the competition. The winners of the thirteen seasons have been: Javier Colon, Jermaine Paul, Cassadee Pope, Danielle Bradbery, Tessanne Chin, Josh Kaufman, Craig Wayne Boyd, Sawyer Fredericks, Jordan Smith, Alisan Porter, Sundance Head, Chris Blue and Chloe Kohanski.
+
+Based on this passage, what does the winner of the voice receive?
+Answer: To answer this question, we should know that: They receive US $100,000 and a record deal with Universal Music Group for winning the competition. The answer is US $100,000 and a record deal with Universal Music Group.
+
+Question: Passage: On June 15, 1775, the Congress elected by unanimous vote George Washington as Commander-in-Chief, who accepted and served throughout the war without any compensation except for reimbursement of expenses.
+
+Question: Based on this passage, who was chosen to lead the continental army?
+Answer: This is the relevant information: On June 15, 1775, the Congress elected by unanimous vote George Washington as Commander-in-Chief, who accepted and served throughout the war without any compensation except for reimbursement of expenses. The answer is George Washington.
+
+Question: "Miami Vice Theme" is a musical piece composed and performed by Jan Hammer as the theme to the television series Miami Vice. It was first presented as part of the television broadcast of the show in September 1984, was released as a single in 1985, and peaked at the number one spot on the Billboard Hot 100. It was the last instrumental to top the Hot 100 until 2013, when "Harlem Shake" by Baauer reached number one. It also peaked at number five in the UK and number four in Canada. In 1986, it won Grammy Awards for "Best Instrumental Composition" and "Best Pop Instrumental Performance." This song, along with Glenn Frey's number two hit "You Belong to the City", put the Miami Vice soundtrack on the top of the US album chart for 11 weeks in 1985, making it the most successful TV soundtrack of all time until 2006, when Disney Channel's High School Musical beat its record.
+
+Who sings the theme song for miami vice?
+Answer:

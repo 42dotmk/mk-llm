@@ -1,0 +1,25 @@
+q... Vasudeva I (Kushan: Βαζοδηο "Bazodeo", Chinese: 波 調 "Bodiao") was the last of the "Great Kushans." Named inscriptions dating from year 64 to 98 of Kanishka's era suggest his reign extended from at least 191 to 225 AD. He was the last great Kushan emperor, and the end of his rule coincides with the invasion of the Sasanians as far as northwestern India, and the establishment of the Indo-Sasanians or Kushanshahs in what is nowadays Afghanistan, Pakistan and northwestern India from around 240 AD.
+
+Based on this passage, who is the last ruler of kushan dynasty?
+a... The relevant sentence in the passage is: He was the last great Kushan emperor, and the end of his rule coincides with the invasion of the Sasanians as far as northwestern India, and the establishment of the Indo-Sasanians or Kushanshahs in what is nowadays Afghanistan, Pakistan and northwestern India from around 240 AD.
+The answer is Vasudeva I
+
+
+q... In mathematics, a multiplicative inverse or reciprocal for a number x, denoted by 1 / x or x, is a number which when multiplied by x yields the multiplicative identity, 1. The multiplicative inverse of a fraction a / b is b / a. For the multiplicative inverse of a real number, divide 1 by the number. For example, the reciprocal of 5 is one fifth (1 / 5 or 0.2), and the reciprocal of 0.25 is 1 divided by 0.25, or 4. The reciprocal function, the function f (x) that maps x to 1 / x, is one of the simplest examples of a function which is its own inverse (an involution).
+
+Answer this question based on the passage: the product of a rational number and its multiplicative inverse is?
+a... To answer the above question, the relevant sentence is: In mathematics, a multiplicative inverse or reciprocal for a number x, denoted by 1 / x or x, is a number which when multiplied by x yields the multiplicative identity, 1.
+The answer is 1
+
+
+q... The Easter Bunny (also called the Easter Rabbit or Easter Hare) is a folkloric figure and symbol of Easter, depicted as a rabbit bringing Easter eggs. Originating among German Lutherans, the "Easter Hare" originally played the role of a judge, evaluating whether children were good or disobedient in behaviour at the start of the season of Eastertide. The Easter Bunny is sometimes depicted with clothes. In legend, the creature carries colored eggs in his basket, candy, and sometimes also toys to the homes of children, and as such shows similarities to Santa Claus or the Christkind, as they both bring gifts to children on the night before their respective holidays. The custom was first mentioned in Georg Franck von Franckenau's De ovis paschalibus (' About Easter Eggs' ) in 1682, referring to a German tradition of an Easter Hare bringing Easter eggs for the children.
+
+Answer this question: where did the bunny come from in easter?
+a... The important part for answering this question is: Originating among German Lutherans, the "Easter Hare" originally played the role of a judge, evaluating whether children were good or disobedient in behaviour at the start of the season of Eastertide.
+The answer is German Lutherans
+
+
+q... The Gulf or Bay of Honduras is a large inlet of the Caribbean Sea, indenting the coasts of Belize, Guatemala, and Honduras. From north to south, it runs for approximately 200 km from Dangriga, Belize, to La Ceiba, Honduras.
+
+Answer this question based on the passage: where is the gulf of honduras located on a map?
+a...

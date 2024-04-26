@@ -1,0 +1,25 @@
+q... The small intestine or small bowel is the part of the gastrointestinal tract between the stomach and the large intestine, and is where most of the end absorption of food takes place. The small intestine has three distinct regions -- the duodenum, jejunum, and ileum. The duodenum is the shortest part of the small intestine and is where preparation for absorption begins. It also receives bile and pancreatic juice through the pancreatic duct, controlled by the sphincter of Oddi. The primary function of the small intestine is the absorption of nutrients and minerals from food, using small finger-like protrusions called villi.
+
+What structures absorb most of the products of digestion in the small intestine?
+a... To answer the question, consider the following: The primary function of the small intestine is the absorption of nutrients and minerals from food, using small finger-like protrusions called villi.
+The answer is villi
+
+
+q... Passage: Performance-enhancing substances, also known as performance-enhancing drugs (PED), are substances that are used to improve any form of activity performance in humans. A well-known example involves doping in sport, where banned physical performance -- enhancing drugs are used by athletes and bodybuilders. Athletic performance-enhancing substances are sometimes referred to as ergogenic aids. Cognitive performance-enhancing drugs, commonly called nootropics, are sometimes used by students to improve academic performance. Performance-enhancing substances are also used by military personnel to enhance combat performance.
+
+Question: Based on this passage, what is the definition of performance enhancing drugs?
+a... This is the relevant information: Performance-enhancing substances, also known as performance-enhancing drugs (PED), are substances that are used to improve any form of activity performance in humans.
+The answer is substances that are used to improve any form of activity performance in humans
+
+
+q... Passage: On June 15, 1775, the Congress elected by unanimous vote George Washington as Commander-in-Chief, who accepted and served throughout the war without any compensation except for reimbursement of expenses.
+
+Question: Based on this passage, who was chosen to lead the continental army?
+a... This is the relevant information: On June 15, 1775, the Congress elected by unanimous vote George Washington as Commander-in-Chief, who accepted and served throughout the war without any compensation except for reimbursement of expenses.
+The answer is George Washington
+
+
+q... The Delhi Sultanate (Persian: دهلی سلطان, Urdu: دہلی سلیٹیٹ) was a Muslim sultanate based mostly in Delhi that stretched over large parts of the Indian subcontinent for 320 years (1206 -- 1526). Five dynasties ruled over the Delhi Sultanate sequentially: the Mamluk dynasty (1206 -- 90), the Khalji dynasty (1290 -- 1320), the Tughlaq dynasty (1320 -- 1414), the Sayyid dynasty (1414 -- 51), and the Lodi dynasty (1451 -- 1526). The sultanate is noted for being one of the few states to repel an attack by the Mongol Empire, and enthroned one of the few female rulers in Islamic history, Razia Sultana, who reigned from 1236 to 1240.
+
+Answer this question: when did the reign of delhi sultanate came to an end?
+a...

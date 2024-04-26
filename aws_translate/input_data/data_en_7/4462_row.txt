@@ -1,0 +1,19 @@
+Q: Victoria / vɪkˈtɔːriə / is the capital city of the Canadian province of British Columbia, and is located on the southern tip of Vancouver Island off Canada's Pacific coast. The city has a population of 85,792, while the metropolitan area of Greater Victoria has a population of 383,360, making it the 15th most populous Canadian metropolitan area. The city of Victoria is the 7th most densely populated city in Canada with 4,405.8 people per square kilometre, which is a greater population density than Toronto, Ontario.
+
+Answer this question: what is the population of victoria in 2017?
+A: 85,792. How to explain the answer? The relevant information is: The city has a population of 85,792, while the metropolitan area of Greater Victoria has a population of 383,360, making it the 15th most populous Canadian metropolitan area.
+
+Q: Passage: Performance-enhancing substances, also known as performance-enhancing drugs (PED), are substances that are used to improve any form of activity performance in humans. A well-known example involves doping in sport, where banned physical performance -- enhancing drugs are used by athletes and bodybuilders. Athletic performance-enhancing substances are sometimes referred to as ergogenic aids. Cognitive performance-enhancing drugs, commonly called nootropics, are sometimes used by students to improve academic performance. Performance-enhancing substances are also used by military personnel to enhance combat performance.
+
+Question: Based on this passage, what is the definition of performance enhancing drugs?
+A: substances that are used to improve any form of activity performance in humans. How to explain the answer? This is the relevant information: Performance-enhancing substances, also known as performance-enhancing drugs (PED), are substances that are used to improve any form of activity performance in humans.
+
+Q: In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology and has been narrated through many works of Greek literature, most notably Homer's Iliad. The core of the Iliad (Books II -- XXIII) describes a period of four days and two nights in the tenth year of the decade-long siege of Troy; the Odyssey describes the journey home of Odysseus, one of the war's heroes. Other parts of the war are described in a cycle of epic poems, which have survived through fragments. Episodes from the war provided material for Greek tragedy and other works of Greek literature, and for Roman poets including Virgil and Ovid.
+
+Based on this passage, who laid siege to the city of troy?
+A: the Achaeans ( Greeks ). How to explain the answer? The relevant information to answer the above question is: In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) after Paris of Troy took Helen from her husband Menelaus, king of Sparta.
+
+Q: The working income tax benefit (WITB) is a refundable tax credit in Canada, similar to the Earned Income Tax Credit (EITC) in the United States. Introduced in 2007, it offers tax relief to working low-income individuals and encourages others to enter the workforce. The WITB has been expanded considerably since its introduction.
+
+Based on this passage, when did the working income tax benefit come into effect?
+A:

@@ -1,0 +1,22 @@
+Student A:Context: Veni, vidi, vici (Classical Latin: ( ˈweːniː ˈwiːdiː ˈwiːkiː); Ecclesiastical Latin: (ˈvɛni ˈvidi ˈvitʃi); "I came; I saw; I conquered" ) is a Latin phrase popularly attributed to Julius Caesar who, according to Appian, used the phrase in a letter to the Roman Senate around 47 BC after he had achieved a quick victory in his short war against Pharnaces II of Pontus at the Battle of Zela. The phrase is used to refer to a swift, conclusive victory.
+
+Question: who said we came we saw we conquered?
+Student B:OK... To answer the question, consider the following: Veni, vidi, vici (Classical Latin: ( ˈweːniː ˈwiːdiː ˈwiːkiː); Ecclesiastical Latin: (ˈvɛni ˈvidi ˈvitʃi); "I came; I saw; I conquered" ) is a Latin phrase popularly attributed to Julius Caesar who, according to Appian, used the phrase in a letter to the Roman Senate around 47 BC after he had achieved a quick victory in his short war against Pharnaces II of Pontus at the Battle of Zela.
+Julius Caesar.
+
+Student A:In Euclidean geometry, a convex quadrilateral with at least one pair of parallel sides is referred to as a trapezoid (/ ˈtræpəzɔɪd /) in American and Canadian English but as a trapezium (/ trəˈpiːziəm /) in English outside North America. The parallel sides are called the bases of the trapezoid and the other two sides are called the legs or the lateral sides (if they are not parallel; otherwise there are two pairs of bases). A scalene trapezoid is a trapezoid with no sides of equal measure, in contrast to the special cases below.
+
+Answer this question: when can a quadrilateral also be called a trapezoid?
+Student B:OK... The relevant information is: In Euclidean geometry, a convex quadrilateral with at least one pair of parallel sides is referred to as a trapezoid (/ ˈtræpəzɔɪd /) in American and Canadian English but as a trapezium (/ trəˈpiːziəm /) in English outside North America.
+a convex quadrilateral with at least one pair of parallel sides.
+
+Student A:Passage: The chief justice, like all federal judges, is nominated by the President and confirmed to office by the U.S. Senate. Article III, Section 1 of the Constitution specifies that they "shall hold their Offices during good Behavior". This language means that the appointments are effectively for life, and that, once in office, a justice's tenure ends only when they die, retire, resign, or are removed from office through the impeachment process. Since 1789, 15 presidents have made a total of 22 official nominations to the position.
+
+Question: Based on this passage, who picks the chief justice of the supreme court?
+Student B:OK... The important part for answering this question is: The chief justice, like all federal judges, is nominated by the President and confirmed to office by the U.S. Senate.
+the President.
+
+Student A:Passage: "Believe Me, if All Those Endearing Young Charms" is a popular song written in 1808 by Irish poet Thomas Moore using a traditional Irish air. Moore's young wife had been stricken with an illness and worried that she would lose her looks. He wrote the words to reassure her.
+
+Question: Based on this passage, who wrote believe me if all those endearing young charms?
+Student B:

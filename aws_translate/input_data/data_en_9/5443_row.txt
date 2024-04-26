@@ -1,0 +1,36 @@
+Ans: August 10 , 2018
+Ques: The film was announced in May 2016, and much of the cast signed on a year later. Filming took place in Ayer, Massachusetts in June and July of 2017. Slender Man was released in the United States on August 10, 2018, by Screen Gems, and received a largely negative reception from critics and audiences alike, being called "boring" and "derivative".
+
+Answer this question: when does slender man the movie come out?
+CoT: The relevant information is: Slender Man was released in the United States on August 10, 2018, by Screen Gems, and received a largely negative reception from critics and audiences alike, being called "boring" and "derivative".
+
+
+Answer: 25 July 1978. Now, what could be the question and solution-maybe?
+Ques: Passage: Louise Joy Brown (born 25 July 1978) is an English woman known for being the first human to have been born after conception by in vitro fertilisation, or IVF.
+
+Question: Based on this passage, when was the first in vitro baby born?
+CoT: The relevant information is: Louise Joy Brown (born 25 July 1978) is an English woman known for being the first human to have been born after conception by in vitro fertilisation, or IVF.
+
+
+Ans: merchandise
+Ques: PCH is a direct-marketing company that sells merchandise, magazine subscriptions and operates several prize-based websites. While best known for the sweepstakes and Prize Patrol it uses to promote its magazine subscriptions, the majority of the company's revenue now comes from merchandise. The company has been selling books, media, jewelry and other consumer items since the 1980s. PCH operates eight websites, including PCH Search and Win, PCH Lotto, PCH Games, PCH Save and Win, and Candystand.
+
+Answer this question based on the passage: where does the money for pch come from?
+CoT: The relevant information is: While best known for the sweepstakes and Prize Patrol it uses to promote its magazine subscriptions, the majority of the company's revenue now comes from merchandise.
+
+
+Ans: Al Stewart
+Ques: "Year of the Cat" is a single by Scottish singer-songwriter Al Stewart, released in July 1976. The song is the title track of his 1976 album Year of the Cat, and was recorded at Abbey Road Studios, London in January 1976 by engineer Alan Parsons. The song reached # 8 on the Billboard Hot 100 in March 1977. Although Stewart's highest charting single on that chart was 1978's "Time Passages", "Year of the Cat" has remained Stewart's signature recording, receiving regular airplay on both classic rock and folk rock stations.
+
+Answer this question based on the passage: who sang the song the year of the cat?
+CoT: The relevant information is: "Year of the Cat" is a single by Scottish singer-songwriter Al Stewart, released in July 1976.
+
+
+Answer: April 7 , 2017. Now, what could be the question and solution-maybe?
+Ques: Berserk (Japanese: ベルセルク, Hepburn: Beruseruku) is a 2016 anime television series based on Kentaro Miura's Berserk manga and a sequel to the Golden Age Arc film trilogy. This is a television adaptation of the manga after the 1997 anime of the same name, covering the Conviction arc from the manga. A second season, covering the first half of the Hawk of the Millennium Empire Arc, began airing on April 7, 2017.
+
+When do new episodes of berserk come out?
+CoT: The relevant information to answer the above question is: A second season, covering the first half of the Hawk of the Millennium Empire Arc, began airing on April 7, 2017.
+
+
+Ans: Carl Wilhelm Scheele

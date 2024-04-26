@@ -1,0 +1,25 @@
+q... South Park: The Fractured but Whole is a 2017 role-playing video game developed and published by Ubisoft, in collaboration with South Park Digital Studios. Based on the American adult animated television series South Park, it is the sequel to the 2014 video game South Park: The Stick of Truth. Set one day after the events of that game, the story again follows the New Kid, who has recently moved to the eponymous town, and becomes involved in an epic role-play involving two rival superhero factions vying to create their own superhero media franchises. Their game unwittingly uncovers a grand conspiracy to raise crime in the town, and unite all of the criminal organisations under a new kingpin. It was released worldwide for Microsoft Windows, PlayStation 4, and Xbox One on October 17, 2017.
+
+Answer this question: when is south park fractured but whole release?
+a... This is the relevant information: South Park: The Fractured but Whole is a 2017 role-playing video game developed and published by Ubisoft, in collaboration with South Park Digital Studios.
+The answer is 2017
+
+
+q... Betalains are a class of red and yellow indole-derived pigments found in plants of the Caryophyllales, where they replace anthocyanin pigments. Betalains also occur in some higher order fungi. They are most often noticeable in the petals of flowers, but may color the fruits, leaves, stems, and roots of plants that contain them. They include pigments such as those found in beets.
+
+Answer this question: what is the name of the pigment found in beetroot cells?
+a... This is the relevant information: They include pigments such as those found in beets.
+The answer is Betalains
+
+
+q... The all-time leader in career assists is Bobby Hurley of Duke. He recorded 1,076 assists in 140 games (7.68 per game average) between 1989 -- 90 and 1992 -- 93. He also led the Blue Devils to consecutive national championships in 1991 and 1992. Second on the list is Chris Corchiani of NC State, another Atlantic Coast Conference school. In his four seasons, Corchiani compiled 1,038 assists. Only two other players besides Hurley and Corchiani have recorded 1,000 career assists at the Division I level: Ed Cota of North Carolina (1,030) and Jason Brickman (1,009) of LIU Brooklyn. Sherman Douglas of Syracuse is the only player on this list who also recorded 20 or more assists in a single game at both the Division I and National Basketball Association levels. For his college career, he played in 138 games while recording 960 assists.
+
+Answer this question based on the passage: who has the most assists in college basketball history?
+a... The important part for answering this question is: The all-time leader in career assists is Bobby Hurley of Duke.
+The answer is Bobby Hurley
+
+
+q... Acer / ˈeɪsər / is a genus of trees or shrubs commonly known as maple. The genus is placed in the Sapindaceae family. There are approximately 128 species, most of which are native to Asia, with a number also appearing in Europe, northern Africa, and North America. Only one species, Acer laurinum, extends to the Southern Hemisphere. The type species of the genus is the sycamore maple, Acer pseudoplatanus, the most common maple species in Europe.
+
+Based on this passage, how many kinds of maple trees are there?
+a...

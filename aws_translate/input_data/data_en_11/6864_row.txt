@@ -1,0 +1,29 @@
+## question
+Jason Michael Lee (born April 25, 1970) is an American actor, photographer, producer and skateboarder. He is best known for his roles as Earl Hickey in the television comedy series My Name Is Earl, David Seville in the live action / CGI Alvin and the Chipmunks and the voice of Syndrome in The Incredibles. He is also known for his roles in Kevin Smith films such as Mallrats, Chasing Amy, Dogma, Jay and Silent Bob Strike Back, Jersey Girl, Clerks II and Cop Out. A former professional skateboarder, Lee is the co-founder and co-owner of Stereo Skateboards, a company that distributes skateboard decks.
+
+Answer this question based on the passage: who plays dave on alvin and the chipmunks?
+## answer
+The important part for answering this question is: He is best known for his roles as Earl Hickey in the television comedy series My Name Is Earl, David Seville in the live action / CGI Alvin and the Chipmunks and the voice of Syndrome in The Incredibles.
+So the answer must be Jason Michael Lee
+
+## question
+Passage: The song was written by Houston, award-winning writer, Diane Warren and produced by David Foster, both of whom have written and produced for Houston before. The song was originally supposed to precede the album's UK release on August 31, 2009 and U.S. release on September 1, 2009 but was cancelled in favor of "I Look to You" and "Million Dollar Bill". However, the song was released on November 6, 2009 as a promotional single.
+
+Question: Based on this passage, who wrote i didn't know my own strength lyrics?
+## answer
+This is the relevant information: The song was written by Houston, award-winning writer, Diane Warren and produced by David Foster, both of whom have written and produced for Houston before.
+So the answer must be Houston , award - winning writer , Diane Warren
+
+## question
+Hale is a surname. Lords of Loddon-Hales, Hale or "De Halys" traces back to Lord Roger De Halys circa 1130, whose descendant Lord Roger De Halys married Alice Scrogins circa 1275 whose daughter Alice Hale married Thomas, Prince of England (Son of Edward I of England), those who were the ancestors of William Hale who married Rose Bond of Kingswaldenbury, their grandson George Hale (A Drummer) came to America on the ship "Supply" in 1620 where he lived with the governor Sir Frances Wyatt of Virginia. It is said that the Hales were related to Saint Edmund, King of East Anglia in which the Hales get their Arrows pointing downward in their coat of arms.
+
+Based on this passage, where does the last name hale originate from?
+## answer
+To answer this question, we should know that: Lords of Loddon-Hales, Hale or "De Halys" traces back to Lord Roger De Halys circa 1130, whose descendant Lord Roger De Halys married Alice Scrogins circa 1275 whose daughter Alice Hale married Thomas, Prince of England (Son of Edward I of England), those who were the ancestors of William Hale who married Rose Bond of Kingswaldenbury, their grandson George Hale (A Drummer) came to America on the ship "Supply" in 1620 where he lived with the governor Sir Frances Wyatt of Virginia.
+So the answer must be Lord Roger De Halys circa 1130
+
+## question
+"With a Little Help from My Friends" is a song by the English rock band the Beatles from their 1967 album Sgt. Pepper's Lonely Hearts Club Band. It was written by John Lennon and Paul McCartney, and intended as the album's featured vocal for drummer Ringo Starr. The group recorded the song towards the end of the sessions for Sgt. Pepper, with Starr singing as the character "Billy Shears".
+
+Based on this passage, who originally sang i get by with a little help from my friends?
+## answer

@@ -1,0 +1,34 @@
+Student A:Reese's Peanut Butter Cups are a popular American candy consisting of a milk, white, or dark chocolate cup filled with peanut butter, marketed by The Hershey Company. They were created in 1928 by H.B. Reese, a former dairy farmer and shipping foreman for Milton S. Hershey. Reese was inspired by Hershey and left dairy farming to start his own candy business.
+
+Based on this passage, when did reese's peanut butter cups first come out?
+Student B:OK... The relevant sentence in the passage is: They were created in 1928 by H.B.
+1928.
+
+Problem:The Ontario government debt is the net amount of money the Government of Ontario has borrowed from the general public, institutional investors and public-sector bodies. As of March 31, 2018, the Ontario government's total debt is projected to be CDN $348.79 billion. The Debt-to-GDP ratio for 2017-2018 is 37.1 % and interest on the debt is CDN $11.97 billion, representing 8.0 % of Ontario's revenue and its fourth-largest spending area.
+
+Who does the ontario government borrow money from?
+Solution:OK... To answer the question, consider the following: The Ontario government debt is the net amount of money the Government of Ontario has borrowed from the general public, institutional investors and public-sector bodies.
+the general public.
+
+Student A:The Carr Fire is a wildfire burning in Shasta and Trinity Counties in California, United States. As of August 12, 2018, the fire had burned 202,976 acres (821 km; 317 sq mi) and is 61 % contained. It is the sixth-most destructive fire in California history. The fire was reported on the afternoon of July 23, 2018, at the intersection of Highway 299 and Carr Powerhouse Road in the Whiskeytown district of the Whiskeytown -- Shasta -- Trinity National Recreation Area. The fire was started when a flat tire on a vehicle caused the wheel's rim to scrape against the asphalt, thus creating sparks.
+
+Answer this question: what is the location of the carr fire?
+Student B:OK... To answer the above question, the relevant sentence is: The Carr Fire is a wildfire burning in Shasta and Trinity Counties in California, United States.
+Shasta and Trinity Counties in California , United States.
+
+Problem:Passage: Arathorn appears too as the father of Aragorn, but he was never seen in any part in The Lord of the Rings movie series.
+
+Question: Based on this passage, who is arathorn in the lord of rings?
+Solution:OK... To answer the above question, the relevant sentence is: Arathorn appears too as the father of Aragorn, but he was never seen in any part in The Lord of the Rings movie series.
+the father of Aragorn.
+
+Student A:At the beginning of Season 8, Pam is revealed to be pregnant with her and Jim's second child, Philip Halpert. The child coincided with Jenna Fischer's actual pregnancy. She begins her maternity leave after "Pam's Replacement". Pam returns in "Jury Duty", where she and Jim bring Cece and Phillip into the office. In both "Tallahassee" and "Test the Store" Pam is shown helping, and developing her friendship with Andy.
+
+Answer this question based on the passage: when did pam get pregnant again on the office?
+Student B:OK... This is the relevant information: At the beginning of Season 8, Pam is revealed to be pregnant with her and Jim's second child, Philip Halpert.
+At the beginning of Season 8.
+
+Student A:Context: Die Brücke was one of two groups of German painters fundamental to Expressionism, the other being Der Blaue Reiter group ("The Blue Rider"), formed in Munich in 1911.
+
+Question: with what are the german die brücke artists associated?
+Student B:

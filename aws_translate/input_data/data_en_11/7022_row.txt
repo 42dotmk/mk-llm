@@ -1,0 +1,19 @@
+Question: In cryptography and computer security, a man-in-the-middle attack (MITM; also Janus attack) is an attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other. One example of man-in-the-middle attacks is active eavesdropping, in which the attacker makes independent connections with the victims and relays messages between them to make them believe they are talking directly to each other over a private connection, when in fact the entire conversation is controlled by the attacker. The attacker must be able to intercept all relevant messages passing between the two victims and inject new ones. This is straightforward in many circumstances; for example, an attacker within reception range of an unencrypted wireless access point (Wi-Fi) could insert himself as a man-in-the-middle.
+
+Answer this question: man-in-the-middle attacks are which type of network attack?
+Answer: The important part for answering this question is: In cryptography and computer security, a man-in-the-middle attack (MITM; also Janus attack) is an attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other. The answer is an attack where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other.
+
+Question: The Senate is currently composed of 51 Republicans, 47 Democrats, and 2 independents, both of whom caucus with the Democrats.
+
+Answer this question based on the passage: what is the majority party in the senate?
+Answer: The important part for answering this question is: The Senate is currently composed of 51 Republicans, 47 Democrats, and 2 independents, both of whom caucus with the Democrats. The answer is Republicans.
+
+Question: Muhammadu Buhari GCFR is the President of Nigeria, in office since 2015. He is a retired major general in the Nigerian Army and previously served as the nation's head of state from 31 December 1983 to 27 August 1985, after taking power in a military coup d'état. The term Buharism is ascribed to the Buhari military government.
+
+Based on this passage, what is the full name of president of nigeria?
+Answer: To answer the question, consider the following: Muhammadu Buhari GCFR is the President of Nigeria, in office since 2015. The answer is Muhammadu Buhari GCFR.
+
+Question: Passage: A total of € 2,287,750 was awarded in cash prizes in the race. The overall winner of the general classification received € 500,000, with the second and third placed riders getting € 200,000 and € 100,000 respectively. All finishers in the top 160 were awarded money. The holders of the classifications would benefit on each stage they led; the final winners of the points and mountains would be given € 25,000, while the best young rider and most combative rider would get € 20,000. The team classification winners was given € 50,000. € 11,000 was given to the winners of each stage of the race, with smaller amounts given to places 2 -- 20. There were also two special awards each with a prize of € 5000. The Souvenir Henri Desgrange, given to first rider to pass the summit of the highest climb in the Tour, the Col du Portet on stage seventeen, and the Souvenir Jacques Goddet, given to the first rider to pass Goddet's memorial at the summit of the Col du Tourmalet in stage nineteen. Nairo Quintana won the Henri Desgrange and Julian Alaphilippe won the Jacques Goddet.
+
+Question: Based on this passage, what is the grand prize for the tour de france?
+Answer:

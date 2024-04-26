@@ -1,0 +1,22 @@
+Student A:Passage: "Yellow Submarine" is a 1966 song by the Beatles, written by Paul McCartney and John Lennon, with lead vocals by Ringo Starr. It was included on the Revolver (1966) album and issued as a single, coupled with "Eleanor Rigby". The single went to number one on every major British chart, remained at number one for four weeks, and charted for 13 weeks. It won an Ivor Novello Award "for the highest certified sales of any single issued in the UK in 1966". In the US, the song peaked at number two on the Billboard Hot 100 chart and became the most successful Beatles song to feature Starr as lead vocalist.
+
+Question: Based on this passage, who wrote we all live in a yellow submarine?
+Student B:OK... The important part for answering this question is: "Yellow Submarine" is a 1966 song by the Beatles, written by Paul McCartney and John Lennon, with lead vocals by Ringo Starr.
+Paul McCartney and John Lennon.
+
+Student A:The Black Death, also known as the Great Plague, the Black Plague, or the Plague, was one of the most devastating pandemics in human history, resulting in the deaths of an estimated 75 to 200 million people in Eurasia and peaking in Europe from 1347 to 1351. The bacterium Yersinia pestis, which results in several forms of plague, is believed to have been the cause. The plague created a series of religious, social and economic upheavals, which had profound effects on the course of European history.
+
+Answer this question: what was the cause of the black death in europe?
+Student B:OK... The important part for answering this question is: The bacterium Yersinia pestis, which results in several forms of plague, is believed to have been the cause.
+The bacterium Yersinia pestis.
+
+Student A:Context: The 76,192-square-kilometre (29,418 sq mi) island is divided between two separate, sovereign nations: the Spanish-speaking Dominican Republic (48,445 km, 18,705 sq mi) to the east, and French Creole-speaking Haiti (27,750 km, 10,710 sq mi) to the west. The only other shared island in the Caribbean is Saint Martin, which is shared between France (Saint-Martin) and the Netherlands (Sint Maarten).
+
+Question: this country occupies the western part of hispaniola?
+Student B:OK... The relevant information to answer the above question is: The 76,192-square-kilometre (29,418 sq mi) island is divided between two separate, sovereign nations: the Spanish-speaking Dominican Republic (48,445 km, 18,705 sq mi) to the east, and French Creole-speaking Haiti (27,750 km, 10,710 sq mi) to the west.
+Haiti.
+
+Student A:Walking Tall is a 1973 American action semi-biopic film of Sheriff Buford Pusser, a professional wrestler-turned-lawman in McNairy County, Tennessee. It starred Joe Don Baker as Pusser. The film was directed by Phil Karlson. Based on Pusser's life, it was a combination of very loosely based fact and Hollywood revisionism. It has since become a well known cult classic with two direct sequels of its own, a TV movie, a brief TV series and a remake that had its own two sequels.
+
+Answer this question: who was the original actor in walking tall?
+Student B:

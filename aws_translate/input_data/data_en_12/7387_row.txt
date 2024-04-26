@@ -1,0 +1,22 @@
+Student A:"Stand by Me" is a song originally performed by American singer-songwriter Ben E. King, written by King, Jerry Leiber and Mike Stoller. According to King, the title is derived and was inspired by a spiritual composition by Sam Cooke called "Stand by Me Father" (although Mike Stoller has stated differently). This spiritual was sung by the Soul Stirrers with Johnnie Taylor singing lead. The third line of the second verse of "Stand by Me" derives from Psalms 46: 2c. There have been over 400 recorded versions of the song performed by many artists. It has been featured on the soundtrack of the 1986 film Stand by Me. A music video was also released to promote the film.
+
+Answer this question based on the passage: the song stand by me is in what movie?
+Student B:OK... This is the relevant information: It has been featured on the soundtrack of the 1986 film Stand by Me.
+the 1986 film Stand by Me.
+
+Student A:The 2018 Winter Olympics, officially known as the XXIII Olympic Winter Games (Korean: 제 23 회 동계 올림픽, translit. Jeisipsamhoe Donggye Ollimpik) and commonly known as PyeongChang 2018, was an international winter multi-sport event held between 9 and 25 February 2018 in Pyeongchang County, Gangwon Province, South Korea, with the opening rounds for certain events held on 8 February 2018, the eve of the opening ceremony. Pyeongchang was elected as the host city in July 2011, during the 123rd IOC Session in Durban, South Africa. This was the first time that South Korea had hosted the Winter Olympics and the second Olympics held in the country overall, after the 1988 Summer Olympics in Seoul. It was the third time that an East Asian country had hosted the Winter Games, after Sapporo (1972) and Nagano (1998), both in Japan. It was also the first of three consecutive Olympics to be held in East Asia, the other two being the 2020 Summer Olympics in Tokyo and the 2022 Winter Olympics in Beijing.
+
+Answer this question based on the passage: when does the winter olympics start this year?
+Student B:OK... The relevant information is: The 2018 Winter Olympics, officially known as the XXIII Olympic Winter Games (Korean: 제 23 회 동계 올림픽, translit. Jeisipsamhoe Donggye Ollimpik) and commonly known as PyeongChang 2018, was an international winter multi-sport event held between 9 and 25 February 2018 in Pyeongchang County, Gangwon Province, South Korea, with the opening rounds for certain events held on 8 February 2018, the eve of the opening ceremony.
+held between 9 and 25 February 2018.
+
+Student A:Lactase is an enzyme produced by many organisms. It is located in the brush border of the small intestine of humans and other mammals. Lactase is essential to the complete digestion of whole milk; it breaks down lactose, a sugar which gives milk its sweetness. Lacking lactase, a person consuming dairy products may experience the symptoms of lactose intolerance. Lactase can be purchased as a food supplement, and is added to milk to produce "lactose-free" milk products.
+
+Answer this question: where is lactase found in the human body?
+Student B:OK... To answer the above question, the relevant sentence is: It is located in the brush border of the small intestine of humans and other mammals.
+in the brush border of the small intestine.
+
+Student A:Thomas Francis Wilson Jr. (born April 15, 1959) is an American actor, writer, musician, painter, voice-over artist, comedian, and podcaster. He is known for his voice-over work in video games, movies and TV shows. He is also known for playing Biff Tannen, Griff Tannen and Buford "Mad Dog" Tannen in the Back to the Future trilogy, and Coach Ben Fredricks on NBC's Freaks and Geeks.
+
+Who played griff in back to the future 2?
+Student B:

@@ -1,0 +1,36 @@
+Ans: Qin dynasty
+Ques: The history of the Great Wall of China began when fortifications built by various states during the Spring and Autumn (771 -- 476 BC) and Warring States periods (475 -- 221 BC) were connected by the first emperor of China, Qin Shi Huang, to protect his newly founded Qin dynasty (221 -- 206 BC) against incursions by nomads from Inner Asia. The walls were built of rammed earth, constructed using forced labour, and by 212 BC ran from Gansu to the coast of southern Manchuria.
+
+Based on this passage, great wall of china was built in what dynasty?
+CoT: The relevant sentence in the passage is: The history of the Great Wall of China began when fortifications built by various states during the Spring and Autumn (771 -- 476 BC) and Warring States periods (475 -- 221 BC) were connected by the first emperor of China, Qin Shi Huang, to protect his newly founded Qin dynasty (221 -- 206 BC) against incursions by nomads from Inner Asia.
+
+
+Ans: the Tri-State Tornado
+Ques: Passage: This article lists various tornado records. The most "extreme" tornado in recorded history was the Tri-State Tornado, which spread through parts of Missouri, Illinois, and Indiana on March 18, 1925. It is considered an F5, though tornadoes were not ranked on any scale in that era. It holds records for longest path length at 219 miles (352 km), longest duration at about 31⁄2 hours, and fastest forward speed for a significant tornado at 73 mph (117 km / h) anywhere on Earth. In addition, it is the deadliest single tornado in United States history with 695 fatalities. It was also the third-costliest tornado in history at the time, but has been surpassed by several others non-normalized. When costs are normalized for wealth and inflation, it still ranks third today.
+
+Question: Based on this passage, what was the deadliest tornado in the united states?
+CoT: To answer the above question, the relevant sentence is: In addition, it is the deadliest single tornado in United States history with 695 fatalities.
+
+
+Answer: atlas and axis. Now, what could be the question and solution-maybe?
+Ques: The atlas is the topmost vertebra and with the axis forms the joint connecting the skull and spine. The atlas and axis are specialized to allow a greater range of motion than normal vertebrae. They are responsible for the nodding and rotation movements of the head.
+
+Answer this question based on the passage: what bone allows the head to nod yes?
+CoT: The relevant information is: They are responsible for the nodding and rotation movements of the head.
+
+
+Ans: August 8 , 2017
+Ques: Diary of a Wimpy Kid: The Long Haul was released on Digital HD from Amazon Video and iTunes on August 1, 2017, and on Blu-ray and DVD on August 8, 2017.
+
+Answer this question based on the passage: when does the new diary of a wimpy kid movie come out on dvd?
+CoT: The relevant information is: Diary of a Wimpy Kid: The Long Haul was released on Digital HD from Amazon Video and iTunes on August 1, 2017, and on Blu-ray and DVD on August 8, 2017.
+
+
+Ans: Andy Whitfield
+Ques: Andy Whitfield (17 October 1971 -- 11 September 2011) was a Welsh actor. He was best known for his leading role in the Starz television series Spartacus: Blood and Sand.
+
+Answer this question based on the passage: who plays spartacus in spartacus blood and sand?
+CoT: This is the relevant information: He was best known for his leading role in the Starz television series Spartacus: Blood and Sand.
+
+
+Answer: St. Petersburg. Now, what could be the question and solution-maybe?

@@ -1,0 +1,29 @@
+## question
+Passage: This article includes lists of supercentenarians from the United States (people from the United States who have attained the age of at least 110 years). The Gerontology Research Group (GRG), an organization that tracks supercentenarians and validates longevity claims, has validated claims of over 700 American supercentenarians and as of 19 April 2018, lists six verified living American supercentenarians, the oldest of whom is Delphine Gibson, born August 17, 1903, aged 114 years, 245 days. The oldest person ever from the United States was Sarah Knauss, who died on December 30, 1999, aged 119 years, 97 days.
+
+Question: Based on this passage, who is the oldest person living in the united states?
+## answer
+The relevant information is: The Gerontology Research Group (GRG), an organization that tracks supercentenarians and validates longevity claims, has validated claims of over 700 American supercentenarians and as of 19 April 2018, lists six verified living American supercentenarians, the oldest of whom is Delphine Gibson, born August 17, 1903, aged 114 years, 245 days.
+So the answer must be Delphine Gibson
+
+## question
+The Delhi Sultanate (Persian: دهلی سلطان, Urdu: دہلی سلیٹیٹ) was a Muslim sultanate based mostly in Delhi that stretched over large parts of the Indian subcontinent for 320 years (1206 -- 1526). Five dynasties ruled over the Delhi Sultanate sequentially: the Mamluk dynasty (1206 -- 90), the Khalji dynasty (1290 -- 1320), the Tughlaq dynasty (1320 -- 1414), the Sayyid dynasty (1414 -- 51), and the Lodi dynasty (1451 -- 1526). The sultanate is noted for being one of the few states to repel an attack by the Mongol Empire, and enthroned one of the few female rulers in Islamic history, Razia Sultana, who reigned from 1236 to 1240.
+
+Answer this question: when did the reign of delhi sultanate came to an end?
+## answer
+The relevant information is: The Delhi Sultanate (Persian: دهلی سلطان, Urdu: دہلی سلیٹیٹ) was a Muslim sultanate based mostly in Delhi that stretched over large parts of the Indian subcontinent for 320 years (1206 -- 1526).
+So the answer must be 1526
+
+## question
+Context: The aphorism is found in the Second Epistle of Paul the Apostle (with Silvanus and Timothy) to the Thessalonians, in which Paul writes:
+
+Question: where in the bible does it say he who does not work does not eat?
+## answer
+The relevant information to answer the above question is: The aphorism is found in the Second Epistle of Paul the Apostle (with Silvanus and Timothy) to the Thessalonians, in which Paul writes:
+So the answer must be the Second Epistle of Paul the Apostle ( with Silvanus and Timothy ) to the Thessalonians
+
+## question
+The design of the Eiffel Tower was the product of Maurice Koechlin and Émile Nouguier, two senior engineers working for the Compagnie des Établissements Eiffel, after discussion about a suitable centrepiece for the proposed 1889 Exposition Universelle, a world's fair to celebrate the centennial of the French Revolution. Eiffel openly acknowledged that inspiration for a tower came from the Latting Observatory built in New York City in 1853. In May 1884, working at home, Koechlin made a sketch of their idea, described by him as "a great pylon, consisting of four lattice girders standing apart at the base and coming together at the top, joined together by metal trusses at regular intervals". Eiffel initially showed little enthusiasm, but he did approve further study, and the two engineers then asked Stephen Sauvestre, the head of company's architectural department, to contribute to the design. Sauvestre added decorative arches to the base of the tower, a glass pavilion to the first level, and other embellishments.
+
+What was the reason for the eiffel tower?
+## answer

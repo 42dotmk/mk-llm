@@ -1,0 +1,25 @@
+His $20 bills amount to 4 x $20 = $80. So the total amount of the $10 and $20 bills is $80 + $50 = $130. Hence, the remaining $5 bills amount to $150 - $130 = $20. This means that there are $20 / $5 = 4 $5 bills. There are also $50 / $10 = 5 $10 bills. Therefore, Samuel has 4 + 4 + 5 = 13 bills in his wallet.
+The answer: 13
+Reverse engineering the question: Samuel has $5, $10, and $20 bills which amount to $150 in his wallet. His $10-bills amount to $50, and he has 4 $20-bills. How many bills does Samuel have in his wallet?
+
+Reasoning and answer: He uses 1 packet per cup of coffee and he has 2 cups a day so that's 1 * 2 = 2 packets. He wants enough to last him 90 days and he uses 2 packets a day so that's 90 * 2 = 180 packets. The packets come 30 to a box and he needs 180 packets so that's 180 / 30 = 6 boxes of sugar substitute. Each box costs $4.00 and he needs 6 boxes so that's 4 * 6 = $24.00.
+The answer: 24
+What was the question?
+Question: Christopher uses 1 packet of a sugar substitute in his coffee. He has 2 coffees a day. The packets come 30 to a box and cost $4.00 a box. How much will it cost him to have enough sugar substitutes to last him 90 days?
+
+Since there are 1000 ml in 1 liter, then 2 liters is equal to 1000 x 2 = 2000 ml. Thus, Jasmine can pour 2000 / 200 = 10 portions of 200 ml milk.
+The answer: 10
+Reverse engineering the question: How many portions of 200 ml milk can Jasmine pour from a full 2-liter container of milk?
+
+Reasoning and answer: First, we find the number of hours per weekday by subtracting the smaller number time from the larger one, finding 10 - 4 = 6 hours per weekday. As there are 5 weekdays, this means the business is open 6 * 5 = 30 hours a week on the weekdays. Then we find out the amount of time the business is open on a weekend day, using the same process as we did with the weekdays, finding Jean's business is open 10 - 6 = 4 hours each weekend day. Since there are two weekend days, this means they are open 4 * 2 = 8 hours on the weekends. We add these two totals together to find that 30 + 8 = 38 hours per week.
+The answer: 38
+What was the question?
+Question: If the normal hours of operation of Jean's business are 4 pm to 10p every day Monday through Friday, and from 6 pm to 10 pm on weekends, how many hours is the business open in a week?
+
+At the end of the first quarter, the winning team had double the points of the losing team, meaning the winning team had already scored 10 * 2 = 20 points. At the end of the second quarter, the winning team had 10 more points than it started with, a total of 20 + 10 = 30 points. At the end of the third quarter, the winning team had 20 more points than the number it had in the second quarter, a total of 20 + 30 = 50 points. If the total points the winning team scored in the game was 80, they scored 80 - 50 = 30 points in the fourth quarter.
+The answer: 30
+Reverse engineering the question: At the end of the first quarter, the winning team had double the points of the losing team. At the end of the second quarter, the winning team had 10 more points than it started with. At the end of the third quarter, the winning team had 20 more points than the number it had in the second quarter. If the total points the winning team scored in the game was 80, and the losing team had 10 points in the first quarter, calculate the total number of points the team scored in the fourth quarter.
+
+On Tuesday Buddy has 30 / 2 = 15 baseball cards. On Wednesday Buddy has 15 + 12 = 27 baseball cards. On Thursday Buddy buys 15 / 3 = 5 baseball cards. On Thursday Buddy has a total of 27 + 5 = 32 baseball cards.
+The answer: 32
+Reverse engineering the question:

@@ -1,0 +1,34 @@
+Problem:Mark-Paul Harry Gosselaar (/ ˈɡɒslər /; born March 1, 1974) is an American actor. He is known for his television roles as Zack Morris in Saved by the Bell, Detective John Clark in NYPD Blue, and Peter Bash in Franklin & Bash.
+
+Based on this passage, who played zack morris saved by the bell?
+Solution:OK... The relevant sentence in the passage is: He is known for his television roles as Zack Morris in Saved by the Bell, Detective John Clark in NYPD Blue, and Peter Bash in Franklin & Bash.
+Mark - Paul Harry Gosselaar.
+
+Student A:The South African government implemented an education system called Christian National Education (CNE). The basis of this system is that a person's social responsibilities and political opportunities are defined by that person's ethnic identity.
+
+Which principle formed the foundation of christian national education?
+Student B:OK... The relevant sentence in the passage is: The basis of this system is that a person's social responsibilities and political opportunities are defined by that person's ethnic identity.
+a person 's social responsibilities and political opportunities are defined by that person 's ethnic identity.
+
+Problem:Context: "The Wind Cries Mary" is a rock ballad written by Jimi Hendrix. According to his then girlfriend, Kathy Etchingham's, account, he wrote the lyrics after an argument with her, using "Mary" (Etchingham's middle name). In a later interview, Hendrix commented that the lyrics represent "more than one person".
+
+Question: who wrote the song the wind cries mary?
+Solution:OK... To answer the question, consider the following: "The Wind Cries Mary" is a rock ballad written by Jimi Hendrix.
+Jimi Hendrix.
+
+Student A:Context: Earth's orbit is the trajectory along which Earth travels around the Sun. The average distance between the Earth and the Sun is 149.60 million km (92.96 million mi), and one complete orbit takes 365.256 days (1 sidereal year), during which time Earth has traveled 940 million km (584 million mi). Earth's orbit has an eccentricity of 0.0167.
+
+Question: distance of earth orbit around the sun in miles?
+Student B:OK... To answer this question, we should know that: The average distance between the Earth and the Sun is 149.60 million km (92.96 million mi), and one complete orbit takes 365.256 days (1 sidereal year), during which time Earth has traveled 940 million km (584 million mi).
+584 million.
+
+Problem:Passage: Set in 1937 rural Mississippi during the Great Depression, the film's story is a modern satire loosely based on Homer's epic poem, Odyssey. The title of the film is a reference to the 1941 film Sullivan's Travels, in which the protagonist (a director) wants to film O Brother, Where Art Thou?, a fictional book about the Great Depression.
+
+Question: Based on this passage, where is o brother where art thou set?
+Solution:OK... This is the relevant information: Set in 1937 rural Mississippi during the Great Depression, the film's story is a modern satire loosely based on Homer's epic poem, Odyssey.
+rural Mississippi.
+
+Problem:Passage: Russian cosmonaut Gennady Padalka, who has spent 878 days in space over five missions, became the record holder for the most time spent in space when he surpassed, on 28 June 2015, the record of cosmonaut Sergei Krikalev, who spent 803 days, 9 hours and 39 minutes (about 2.2 years) in space over the span of six spaceflights on Soyuz, the Space Shuttle, Mir, and the International Space Station. Yuri Malenchenko is currently in second place, having spent 828 days in space on six spaceflights.
+
+Question: Based on this passage, who has spent the most time in space?
+Solution:

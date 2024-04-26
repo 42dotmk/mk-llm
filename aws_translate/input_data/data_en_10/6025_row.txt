@@ -1,0 +1,34 @@
+Problem:The most recent recorded volcanic eruption was between 1820 and 1854, but many eyewitnesses reported eruptive activity in 1858, 1870, 1879, 1882 and 1894 as well.
+
+Based on this passage, when is the last time mount rainier erupted?
+Solution:OK... The relevant sentence in the passage is: The most recent recorded volcanic eruption was between 1820 and 1854, but many eyewitnesses reported eruptive activity in 1858, 1870, 1879, 1882 and 1894 as well.
+between 1820 and 1854.
+
+Student A:Context: Couples Retreat is a 2009 American romantic comedy film directed by Peter Billingsley marking his directorial debut, and written by Jon Favreau, Vince Vaughn, Dana Fox, Curtis Hanson, and Greg Beeman. Vaughn and Favreau star with Jason Bateman, Faizon Love, Kristin Davis, Malin Åkerman, Kristen Bell, and Jean Reno. It was released on October 9, 2009, in the United States. The film was shot mostly on the French Polynesian island of Bora Bora.
+
+Question: couples retreat what island was it filmed at?
+Student B:OK... To answer this question, we should know that: The film was shot mostly on the French Polynesian island of Bora Bora.
+the French Polynesian island of Bora Bora.
+
+Problem:In January 2017, the series was renewed for an eighth and final season to debut in 2018.
+
+Answer this question: when does the next season of portlandia start?
+Solution:OK... To answer the above question, the relevant sentence is: In January 2017, the series was renewed for an eighth and final season to debut in 2018.
+2018.
+
+Student A:"Can You Feel the Love Tonight" is a song from Disney's 1994 animated film The Lion King composed by Elton John with lyrics by Tim Rice. It was described by Don Hahn (the film's producer), Roger Allers and Rob Minkoff (the film's directors) as having "the most diverse history" in the film. It was a chart hit in the UK, peaking at # 14 on the UK Singles Chart, and achieved even more success in the U.S., reaching a peak of # 4 on the Billboard Hot 100. The song was a number-one hit in France, and it sold 11 million copies worldwide.
+
+Answer this question based on the passage: who composed can you feel the love tonight?
+Student B:OK... To answer the above question, the relevant sentence is: "Can You Feel the Love Tonight" is a song from Disney's 1994 animated film The Lion King composed by Elton John with lyrics by Tim Rice.
+Elton John.
+
+Problem:Laura Jane Haddock (born 21 August 1985) is an English actress. She is best known for portraying Kacie Carter in Honest, Lucrezia in Da Vinci's Demons, Meredith Quill in Guardians of the Galaxy and its sequel Guardians of the Galaxy Vol. 2, Alison in The Inbetweeners Movie and Viviane Wembly in Transformers: The Last Knight.
+
+Answer this question: who played meredith quill in guardians of the galaxy 2?
+Solution:OK... This is the relevant information: She is best known for portraying Kacie Carter in Honest, Lucrezia in Da Vinci's Demons, Meredith Quill in Guardians of the Galaxy and its sequel Guardians of the Galaxy Vol. 2, Alison in The Inbetweeners Movie and Viviane Wembly in Transformers: The Last Knight.
+Laura Jane Haddock.
+
+Problem:Context: The series, originally planned to be filmed in Colorado, is filmed south of Vancouver, British Columbia, on a farm surrounded by vineyards. The fictional frontier town of Coal Valley was erected in late 2013. Some of the set trimmings and a stage coach came from the Hell on Wheels set. The Thatcher home is the University Women's Club of Vancouver.
+
+Question: where is the hallmark show when calls the heart filmed?
+Solution:

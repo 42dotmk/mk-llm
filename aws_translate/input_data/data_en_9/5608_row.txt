@@ -1,0 +1,29 @@
+## question
+Context: The coat of arms of Nigeria consists of a black shield with a wavy white pall, symbolizing the meeting of the Niger and Benue Rivers at Lokoja. The black shield represents Nigeria's fertile soil, while the two supporting horses or chargers on each side represent dignity. The eagle represents strength, while the green and white bands on the top of the shield represent the rich soil.
+
+Question: two horses on the nigerian coat of arm represent?
+## answer
+To answer this question, we should know that: The black shield represents Nigeria's fertile soil, while the two supporting horses or chargers on each side represent dignity.
+So the answer must be dignity
+
+## question
+A prelude of the killing of one of the Garde children -- No. 3 -- by Mogadorians. This story is about a 15-year-old boy named John Smith. He has been on the run from the age of 4, and he is from a planet called Lorien.
+
+Based on this passage, what is the main character's name in i am number four?
+## answer
+The relevant sentence in the passage is: This story is about a 15-year-old boy named John Smith.
+So the answer must be John Smith
+
+## question
+Although the story is set in the Appalachians in West Virginia and Kentucky, the miniseries was shot in Romania, just outside Brașov with the Carpathians standing in for the Appalachians.
+
+Where was the hatfields and mccoys mini series filmed?
+## answer
+The relevant sentence in the passage is: Although the story is set in the Appalachians in West Virginia and Kentucky, the miniseries was shot in Romania, just outside Brașov with the Carpathians standing in for the Appalachians.
+So the answer must be Romania , just outside Brașov with the Carpathians standing in for the Appalachians
+
+## question
+Context: Stefan Kapičić voices Colossus, an X-Man with the mutant ability to transform his entire body into organic steel. Kapičić described Colossus as one of the most important characters in the film, requiring a more intense process for Kapičić during recording for the character. He explained that Colossus would continue to try make Deadpool a better person and potential X-Man after doing so in the first film. Unlike the first film, Kapičić also provided performance capture for the character's face on the sequel, while Andre Tricoteux returned to stand-in for the character on set. Leslie Uggams and Karan Soni also return from the first film as Deadpool's elderly roommate Blind Al and the taxi driver Dopinder, respectively. Additionally, Eddie Marsan plays the headmaster of the Essex Home for Mutant Rehabilitation, an orphanage; Robert Maillet briefly appears as Sluggo, an inmate of the Ice Box who originally had a more prominent antagonistic role alongside Black Tom before both roles were reduced due to the number of villains in the film; Hayley Sales and Islie Hirvonen respectively appear as Cable's wife and Hope, their daughter, during a flashforward; and Shioli Kutsuna portrays Yukio, Negasonic Teenage Warhead's girlfriend and fellow X-Man. A version of Yukio previously appeared in the 2013 film The Wolverine, portrayed by Rila Fukushima. The film's version of the X-Force team also includes Terry Crews as Bedlam, Lewis Tan as Shatterstar, Bill Skarsgård as Zeitgeist, Rob Delaney as Peter, and Brad Pitt as Vanisher. Pitt was considered for the role of Cable before scheduling issues prevented him from taking it; he filmed his Vanisher cameo in two hours during post-production.
+
+Question: who plays the asian girl in deadpool 2?
+## answer

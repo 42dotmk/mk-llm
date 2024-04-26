@@ -1,0 +1,29 @@
+## question
+Context: The score was composed by Joel McNeely. The soundtrack was released by Back Lot Music on May 27, 2014. The theme song "A Million Ways to Die" is performed by Alan Jackson. It was released as a single on April 29, 2014. A portion of the Back to the Future theme by Alan Silvestri is used during Christopher Lloyd's cameo.
+
+Question: who sings a million ways to die in the west?
+## answer
+To answer this question, we should know that: The soundtrack was released by Back Lot Music on May 27, 2014. The theme song "A Million Ways to Die" is performed by Alan Jackson.
+So the answer must be Alan Jackson
+
+## question
+Politics of Fiji take place within the framework of a parliamentary representative democratic republic. Fiji has a multiparty system with the Prime Minister of Fiji as head of government. The executive power is exercised by the government. Legislative power is vested in both the government and the Parliament of Fiji. The judiciary is independent of the executive and the legislature.
+
+Answer this question: what kind of government does fiji islands have?
+## answer
+The important part for answering this question is: Politics of Fiji take place within the framework of a parliamentary representative democratic republic.
+So the answer must be a parliamentary representative democratic republic
+
+## question
+Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the eighteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and stars Chadwick Boseman as T'Challa / Black Panther, alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker, and Andy Serkis. In Black Panther, T'Challa is crowned king of Wakanda following his father's death, but his sovereignty is challenged by an adversary who plans to abandon the country's isolationist policies and begin a global revolution.
+
+Answer this question: who played the black panther in the movie?
+## answer
+This is the relevant information: The film is directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and stars Chadwick Boseman as T'Challa / Black Panther, alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker, and Andy Serkis.
+So the answer must be Chadwick Boseman
+
+## question
+Filming took place from February to July 2017 in the United Kingdom and Hawaii. Produced and distributed by Universal Pictures, Fallen Kingdom premiered in Madrid on May 21, 2018, and was released internationally in early June 2018 and in the United States on June 22, 2018. The film has grossed over $1.2 billion worldwide, making it the third Jurassic film to pass the mark, the third highest-grossing film of 2018 and the 13th highest-grossing film of all time. It received mixed reviews from critics, who praised Pratt's performance, Bayona's direction, the visuals, and the "surprisingly dark moments", although many criticized the screenplay and lack of innovation, with some suggesting the series has run its course. An untitled sequel is set to be released on June 11, 2021, with Trevorrow returning to direct.
+
+When does jurassic world falling kingdom come out?
+## answer

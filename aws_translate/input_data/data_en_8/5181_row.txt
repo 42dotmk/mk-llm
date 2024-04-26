@@ -1,0 +1,36 @@
+Ans: Raja Todar Mal
+Ques: The temple has been mentioned in the Puranas including the Kashi Khanda (section) of Skanda Purana. The original Vishwanath temple was destroyed by the army of Qutb-ud-din Aibak in 1194 CE, when he defeated the Raja of Kannauj as a commander of Mohammad Ghori. The temple was rebuilt by a Gujarati merchant during the reign of Delhi's Sultan Iltutmish (1211-1266 CE). It was demolished again during the rule of either Hussain Shah Sharqi (1447-1458) or Sikandar Lodhi (1489-1517). Raja Man Singh built the temple during Mughal emperor Akbar's rule, but orthodox Hindus boycotted it as he had let the Mughals marry within his family. Raja Todar Mal further re-built the temple with Akbar's funding at its original site in 1585.
+
+Answer this question based on the passage: who build kashi vishwanath temple in 16 century?
+CoT: To answer the above question, the relevant sentence is: Raja Todar Mal further re-built the temple with Akbar's funding at its original site in 1585.
+
+
+Ans: Sydney , Australia
+Ques: In early 2013, co-creator Jane Campion said that Top of the Lake comes to a distinct ending, and there would be no additional series. Despite this, it was announced in October 2014 that the series had been renewed for a second season. China Girl began shooting on location in Sydney, Australia in December 2015.
+
+Answer this question: where was top of the lake china girl filmed?
+CoT: The important part for answering this question is: China Girl began shooting on location in Sydney, Australia in December 2015.
+
+
+Answer: María Grever. Now, what could be the question and solution-maybe?
+Ques: "What a Diff'rence a Day Made", also recorded as "What a Diff'rence a Day Makes", is a popular song originally written in Spanish by María Grever, a Mexican songwriter, in 1934 with the title "Cuando vuelva a tu lado" ("When I Return to Your Side"). The song is also known in English as "What a Diff'rence a Day Makes", as popularized by Dinah Washington.
+
+Who sang what a difference a day makes first?
+CoT: The relevant information to answer the above question is: "What a Diff'rence a Day Made", also recorded as "What a Diff'rence a Day Makes", is a popular song originally written in Spanish by María Grever, a Mexican songwriter, in 1934 with the title "Cuando vuelva a tu lado" ("When I Return to Your Side").
+
+
+Ans: between 35 mmHg and 45 mmHg
+Ques: P CO -- Partial pressure of carbon dioxide at sea level (765 mmHg) in arterial blood is between 35 mmHg and 45 mmHg.
+
+Answer this question: the partial pressure of carbon dioxide in arterial blood is approximately?
+CoT: This is the relevant information: P CO -- Partial pressure of carbon dioxide at sea level (765 mmHg) in arterial blood is between 35 mmHg and 45 mmHg.
+
+
+Ans: the USTA Billie Jean King National Tennis Center in New York City
+Ques: The 2017 US Open was the 137th edition of tennis' US Open and the fourth and final Grand Slam event of the year. It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City. Experimental rules featured in qualifying for the main draw as well as in the junior, wheelchair and exhibition events.
+
+Based on this passage, where is the us tennis open being held this year?
+CoT: The relevant sentence in the passage is: It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City.
+
+
+Answer: Robbie Valentino. Now, what could be the question and solution-maybe?

@@ -1,0 +1,19 @@
+Q: Context: The 2017 College Football Playoff National Championship was a bowl game that was used to determine a national champion of college football in the NCAA Division I Football Bowl Subdivision for the 2016 season. The game was played at Raymond James Stadium in Tampa, Florida, on January 9, 2017. It was the culminating game of the 2016 -- 17 bowl season.
+
+Question: where was the college football national championship played last year?
+A: Raymond James Stadium in Tampa , Florida. How to explain the answer? To answer this question, we should know that: The game was played at Raymond James Stadium in Tampa, Florida, on January 9, 2017.
+
+Q: Since its founding in 1911, Omega Psi Phi's stated purpose has been to attract and build a strong and effective force of men dedicated to its Cardinal Principles of manhood, scholarship, perseverance, and uplift. Throughout the world, many notable members are recognized as leaders in the arts, academics, athletics, entertainment, business, civil rights, education, government, and science fields. A few notable members include Bill Cosby, Samuel M. Nabrit, Walter E. Massey, Benjamin Mays, Bayard Rustin, Langston Hughes, Count Basie, Roy Wilkins, Benjamin Hooks, Vernon Jordan, Dr. Robert Henry Lawrence, Jr., Malcolm Jenkins, Rev. Jesse Jackson, Rev. Dr. Mack King Carter, William H. Hastie (U.S. Virgin Islands) and L. Douglas Wilder, Representative James Clyburn, Earl Graves, Tom Joyner, Charles Bolden, Ronald McNair, General William "Kip" Ward, Michael Jordan, Shaquille O'Neal, Roger Kingdom, Terrence Trammell, Shammond Williams, Vince Carter, Steve Harvey, Rickey Smiley, Ray Lewis, Stephen A. Smith, and numerous presidents of colleges and universities. Over 250,000 men have been initiated into Omega Psi Phi throughout the United States, Bermuda, Bahamas, Virgin Islands, South Korea, Japan, Liberia, Germany, and Kuwait. On the 2013 Super Bowl champion Baltimore Ravens, six players and GM Ozzie Newsome are members.
+
+Answer this question based on the passage: what is the purpose of omega psi phi?
+A: to attract and build a strong and effective force of men dedicated to its Cardinal Principles of manhood , scholarship , perseverance , and uplift. How to explain the answer? To answer the above question, the relevant sentence is: Since its founding in 1911, Omega Psi Phi's stated purpose has been to attract and build a strong and effective force of men dedicated to its Cardinal Principles of manhood, scholarship, perseverance, and uplift.
+
+Q: Context: The aphorism is found in the Second Epistle of Paul the Apostle (with Silvanus and Timothy) to the Thessalonians, in which Paul writes:
+
+Question: where in the bible does it say he who does not work does not eat?
+A: the Second Epistle of Paul the Apostle ( with Silvanus and Timothy ) to the Thessalonians. How to explain the answer? The relevant information to answer the above question is: The aphorism is found in the Second Epistle of Paul the Apostle (with Silvanus and Timothy) to the Thessalonians, in which Paul writes:
+
+Q: Verne Jay Troyer (January 1, 1969 -- April 21, 2018) was an American actor, comedian, and stunt performer best known for playing Mini-Me in the Austin Powers film series. He was notable for having been only 2 ft 8 in (81 cm) tall, the result of cartilage -- hair hypoplasia; this made him one of the shortest men in the world.
+
+Answer this question: who played mini-me in the austin power movies?
+A:

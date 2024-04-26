@@ -1,0 +1,19 @@
+Question: Special districts (also known as special service districts, special district governments, limited purpose entities, or special-purpose districts in the United States) are independent, special-purpose governmental units that exist separately from local governments such as county, municipal, and township governments, with substantial administrative and fiscal independence. They are formed to perform a single function or a set of related functions. The term special district governments as defined by the U.S. Census Bureau excludes school districts. In 2007, the U.S. had more than 39,000 special district governments.
+
+Answer this question: local governments that provide a single service or a closely related set of services are?
+Answer: This is the relevant information: They are formed to perform a single function or a set of related functions. The answer is Special districts.
+
+Question: Despicable Me 3 premiered on June 14, 2017, at the Annecy International Animated Film Festival, and was released in the United States on June 30, 2017, by Universal Pictures. The film received mixed reviews from critics and has grossed $1 billion worldwide, making it the third-highest-grossing film of 2017, 6th-highest-grossing animated film of all time and 30th-highest-grossing overall; and also as well as being Illumination's second film to gross a billion, after the previous film Minions.
+
+Answer this question based on the passage: when does the dispicable me 3 come out?
+Answer: The relevant information is: Despicable Me 3 premiered on June 14, 2017, at the Annecy International Animated Film Festival, and was released in the United States on June 30, 2017, by Universal Pictures. The answer is on June 14 , 2017 , at the Annecy International Animated Film Festival , and was released in the United States on June 30 , 2017.
+
+Question: Cell nuclei contain most of the cell's genetic material, organized as multiple long linear DNA molecules in complex with a large variety of proteins, such as histones, to form chromosomes. The genes within these chromosomes are the cell's nuclear genome and are structured in such a way to promote cell function. The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression -- the nucleus is, therefore, the control center of the cell. The main structures making up the nucleus are the nuclear envelope, a double membrane that encloses the entire organelle and isolates its contents from the cellular cytoplasm, and the nuclear matrix (which includes the nuclear lamina), a network within the nucleus that adds mechanical support, much like the cytoskeleton, which supports the cell as a whole.
+
+Answer this question: why is the nuclues called the control center of the cell?
+Answer: The relevant information is: The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression -- the nucleus is, therefore, the control center of the cell. The answer is The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression.
+
+Question: Passage: Mono no aware (物 の 哀れ), literally "the pathos of things", and also translated as "an empathy toward things", or "a sensitivity to ephemera", is a Japanese term for the awareness of impermanence (無常, mujō), or transience of things, and both a transient gentle sadness (or wistfulness) at their passing as well as a longer, deeper gentle sadness about this state being the reality of life.
+
+Question: Based on this passage, what does mono no aware mean in japanese?
+Answer:

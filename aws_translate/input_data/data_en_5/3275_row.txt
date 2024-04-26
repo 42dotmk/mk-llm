@@ -1,0 +1,34 @@
+Problem:Canadian inventor Thomas Ahearn filed patent number no. 39916 in 1892 for an "Electric Oven," a device he probably employed in preparing a meal for an Ottawa hotel that year. Ahearn and Warren Y. Soper were owners of Ottawa's Chaudiere Electric Light and Power Company. The electric stove was showcased at the Chicago World's Fair in 1893, where an electrified model kitchen was shown. Unlike the gas stove, the electrical stove was slow to catch on, partly due to the unfamiliar technology, and the need for cities and towns to be electrified. By the 1930s, the technology had matured and the electrical stove slowly began to replace the gas stove, especially in household kitchens.
+
+Answer this question based on the passage: when did the first electric stove come out?
+Solution:OK... To answer the above question, the relevant sentence is: The electric stove was showcased at the Chicago World's Fair in 1893, where an electrified model kitchen was shown.
+1893.
+
+Student A:Mickey's is a malt liquor made by the Miller Brewing Company. It has an ABV % content of 5.6.
+
+Answer this question based on the passage: what percent alcohol is mickey's malt liquor?
+Student B:OK... This is the relevant information: It has an ABV % content of 5.6.
+ABV % content of 5.6.
+
+Problem:Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+
+Based on this passage, who's the lead singer of panic at the disco?
+Solution:OK... The relevant sentence in the passage is: Brendon Boyd Urie (born April 12, 1987) is an American singer, songwriter, and musician, best known as the lead vocalist of Panic! at the Disco, of which he is the only original member remaining.
+Brendon Boyd Urie.
+
+Student A:Context: This list contains the top 25 accounts with the most followers on the social photo-sharing platform Instagram. As of May 2018, the most followed user is Instagram's own account, with over 235 million followers. Selena Gomez is the most followed individual, with over 137 million followers. Ten accounts have exceeded 100 million followers on the site.
+
+Question: who is the most followed user in instagram?
+Student B:OK... To answer the question, consider the following: As of May 2018, the most followed user is Instagram's own account, with over 235 million followers.
+Instagram 's own account.
+
+Problem:"Blinded by the Light" is a song written and recorded by Bruce Springsteen, which first appeared on his 1973 debut album Greetings from Asbury Park, N.J. A cover by British rock band Manfred Mann's Earth Band reached number one on the Billboard Hot 100 in the United States in February 1977 and was also a top ten hit in the United Kingdom, New Zealand, and Canada.
+
+Answer this question based on the passage: who wrote blinded by the light by manfred mann?
+Solution:OK... This is the relevant information: "Blinded by the Light" is a song written and recorded by Bruce Springsteen, which first appeared on his 1973 debut album Greetings from Asbury Park, N.J.
+Bruce Springsteen.
+
+Problem:The Emoji Movie was released on Blu-ray and DVD on October 24, 2017, by Sony Pictures Home Entertainment.
+
+Answer this question: when will the emoji movie be released on dvd?
+Solution:

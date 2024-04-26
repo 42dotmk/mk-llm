@@ -1,0 +1,29 @@
+## question
+Passage: The fifth season of the American crime thriller television series The Blacklist premiered on NBC on September 27, 2017 with a timeslot change from Thursday at 10: 00 PM to Wednesday at 8: 00 PM. The season was produced by Davis Entertainment, Universal Television and Sony Pictures Television, and the executive producers are Jon Bokenkamp, John Davis, John Eisendrath, John Fox, and Joe Carnahan. The season will consist of 22 episodes and will contain the series' 100th episode. The show's fall finale aired on November 15, 2017, the series will return on January 3, 2018.
+
+Question: Based on this passage, when does season 5 of the blacklist come out?
+## answer
+This is the relevant information: The fifth season of the American crime thriller television series The Blacklist premiered on NBC on September 27, 2017 with a timeslot change from Thursday at 10: 00 PM to Wednesday at 8: 00 PM.
+So the answer must be September 27 , 2017
+
+## question
+Valrico is located in east-central Hillsborough County at 27 ° 56 ′ 27" N 82 ° 14 ′ 33" W ﻿ / ﻿ 27.94083 ° N 82.24250 ° W ﻿ / 27.94083;-82.24250 (27.940774,-82.242551). It is bordered to the west by Brandon, to the southwest by Bloomingdale, and to the south by FishHawk. Via State Road 60, it is 14 miles (23 km) east of Tampa and 26 miles (42 km) west of Bartow. It is 10 miles (16 km) southwest of Plant City.
+
+Answer this question: where is valrico florida located in the state of florida?
+## answer
+The important part for answering this question is: Valrico is located in east-central Hillsborough County at 27 ° 56 ′ 27" N 82 ° 14 ′ 33" W ﻿ / ﻿ 27.94083 ° N 82.24250 ° W ﻿ / 27.94083;-82.24250 (27.940774,-82.242551).
+So the answer must be east - central Hillsborough County
+
+## question
+Context: The 1916 New York Giants hold the record for the longest unbeaten streak in MLB history at 26, with a tie in-between the 14th and 15th win. The record for the longest winning streak by an American League team is held by the 2017 Cleveland Indians at 22. The Chicago Cubs franchise has won 21 games twice, once in 1880 when they were the Chicago White Stockings and once in 1935.
+
+Question: who has the most consecutive wins in major league baseball?
+## answer
+The relevant sentence in the passage is: The 1916 New York Giants hold the record for the longest unbeaten streak in MLB history at 26, with a tie in-between the 14th and 15th win.
+So the answer must be The 1916 New York Giants
+
+## question
+Israel (/ ˈɪzreɪəl /; Hebrew: יִשְׂרָאֵל ‎, Arabic: إِسْرَائِيل ‎ ‎), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל ‎, Arabic: دَوْلَة إِسْرَائِيل ‎ ‎), is a country in the Middle East, on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. The country contains geographically diverse features within its relatively small area. Israel's economy and technology center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although the state's sovereignty over East Jerusalem is not recognised internationally.
+
+Answer this question based on the passage: where is israel located on the world map?
+## answer

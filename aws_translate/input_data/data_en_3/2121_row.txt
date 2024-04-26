@@ -1,0 +1,27 @@
+Reasoning and answer: First find the size of the second bell: 50 pounds * 2 = 100 pounds. Then find the size of the third bell: 100 pounds * 4 = 400 pounds. Then add the amount of bronze used for each bell to find the total: 100 pounds + 400 pounds + 50 pounds = 550 pounds.
+The answer: 550
+What was the question?
+Question: Martin is casting three bells for the church's belfry. The first bell takes 50 pounds of bronze, the second bell is twice the size of the first bell, and the third bell is four times the size of the second bell. How much bronze does he need total?
+
+Bob runs .1 miles per minute because 6 / 60 = .1. Jim run at .15 miles per minute 9 / 60 = .15. We know that .1(Number of Minutes) + 1 = .15(Number of Minutes). Therefore 1 = .05(Number of minutes). Therefore (Number of minutes) = 20 because 1 / .05 = 20.
+The answer: 20
+Reverse engineering the question: Bob runs 6 miles per hour. His friend Jim runs at 9 miles per hour. If Bob has a 1 mile head-start, how many minutes will it take before Jim catches him?
+
+Reasoning and answer: There are 7 people on the bus after the first stop. There are 7 + 5 - 3 = 9 people on the bus after the second stop. There are 9 + 4 - 2 = 11 people on the bus after the third stop. 11 passengers are now on the bus.
+The answer: 11
+What was the question?
+Question: The bus started its route. At its first stop, 7 people got on. At the second stop, 3 people got off, and 5 people got on. At the third stop, 2 people got off, and 4 people got on. How many passengers are now on the bus?
+
+Olga has half as many blue fish as yellow ones, which means 12 * 0.5 = 6 blue fish. Green fish are twice as many as yellow ones, so in total there are 12 * 2 = 24 green fish. So all the fish sum up to 12 + 6 + 24 = 42.
+The answer: 42
+Reverse engineering the question: Olga has an aquarium with fish in 5 different colors. There are 12 yellow ones, half as many blue ones, and twice as many green ones as yellow ones. How many fish does Olga have in her aquarium?
+
+Reasoning and answer: The medium - sized hole leaks at a rate of one - half that of the largest hole, or 3 / 2 = 1.5 ounces per minute. The small - sized hole leaks at a rate of one - third that of the medium - sized hole, or 1.5 / 3 = 0.5 ounces per minute. Combined, the three holes leak at a rate of 3 + 1.5 + 0.5 = 5 ounces per minute. Since one hour is 60 minutes, two hours is 2 * 60 = 120 minutes. In total, over the two hours, the three holes will leak a combined 120 * 5 = 600 ounces of water.
+The answer: 600
+What was the question?
+Question: When it rains, the three holes in the garage roof leak water at different rates. The largest hole leaks at a rate of 3 ounces of water per minute. The medium-sized hole leaks water at one-half the rate of the largest hole. And the smallest hole leaks water at a rate of one-third the rate of the medium-sized hole. When it rains, what is the combined amount of water, in ounces, that leak from all three holes over a 2-hour time period?
+
+Reasoning and answer: There are 2 / 3 green crayons * 6 blue crayons = 4 green crayons. The pink crayons left in the box are 24 crayons total - 8 red - 6 blue - 4 green = 6 pink crayons.
+The answer: 6
+What was the question?
+Question:

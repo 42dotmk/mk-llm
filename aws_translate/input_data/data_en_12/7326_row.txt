@@ -1,0 +1,36 @@
+Ans: Montgomery
+Ques: Context: Maxwell Air Force Base (IATA: MXF, ICAO: KMXF, FAA LID: MXF), officially known as Maxwell-Gunter Air Force Base, is a United States Air Force (USAF) installation under the Air Education and Training Command (AETC). The installation is located in Montgomery, Alabama, US. Occupying the site of the first Wright Flying School, it was named in honor of Second Lieutenant William C. Maxwell, a native of Atmore, Alabama.
+
+Question: where is the air force base in alabama?
+CoT: To answer this question, we should know that: The installation is located in Montgomery, Alabama, US.
+
+
+Ans: 1976
+Ques: "Do n't Cry for Me Argentina" was written by Andrew Lloyd Webber and Tim Rice while they were developing Evita for Broadway in 1976. Both were extremely intrigued by the stories surrounding the life of Eva Perón while researching about her during the mid-1970s. Evita was initially produced as an album, before being adapted for the stage, following a formula that Lloyd Webber and Rice had employed during the production of Jesus Christ Superstar, their previous musical. The duo had written the songs for a female singer with good vocals.
+
+Answer this question based on the passage: when was the song don't cry for me argentina written?
+CoT: The relevant information is: "Do n't Cry for Me Argentina" was written by Andrew Lloyd Webber and Tim Rice while they were developing Evita for Broadway in 1976.
+
+
+Answer: Casey Allen Moss. Now, what could be the question and solution-maybe?
+Ques: Context: Casey Allen Moss (born November 16, 1993) is an American actor and singer. He is best known for playing the role of JJ Deveraux on the NBC soap opera Days of Our Lives.
+
+Question: who plays jj in days of our lives?
+CoT: The relevant sentence in the passage is: He is best known for playing the role of JJ Deveraux on the NBC soap opera Days of Our Lives.
+
+
+Ans: Barack Obama
+Ques: The 2009 Nobel Peace Prize was awarded to United States President Barack Obama for his "extraordinary efforts to strengthen international diplomacy and cooperation between peoples". The Norwegian Nobel Committee announced the award on October 9, 2009, citing Obama's promotion of nuclear nonproliferation and a "new climate" in international relations fostered by Obama, especially in reaching out to the Muslim world.
+
+Based on this passage, who won the nobel peace prize in 2009?
+CoT: To answer the question, consider the following: The 2009 Nobel Peace Prize was awarded to United States President Barack Obama for his "extraordinary efforts to strengthen international diplomacy and cooperation between peoples".
+
+
+Ans: in honour of George III , King of Great Britain , King of Ireland , and prince - elector of the Electorate of Brunswick - Lüneburg in what is now Germany
+Ques: After the American Revolution, about 10,000 loyalist refugees settled along the north shore of the Bay of Fundy, commemorated in the province's motto, Spem reduxit ("hope restored"). In 1784 New Brunswick was partitioned from Nova Scotia, and that year saw its first elected assembly. The colony was named New Brunswick in honour of George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-Lüneburg in what is now Germany. In 1785 Saint John became Canada's first incorporated city.
+
+Where did the name new brunswick come from?
+CoT: The relevant information to answer the above question is: The colony was named New Brunswick in honour of George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-Lüneburg in what is now Germany.
+
+
+Answer: approximately 1500 light years. Now, what could be the question and solution-maybe?

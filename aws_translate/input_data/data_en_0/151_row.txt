@@ -1,0 +1,19 @@
+Idea for the Q&A below: The relevant information is: However, the winner, Fayla Gibson of Washington D.C., did not watch the show and opted to accept a cash prize in lieu of being animated.
+Q: Passage: In the months following the broadcast of Part One, there was widespread debate among fans of the series as to who shot Mr. Burns. Fox offered a contest to tie in with the mystery where callers who dialed 1-800-COLLECT were eligible and they then guessed who the culprit was. It ran from August 13 to September 10 and was one of the first contests to tie together elements of television and the Internet. Fox launched a new website, www.Springfield.com, devoted to the mystery which got over 500,000 hits during the summer of 1995. The winner would be animated on an episode of the show. Due to contest regulations, a winner had to be selected out of a random sample of entries. The sample did not contain any correct answers, and so a winner (who had the wrong answer) was chosen at random. However, the winner, Fayla Gibson of Washington D.C., did not watch the show and opted to accept a cash prize in lieu of being animated.
+
+Question: Based on this passage, who won the who shot mr burns contest?
+A: Fayla Gibson
+
+Idea for the Q&A below: The relevant sentence in the passage is: "The New Colossus" is a sonnet that American poet Emma Lazarus (1849 -- 1887) wrote in 1883 to raise money for the construction of the pedestal of the Statue of Liberty.
+Q: "The New Colossus" is a sonnet that American poet Emma Lazarus (1849 -- 1887) wrote in 1883 to raise money for the construction of the pedestal of the Statue of Liberty. In 1903, the poem was engraved on a bronze plaque and mounted inside the pedestal's lower level.
+
+Based on this passage, when was the statue of liberty poem written?
+A: 1883
+
+Idea for the Q&A below: To answer the question, consider the following: Coffee production in India is dominated in the hill tracts of South Indian states, with Karnataka accounting for 71 %, followed by Kerala with 21 % and Tamil Nadu (5 % of overall production with 8,200 tonnes).
+Q: Context: Coffee production in India is dominated in the hill tracts of South Indian states, with Karnataka accounting for 71 %, followed by Kerala with 21 % and Tamil Nadu (5 % of overall production with 8,200 tonnes). Indian coffee is said to be the finest coffee grown in the shade rather than direct sunlight anywhere in the world. There are about 250,000 coffee growers in the country; 98 % of them are small growers. As of 2009, Indian coffee made up just 4.5 % of the global production. Almost 80 % of Indian coffee is exported; 70 % is bound for Germany, Russia, Spain, Belgium, Slovenia, United States, Japan, Greece, Netherlands and France. Italy accounts for 29 % of the exports. Most of the export is shipped through the Suez Canal.
+
+Question: which is the leading coffee producer state in india?
+A: Karnataka
+
+Idea for the Q&A below: The important part for answering this question is: In humans, implantation is the stage of pregnancy at which the already fertilized egg adheres to the wall of the uterus.

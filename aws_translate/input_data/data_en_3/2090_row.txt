@@ -1,0 +1,27 @@
+Reasoning and answer: At the store, 5 / 8 of shoppers prefer to avoid the check - out line, a total of 5 / 8 * 480 = 300. The total number of shoppers at the store is 480; those who prefer the check - out line is 480 - 300 = 180.
+The answer: 180
+What was the question?
+Question: 5/8 of shoppers at All Goods Available store prefer to avoid the check-out line on weekends and instead go through the express lane. If the number of shoppers in the store is 480, calculate the number of shoppers who pay at the check-out lane.
+
+Climbing the full ladder means Darry has climbed 11 steps * 10 times = 110 steps so far. On his smaller ladder, he has climbed 6 steps * 7 times = 42 steps. So he has climbed a step a total of 110 + 42 = 152 times today.
+The answer: 152
+Reverse engineering the question: Darry is a roofer and has to climb ladders multiple times a day. He climbs his full ladder, which has 11 steps, 10 times today. He also climbs his smaller ladder, which has 6 steps, 7 times today. He did not climb any steps otherwise. In total, how many times has Darry climbed a step today?
+
+Reasoning and answer: The show runs from 2:00 pm to 2:30 pm so that is 30 minutes. From Monday to Thursday, he watched a total of 30 * 4 = 120 minutes. In hours, this is equal to 120 / 60 = 2 hours.
+The answer: 2
+What was the question?
+Question: Max watches a show every day that airs from 2:00 pm to 2:30 pm and only airs during weekdays. If he watches every episode during the week but misses the Friday episode, how many hours of the show did he watch?
+
+Every 2 ounces of butter is enough to cover 1 cup of baking mix, so the chef's remaining 4 ounces of butter will be enough to cover 4 / 2 = 2 cups of baking mix. This leaves 6 - 2 = 4 cups of baking mix that will require the use of coconut oil as a substitute. Since each cup of baking mix requires 2 ounces of coconut oil, these 4 cups will require a total of 4 * 2 = 8 ounces of coconut oil.
+The answer: 8
+Reverse engineering the question: A pastry chef is making brownies but is running out of butter. The recipe he is following calls for 2 ounces of butter for every 1 cup of baking mix; however, it allows 2 ounces of coconut oil to be substituted for the 2 ounces of butter if necessary. The chef would like to use as much butter as possible before switching over and substituting coconut oil. If the chef had 4 ounces of butter remaining, and he plans on using 6 cups of baking mix, how many ounces of coconut oil will he end up using?
+
+Reasoning and answer: James is 37 - 15 = 22 years old. So 8 years ago he was 22 - 8 = 14 years old. That means Janet was 14 / 2 = 7 years old 8 years ago. So Janet is now 7 + 8 = 15 years old. That means Susan is 15 - 3 = 12 years old. So in 5 years she will be 12 + 5 = 17 years old.
+The answer: 17
+What was the question?
+Question: 8 years ago James was twice Janet's age. In 15 years James will turn 37. Susan was born when Janet turned 3. How old will Susan turn in 5 years?
+
+Reasoning and answer: His first drive was 30 * .5 = 15 miles. The next leg was .5 * 2 = 1 hour. The speed of the trip was 30 * 2 = 60 mph. So he drove 60 * 1 = 60 miles. So in total he drove 60 + 15 = 75 miles.
+The answer: 75
+What was the question?
+Question:

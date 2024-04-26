@@ -1,0 +1,22 @@
+Student A:Passage: The third series of the British reality dating programme Celebs Go Dating began airing from 4 September 2017 on E4 and finished on 29 September 2017. It was commissioned along with series 2 in late 2016. The show sees celebrities go on number of dates with members of the public to see if they can find love. The third series again stars Eden Blackman and Nadia Essex as the dating experts, and Tom Read Wilson as the agency's receptionist.
+
+Question: Based on this passage, when does celebs go dating series 3 start?
+Student B:OK... The important part for answering this question is: The third series of the British reality dating programme Celebs Go Dating began airing from 4 September 2017 on E4 and finished on 29 September 2017.
+4 September 2017.
+
+Student A:M * A * S * H is an American war comedy-drama television series that aired on CBS from 1972 to 1983. It was developed by Larry Gelbart, adapted from the 1970 feature film M * A * S * H, which, in turn, was based on Richard Hooker's 1968 novel MASH: A Novel About Three Army Doctors. The series, which was produced with 20th Century Fox Television for CBS, follows a team of doctors and support staff stationed at the "4077th Mobile Army Surgical Hospital" in Uijeongbu, South Korea, during the Korean War (1950 -- 53). The show's title sequence features an instrumental-only version of "Suicide Is Painless", the original film's theme song. The show was created after an attempt to film the original book's sequel, M * A * S * H Goes to Maine, failed. The television series is the best-known of the M * A * S * H works, and one of the highest-rated shows in US television history.
+
+Where was mash 4077 supposed to be in korea?
+Student B:OK... The relevant information to answer the above question is: The series, which was produced with 20th Century Fox Television for CBS, follows a team of doctors and support staff stationed at the "4077th Mobile Army Surgical Hospital" in Uijeongbu, South Korea, during the Korean War (1950 -- 53).
+Uijeongbu , South Korea.
+
+Student A:Verne Jay Troyer (January 1, 1969 -- April 21, 2018) was an American actor, comedian, and stunt performer best known for playing Mini-Me in the Austin Powers film series. He was notable for having been only 2 ft 8 in (81 cm) tall, the result of cartilage -- hair hypoplasia; this made him one of the shortest men in the world.
+
+Answer this question: who played mini-me in the austin power movies?
+Student B:OK... The relevant information is: Verne Jay Troyer (January 1, 1969 -- April 21, 2018) was an American actor, comedian, and stunt performer best known for playing Mini-Me in the Austin Powers film series.
+Verne Jay Troyer.
+
+Student A:The 2009 Nobel Peace Prize was awarded to United States President Barack Obama for his "extraordinary efforts to strengthen international diplomacy and cooperation between peoples". The Norwegian Nobel Committee announced the award on October 9, 2009, citing Obama's promotion of nuclear nonproliferation and a "new climate" in international relations fostered by Obama, especially in reaching out to the Muslim world.
+
+Based on this passage, who won the nobel peace prize in 2009?
+Student B:

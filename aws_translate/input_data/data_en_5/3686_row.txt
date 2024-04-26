@@ -1,0 +1,27 @@
+Reasoning and answer: Three puppies on sale cost $150 x 3 = $450. The other two puppies cost $800 - $450 = $350. So, each of those two other puppies cost $350 / 2 = $175.
+The answer: 175
+What was the question?
+Question: Arven bought five puppies for a total cost of $800. Three puppies are on sale for $150 each. How much does each of those two other puppies cost if they cost the same?
+
+The total time it took to hover over the Mountain and the central time is 3 + 4 = 7 hours. If it hovered further to the Eastern time zone, it took a total of 7 + 2 = 9 hours to cover the whole trip. The next day, it took 2 more hours to cover each of the places it passed through the previous day, taking a total of 2 * 3 = 6 hours. The total time it took on the second day to cover the distance it covered the previous day is 9 + 6 = 15 hours. In total, the train took 15 + 9 = 24 hours to hover over the places in the two days.
+The answer: 24
+Reverse engineering the question: An airplane took a trip along the Eastern Coast of the USA. During the trip, the plane hovered in Mountain time for 3 hours, Central time for 4 hrs, and Eastern time for 2 hrs. The next day it took 2 more hours to hover in each of the places it passed through the previous day. Calculate the total time it took the plane to hover over Mountain time, Central time, and Eastern time in the two days.
+
+Reasoning and answer: If Pete walks on hands at 1 / 4 what Tracy can do 1 - handed cartwheels, then Tracy can do 1 - handed cartwheels at 2 * 4 = 8 miles per hour. Since Tracy does 1 - handed cartwheels twice the rate of Susan's forward walking, then Susan walks at 8 / 2 = 4 miles per hour. Pete walks backwards 3x faster than Susan walks forward, and thus Pete walks backwards at 4 * 3 = 12 miles per hour.
+The answer: 12
+What was the question?
+Question: Pete walks backwards three times faster than Susan walks forwards, and Tracy does one-handed cartwheels twice as fast as Susan walks forwards. But Pete can walk on his hands only one quarter the speed that Tracy can do cartwheels. If Pete walks on his hands at 2 miles per hour, how fast can Pete walk backwards, in miles per hour?
+
+Last week = 111 texts. This week = (2 * 111) - 50 = 172 texts. 111 + 172 = 283 texts. Keiko sent 283 texts last week and this week combined.
+The answer: 283
+Reverse engineering the question: Keiko sent 111 text messages last week. This week she sent 50 less than double what she sent last week. How many text messages did Keiko send last week and this week combined?
+
+Reasoning and answer: There are 11 blue x 2 red / blue = 22 red balls. The total number of blue and red balls is 11 blue + 22 red = 33 balls. There are 40 balls - 33 balls = 7 green balls.
+The answer: 7
+What was the question?
+Question: Ryan has 40 balls. There are twice as many red balls as blue while the rest are green. If there are 11 blue balls, how many green balls are there?
+
+Reasoning and answer: She ordered 4 1 / 2 pound steaks so that's 4 * .5 = 2 pounds of steak. The steak cost $15.00 a pound and she bought 2 pounds so that's 15 * 2 = $30.00 for 4 steaks. She also needed 1.5 pounds of chicken breasts at $8.00 a pound so that's 1.5 * 8 = $12.00 for chicken. The steaks cost $30.00 and the chicken cost $12.00 for a total of 30 + 12 = $42.00 spent at the butchers.
+The answer: 42
+What was the question?
+Question:

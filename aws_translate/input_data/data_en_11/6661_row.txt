@@ -1,0 +1,25 @@
+If the number of candies was 300, and 40% percent were sour, then there were 40 / 100 * 300 = 120 sour candies. The number of good candies was 300 - 120 = 180. The number of people who received candy is Henley, 1 + 2 brothers = 3 people. if they divided the good candies equally, each person got 180 / 3 = 60 candies.
+The answer: 60
+Reverse engineering the question: Henley bought 300 candies and shared them with her two brothers. However, they realized 40% of them were sour, and they had to separate those out. If they then shared the good candies equally, how many candies did each get?
+
+Reasoning and answer: Betty paid 6 x $2.5 = $15 for the slippers. She paid 4 x $1.25 = $5 for the lipsticks. She paid 8 x $3 = $24 for the hair color. Therefore, Betty paid $15 + $5 + $24 = $44 in total.
+The answer: 44
+What was the question?
+Question: Betty ordered 18 items in an online shop via cash on delivery. She ordered 6 pieces of slippers that cost $2.5 each, 4 pieces of lipstick for $1.25 each, and 8 pieces of hair color for $3 each. How much did Betty pay in total when it was delivered?
+
+3 children rode the Ferris wheel at $5 reach for a total of 3 * $5 = $15. 5 children rode the merry - go - round at $3 each for a total of 5 * $3 = $15. 5 children bought 2 cones of ice cream each at $8 per cone for a total of 5 * 2 * $8 = $80. In total, they spent $15 + $15 + $80 = $110.
+The answer: 110
+Reverse engineering the question: A group of 5 children are taken to an amusement park. Only 3 of them were daring enough to get on the Ferris wheel which cost $5 per child. Everyone had a go at the merry-go-round (at $3 per child). On their way home, they bought 2 cones of ice cream each (each cone cost $8). How much did they spend altogether?
+
+Reasoning and answer: Each ml of ink costs 50 cents so 20 ml costs 20 * 50 = 1000 cents. There are 2 whiteboards in each class so each class needs 2 * 1000 cents = 2000 cents. There are five classes in the block so they all need 5 * 1 * 2000 cents = 10000 cents. 100 cents make a dollar so 10000 cents make 10000 / 100 = $100.
+The answer: 100
+What was the question?
+Question: In one of the building blocks at Oakland High there are 5 classes. Each class uses 2 whiteboards each and each whiteboard needs about 20ml of ink for a day's use. If ink costs 50 cents per ml, how much (in dollars) would it cost to use the boards for one day?
+
+Phill starts with 1 pizza, cutting it in half. This means he now has 1 * 2 = 2 slices of pizza. He cuts each of these 2 slices in half, meaning he now has 2 * 2 = 4 slices of pizza. He then cuts these in half again, meaning he now has 4 * 2 = 8 slices of pizza. Phill hands out 2 slices to 2 of his friends, meaning he gave out 2 * 2 = 4 slices. He hands out 1 slice to 3 others, so the total amount of slices handed out are 3 + 4 = 7 slices. Since Phill started with 8 slices, this means he has 8 - 7 = 1 slice remaining.
+The answer: 1
+Reverse engineering the question: Phill had some friends over for pizza. He opens the pizza box and discovers it hasn't been sliced. Phill cuts the pizza in half, and then cuts both halves in half, and then cuts each slice in half again. Phill then passes out 1 slice to 3 of his friends and 2 slices to 2 of his friends. How many slices of pizza are left for Phill?
+
+We start with the initial numbers of students, 40 and multiply that by .8 for 40 * 0.8 = 32 who own puppies. That the number of students with puppies, 32, and multiply that by .25 to find out how many own both puppies and parrots, 32 * 0.25 = 8 who own puppies and parrots. The answer is 8.
+The answer: 8
+Reverse engineering the question:

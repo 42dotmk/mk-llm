@@ -1,0 +1,25 @@
+First find how much milk Bill turned into sour cream and butter: 16 gallons * 1 / 4 = 4 gallons. Then find how many gallons of butter he makes out of 4 gallons of milk: 4 gallons milk / 4 gallons milk / 1 gallon butter = 1 gallon butter. Then find how many gallons of sour cream he makes out of 4 gallons of milk: 4 gallons milk / 2 gallons milk / 1 gallon sour cream = 2 gallon sour cream. Then subtract the amount of milk turned into butter and sour cream to find the remaining amount of whole milk: 16 gallons - 4 gallons - 4 gallons = 8 gallons. Then multiply the number of gallons of milk by the price of milk to find the total cost of the milk: 8 gallons * $3 / gallon = $24. Then multiply the number of gallons of sour cream by the price of sour cream to find the total cost of the sour cream: 2 gallons * $6 / gallon = $12. Then add the cost of the butter, sour cream and milk to find the total amount of money Bill earns: $24 + $12 + $5 = $41.
+The answer: 41
+Reverse engineering the question: Bill milked his cow and got 16 gallons of milk. He turned 1/4 into sour cream, 1/4 into butter, and kept the rest as whole milk. It takes 4 gallons of milk to make one gallon of butter and 2 gallons of milk to make 1 gallon of sour cream. If Bill sells butter for $5/gallon, sour cream for $6/gallon, and whole milk for $3/gallon, how much money does he make?
+
+Reasoning and answer: Margo is 6 - 5 = 1 year old now. So, Margo will be 1 + 3 = 4 years old in three years.
+The answer: 4
+What was the question?
+Question: Benjie is five years older than Margo. If Benjie is 6 years old, how old will Margo be in three years?
+
+There are 26 - 10 = 16 miles left for the rest of the race. He runs 10 * .8 = 8 miles per hour. So it takes him 16 / 8 = 2 hours. So in total it takes 1 + 2 = 3 hours.
+The answer: 3
+Reverse engineering the question: A marathon is 26 miles. He can run the first 10 miles in 1 hour. For the remaining miles he runs at 80% that pace. How long does the race take?
+
+Reasoning and answer: Each month, he saves $5000 - $4600 = $400. And 12 * $400 = $4800.
+The answer: 4800
+What was the question?
+Question: Each month, Diego deposits his $5,000 paycheck into a bank account, which he then uses for all of his expenses, which amount to $4,600 per month. How much, in dollars, does Diego save over the course of a year?
+
+He needs to walk 63,000 steps in a week because 7 x 9,000 = 63,000. He has 18,100 steps to walk on Friday and Saturday because 63,000 - 9,400 - 9,100 - 8,300 - 9,200 - 8,900 = 18,100. He needs to walk an average of 9,050 on Friday and Saturday because 18,100 / 2 = 9,050.
+The answer: 9050
+Reverse engineering the question: Toby wants to walk an average of 9,000 steps per day over the next week. On Sunday he walked 9,400 steps. On Monday he walked 9,100 steps. On Tuesday he walked 8,300 steps. On Wednesday he walked 9,200 steps. On Thursday he walked 8,900 steps. How many steps does he need to average on Friday and Saturday to meet his goal?
+
+The height of the sunflowers from Packet A is the same as the height of the sunflowers from Packet B + 20%. If Y represents the height of the sunflowers from Packet B, Y + 0.20Y = the height of sunflowers from Packet A. We know the height of the sunflowers from Packet A is 192 inches = Y + 0.20Y or 1.2Y. To figure out Y, we would divide both sides of the equation by 1.2, like this: 192 / 1.2 = 1.2Y / 1.2 or 160 = Y.
+The answer: 160
+Reverse engineering the question:

@@ -1,0 +1,36 @@
+Ans: the Doha Golf Club in Doha , Qatar
+Ques: Passage: The Commercial Bank Qatar Masters is a golf tournament held at the Doha Golf Club in Doha, Qatar. The tournament was established in 1998, and is one of five European Tour golf tournaments which are staged in the countries of the Persian Gulf, the others being the Abu Dhabi HSBC Golf Championship, the Omega Dubai Desert Classic, the Oman Open, and the DP World Tour Championship, Dubai. From 2005 to 2007 the tournament was co-sanctioned by the Asian Tour.
+
+Question: Based on this passage, where is the qatar masters golf tournament played?
+CoT: The important part for answering this question is: The Commercial Bank Qatar Masters is a golf tournament held at the Doha Golf Club in Doha, Qatar.
+
+
+Answer: Daniel Peter Masterson. Now, what could be the question and solution-maybe?
+Ques: Daniel Peter Masterson (born March 13, 1976) is an American actor and disc jockey. Masterson is known for his roles as Steven Hyde in That' 70s Show (1998 -- 2006) and as Jameson "Rooster" Bennett in The Ranch (2016 -- 2018).
+
+Answer this question: who played hyde on the 70's show?
+CoT: The important part for answering this question is: Masterson is known for his roles as Steven Hyde in That' 70s Show (1998 -- 2006) and as Jameson "Rooster" Bennett in The Ranch (2016 -- 2018).
+
+
+Ans: a children or young adult adventure novel
+Ques: My Side of the Mountain is a children or young adult adventure novel written and illustrated by American writer Jean Craighead George published by E.P. Dutton in 1959. It features a boy who learns about courage, independence, and the need for companionship while attempting to live in a forested area of New York state. In 1960, it was one of three Newbery Medal Honor Books (runners-up) and in 1969 it was loosely adapted as a film of the same name. George continued the story in print, decades later.
+
+Answer this question: what genre is my side of the mountain?
+CoT: The important part for answering this question is: My Side of the Mountain is a children or young adult adventure novel written and illustrated by American writer Jean Craighead George published by E.P.
+
+
+Ans: 1911
+Ques: NI was first introduced by the National Insurance Act 1911 and expanded by the Labour government in 1948. The system was subjected to numerous amendments in succeeding years.
+
+Based on this passage, when was national insurance introduced in the uk?
+CoT: To answer the question, consider the following: NI was first introduced by the National Insurance Act 1911 and expanded by the Labour government in 1948.
+
+
+Answer: Minnesota. Now, what could be the question and solution-maybe?
+Ques: Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota. As of 2017, the city's estimated population was 309,180. Saint Paul is the county seat of Ramsey County, the smallest and most densely populated county in Minnesota. The city lies mostly on the east bank of the Mississippi River in the area surrounding its point of confluence with the Minnesota River, and adjoins Minneapolis, the state's largest city. Known as the "Twin Cities", the two form the core of Minneapolis -- Saint Paul, the 16th-largest metropolitan area in the United States, with about 3.6 million residents.
+
+Answer this question: st paul is the capital of which usa state?
+CoT: To answer the above question, the relevant sentence is: Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota.
+
+
+Ans: 28 November 1983
