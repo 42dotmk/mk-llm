@@ -11,6 +11,7 @@ def fix_translation(original_text=ENGLISH_TEXT, translated_text=INITIAL_TRANSLAT
     gramatical_errors_fixed = True
     max_iterations = 4
     iteration = 0  # STOP the same sentences from being fixed
+
     while not (illogical_sentences_fixed and gramatical_errors_fixed) and iteration < max_iterations:
         nonexistent_words_result = find_nonexistent_words(original_text=original_text, translated_text=translated_text)
         for word in nonexistent_words_result:
